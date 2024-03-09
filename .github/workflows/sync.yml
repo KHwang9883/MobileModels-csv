@@ -1,0 +1,51 @@
+name: Sync
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron:  '0 12 * * *'
+
+jobs:
+   Task:
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
+    steps:
+    - name: Checkout repository and submodules
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Git Submodule Update
+      run: |
+        git pull --recurse-submodules
+        git submodule update --remote --recursive
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install requirements
+      run: |
+        pip install -r requirements.txt
+    - name: Update MobileModels
+      run: |
+        cd MobileModels
+        ls
+        git log
+        echo "LATEST_COMMIT=$(git log -1 --format="%H")" >> $GITHUB_ENV
+        cd ..
+    - name: Run
+      run: |
+        echo `date +"%Y-%m-%d %H:%M:%S"` begin
+        python gen_csv.py
+        git status
+#        git diff
+    - name: Commit # 提交更新, fork后请自行修改user信息
+      run: |
+        git config --global user.email huangyf9883@gmail.com
+        git config --global user.name Kevin Huang
+        git add .
+        git diff-index --quiet HEAD || git commit -m "Sync with MobileModels $LATEST_COMMIT" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }} # fork后自行配置GITHUB_TOKEN
