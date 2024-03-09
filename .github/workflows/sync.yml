@@ -1,5 +1,6 @@
 name: Sync
 on:
+  workflow_dispatch: # To allow manual runs
   watch:
     types: [started]
   schedule:
