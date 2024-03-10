@@ -7102,27 +7102,30 @@ HRY-AL00Ta,mob,honor,HONOR,,Harrypro,HONOR 20i,#
 HRY-LX1T,mob,honor,HONOR,,Harrypro,HONOR 20e,#
 OXF-N29,mob,honor,HONOR,,Oxford,HONOR View30 PRO,#5G
 OXF-AN10,mob,honor,HONOR,,Oxford,HONOR View30 PRO,#5G
-NTH-NX9,mob,honor,HONOR,,Nottingham,HONOR 50,#5G
-NTN-LX1,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
-NTN-L22,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
-NTN-LX3,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#5G
-FNE-NX9,mob,honor,HONOR,,,HONOR 70,#5G
-RBN-NX1,mob,honor,HONOR,,,HONOR 70 Lite,#5G
-REA-NX9,mob,honor,HONOR,,,HONOR 90,#5G
-CRT-NX1,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#5G
-CRT-NX3,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#5G
-LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#5G
+NTH-NX9,mob,honor,HONOR,,Nottingham,HONOR 50,#
+NTN-LX1,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#
+NTN-L22,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#
+NTN-LX3,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#
+FNE-NX9,mob,honor,HONOR,,,HONOR 70,#
+RBN-NX1,mob,honor,HONOR,,,HONOR 70 Lite,#
+REA-NX9,mob,honor,HONOR,,,HONOR 90,#
+CRT-NX1,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
+CRT-NX3,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
+CLK-NX1,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
+CLK-NX3,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
+LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
+ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
+ANY-LX3,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-NX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#5G
 FRI-NX9,mob,honor,HONOR,,Ferrari,HONOR Magic Vs,#
-PGT-N09,mob,honor,HONOR,,Piaget,HONOR Magic5,#5G
-PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#5G
+PGT-N09,mob,honor,HONOR,,Piaget,HONOR Magic5,#
+PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
 RMO-NX3,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
 VER-N49,mob,honor,HONOR,,,HONOR Magic V2,#
 VER-N49DP,mob,honor,HONOR,,,PORSCHE DESIGN HONOR Magic V2 RSR,#
-BVL-N09,mob,honor,HONOR,,Bvlgari,HONOR Magic6,#5G
-BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,#5G
+BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,#
 BVL-N59,mob,honor,HONOR,,,PORSCHE DESIGN HONOR Magic6 RSR,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
@@ -7146,9 +7149,12 @@ CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,#
 RKY-LX1,mob,honor,HONOR,,Rocky,HONOR X7a,#
 RKY-LX2,mob,honor,HONOR,,Rocky,HONOR X7a,#
 RKY-LX3,mob,honor,HONOR,,Rocky,HONOR X7a,#
+RKY-LX1,mob,honor,HONOR,,Rocky,HONOR X7a,#Plus
 CLK-LX1,mob,honor,HONOR,,Clark,HONOR X7b,#
 CLK-LX2,mob,honor,HONOR,,Clark,HONOR X7b,#
 CLK-LX3,mob,honor,HONOR,,Clark,HONOR X7b,#
+CLK-NX1,mob,honor,HONOR,,Clark,HONOR X7b 5G,#
+CLK-NX2,mob,honor,HONOR,,Clark,HONOR X7b 5G,#
 TFY-LX1,mob,honor,HONOR,,Tiffany,HONOR X8,#
 TFY-LX2,mob,honor,HONOR,,Tiffany,HONOR X8,#
 TFY-LX3,mob,honor,HONOR,,Tiffany,HONOR X8,#
