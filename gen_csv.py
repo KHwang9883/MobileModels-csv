@@ -306,7 +306,7 @@ def sync_brands(name: str):
 
 
 if __name__ == '__main__':
-    fnames = os.listdir(source_dir)
+    fnames = sorted(os.listdir(source_dir))
     for name in fnames:
         # if name.endswith('_en.md'):
         #     continue
