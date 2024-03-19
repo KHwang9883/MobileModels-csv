@@ -1616,6 +1616,9 @@ HYLR-WFP9,computer,honor,荣耀,,HalleyLR,荣耀 MagicBook Pro 2020,#R7 (荣耀�
 HYM-W56,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16,#2021 R5
 HYM-W76,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16,#2021 R7
 HYM-W76,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16 Pro,#2021 R7
+DRA-56,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 5 (16GB 内存)
+DRA-54,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 5 (24GB 内存)
+DRA-72,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 7 (32GB 内存)
 HGE-W56,computer,honor,荣耀,,,荣耀 MagicBook V 14,#i5
 HGE-W76,computer,honor,荣耀,,,荣耀 MagicBook V 14,#i7
 HGF-W56,computer,honor,荣耀,,,荣耀 MagicBook V 14 2022,#i5
@@ -1630,7 +1633,10 @@ FRI-F561,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+1TB)
 FRI-G56,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+512GB)
 FRI-G561,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+1TB)
 FRI-H76,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#R7 (16GB+512GB)
-FRI-G56,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5
+FRI-G56,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5 (16GB+512GB)
+FRI-G561,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5 (16GB+1TB)
+FMI-76,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2024,#R7 (16GB+512GB)
+FMI-721,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2024,#R7 (32GB+1TB)
 BBR-WAI9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i3
 BBR-WAH9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i5
 BDR-WDH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (8GB+512GB)
@@ -1641,7 +1647,10 @@ BRN-F561,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+1TB)
 BRN-G56,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+512GB)
 BRN-G561,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+1TB)
 BRN-H76,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#R7 (16GB+512GB)
-BRN-G56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5
+BRN-G56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+512GB)
+BRN-G561,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+1TB)
+BRI-76,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (16GB+512GB)
+BRI-721,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (32GB+1TB)
 FRI-F56Z,computer,honor,荣耀,,,荣耀 MagicBook Z3 14 2023,#i5
 FRD-WDG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (8GB+512GB) (华为终端)
 FRD-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB) (华为终端)
@@ -1703,6 +1712,8 @@ ARG-B39,band,honor,荣耀,,,荣耀手环 6,#标准版 (荣耀终端)
 ARG-B59,band,honor,荣耀,,,荣耀手环 6,#NFC 版 (荣耀终端)
 FLA-B19,band,honor,荣耀,,,荣耀手环 7,#标准版
 FLA-B39,band,honor,荣耀,,,荣耀手环 7,#NFC 版
+RHE-B19,band,honor,荣耀,,,荣耀手环 9,#标准版
+RHE-B39,band,honor,荣耀,,,荣耀手环 9,#NFC 版
 CGN-A00,band,honor,荣耀,,,荣耀观影眼镜,#
 HUAWEI U8860,mob,honor,荣耀,,,华为荣耀手机,Honor 联通版
 HUAWEI C8860E,mob,honor,荣耀,,,华为荣耀手机,Honor 电信版
@@ -6485,7 +6496,6 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 全网通版
 23090RA98G,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 国际版
 23090RA98I,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 印度版
 2311FRAFDC,mob,xiaomi,小米,N17,gold,Redmi Note 13R Pro,#全网通版
-24069RA21C,mob,xiaomi,小米,N16T,peridot,Redmi Note 13 Turbo,#全网通版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,#全网通版
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,#全网通版
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,#全网通版
@@ -7156,7 +7166,6 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 23090RA98I,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#India
 23090RA98C,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#China
 2311FRAFDC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13R Pro,#China
-24069RA21C,mob,xiaomi,Xiaomi,N16T,peridot,Redmi Note 13 Turbo,#China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,#China
@@ -7356,6 +7365,7 @@ LFT-AN00,mob,zhixuan,华为智选,,,WIKO 5G,#
 GAR-AN00,mob,zhixuan,华为智选,,,Hi 畅享 60,#5G
 GAR-AN60,mob,zhixuan,华为智选,,,Hi 畅享 60s,#5G
 LGN-AN00,mob,zhixuan,华为智选,,,Hi 畅享 60 Pro,#5G
+BAL-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70 Pro,#5G
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,#
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,#
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,#
