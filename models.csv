@@ -1695,6 +1695,7 @@ MUS-B19,watch,honor,荣耀,,,荣耀手表 GS 3,#
 MNS-B39,watch,honor,荣耀,,,荣耀手表 GS 3i,#
 TMA-L19,watch,honor,荣耀,,,荣耀手表 4,#
 TUM-L19,watch,honor,荣耀,,,荣耀手表 4 Pro,#
+MUS-B19,watch,honor,荣耀,,,荣耀手表 GS 4,#
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,#标准版
 NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,#NFC 版
 CRS-B19,band,honor,荣耀,,Crius,荣耀手环 4,#标准版
@@ -5220,7 +5221,7 @@ SM-N9300,mob,samsung,三星,,graceqltechn,Galaxy Note7,#
 SM-N9500,mob,samsung,三星,,greatqltechn,Galaxy Note8,#全网通版
 SM-N9508,mob,samsung,三星,,greatqltecmcc,Galaxy Note8,#4G+
 SM-N9600,mob,samsung,三星,,crownqltechn,Galaxy Note9,#全网通版
-SM-N9608,mob,samsung,三星,,crownqltechn,Galaxy Note9,#4G+
+SM-N9608,mob,samsung,三星,,crownqltecmcc,Galaxy Note9,#4G+
 SM-N9700,mob,samsung,三星,,d1q,Galaxy Note10,#
 SM-N9760,mob,samsung,三星,,d2xq,Galaxy Note10+,#5G
 SM-N9810,mob,samsung,三星,,c1q,Galaxy Note20,#5G
@@ -5412,6 +5413,40 @@ SM-R9450,watch,samsung,三星,,fresh6ul,Galaxy Watch6,#LTE 44mm
 SM-R950,watch,samsung,三星,,wise6bs,Galaxy Watch6 Classic,#蓝牙版 43mm
 SM-R960,watch,samsung,三星,,wise6bl,Galaxy Watch6 Classic,#蓝牙版 47mm
 SM-R9650,watch,samsung,三星,,wise6ul,Galaxy Watch6 Classic,#LTE 47mm
+SM-G970F,mob,samsung,Samsung,,beyond0,Galaxy S10e,#Global
+SM-G970N,mob,samsung,Samsung,,beyond0,Galaxy S10e,#South Korea
+SM-G970U,mob,samsung,Samsung,,beyond0q,Galaxy S10e,#US Carrier
+SM-G970U1,mob,samsung,Samsung,,beyond0q,Galaxy S10e,#US Unlocked
+SM-G970W,mob,samsung,Samsung,,beyond0q,Galaxy S10e,#Canada
+SM-G9700,mob,samsung,Samsung,,beyond0q,Galaxy S10e,#China
+SM-G9708,mob,samsung,Samsung,,beyond0q,Galaxy S10e,#China Mobile
+SM-G973F,mob,samsung,Samsung,,beyond1,Galaxy S10,#Global
+SM-G973N,mob,samsung,Samsung,,beyond1,Galaxy S10,#South Korea
+SM-G973U,mob,samsung,Samsung,,beyond1q,Galaxy S10,#US Carrier
+SM-G973U1,mob,samsung,Samsung,,beyond1q,Galaxy S10,#US Unlocked
+SM-G973W,mob,samsung,Samsung,,beyond1q,Galaxy S10,#Canada
+SM-G9730,mob,samsung,Samsung,,beyond1q,Galaxy S10,#China
+SM-G9738,mob,samsung,Samsung,,beyond1q,Galaxy S10,#China Mobile
+SM-G973C,mob,samsung,Samsung,,beyond1q,Galaxy S10,#Japan (Rakuten Mobile)
+SCV41,mob,samsung,Samsung,,beyond1q,Galaxy S10,#Japan (au)
+SC-03L,mob,samsung,Samsung,,beyond1q,Galaxy S10,#Japan (NTT Docomo)
+SM-G975F,mob,samsung,Samsung,,beyond2,Galaxy S10+,#Global
+SM-G975N,mob,samsung,Samsung,,beyond2,Galaxy S10+,#South Korea
+SM-G975U,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#US Carrier
+SM-G975U1,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#US Unlocked
+SM-G975W,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#Canada
+SM-G9750,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#China
+SM-G9758,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#China Mobile
+SCV42,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#Japan (au)
+SC-04L,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#Japan (NTT Docomo)
+SC-05L,mob,samsung,Samsung,,beyond2q,Galaxy S10+,#Olympic Games Edition Japan (NTT Docomo)
+SM-G977B,mob,samsung,Samsung,,beyondx,Galaxy S10 5G,#Global
+SM-G977N,mob,samsung,Samsung,,beyondx,Galaxy S10 5G,#South Korea
+SM-G977U,mob,samsung,Samsung,,beyondx,Galaxy S10 5G,#US Carrier
+SM-G977T,mob,samsung,Samsung,,beyondx,Galaxy S10 5G,#T-Mobile
+SM-G977P,mob,samsung,Samsung,,beyondx,Galaxy S10 5G,#Sprint
+SM-G770F,mob,samsung,Samsung,,r5q,Galaxy S10 Lite,#Global
+SM-G770U1,mob,samsung,Samsung,,r5q,Galaxy S10 Lite,#US Unlocked
 SM-G980F,mob,samsung,Samsung,,x1s,Galaxy S20,#Global
 SM-G981B,mob,samsung,Samsung,,x1s,Galaxy S20,#5G Global
 SM-G981U,mob,samsung,Samsung,,x1q,Galaxy S20,#5G US Carrier
@@ -5438,7 +5473,7 @@ SM-G988U1,mob,samsung,Samsung,,z3q,Galaxy S20 Ultra,#5G US Unlocked
 SM-G988W,mob,samsung,Samsung,,z3q,Galaxy S20 Ultra,#5G Canada
 SM-G9880,mob,samsung,Samsung,,z3q,Galaxy S20 Ultra,#5G China
 SM-G988N,mob,samsung,Samsung,,z3q,Galaxy S20 Ultra,#5G South Korea
-SM-G988Q,mob,samsung,Samsung,,z3q,Galaxy S20 Ultra,#5G Japan
+SM-G988Q,mob,samsung,Samsung,,z3q,Galaxy S20 Ultra,#5G Japan (SIM Free)
 SCG03,mob,samsung,Samsung,,z3q,Galaxy S20 Ultra,#5G Japan (au)
 SM-G780F,mob,samsung,Samsung,,r8s,Galaxy S20 FE,#Global (Exynos)
 SM-G780G,mob,samsung,Samsung,,r8q,Galaxy S20 FE,#Global (Snapdragon)
@@ -5527,7 +5562,7 @@ SM-S918U1,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#US Unlocked
 SM-S918W,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#Canada
 SM-S9180,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#China
 SM-S918N,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#South Korea
-SM-S918Q,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#Japan
+SM-S918Q,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#Japan (SIM Free)
 SCG20,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#Japan (au)
 SC-52D,mob,samsung,Samsung,,dm3q,Galaxy S23 Ultra,#Japan (NTT Docomo)
 SM-S711U,mob,samsung,Samsung,,r11q,Galaxy S23 FE,#US Carrier
@@ -5555,8 +5590,133 @@ SM-S928U1,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#US Unlocked
 SM-S928W,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#Canada
 SM-S9280,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#China
 SM-S928N,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#South Korea
-SM-N960F,mob,samsung,Samsung,,crownqlte,Galaxy Note9,#EU
-SM-N970U,mob,samsung,Samsung,,d1q,Galaxy Note10,#US
+SM-N960F,mob,samsung,Samsung,,crownlte,Galaxy Note9,#Global
+SM-N960U,mob,samsung,Samsung,,crownqltesq,Galaxy Note9,#US Carrier
+SM-N960U1,mob,samsung,Samsung,,crownqlteue,Galaxy Note9,#US Unlocked
+SM-N960W,mob,samsung,Samsung,,crownqltecs,Galaxy Note9,#Canada
+SM-N9600,mob,samsung,Samsung,,crownqltechn,Galaxy Note9,#China
+SM-N9608,mob,samsung,Samsung,,crownqltecmcc,Galaxy Note9,#China Mobile
+SM-N960N,mob,samsung,Samsung,,crownlteks,Galaxy Note9,#South Korea
+SCV40,mob,samsung,Samsung,,SCV40,Galaxy Note9,#Japan (au)
+SC-01L,mob,samsung,Samsung,,SC-01L,Galaxy Note9,#Japan (NTT Docomo)
+SM-N970F,mob,samsung,Samsung,,d1,Galaxy Note10,#Global
+SM-N970U,mob,samsung,Samsung,,d1q,Galaxy Note10,#US Carrier
+SM-N970U1,mob,samsung,Samsung,,d1q,Galaxy Note10,#US Unlocked
+SM-N970W,mob,samsung,Samsung,,d1q,Galaxy Note10,#Canada
+SM-N9700,mob,samsung,Samsung,,d1q,Galaxy Note10,#China
+SM-N971N,mob,samsung,Samsung,,d1x,Galaxy Note10,#5G South Korea
+SM-N975F,mob,samsung,Samsung,,d2s,Galaxy Note10+,#Global
+SM-N975U,mob,samsung,Samsung,,d2q,Galaxy Note10+,#US Carrier
+SM-N975U1,mob,samsung,Samsung,,d2q,Galaxy Note10+,#US Unlocked
+SM-N975W,mob,samsung,Samsung,,d2q,Galaxy Note10+,#Canada
+SM-N9750,mob,samsung,Samsung,,d2q,Galaxy Note10+,#HK & TW
+SM-N975C,mob,samsung,Samsung,,d2q,Galaxy Note10+,#Japan (Rakuten Mobile)
+SCV45,mob,samsung,Samsung,,d2q,Galaxy Note10+,#Japan (au)
+SC-01M,mob,samsung,Samsung,,d2q,Galaxy Note10+,#Japan (NTT Docomo)
+SM-N976B,mob,samsung,Samsung,,d2x,Galaxy Note10+,#5G Global
+SM-N976N,mob,samsung,Samsung,,d2x,Galaxy Note10+,#5G South Korea
+SM-N976Q,mob,samsung,Samsung,,d2xq,Galaxy Note10+,#5G Global (Snapdragon)
+SM-N976V,mob,samsung,Samsung,,d2xq,Galaxy Note10+,#5G Verizon
+SM-N9760,mob,samsung,Samsung,,d2xq,Galaxy Note10+,#5G China
+SM-N976U,mob,samsung,Samsung,,d2xq2,Galaxy Note10+,#5G US Carrier
+SM-N770F,mob,samsung,Samsung,,r7,Galaxy Note10 Lite,#Global
+SM-N770X,mob,samsung,Samsung,,r7,Galaxy Note10 Lite,#Global
+SM-N980F,mob,samsung,Samsung,,c1s,Galaxy Note20,#Global
+SM-N981B,mob,samsung,Samsung,,c1s,Galaxy Note20,#5G Global
+SM-N981U,mob,samsung,Samsung,,c1q,Galaxy Note20,#5G US Carrier
+SM-N981U1,mob,samsung,Samsung,,c1q,Galaxy Note20,#5G US Unlocked
+SM-N981W,mob,samsung,Samsung,,c1q,Galaxy Note20,#5G Canada
+SM-N9810,mob,samsung,Samsung,,c1q,Galaxy Note20,#5G China
+SM-N981N,mob,samsung,Samsung,,c1q,Galaxy Note20,#5G South Korea
+SM-N985F,mob,samsung,Samsung,,c2s,Galaxy Note20 Ultra,#Global
+SM-N986B,mob,samsung,Samsung,,c2s,Galaxy Note20 Ultra,#5G Global
+SM-N986U,mob,samsung,Samsung,,c2q,Galaxy Note20 Ultra,#5G US Carrier
+SM-N986U1,mob,samsung,Samsung,,c2q,Galaxy Note20 Ultra,#5G US Unlocked
+SM-N986W,mob,samsung,Samsung,,c2q,Galaxy Note20 Ultra,#5G Canada
+SM-N9860,mob,samsung,Samsung,,c2q,Galaxy Note20 Ultra,#5G China
+SM-N986N,mob,samsung,Samsung,,c2q,Galaxy Note20 Ultra,#5G South Korea
+SCG06,mob,samsung,Samsung,,c2q,Galaxy Note20 Ultra,#5G Japan (au)
+SC-53A,mob,samsung,Samsung,,c2q,Galaxy Note20 Ultra,#5G Japan (NTT Docomo)
+SM-F900F,mob,samsung,Samsung,,winner,Galaxy Fold,#Global
+SM-F900U,mob,samsung,Samsung,,winner,Galaxy Fold,#US Carrier
+SM-F900U1,mob,samsung,Samsung,,winner,Galaxy Fold,#US Unlocked
+SM-F900W,mob,samsung,Samsung,,winner,Galaxy Fold,#Canada
+SM-F9000,mob,samsung,Samsung,,winner,Galaxy Fold,#China
+SCV44,mob,samsung,Samsung,,winner,Galaxy Fold,#Japan (au)
+SM-F907B,mob,samsung,Samsung,,winner,Galaxy Fold,#5G Global
+SM-F907N,mob,samsung,Samsung,,winner,Galaxy Fold,#5G South Korea
+SM-F916B,mob,samsung,Samsung,,f2q,Galaxy Z Fold2,#5G Global
+SM-F916U,mob,samsung,Samsung,,f2q,Galaxy Z Fold2,#5G US Carrier
+SM-F916U1,mob,samsung,Samsung,,f2q,Galaxy Z Fold2,#5G US Unlocked
+SM-F916W,mob,samsung,Samsung,,f2q,Galaxy Z Fold2,#5G Canada
+SM-F9160,mob,samsung,Samsung,,f2q,Galaxy Z Fold2,#5G China
+SM-F916N,mob,samsung,Samsung,,f2q,Galaxy Z Fold2,#5G South Korea
+SM-F916Q,mob,samsung,Samsung,,f2q,Galaxy Z Fold2,#5G Japan (SIM Free)
+SM-F926B,mob,samsung,Samsung,,q2q,Galaxy Z Fold3,#5G Global
+SM-F926U,mob,samsung,Samsung,,q2q,Galaxy Z Fold3,#5G US Carrier
+SM-F926U1,mob,samsung,Samsung,,q2q,Galaxy Z Fold3,#5G US Unlocked
+SM-F926W,mob,samsung,Samsung,,q2q,Galaxy Z Fold3,#5G Canada
+SM-F9260,mob,samsung,Samsung,,q2q,Galaxy Z Fold3,#5G China
+SM-F926N,mob,samsung,Samsung,,q2q,Galaxy Z Fold3,#5G South Korea
+SCG11,mob,samsung,Samsung,,q2q,Galaxy Z Fold3,#5G Japan (au)
+SC-55B,mob,samsung,Samsung,,q2q,Galaxy Z Fold3,#5G Japan (NTT Docomo)
+SM-F936B,mob,samsung,Samsung,,q4q,Galaxy Z Fold4,#Global
+SM-F936U,mob,samsung,Samsung,,q4q,Galaxy Z Fold4,#US Carrier
+SM-F936U1,mob,samsung,Samsung,,q4q,Galaxy Z Fold4,#US Unlocked
+SM-F936W,mob,samsung,Samsung,,q4q,Galaxy Z Fold4,#Canada
+SM-F9360,mob,samsung,Samsung,,q4q,Galaxy Z Fold4,#China
+SM-F936N,mob,samsung,Samsung,,q4q,Galaxy Z Fold4,#South Korea
+SCG16,mob,samsung,Samsung,,q4q,Galaxy Z Fold4,#Japan (au)
+SC-55C,mob,samsung,Samsung,,q4q,Galaxy Z Fold4,#Japan (NTT Docomo)
+SM-F946B,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#Global
+SM-F946U,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#US Carrier
+SM-F946U1,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#US Unlocked
+SM-F946W,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#Canada
+SM-F9460,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#China
+SM-F946N,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#South Korea
+SM-F946Q,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#Japan (SIM Free)
+SCG22,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#Japan (au)
+SC-55D,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#Japan (NTT Docomo)
+SM-F700F,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#Global
+SM-F700U,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#US Carrier
+SM-F700U1,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#US Unlocked
+SM-F700W,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#Canada
+SM-F7000,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#China
+SM-F700N,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#South Korea
+SCV47,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#Japan (au)
+SM-F707B,mob,samsung,Samsung,,bloomxq,Galaxy Z Flip 5G,#Global
+SM-F707U,mob,samsung,Samsung,,bloomxq,Galaxy Z Flip 5G,#US Carrier
+SM-F707U1,mob,samsung,Samsung,,bloomxq,Galaxy Z Flip 5G,#US Unlocked
+SM-F707W,mob,samsung,Samsung,,bloomxq,Galaxy Z Flip 5G,#Canada
+SM-F7070,mob,samsung,Samsung,,bloomxq,Galaxy Z Flip 5G,#China
+SM-F707N,mob,samsung,Samsung,,bloomxq,Galaxy Z Flip 5G,#South Korea
+SCG04,mob,samsung,Samsung,,bloomxq,Galaxy Z Flip 5G,#Japan (au)
+SM-F711B,mob,samsung,Samsung,,b2q,Galaxy Z Flip3,#5G Global
+SM-F711U,mob,samsung,Samsung,,b2q,Galaxy Z Flip3,#5G US Carrier
+SM-F711U1,mob,samsung,Samsung,,b2q,Galaxy Z Flip3,#5G US Unlocked
+SM-F711W,mob,samsung,Samsung,,b2q,Galaxy Z Flip3,#5G Canada
+SM-F7110,mob,samsung,Samsung,,b2q,Galaxy Z Flip3,#5G China
+SM-F711N,mob,samsung,Samsung,,b2q,Galaxy Z Flip3,#5G South Korea
+SCG12,mob,samsung,Samsung,,b2q,Galaxy Z Flip3,#5G Japan (au)
+SC-54B,mob,samsung,Samsung,,b2q,Galaxy Z Flip3,#5G Japan (NTT Docomo)
+SM-F721B,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#Global
+SM-F721U,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#US Carrier
+SM-F721U1,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#US Unlocked
+SM-F721W,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#Canada
+SM-F7210,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#China
+SM-F721N,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#South Korea
+SM-F721C,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#Japan (Rakuten Mobile)
+SCG17,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#Japan (au)
+SC-54C,mob,samsung,Samsung,,b4q,Galaxy Z Flip4,#Japan (NTT Docomo)
+SM-F731B,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Global
+SM-F731U,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#US Carrier
+SM-F731U1,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#US Unlocked
+SM-F731W,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Canada
+SM-F7310,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#China
+SM-F731N,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#South Korea
+SM-F731Q,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (SIM Free)
+SCG23,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (au)
+SC-54D,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (NTT Docomo)
 SM-A125F,mob,samsung,Samsung,,a12,Galaxy A12,#Global
 SM-A715F,mob,samsung,Samsung,,a71x,Galaxy A71,#Global
 SM-M115F,mob,samsung,Samsung,,m11,Galaxy M11,#Global
