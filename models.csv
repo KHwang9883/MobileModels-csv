@@ -1479,6 +1479,8 @@ WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 4
 WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 40S,1#5G
 WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 40S,2#5G
 RKY-AN00,mob,honor,荣耀,,Rocky,荣耀畅玩 40 Plus,#5G
+JDY-AN00,mob,honor,荣耀,,,荣耀畅玩 50|荣耀畅玩 50m,#5G
+JDY-AN00,mob,honor,荣耀,,,荣耀畅玩 50|荣耀畅玩 50m,1#5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,#5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,#Wi-Fi 版
 S8-701u,pad,honor,荣耀,,,荣耀平板,#3G 版
@@ -6040,6 +6042,7 @@ V2197A,mob,vivo,vivo,,PD2197,iQOO U5e,#5G
 PA2170,pad,vivo,vivo,,DPD2106,,#vivo Pad
 PA2373,pad,vivo,vivo,,DPD2221,2,#
 PA2353,pad,vivo,vivo,,DPD2305,Air,#
+PA2473,pad,vivo,vivo,,,3 Pro,#
 iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
 vivo 1939,mob,vivo,vivo,,,X50,#
