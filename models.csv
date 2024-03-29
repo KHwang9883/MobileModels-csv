@@ -3767,13 +3767,14 @@ L65MA-SPL,tv,mitv,小米,,,小米电视 S,#65 Mini LED
 L75M9-S,tv,mitv,小米,,,小米电视 S,#75
 L75MA-SPL,tv,mitv,小米,,,小米电视 S,#75 Mini LED
 L85MA-S,tv,mitv,小米,,,小米电视 S,#85
+L85MA-SPL,tv,mitv,小米,,,小米电视 S,#85 Mini LED
 L65MA-SM,tv,mitv,小米,,,小米电视 S Pro,#65 Mini LED
 L75MA-SM,tv,mitv,小米,,,小米电视 S Pro,#75 Mini LED
 L85MA-SM,tv,mitv,小米,,,小米电视 S Pro,#85 Mini LED
 L100MA-SP,tv,mitv,小米,,,小米电视 S Pro,#100
 L65M5-BH,tv,mitv,小米,,,小米壁画电视,#65 英寸
 L75M5-BH,tv,mitv,小米,,,小米壁画电视,#75 英寸
-L55M6-TM,tv,mitv,小米,,,小米电视 大师系列,小米透明电视 55 英寸
+L55M6-TM,tv,mitv,小米,,,小米透明电视,#55 英寸
 L65M5-OD,tv,mitv,小米,,,小米电视 大师系列,#65 英寸 OLED
 O77M8-MAS,tv,mitv,小米,,,小米电视 大师系列,#77 英寸 OLED
 L82M6-4K,tv,mitv,小米,,,小米电视 大师系列,#82 英寸
@@ -4259,6 +4260,8 @@ CPH2585,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#印度版
 CPH2609,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#欧洲版/国际版
 CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版
 PJF110,mob,oneplus,一加,,audi,OnePlus Ace 3V|OnePlus Nord 4,#全网通版
+CPH2587,mob,oneplus,一加,,audi,OnePlus Ace 3V|OnePlus Nord 4,1#印度版
+CPH2589,mob,oneplus,一加,,audi,OnePlus Ace 3V|OnePlus Nord 4,1#欧洲版/国际版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
@@ -4403,6 +4406,8 @@ CPH2585,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#India
 CPH2609,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#EU / Global
 CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America
 PJF110,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V|OnePlus Nord 4,#China
+CPH2587,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V|OnePlus Nord 4,1#India
+CPH2589,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V|OnePlus Nord 4,1#EU / Global
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
