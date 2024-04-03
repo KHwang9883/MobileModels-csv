@@ -1123,6 +1123,7 @@ CP17,mob,coolpad,酷派,,,酷派大观 50s,#5G
 CP27,mob,coolpad,酷派,,,酷派大观 Y60,#5G
 CP3AT2,mob,coolpad,酷派,,,酷派大观 Y60 Lite,#5G
 CP3CT1,mob,coolpad,酷派,,,酷派大观 Y60s,#5G
+CP3AT5,mob,coolpad,酷派,,,酷派大观 C60,#5G
 CP3NV1,mob,coolpad,酷派,,,酷派大观 3,#5G
 CP23NV3,mob,coolpad,酷派,,,酷派金世纪 Y60,#5G
 G-2PW4100,mob,google,Google,,sailfish,Pixel,#North America
@@ -2918,7 +2919,9 @@ GOA-LX9,mob,huawei,HUAWEI,,Gloria,HUAWEI nova 11 Pro,#
 MAO-LX9,mob,huawei,HUAWEI,,Mario,HUAWEI nova 11i,#
 MAO-LX9N,mob,huawei,HUAWEI,,Mario,HUAWEI nova 11i,#
 FOA-LX9,mob,huawei,HUAWEI,,Fiona,HUAWEI nova 12s,#
+CTR-L81,mob,huawei,HUAWEI,,Cartier,HUAWEI nova 12i,#
 BNE-LX1,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,#
+BNE-LX3,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,#
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,#
 EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
 EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
@@ -4122,6 +4125,7 @@ NX616J,mob,nubia,努比亚,,,X,#
 NX612J,mob,nubia,努比亚,,,V18,#
 NX651J,mob,nubia,努比亚,,,Play,#
 NX724J,mob,nubia,努比亚,,,Flip,#
+NX302J,mob,nubia,努比亚,,,小牛,#
 NX513J,mob,nubia,努比亚,,,My 布拉格,#全网通版
 NX513H,mob,nubia,努比亚,,,My 布拉格,#双 4G 版
 NX551J,mob,nubia,努比亚,,,M2,#
@@ -4900,6 +4904,8 @@ RMX3562,mob,realme,realme,,,真我 GT Neo3,#150W
 RMX3706,mob,realme,realme,,,真我 GT Neo5,#150W
 RMX3708,mob,realme,realme,,,真我 GT Neo5,#240W
 RMX3700,mob,realme,realme,,,真我 GT Neo5 SE,#
+RMX3852,mob,realme,realme,,,真我 GT Neo6,#
+RMX3850,mob,realme,realme,,,真我 GT Neo6 SE,#
 RMX1971,mob,realme,realme,,,真我 Q,#
 RMX2117,mob,realme,realme,,,真我 Q2,#5G
 RMX2173,mob,realme,realme,,,真我 Q2 Pro,#5G
