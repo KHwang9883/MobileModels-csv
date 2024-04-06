@@ -4878,11 +4878,11 @@ OWWE231,watch,oppo,OPPO,,,OPPO Watch X,#
 RMX1901,mob,realme,realme,,,真我 X,#
 RMX1851,mob,realme,realme,,,真我 X 青春版,#
 RMX1991,mob,realme,realme,,,真我 X2,#
-RMX1931,mob,realme,realme,,,真我 X2 Pro,#
+RMX1931,mob,realme,realme,,samurai,真我 X2 Pro,#
 RMX2051,mob,realme,realme,,,真我 X50,#5G 全网通版
 RMX2025,mob,realme,realme,,,真我 X50,#5G 移动版
-RMX2071,mob,realme,realme,,,真我 X50 Pro,#5G
-RMX2072,mob,realme,realme,,,真我 X50 Pro 玩家版,#
+RMX2071,mob,realme,realme,,bladerunner,真我 X50 Pro,#5G
+RMX2072,mob,realme,realme,,bladerunner_48m,真我 X50 Pro 玩家版,#
 RMX2141,mob,realme,realme,,,真我 X50m,#5G
 RMX2142,mob,realme,realme,,,真我 X50m,#5G 运营商定制版
 RMX2052,mob,realme,realme,,,真我 X50t,#5G 电信合作版
@@ -4891,9 +4891,9 @@ RMX2121,mob,realme,realme,,,真我 X7 Pro,#5G
 RMX3115,mob,realme,realme,,,真我 X7 Pro 至尊版,#5G 全网通版
 RMX3116,mob,realme,realme,,,真我 X7 Pro 至尊版,#5G 运营商定制版
 RMX2202,mob,realme,realme,,,真我 GT,#5G
-RMX3361,mob,realme,realme,,,真我 GT 大师版,#
+RMX3361,mob,realme,realme,,lunaa,真我 GT 大师版,#
 RMX3366,mob,realme,realme,,,真我 GT 大师探索版,#
-RMX3310,mob,realme,realme,,,真我 GT2,#
+RMX3310,mob,realme,realme,,porsche,真我 GT2,#
 RMX3300,mob,realme,realme,,,真我 GT2 Pro,#
 RMX3551,mob,realme,realme,,,真我 GT2 大师探索版,#
 RMX3820,mob,realme,realme,,,真我 GT5,#150W
@@ -4901,7 +4901,7 @@ RMX3823,mob,realme,realme,,,真我 GT5,#240W
 RMX3888,mob,realme,realme,,,真我 GT5 Pro,#
 RMX3031,mob,realme,realme,,,真我 GT Neo,#5G
 RMX3350,mob,realme,realme,,,真我 GT Neo 闪速版,#
-RMX3370,mob,realme,realme,,,真我 GT Neo2,#
+RMX3370,mob,realme,realme,,bitra,真我 GT Neo2,#
 RMX3357,mob,realme,realme,,,真我 GT Neo2T,#
 RMX3560,mob,realme,realme,,,真我 GT Neo3,#80W
 RMX3562,mob,realme,realme,,,真我 GT Neo3,#150W
@@ -4977,17 +4977,17 @@ RMX2031,mob,realme,realme,,,5i,#
 RMX2032,mob,realme,realme,,,5i,#
 RMX1971,mob,realme,realme,,,5 Pro,#
 RMX1973,mob,realme,realme,,,5 Pro,#
-RMX2001,mob,realme,realme,,,6,#
-RMX2003,mob,realme,realme,,,6,#
+RMX2001,mob,realme,realme,,nemo,6,#
+RMX2003,mob,realme,realme,,nemo,6,#
 RMX2061,mob,realme,realme,,,6 Pro,#
 RMX2063,mob,realme,realme,,,6 Pro,#
-RMX2002,mob,realme,realme,,,6s,#Global
-RMX2002,mob,realme,realme,,,6i,#India
+RMX2002,mob,realme,realme,,nemo,6s,#Global
+RMX2002,mob,realme,realme,,nemo,6i,#India
 RMX2040,mob,realme,realme,,,6i,#EU
 RMX2041,mob,realme,realme,,,6i,#Global
 RMX2042,mob,realme,realme,,,6i,#Global
-RMX2151,mob,realme,realme,,,7,#India
-RMX2155,mob,realme,realme,,,7,#Global
+RMX2151,mob,realme,realme,,salaa,7,#India
+RMX2155,mob,realme,realme,,salaa,7,#Global
 RMX2111,mob,realme,realme,,,7 5G,#
 RMX2170,mob,realme,realme,,,7 Pro,#
 RMX2103,mob,realme,realme,,,7i,#India
@@ -4996,7 +4996,7 @@ RMX2193,mob,realme,realme,,,7i,#Global
 RMX3085,mob,realme,realme,,,8,#
 RMX3081,mob,realme,realme,,,8 Pro,#
 RMX3241,mob,realme,realme,,,8 5G,#
-RMX3151,mob,realme,realme,,,8i,#
+RMX3151,mob,realme,realme,,spaced,8i,#
 RMX3381,mob,realme,realme,,,8s 5G,#
 RMX3521,mob,realme,realme,,,9,#
 RMX3491,mob,realme,realme,,,9i,#India / Global
@@ -5022,35 +5022,46 @@ RMX3771,mob,realme,realme,,,11 Pro 5G,#
 RMX3741,mob,realme,realme,,,11 Pro+ 5G,#
 RMX3999,mob,realme,realme,,,12 5G,#
 RMX3867,mob,realme,realme,,,12+ 5G,#
-RMX3842,mob,realme,realme,,,12 Pro 5G,#
-RMX3840,mob,realme,realme,,,12 Pro+ 5G,#
+RMX3842,mob,realme,realme,,coffee-a,12 Pro 5G,#
+RMX3840,mob,realme,realme,,coffee,12 Pro+ 5G,#
 RMX1901,mob,realme,realme,,,X,#
 RMX1921,mob,realme,realme,,,XT,#Global
 RMX1922,mob,realme,realme,,,XT,#India
 RMX1992,mob,realme,realme,,,X2,#India
 RMX1993,mob,realme,realme,,,X2,#Global
-RMX1931,mob,realme,realme,,,X2 Pro,#
+RMX1931,mob,realme,realme,,samurai,X2 Pro,#
 RMX2081,mob,realme,realme,,,X3,#India
 RMX2083,mob,realme,realme,,,X3,#Global
 RMX2085,mob,realme,realme,,,X3 SuperZoom,#India
 RMX2086,mob,realme,realme,,,X3 SuperZoom,#Global
 RMX2144,mob,realme,realme,,,X50,#Global
-RMX2075,mob,realme,realme,,,X50 Pro,#Global
-RMX2076,mob,realme,realme,,,X50 Pro,#India
+RMX2075,mob,realme,realme,,bladerunner,X50 Pro,#Global
+RMX2076,mob,realme,realme,,bladerunner,X50 Pro,#India
 RMX3092,mob,realme,realme,,,X7,#India
 RMX2121,mob,realme,realme,,,X7 Pro,#
 RMX3031,mob,realme,realme,,,X7 Max,#
+RMX2202,mob,realme,realme,,,GT,#5G
+RMX3360,mob,realme,realme,,lunaa,GT Master Edition,#
+RMX3363,mob,realme,realme,,lunaa,GT Master Edition,#
+RMX3370,mob,realme,realme,,bitra,GT NEO 2,#5G
+RMX3311,mob,realme,realme,,porsche,GT 2,#5G
+RMX3312,mob,realme,realme,,porsche,GT 2,#5G
+RMX3301,mob,realme,realme,,,GT 2 Pro,#5G
+RMX3561,mob,realme,realme,,,GT NEO 3,#
+RMX3563,mob,realme,realme,,,GT NEO 3,#150W
+RMX3371,mob,realme,realme,,,GT NEO 3T,#
+RMX3709,mob,realme,realme,,,GT 3,#240W
 RMX1805,mob,realme,realme,,,C1,#
 RMX1941,mob,realme,realme,,,C2,#
 RMX1942,mob,realme,realme,,,C2,#
 RMX1943,mob,realme,realme,,,C2,#
 RMX1945,mob,realme,realme,,,C2,#
 RMX1946,mob,realme,realme,,,C2,#
-RMX2020,mob,realme,realme,,,C3,#Global
-RMX2021,mob,realme,realme,,,C3,#Global
-RMX2022,mob,realme,realme,,,C3,#Global
-RMX2027,mob,realme,realme,,,C3,#India
-RMX2027,mob,realme,realme,,,C3i,#Vietnam
+RMX2020,mob,realme,realme,,monet,C3,#Global
+RMX2021,mob,realme,realme,,monet,C3,#Global
+RMX2022,mob,realme,realme,,monet,C3,#Global
+RMX2027,mob,realme,realme,,monet,C3,#India
+RMX2027,mob,realme,realme,,monet,C3i,#Vietnam
 RMX2185,mob,realme,realme,,,C11,#
 RMX2186,mob,realme,realme,,,C11,#
 RMX3231,mob,realme,realme,,,C11 2021,#
@@ -5095,21 +5106,21 @@ RMX3782,mob,realme,realme,,,C67,#5G
 RMX3834,mob,realme,realme,,,Note 50,#
 RMX1831,mob,realme,realme,,,U1,#
 RMX1833,mob,realme,realme,,,U1,#
-RMX2002,mob,realme,realme,,,Narzo,#Indonesia
+RMX2002,mob,realme,realme,,nemo,Narzo,#Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,#India
 RMX2020,mob,realme,realme,,,Narzo 10A,#India
 RMX2191,mob,realme,realme,,,Narzo 20,#Global
 RMX2193,mob,realme,realme,,,Narzo 20,#India
-RMX2161,mob,realme,realme,,,Narzo 20 Pro,#India
-RMX2163,mob,realme,realme,,,Narzo 20 Pro,#Global
+RMX2161,mob,realme,realme,,salaa,Narzo 20 Pro,#India
+RMX2163,mob,realme,realme,,salaa,Narzo 20 Pro,#Global
 RMX2050,mob,realme,realme,,,Narzo 20A,#
-RMX2156,mob,realme,realme,,,Narzo 30,#
-RMX3242,mob,realme,realme,,,Narzo 30,#5G
+RMX2156,mob,realme,realme,,salaa,Narzo 30,#
+RMX3242,mob,realme,realme,,,Narzo 30 5G,#
 RMX2117,mob,realme,realme,,,Narzo 30 Pro,#5G
 RMX3171,mob,realme,realme,,,Narzo 30A,#
-RMX3286,mob,realme,realme,,,Narzo 50,#
-RMX3571,mob,realme,realme,,,Narzo 50,#5G India
-RMX3572,mob,realme,realme,,,Narzo 50,#5G Global
+RMX3286,mob,realme,realme,,spaced,Narzo 50,#
+RMX3571,mob,realme,realme,,,Narzo 50 5G,#India
+RMX3572,mob,realme,realme,,,Narzo 50 5G,#Global
 RMX3395,mob,realme,realme,,,Narzo 50 Pro,#5G India
 RMX3396,mob,realme,realme,,,Narzo 50 Pro,#5G Global
 RMX3430,mob,realme,realme,,,Narzo 50A,#
@@ -5124,17 +5135,6 @@ RMX3750,mob,realme,realme,,,Narzo 60,#5G
 RMX3771,mob,realme,realme,,,Narzo 60 Pro,#5G
 RMX3782,mob,realme,realme,,,Narzo 60x,#5G
 RMX3868,mob,realme,realme,,,NARZO 70 Pro,#5G
-RMX2202,mob,realme,realme,,,GT,#5G
-RMX3360,mob,realme,realme,,,GT Master Edition,#
-RMX3363,mob,realme,realme,,,GT Master Edition,#
-RMX3370,mob,realme,realme,,,GT NEO 2,#5G
-RMX3311,mob,realme,realme,,,GT 2,#5G
-RMX3312,mob,realme,realme,,,GT 2,#5G
-RMX3301,mob,realme,realme,,,GT 2 Pro,#5G
-RMX3561,mob,realme,realme,,,GT NEO 3,#
-RMX3563,mob,realme,realme,,,GT NEO 3,#150W
-RMX3371,mob,realme,realme,,,GT NEO 3T,#
-RMX3709,mob,realme,realme,,,GT 3,#240W
 RMP2102,pad,realme,realme,,,,#realme Pad LTE
 RMP2103,pad,realme,realme,,,,#realme Pad Wi-Fi
 RMP2105,pad,realme,realme,,,mini,#LTE
@@ -6143,6 +6143,7 @@ V2321,mob,vivo,vivo,,,T2 Pro,#5G
 V2253,mob,vivo,vivo,,,T2x,#5G
 V2312,mob,vivo,vivo,,,T2x,#5G
 V2334,mob,vivo,vivo,,,T3,#5G
+V2338,mob,vivo,vivo,,,T3x,#5G
 vivo 1929,mob,vivo,vivo,,,Y1s,#
 vivo 2015,mob,vivo,vivo,,,Y1s,#
 vivo 2015_21,mob,vivo,vivo,,,Y1s,#
@@ -6286,6 +6287,7 @@ I2223,mob,vivo,vivo,,,iQOO Z7s,#5G
 I2216,mob,vivo,vivo,,,iQOO Z7x,#5G
 I2301,mob,vivo,vivo,,,iQOO Z7 Pro,#5G
 I2302,mob,vivo,vivo,,,iQOO Z9,#5G
+I2219,mob,vivo,vivo,,,iQOO Z9x,#5G
 XMSH01HM,band,xiaomi,小米,,,小米手环,#
 XMSH02HM,band,xiaomi,小米,,,小米手环,#光感版
 XMSH03HM,band,xiaomi,小米,,,小米手环,#光感版
