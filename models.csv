@@ -2696,12 +2696,15 @@ LEA-B19,band,huawei,华为,,,华为手环 7,#标准版
 LEA-B29,band,huawei,华为,,,华为手环 7,#NFC 版
 ASK-B19,band,huawei,华为,,,华为手环 8,#标准版
 ASK-B29,band,huawei,华为,,,华为手环 8,#NFC 版
+KIM-B19,band,huawei,华为,,Kimi,华为手环 9,#标准版
+KIM-B29,band,huawei,华为,,Kimi,华为手环 9,#NFC 版
 GMN-BX9,band,huawei,华为,,Gemini,华为手环 B3,#
 GRU-B09,band,huawei,华为,,,华为手环 B3 青春版,#
 JNS-BX9,band,huawei,华为,,Janus,华为手环 B5,#
 FDS-B19,band,huawei,华为,,Fides,华为手环 B6,#
 FDS-B49,band,huawei,华为,,Fides,华为通话手环 B7,#
 LEA-B29B,band,huawei,华为,,,华为手环 BA-570,#
+KIM-B19B,band,huawei,华为,,Kimi,华为擎云 HA590,#
 SIM-AL00,watch,huawei,华为,,Simba,华为儿童手表 3 Pro,#
 NEO-AL10,watch,huawei,华为,,Nemo,华为儿童手表 3s,#
 ALX-AL10,watch,huawei,华为,,Alex,华为儿童手表 3X,#
