@@ -2282,6 +2282,7 @@ WGRR-W09,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi �
 WGRR-W19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6,#英寸 2022 Wi-Fi 版
 PCE-W30,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2,#英寸 Wi-Fi 版
 PCE-W40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2,#英寸 Wi-Fi 版 (16GB+1TB)
+PCE-AL30,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2,#英寸 全网通版
 PCE-AL40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2,#英寸 典藏版 全网通版
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 810)
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 820)
@@ -4624,6 +4625,7 @@ PGIM10,mob,oppo,OPPO,,eva,OPPO K10 Pro,#
 PGGM10,mob,oppo,OPPO,,oscar-y,OPPO K10x,#
 PJC110,mob,oppo,OPPO,,ziti,OPPO K11,#
 PHF110,mob,oppo,OPPO,,larry,OPPO K11x,#
+PJR110,mob,oppo,OPPO,,,OPPO K12,#
 OPD2101,pad,oppo,OPPO,,,OPPO Pad,#
 OPD2102,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2201,pad,oppo,OPPO,,aries,OPPO Pad 2,#
