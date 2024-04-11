@@ -3839,6 +3839,7 @@ L86R6-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#86 英寸
 L90R9-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#90 英寸
 L98M6-RK,tv,mitv,小米,,,Redmi 智能电视 MAX,#98 英寸
 L100R8-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#100 英寸
+L100RA-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#100 2025 款
 MDZ-18-DA,tv_hub,mitv,小米,,,小米电视主机,#
 MDZ-19-DA,tv_hub,mitv,小米,,,小米电视主机,小米家庭影院
 MDZ-05-AA,tv_hub,mitv,小米,,,小米盒子,#
@@ -6965,6 +6966,8 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#国行版
 23073RPBFG,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#国际版
 23073RPBFL,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#拉美版
+2405CRPFDC,pad,xiaomi,小米,,dizi,Redmi Pad Pro,#国行版
+2405CRPFDG,pad,xiaomi,小米,,dizi,Redmi Pad Pro,#国际版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,#国际版
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,#国际版
@@ -7725,6 +7728,8 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,#China
 23073RPBFG,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#Global
 23073RPBFC,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#China
 23073RPBFL,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#Latin America
+2405CRPFDG,pad,xiaomi,Xiaomi,,dizi,Redmi Pad Pro,#Global
+2405CRPFDC,pad,xiaomi,Xiaomi,,dizi,Redmi Pad Pro,#China
 FYJ01QP,pad,xiaomi,Xiaomi,,FYJ01QP,Xiaomi Mijia Translator,#
 21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,#Bio-inspired Quadruped Robot
 VP001,mob,zhixuan,华为智选,,,优畅享 20 Plus,#5G
