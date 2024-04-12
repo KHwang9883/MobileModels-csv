@@ -2380,6 +2380,8 @@ MRG-W76,computer,huawei,华为,,Morgan,HUAWEI MateBook X Pro 2022,#i7
 MRGF-16,computer,huawei,华为,,MorganF,HUAWEI MateBook X Pro 2022,#12 代酷睿版
 MRGFG-16,computer,huawei,华为,,MorganFG,HUAWEI MateBook X Pro 2023,#16GB 内存
 MRGFG-32,computer,huawei,华为,,MorganFG,HUAWEI MateBook X Pro 2023,#32GB 内存
+VGHH-16,computer,huawei,华为,,,HUAWEI MateBook X Pro 2024,#16GB 内存
+VGHH-32,computer,huawei,华为,,,HUAWEI MateBook X Pro 2024,#32GB 内存
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i5
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i5 Linux 版
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,#i7
@@ -5975,6 +5977,7 @@ V2313A,mob,vivo,vivo,,PD2313,Y100,#5G
 V2314DA,mob,vivo,vivo,,PD2314,Y100t,#5G
 V2279A,mob,vivo,vivo,,PD2279,Y100i,#5G
 V2312BA,mob,vivo,vivo,,PD2312,Y100i 长续航版,#5G
+V2354A,mob,vivo,vivo,,PD2354,Y200i,#5G
 V2115A,mob,vivo,vivo,,PD2115,T1,#
 V2123A,mob,vivo,vivo,,PD2123,T1x,#
 V2188A,mob,vivo,vivo,,PD2188,T2x,#
@@ -6058,6 +6061,9 @@ V2272A,mob,vivo,vivo,,PD2272,iQOO Z7x,#
 V2230EA,mob,vivo,vivo,,PD2230,iQOO Z7i,#
 V2314A,mob,vivo,vivo,,PD2314,iQOO Z8,#
 V2312A,mob,vivo,vivo,,PD2312,iQOO Z8x,#
+V2361A,mob,vivo,vivo,,PD2361,iQOO Z9,#
+V2352A,mob,vivo,vivo,,PD2352,iQOO Z9 Turbo,#
+V2353A,mob,vivo,vivo,,PD2353,iQOO Z9x,#
 V2023A,mob,vivo,vivo,,PD2023,iQOO U1,#
 V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,#
 V2061A,mob,vivo,vivo,,PD2061,iQOO U3,#5G
@@ -6891,6 +6897,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 国行版
 23090RA98C,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#国行版
 23090RA98G,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 国际版
 23090RA98I,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 印度版
+24040RA98R,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 日本版
 2311FRAFDC,mob,xiaomi,小米,N17,gold,Redmi Note 13R Pro,#
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,#
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,#
@@ -7565,6 +7572,7 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 23090RA98G,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#Global
 23090RA98I,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#India
 23090RA98C,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#China
+24040RA98R,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#Japan
 2311FRAFDC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13R Pro,#China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
