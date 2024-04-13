@@ -4609,8 +4609,10 @@ PHS110,mob,oppo,OPPO,,,OPPO A1,#2023
 PHQ110,mob,oppo,OPPO,,hepburn,OPPO A1 Pro,#
 PHJ110,mob,oppo,OPPO,,,OPPO A1x|OPPO A1 活力版,#
 PHJ110,mob,oppo,OPPO,,,OPPO A1x|OPPO A1 活力版,1#
-PJB110,mob,oppo,OPPO,,,OPPO A2,#
-PJU110,mob,oppo,OPPO,,,OPPO A2m,#
+PJB110,mob,oppo,OPPO,,,OPPO A1s|OPPO A2,#
+PJB110,mob,oppo,OPPO,,,OPPO A1s|OPPO A2,1#
+PJU110,mob,oppo,OPPO,,,OPPO A1i|OPPO A2m,#
+PJU110,mob,oppo,OPPO,,,OPPO A1i|OPPO A2m,1#
 PJS110,mob,oppo,OPPO,,,OPPO A2x,#
 PJG110,mob,oppo,OPPO,,givenchy,OPPO A2 Pro,#
 PJY110,mob,oppo,OPPO,,,OPPO A3 Pro,#
@@ -5609,6 +5611,9 @@ SM-S921U,mob,samsung,Samsung,,e1q,Galaxy S24,#US Carrier
 SM-S921U1,mob,samsung,Samsung,,e1q,Galaxy S24,#US Unlocked
 SM-S921W,mob,samsung,Samsung,,e1q,Galaxy S24,#Canada
 SM-S9210,mob,samsung,Samsung,,e1q,Galaxy S24,#China
+SM-S921Q,mob,samsung,Samsung,,e1q,Galaxy S24,#Japan (SIM Free)
+SCG25,mob,samsung,Samsung,,e1q,Galaxy S24,#Japan (au)
+SC-51E,mob,samsung,Samsung,,e1q,Galaxy S24,#Japan (NTT Docomo)
 SM-S926B,mob,samsung,Samsung,,e2s,Galaxy S24+,#Global
 SM-S926N,mob,samsung,Samsung,,e2s,Galaxy S24+,#South Korea
 SM-S926U,mob,samsung,Samsung,,e2q,Galaxy S24+,#US Carrier
@@ -5621,6 +5626,9 @@ SM-S928U1,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#US Unlocked
 SM-S928W,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#Canada
 SM-S9280,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#China
 SM-S928N,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#South Korea
+SM-S928Q,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#Japan (SIM Free)
+SCG26,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#Japan (au)
+SC-52E,mob,samsung,Samsung,,e3q,Galaxy S24 Ultra,#Japan (NTT Docomo)
 SM-N960F,mob,samsung,Samsung,,crownlte,Galaxy Note9,#Global
 SM-N960U,mob,samsung,Samsung,,crownqltesq,Galaxy Note9,#US Carrier
 SM-N960U1,mob,samsung,Samsung,,crownqlteue,Galaxy Note9,#US Unlocked
