@@ -2042,6 +2042,11 @@ BAL-AL80,mob,huawei,华为,,Bali,HUAWEI P50 Pocket,#
 LNA-AL00,mob,huawei,华为,,Leona,HUAWEI P60,#
 MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Pro,#
 MNA-AL00,mob,huawei,华为,,Mona,HUAWEI P60 Art,#
+ADY-AL00,mob,huawei,华为,,Audrey,HUAWEI Pura 70,#
+HBN-AL00,mob,huawei,华为,,Hapburn,HUAWEI Pura 70 Pro,#
+HBN-AL10,mob,huawei,华为,,Hapburn,HUAWEI Pura 70 Pro+,#
+HBN-AL80,mob,huawei,华为,,Hapburn,HUAWEI Pura 70 Pro+,#
+HBP-AL00,mob,huawei,华为,,HapburnP,HUAWEI Pura 70 Ultra,#
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,#
 LEM-AL00,mob,huawei,华为,,,HUAWEI Pocket 2,#
 HUAWEI CAZ-AL00,mob,huawei,华为,,Cannes,HUAWEI nova,#全网通标配版
@@ -6735,7 +6740,7 @@ A401XM,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (SoftBank)
 22120RN86G,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国际版
 22120RN86H,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 22120RN86I,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
-2212ARNC4L,mob,xiaomi,小米,C3TL,fire,Redmi 12,#C 拉美版
+2212ARNC4L,mob,xiaomi,小米,C3TL,earth,Redmi 12C,#拉美版
 2404ARN45A,mob,xiaomi,小米,N19A,tides,Redmi 13,#国际版
 2404ARN45I,mob,xiaomi,小米,N19A,tides,Redmi 13,#印度版
 24049RN28L,mob,xiaomi,小米,N19L,tides,Redmi 13,#拉美版
@@ -7427,7 +7432,7 @@ A401XM,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SoftBank)
 22120RN86H,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
 22120RN86I,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
 22120RN86C,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#China
-2212ARNC4L,mob,xiaomi,Xiaomi,C3TL,fire,Redmi 12,#C Latin America
+2212ARNC4L,mob,xiaomi,Xiaomi,C3TL,earth,Redmi 12C,#Latin America
 22126RN91Y,mob,xiaomi,Xiaomi,C3TN,aether,Redmi 12C,#Global (NFC)
 2404ARN45A,mob,xiaomi,Xiaomi,N19A,tides,Redmi 13,#Global
 2404ARN45I,mob,xiaomi,Xiaomi,N19A,tides,Redmi 13,#India
