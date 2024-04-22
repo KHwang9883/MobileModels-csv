@@ -6747,11 +6747,13 @@ A401XM,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (SoftBank)
 22120RN86H,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 22120RN86I,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 2212ARNC4L,mob,xiaomi,小米,C3TL,earth,Redmi 12C,#拉美版
+22126RN91Y,mob,xiaomi,小米,C3TN,aether,Redmi 12C,#国际版 (NFC)
 2404ARN45A,mob,xiaomi,小米,N19A,tides,Redmi 13,#国际版
 2404ARN45I,mob,xiaomi,小米,N19A,tides,Redmi 13,#印度版
 24049RN28L,mob,xiaomi,小米,N19L,tides,Redmi 13,#拉美版
 24040RN64Y,mob,xiaomi,小米,N19E,moon,Redmi 13,#国际版 (NFC)
-22126RN91Y,mob,xiaomi,小米,C3TN,aether,Redmi 12C,#国际版 (NFC)
+2406ERN9CC,mob,xiaomi,小米,N19,breeze,Redmi 13 5G,#国行版
+2406ERN9CI,mob,xiaomi,小米,N19,breeze,Redmi 13 5G,#印度版
 23106RN0DA,mob,xiaomi,小米,C3U,gale,Redmi 13C,#国际版
 2311DRN14I,mob,xiaomi,小米,C3U,gale,Redmi 13C,#印度版
 23100RN82L,mob,xiaomi,小米,C3UL,gale,Redmi 13C,#拉美版
@@ -7013,7 +7015,6 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 2405CRPFDG,pad,xiaomi,小米,,dizi,Redmi Pad Pro,#国际版
 24074RPD2C,pad,xiaomi,小米,,ruan,Redmi Pad Pro 5G,#国行版
 24074RPD2G,pad,xiaomi,小米,,ruan,Redmi Pad Pro 5G,#国际版
-2405CPCFBG,pad,xiaomi,小米,,dizi,POCO Pad,#国际版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,#国际版
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,#国际版
@@ -7070,7 +7071,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,#印度版
 2404APC5FI,mob,xiaomi,小米,N19C,tides,POCO M6,#印度版
 23128PC33I,mob,xiaomi,小米,C3VP,air,POCO M6 5G,#印度版
 2312FPCA6G,mob,xiaomi,小米,N6P,emerald,POCO M6 Pro,#国际版
-23076PC4BI,mob,xiaomi,小米,M19,sky,POCO M6 Pro 5G,#印度版
+23076PC4BI,mob,xiaomi,小米,M19P,sky,POCO M6 Pro 5G,#印度版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,#印度版
 220333QPG,mob,xiaomi,小米,C3QP,frost,POCO C40,#国际版
@@ -7086,8 +7087,9 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 2312BPC51H,mob,xiaomi,小米,C3YP,blue,POCO C61,#印度版
 2310FPCA4G,mob,xiaomi,小米,C3UP,gust,POCO C65,#国际版
 2310FPCA4I,mob,xiaomi,小米,C3UP,gale,POCO C65,#印度版
-FYJ01QP,mob,xiaomi,小米,,FYJ01QP,小米米家翻译机,#
-21051191C,mob,xiaomi,小米,K91,,CyberDog 仿生四足机器人,#
+2405CPCFBG,pad,xiaomi,小米,,dizi,POCO Pad,#国际版
+FYJ01QP,pad,xiaomi,小米,,FYJ01QP,小米米家翻译机,#
+21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,#
 MI-ONE PLUS,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,#WCDMA
 MI-ONE C1,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,#CDMA
 MI-ONE,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,#Lite
@@ -7444,6 +7446,8 @@ A401XM,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SoftBank)
 2404ARN45I,mob,xiaomi,Xiaomi,N19A,tides,Redmi 13,#India
 24049RN28L,mob,xiaomi,Xiaomi,N19L,tides,Redmi 13,#Latin America
 24040RN64Y,mob,xiaomi,Xiaomi,N19E,moon,Redmi 13,#Global (NFC)
+2406ERN9CC,mob,xiaomi,Xiaomi,N19,breeze,Redmi 13 5G,#China
+2406ERN9CI,mob,xiaomi,Xiaomi,N19,breeze,Redmi 13 5G,#India
 23106RN0DA,mob,xiaomi,Xiaomi,C3U,gale,Redmi 13C,#Global
 2311DRN14I,mob,xiaomi,Xiaomi,C3U,gale,Redmi 13C,#India
 23100RN82L,mob,xiaomi,Xiaomi,C3UL,gale,Redmi 13C,#Latin America
@@ -7751,7 +7755,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,#India
 2404APC5FI,mob,xiaomi,Xiaomi,N19C,tides,POCO M6,#India
 23128PC33I,mob,xiaomi,Xiaomi,C3VP,air,POCO M6 5G,#India
 2312FPCA6G,mob,xiaomi,Xiaomi,N6P,emerald,POCO M6 Pro,#Global
-23076PC4BI,mob,xiaomi,Xiaomi,M19,sky,POCO M6 Pro 5G,#India
+23076PC4BI,mob,xiaomi,Xiaomi,M19P,sky,POCO M6 Pro 5G,#India
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,#India
 220333QPG,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,#Global
