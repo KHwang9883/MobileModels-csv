@@ -1520,6 +1520,8 @@ GDI-W09,pad,honor,荣耀,,Gaudi,荣耀平板 MagicPad,#13 英寸 Wi-Fi 版
 HEY2-W09,pad,honor,荣耀,,Hendry2,荣耀平板 9,#12.1 英寸 Wi-Fi 版
 HEY2-W19,pad,honor,荣耀,,Hendry2,荣耀平板 9,#柔光版 12.1 英寸 Wi-Fi 版
 HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 9,#12.1 英寸 5G 版
+ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,#12.1 英寸 Wi-Fi 版
+HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,#12.1 英寸 5G 版
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 Wi-Fi 版
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 LTE 版
 HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,#8 英寸 Wi-Fi 版
@@ -1831,6 +1833,7 @@ CRT-NX1,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
 CRT-NX3,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
 CLK-NX1,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
 CLK-NX3,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
+LLY-NX1,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
@@ -1890,6 +1893,7 @@ ANY-LX3,mob,honor,HONOR,,Andy,HONOR X9,#
 ANY-NX1,mob,honor,HONOR,,Andy,HONOR X9 5G,#
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR X9a 5G,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR X9b 5G,#
+ALI-NX3P,mob,honor,HONOR,,Ali,HONOR X9b 5G,#
 HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,#
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#LTE
