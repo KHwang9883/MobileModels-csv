@@ -5052,6 +5052,7 @@ RMX3785,mob,realme,realme,,,11x 5G,#
 RMX3771,mob,realme,realme,,,11 Pro 5G,#
 RMX3741,mob,realme,realme,,,11 Pro+ 5G,#
 RMX3999,mob,realme,realme,,,12 5G,#
+RMX3998,mob,realme,realme,,,12x 5G,#
 RMX3867,mob,realme,realme,,,12+ 5G,#
 RMX3842,mob,realme,realme,,coffee-a,12 Pro 5G,#
 RMX3840,mob,realme,realme,,coffee,12 Pro+ 5G,#
@@ -5081,7 +5082,7 @@ RMX3301,mob,realme,realme,,,GT 2 Pro,#5G
 RMX3561,mob,realme,realme,,,GT NEO 3,#
 RMX3563,mob,realme,realme,,,GT NEO 3,#150W
 RMX3371,mob,realme,realme,,,GT NEO 3T,#
-RMX3709,mob,realme,realme,,,GT 3,#240W
+RMX3709,mob,realme,realme,,senna-C,GT 3,#240W
 RMX1805,mob,realme,realme,,,C1,#
 RMX1941,mob,realme,realme,,,C2,#
 RMX1942,mob,realme,realme,,,C2,#
@@ -5129,9 +5130,12 @@ RMX3511,mob,realme,realme,,,C35,#
 RMX3512,mob,realme,realme,,,C35,#
 RMX3513,mob,realme,realme,,,C35,#
 RMX3830,mob,realme,realme,,,C51,#
+RMX3765,mob,realme,realme,,,C51s,#
 RMX3760,mob,realme,realme,,,C53,#Global
 RMX3762,mob,realme,realme,,,C53,#India
 RMX3710,mob,realme,realme,,,C55,#
+RMX3910,mob,realme,realme,,,C65,#
+RMX3997,mob,realme,realme,,,C65,#5G
 RMX3890,mob,realme,realme,,,C67,#
 RMX3782,mob,realme,realme,,,C67,#5G
 RMX3834,mob,realme,realme,,,Note 50,#
@@ -5167,7 +5171,9 @@ RMX3710,mob,realme,realme,,,Narzo N55,#
 RMX3750,mob,realme,realme,,,Narzo 60,#5G
 RMX3771,mob,realme,realme,,,Narzo 60 Pro,#5G
 RMX3782,mob,realme,realme,,,Narzo 60x,#5G
+RMX3869,mob,realme,realme,,,NARZO 70,#5G
 RMX3868,mob,realme,realme,,,NARZO 70 Pro,#5G
+RMX3998,mob,realme,realme,,,NARZO 70x,#5G
 RMP2102,pad,realme,realme,,,,#realme Pad LTE
 RMP2103,pad,realme,realme,,,,#realme Pad Wi-Fi
 RMP2105,pad,realme,realme,,,mini,#LTE
