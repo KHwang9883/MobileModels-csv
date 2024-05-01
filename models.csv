@@ -3832,6 +3832,8 @@ L55RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#55 2024 款
 L65RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#65 2024 款
 L70RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#70 2024 款
 L75MA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#75 2024 款
+L32RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#32 2025 款
+L43RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#43 2025 款
 L50RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#50 2025 款
 L55RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#55 2025 款
 L65RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#65 2025 款
@@ -5679,7 +5681,7 @@ SM-N9750,mob,samsung,Samsung,,d2q,Galaxy Note10+,#HK & TW
 SM-N975C,mob,samsung,Samsung,,d2q,Galaxy Note10+,#Japan (Rakuten Mobile)
 SCV45,mob,samsung,Samsung,,d2q,Galaxy Note10+,#Japan (au)
 SC-01M,mob,samsung,Samsung,,d2q,Galaxy Note10+,#Japan (NTT Docomo)
-SM-N976B,mob,samsung,Samsung,,d2x,Galaxy Note10+,#5G Global
+SM-N976B,mob,samsung,Samsung,,d2x,Galaxy Note10+,#5G Global (Exynos)
 SM-N976N,mob,samsung,Samsung,,d2x,Galaxy Note10+,#5G South Korea
 SM-N976Q,mob,samsung,Samsung,,d2xq,Galaxy Note10+,#5G Global (Snapdragon)
 SM-N976V,mob,samsung,Samsung,,d2xq,Galaxy Note10+,#5G Verizon
@@ -5783,9 +5785,406 @@ SM-F731N,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#South Korea
 SM-F731Q,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (SIM Free)
 SCG23,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (au)
 SC-54D,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (NTT Docomo)
+SM-A015F,mob,samsung,Samsung,,a01q,Galaxy A01,#Global
+SM-A015U,mob,samsung,Samsung,,a01q,Galaxy A01,#US Carrier
+SM-A015U1,mob,samsung,Samsung,,a01q,Galaxy A01,#US Unlocked
+SM-A015A,mob,samsung,Samsung,,a01q,Galaxy A01,#AT&T
+SM-A015AZ,mob,samsung,Samsung,,a01q,Galaxy A01,#Cricket
+SM-A015T1,mob,samsung,Samsung,,a01q,Galaxy A01,#T-Mobile
+SM-A015V,mob,samsung,Samsung,,a01q,Galaxy A01,#Verizon
+SM-S111DL,mob,samsung,Samsung,,a01q,Galaxy A01,#TracFone
+SM-A015G,mob,samsung,Samsung,,a01q,Galaxy A01,#India
+SM-A015M,mob,samsung,Samsung,,a01q,Galaxy A01,#Latin America
+SM-A013F,mob,samsung,Samsung,,a01core,Galaxy A01 Core,#Global
+SM-A013G,mob,samsung,Samsung,,a01core,Galaxy A01 Core,#Global
+SM-A013M,mob,samsung,Samsung,,a01core,Galaxy A01 Core,#Latin America
+SM-A022F,mob,samsung,Samsung,,a02,Galaxy A02,#Global
+SM-A022G,mob,samsung,Samsung,,a02,Galaxy A02,#Global
+SM-A022M,mob,samsung,Samsung,,a02,Galaxy A02,#Latin America
+SM-A025F,mob,samsung,Samsung,,a02q,Galaxy A02s,#Global
+SM-A025G,mob,samsung,Samsung,,a02q,Galaxy A02s,#EU
+SM-A025U,mob,samsung,Samsung,,a02q,Galaxy A02s,#US Carrier
+SM-A025U1,mob,samsung,Samsung,,a02q,Galaxy A02s,#US Unlocked
+SM-A025A,mob,samsung,Samsung,,a02q,Galaxy A02s,#AT&T
+SM-A025AZ,mob,samsung,Samsung,,a02q,Galaxy A02s,#Cricket
+SM-A025V,mob,samsung,Samsung,,a02q,Galaxy A02s,#Verizon
+SM-S124DL,mob,samsung,Samsung,,a02q,Galaxy A02s,#TracFone
+SM-A025M,mob,samsung,Samsung,,a02q,Galaxy A02s,#Latin America
+SM-A035F,mob,samsung,Samsung,,a03,Galaxy A03,#Global
+SM-A035G,mob,samsung,Samsung,,a03,Galaxy A03,#EU
+SM-A035M,mob,samsung,Samsung,,a03,Galaxy A03,#Latin America
+SM-A032F,mob,samsung,Samsung,,a3core,Galaxy A03 Core,#Global
+SM-A032M,mob,samsung,Samsung,,a3core,Galaxy A03 Core,#Latin America
+SM-A037F,mob,samsung,Samsung,,a03s,Galaxy A03s,#Global
+SM-A037G,mob,samsung,Samsung,,a03s,Galaxy A03s,#EU
+SM-A037M,mob,samsung,Samsung,,a03s,Galaxy A03s,#Latin America
+SM-A037U,mob,samsung,Samsung,,a03su,Galaxy A03s,#US Carrier
+SM-A037U1,mob,samsung,Samsung,,a03su,Galaxy A03s,#US Unlocked
+SM-S134DL,mob,samsung,Samsung,,a03su,Galaxy A03s,#TracFone
+SM-A037W,mob,samsung,Samsung,,a03su,Galaxy A03s,#Canada
+SM-A045F,mob,samsung,Samsung,,a04,Galaxy A04,#Global
+SM-A045M,mob,samsung,Samsung,,a04,Galaxy A04,#Latin America
+SM-A042F,mob,samsung,Samsung,,a04e,Galaxy A04e,#Global
+SM-A042M,mob,samsung,Samsung,,a04e,Galaxy A04e,#Latin America
+SM-A047F,mob,samsung,Samsung,,a04s,Galaxy A04s,#Global
+SM-A047M,mob,samsung,Samsung,,a04s,Galaxy A04s,#Latin America
+SM-A055F,mob,samsung,Samsung,,a05m,Galaxy A05,#Global
+SM-A055M,mob,samsung,Samsung,,a05m,Galaxy A05,#Latin America
+SM-A057F,mob,samsung,Samsung,,a05s,Galaxy A05s,#Global
+SM-A057G,mob,samsung,Samsung,,a05s,Galaxy A05s,#EU
+SM-A057M,mob,samsung,Samsung,,a05s,Galaxy A05s,#Latin America
+SM-A105F,mob,samsung,Samsung,,a10,Galaxy A10,#Global
+SM-A015FN,mob,samsung,Samsung,,a10,Galaxy A10,#Global
+SM-A015G,mob,samsung,Samsung,,a10,Galaxy A10,#Global
+SM-A105M,mob,samsung,Samsung,,a10,Galaxy A10,#Latin America
+SM-A105N,mob,samsung,Samsung,,a10,Galaxy A10,#South Korea
+SM-A102U,mob,samsung,Samsung,,a10e,Galaxy A10e,#US Carrier
+SM-A102U1,mob,samsung,Samsung,,a10e,Galaxy A10e,#US Unlocked
+SM-S102DL,mob,samsung,Samsung,,a10e,Galaxy A10e,#TracFone
+SM-A102W,mob,samsung,Samsung,,a10e,Galaxy A10e,#Canada
+SM-A102N,mob,samsung,Samsung,,a10ekx,Galaxy A10e,#South Korea
+SM-A107F,mob,samsung,Samsung,,a10s,Galaxy A10s,#Global
+SM-A107M,mob,samsung,Samsung,,a10s,Galaxy A10s,#Latin America
+SM-A115F,mob,samsung,Samsung,,a11q,Galaxy A11,#Global
+SM-A115U,mob,samsung,Samsung,,a11q,Galaxy A11,#US Carrier
+SM-A115U1,mob,samsung,Samsung,,a11q,Galaxy A11,#US Unlocked
+SM-A115A,mob,samsung,Samsung,,a11q,Galaxy A11,#AT&T
+SM-A115AP,mob,samsung,Samsung,,a11q,Galaxy A11,#AT&T
+SM-A115AZ,mob,samsung,Samsung,,a11q,Galaxy A11,#Cricket
+SM-S115DL,mob,samsung,Samsung,,a11q,Galaxy A11,#TracFone
+SM-A115W,mob,samsung,Samsung,,a11q,Galaxy A11,#Canada
+SM-A115M,mob,samsung,Samsung,,a11q,Galaxy A11,#Latin America
 SM-A125F,mob,samsung,Samsung,,a12,Galaxy A12,#Global
-SM-A715F,mob,samsung,Samsung,,a71x,Galaxy A71,#Global
-SM-M115F,mob,samsung,Samsung,,m11,Galaxy M11,#Global
+SM-A125M,mob,samsung,Samsung,,a12,Galaxy A12,#Latin America
+SM-A125N,mob,samsung,Samsung,,a12,Galaxy A12,#South Korea
+SM-A125U,mob,samsung,Samsung,,a12u,Galaxy A12,#US Carrier
+SM-A125U1,mob,samsung,Samsung,,a12u,Galaxy A12,#US Unlocked
+SM-S127DL,mob,samsung,Samsung,,a12u,Galaxy A12,#TracFone
+SM-A125W,mob,samsung,Samsung,,a12u,Galaxy A12,#Canada
+SM-A127F,mob,samsung,Samsung,,a12s,Galaxy A12 Nacho,#Global
+SM-A127M,mob,samsung,Samsung,,a12s,Galaxy A12 Nacho,#Latin America
+SM-A135F,mob,samsung,Samsung,,a13,Galaxy A13,#Global (Exynos)
+SM-A135U,mob,samsung,Samsung,,a13,Galaxy A13,#US Carrier
+SM-A135U1,mob,samsung,Samsung,,a13,Galaxy A13,#US Unlocked
+SM-A135M,mob,samsung,Samsung,,a13,Galaxy A13,#Latin America
+SM-A135N,mob,samsung,Samsung,,a13,Galaxy A13,#South Korea
+SM-A137F,mob,samsung,Samsung,,a13ve,Galaxy A13,#Global (Mediatek)
+SM-A136B,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#Global
+SM-A136U,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#US Carrier
+SM-A136U1,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#US Unlocked
+SM-S136DL,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#TracFone
+SM-A136W,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#Canada
+SM-A136M,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#Latin America
+SM-A145F,mob,samsung,Samsung,,a14,Galaxy A14,#Global (Exynos)
+SM-A145FB,mob,samsung,Samsung,,a14,Galaxy A14,#Global (Exynos)
+SM-A145M,mob,samsung,Samsung,,a14,Galaxy A14,#Latin America
+SM-A145MB,mob,samsung,Samsung,,a14,Galaxy A14,#Latin America
+SM-A145P,mob,samsung,Samsung,,a14m,Galaxy A14,#MEA (Mediatek)
+SM-A145R,mob,samsung,Samsung,,a14m,Galaxy A14,#EU (Mediatek)
+SM-A146B,mob,samsung,Samsung,,a14x,Galaxy A14 5G,#Global (Exynos)
+SM-A146M,mob,samsung,Samsung,,a14x,Galaxy A14 5G,#Latin America
+SM-A146P,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#Global (Mediatek)
+SM-A146U,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#US Carrier
+SM-A146U1,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#US Unlocked
+SM-S146VL,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#TracFone
+SM-A146W,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#Canada
+SM-A155F,mob,samsung,Samsung,,a15,Galaxy A15,#Global
+SM-A155M,mob,samsung,Samsung,,a15,Galaxy A15,#Latin America
+SM-A155N,mob,samsung,Samsung,,a15,Galaxy A15,#South Korea
+SM-A156E,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Global
+SM-A156B,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#EU
+SM-A156U,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#US Carrier
+SM-A156U1,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#US Unlocked
+SM-S156V,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#TracFone
+SM-A156W,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Canada
+SM-A156M,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Latin America
+SM-A1560,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#TW
+SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,#Global
+SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,#India
+SM-A205F,mob,samsung,Samsung,,a20,Galaxy A20,#Global
+SM-A205FN,mob,samsung,Samsung,,a20,Galaxy A20,#EU
+SM-A205G,mob,samsung,Samsung,,a20,Galaxy A20,#Latin America
+SM-A205GN,mob,samsung,Samsung,,a20,Galaxy A20,#Southeast Asia
+SM-A205W,mob,samsung,Samsung,,a20,Galaxy A20,#Canada
+SM-A205YN,mob,samsung,Samsung,,a20,Galaxy A20,#Australia & New Zealand
+SCV46,mob,samsung,Samsung,,a20,Galaxy A20,#Japan (au)
+SC-02M,mob,samsung,Samsung,,a20,Galaxy A20,#Japan (NTT Docomo)
+SM-A205U,mob,samsung,Samsung,,a20p,Galaxy A20,#US Carrier
+SM-A205U1,mob,samsung,Samsung,,a20p,Galaxy A20,#US Unlocked
+SM-S205DL,mob,samsung,Samsung,,a20p,Galaxy A20,#TracFone
+SM-A202F,mob,samsung,Samsung,,a20e,Galaxy A20e,#Global
+SM-A207F,mob,samsung,Samsung,,a20s,Galaxy A20s,#Global
+SM-A207W,mob,samsung,Samsung,,a20s,Galaxy A20s,#Latin America
+SM-A2070,mob,samsung,Samsung,,a20s,Galaxy A20s,#China
+SM-A215U,mob,samsung,Samsung,,a21,Galaxy A21,#US Carrier
+SM-A215U1,mob,samsung,Samsung,,a21,Galaxy A21,#US Unlocked
+SM-S215DL,mob,samsung,Samsung,,a21,Galaxy A21,#TracFone
+SM-A215W,mob,samsung,Samsung,,a21,Galaxy A21,#Canada
+SCV49,mob,samsung,Samsung,,a21,Galaxy A21,#Japan (au)
+SC-42A,mob,samsung,Samsung,,a21,Galaxy A21,#Japan (NTT Docomo)
+SM-A217F,mob,samsung,Samsung,,a21s,Galaxy A21s,#Global
+SM-A217M,mob,samsung,Samsung,,a21s,Galaxy A21s,#Latin America
+SM-A217N,mob,samsung,Samsung,,a21s,Galaxy A21s,#South Korea
+SM-A225F,mob,samsung,Samsung,,a22,Galaxy A22,#Global
+SM-A225M,mob,samsung,Samsung,,a22,Galaxy A22,#Latin America
+SM-A226B,mob,samsung,Samsung,,a22x,Galaxy A22 5G,#Global
+SM-A226BR,mob,samsung,Samsung,,a22x,Galaxy A22 5G,#Global
+SC-56B,mob,samsung,Samsung,,a22x,Galaxy A22 5G,#Japan (NTT DOcomo)
+SM-A226B,mob,samsung,Samsung,,a22x,Galaxy A22s 5G,#Global
+SM-A235F,mob,samsung,Samsung,,a23,Galaxy A23,#Global
+SM-A235M,mob,samsung,Samsung,,a23,Galaxy A23,#Latin America
+SM-A235N,mob,samsung,Samsung,,a23,Galaxy A23,#South Korea
+SM-A235E,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#Global
+SM-A236B,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#EU
+SM-A236U,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#US Carrier
+SM-A236U1,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#US Unlocked
+SM-A236V,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#UW Verizon
+SM-S236DL,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#TracFone
+SM-S237VL,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#TracFone
+SM-A236M,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#Latin America
+SM-A2360,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#HK
+SCG18,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#Japan (au)
+SC-56C,mob,samsung,Samsung,,a23xq,Galaxy A23 5G,#Japan (NTT Docomo)
+SM-A233C,mob,samsung,Samsung,,a23ex,Galaxy A23 5G,#Japan (Rakuten Mobile)
+SM-A245F,mob,samsung,Samsung,,a24,Galaxy A24,#Global
+SM-A245M,mob,samsung,Samsung,,a24,Galaxy A24,#Latin America
+SM-A245N,mob,samsung,Samsung,,a24,Galaxy A24,#South Korea
+SM-A256E,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#Global
+SM-A256B,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#EU
+SM-A256U,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#US Carrier
+SM-A256U1,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#US Unlocked
+SM-S256VL,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#TracFone
+SM-A2560,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#HK
+SM-A256N,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#South Korea
+SM-A305F,mob,samsung,Samsung,,a30,Galaxy A30,#Global
+SM-A305FN,mob,samsung,Samsung,,a30,Galaxy A30,#EU
+SM-A305G,mob,samsung,Samsung,,a30,Galaxy A30,#Latin America
+SM-A305GN,mob,samsung,Samsung,,a30,Galaxy A30,#Southeast Asia
+SM-A305GT,mob,samsung,Samsung,,a30,Galaxy A30,#Brazil
+SM-A305N,mob,samsung,Samsung,,a30,Galaxy A30,#South Korea
+SM-A305YN,mob,samsung,Samsung,,a30,Galaxy A30,#Australia & New Zealand
+SCV43,mob,samsung,Samsung,,a30,Galaxy A30,#Japan (au)
+SM-A307FN,mob,samsung,Samsung,,a30s,Galaxy A30s,#Global
+SM-A307G,mob,samsung,Samsung,,a30s,Galaxy A30s,#Latin America
+SM-A307GN,mob,samsung,Samsung,,a30s,Galaxy A30s,#Southeast Asia
+SM-A307GT,mob,samsung,Samsung,,a30s,Galaxy A30s,#Brazil
+SM-A315F,mob,samsung,Samsung,,a31,Galaxy A31,#Global
+SM-A315G,mob,samsung,Samsung,,a31,Galaxy A31,#Global
+SM-A315N,mob,samsung,Samsung,,a31,Galaxy A31,#South Korea
+SM-A325F,mob,samsung,Samsung,,a32,Galaxy A32,#Global
+SM-A325M,mob,samsung,Samsung,,a32,Galaxy A32,#Latin America
+SM-A325N,mob,samsung,Samsung,,a32,Galaxy A32,#South Korea
+SM-A326B,mob,samsung,Samsung,,a32x,Galaxy A32 5G,#Global
+SM-A326BR,mob,samsung,Samsung,,a32x,Galaxy A32 5G,#Global
+SM-A326U,mob,samsung,Samsung,,a32x,Galaxy A32 5G,#US Carrier
+SM-A326U1,mob,samsung,Samsung,,a32x,Galaxy A32 5G,#US Unlocked
+SM-S326DL,mob,samsung,Samsung,,a32x,Galaxy A32 5G,#TracFone
+SM-A326W,mob,samsung,Samsung,,a32x,Galaxy A32 5G,#Canada
+SCG08,mob,samsung,Samsung,,a32x,Galaxy A32 5G,#Japan (au)
+SM-A336E,mob,samsung,Samsung,,a33x,Galaxy A33 5G,#Global
+SM-A336B,mob,samsung,Samsung,,a33x,Galaxy A33 5G,#EU
+SM-A336M,mob,samsung,Samsung,,a33x,Galaxy A33 5G,#Latin America
+SM-A3360,mob,samsung,Samsung,,a33x,Galaxy A33 5G,#HK
+SM-A336N,mob,samsung,Samsung,,a33x,Galaxy A33 5G,#South Korea
+SM-A346E,mob,samsung,Samsung,,a34x,Galaxy A34 5G,#Global
+SM-A346B,mob,samsung,Samsung,,a34x,Galaxy A34 5G,#EU
+SM-A346M,mob,samsung,Samsung,,a34x,Galaxy A34 5G,#Latin America
+SM-A3460,mob,samsung,Samsung,,a34x,Galaxy A34 5G,#HK & TW
+SM-A346N,mob,samsung,Samsung,,a34x,Galaxy A34 5G,#South Korea
+SM-A356E,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#Global
+SM-A356B,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#EU
+SM-A356U,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#US Carrier
+SM-A356U1,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#US Unlocked
+SM-S356V,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#TracFone
+SM-A356W,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#Canada
+SM-A3560,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#HK & TW
+SM-A356N,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#South Korea
+SM-A405FN,mob,samsung,Samsung,,a40,Galaxy A40,#Global
+SM-A405FM,mob,samsung,Samsung,,a40,Galaxy A40,#Russia
+SM-A405S,mob,samsung,Samsung,,a40,Galaxy A40,#South Korea (SK Telecom)
+SM-A3050,mob,samsung,Samsung,,a30c,Galaxy A40s,#China mainland
+SM-A3058,mob,samsung,Samsung,,a30c,Galaxy A40s,#China Mobile
+SM-A3051,mob,samsung,Samsung,,a30c,Galaxy A40s,#TW
+SM-A415F,mob,samsung,Samsung,,a41,Galaxy A41,#Global
+SCV48,mob,samsung,Samsung,,a41,Galaxy A41,#Japan (au)
+SC-41A,mob,samsung,Samsung,,a41,Galaxy A41,#Japan (NTT Docomo)
+SM-A426B,mob,samsung,Samsung,,a42xq,Galaxy A42 5G,#Global
+SM-A4260,mob,samsung,Samsung,,a42xq,Galaxy A42 5G,#HK
+SM-A426N,mob,samsung,Samsung,,a42xq,Galaxy A42 5G,#South Korea
+SM-A426U,mob,samsung,Samsung,,a42xuq,Galaxy A42 5G,#US Carrier
+SM-A426U1,mob,samsung,Samsung,,a42xuq,Galaxy A42 5G,#US Unlocked
+SM-S426DL,mob,samsung,Samsung,,a42xuq,Galaxy A42 5G,#TracFone
+SM-A505F,mob,samsung,Samsung,,a50,Galaxy A50,#Global
+SM-A505FN,mob,samsung,Samsung,,a50,Galaxy A50,#EU
+SM-A505FM,mob,samsung,Samsung,,a50,Galaxy A50,#Russia
+SM-A505G,mob,samsung,Samsung,,a50,Galaxy A50,#Latin America
+SM-A505GN,mob,samsung,Samsung,,a50,Galaxy A50,#Southeast Asia
+SM-A505GT,mob,samsung,Samsung,,a50,Galaxy A50,#Brazil
+SM-A505U,mob,samsung,Samsung,,a50,Galaxy A50,#US Carrier
+SM-A505U1,mob,samsung,Samsung,,a50,Galaxy A50,#US Unlocked
+SM-S506DL,mob,samsung,Samsung,,a50,Galaxy A50,#TracFone
+SM-A505W,mob,samsung,Samsung,,a50,Galaxy A50,#Canada
+SM-A505N,mob,samsung,Samsung,,a50,Galaxy A50,#South Korea
+SM-A505YN,mob,samsung,Samsung,,a50,Galaxy A50,#Australia & New Zealand
+SM-A507FN,mob,samsung,Samsung,,a50s,Galaxy A50s,#Global
+SM-A5070,mob,samsung,Samsung,,a50s,Galaxy A50s,#China
+SM-A515F,mob,samsung,Samsung,,a51,Galaxy A51,#Global
+SM-A515X,mob,samsung,Samsung,,a51,Galaxy A51,#Global
+SM-A515U,mob,samsung,Samsung,,a51,Galaxy A51,#US Carrier
+SM-A515U1,mob,samsung,Samsung,,a51,Galaxy A51,#US Unlocked
+SM-S515DL,mob,samsung,Samsung,,a51,Galaxy A51,#TracFone
+SM-A515W,mob,samsung,Samsung,,a51,Galaxy A51,#Canada
+SM-A516B,mob,samsung,Samsung,,a51x,Galaxy A51 5G,#Global
+SM-A516U,mob,samsung,Samsung,,a51x,Galaxy A51 5G,#US Carrier
+SM-A516U1,mob,samsung,Samsung,,a51x,Galaxy A51 5G,#US Unlocked
+SM-A5160,mob,samsung,Samsung,,a51x,Galaxy A51 5G,#China
+SM-A516N,mob,samsung,Samsung,,a51x,Galaxy A51 5G,#South Korea
+SM-A516V,mob,samsung,Samsung,,a51xq,Galaxy A51 5G,#UW Verizon
+SM-A525F,mob,samsung,Samsung,,a52q,Galaxy A52,#Global
+SM-A525M,mob,samsung,Samsung,,a52q,Galaxy A52,#Latin America
+SM-A526B,mob,samsung,Samsung,,a52xq,Galaxy A52 5G,#Global
+SM-A526U,mob,samsung,Samsung,,a52xq,Galaxy A52 5G,#US Carrier
+SM-A526U1,mob,samsung,Samsung,,a52xq,Galaxy A52 5G,#US Unlocked
+SM-A526W,mob,samsung,Samsung,,a52xq,Galaxy A52 5G,#Canada
+SM-A5260,mob,samsung,Samsung,,a52xq,Galaxy A52 5G,#China
+SM-A526N,mob,samsung,Samsung,,a52xq,Galaxy A52 5G,#South Korea
+SC-53B,mob,samsung,Samsung,,a52xq,Galaxy A52 5G,#Japan (NTT Docomo)
+SM-A528B,mob,samsung,Samsung,,a52sxq,Galaxy A52s 5G,#Global
+SM-A528N,mob,samsung,Samsung,,a52sxq,Galaxy A52s 5G,#South Korea
+SM-A536E,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#Global
+SM-A536B,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#EU
+SM-A536U,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#US Carrier
+SM-A536U1,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#US Unlocked
+SM-A536V,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#UW Verizon
+SM-S536DL,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#TracFone
+SM-A536W,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#Canada
+SM-A5360,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#China
+SM-A536N,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#South Korea
+SCG15,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#Japan (au)
+SC-53C,mob,samsung,Samsung,,a53x,Galaxy A53 5G,#Japan (NTT Docomo)
+SM-A546E,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#Global
+SM-A546B,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#EU
+SM-A546U,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#US Carrier
+SM-A546U1,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#US Unlocked
+SM-A546V,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#Verizon
+SM-S546VL,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#TracFone
+SM-A546W,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#Canada
+SM-A5460,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#China
+SCG21,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#Japan (au)
+SC-53D,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#Japan (NTT Docomo)
+SM-A556E,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#Global
+SM-A556B,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#EU
+SM-A5560,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#China
+SM-A606F,mob,samsung,Samsung,,a60q,Galaxy A60,#Global
+SM-A6060,mob,samsung,Samsung,,a60q,Galaxy A60,#China mainland
+SM-A606Y,mob,samsung,Samsung,,a60q,Galaxy A60,#TW
+SM-A705F,mob,samsung,Samsung,,a70q,Galaxy A70,#Global
+SM-A705FN,mob,samsung,Samsung,,a70q,Galaxy A70,#Global
+SM-A705GM,mob,samsung,Samsung,,a70q,Galaxy A70,#India
+SM-A705MN,mob,samsung,Samsung,,a70q,Galaxy A70,#Latin America
+SM-A705U,mob,samsung,Samsung,,a70q,Galaxy A70,#US Carrier
+SM-A705U1,mob,samsung,Samsung,,a70q,Galaxy A70,#US Unlocked
+SM-A705W,mob,samsung,Samsung,,a70q,Galaxy A70,#Canada
+SM-A7050,mob,samsung,Samsung,,a70q,Galaxy A70,#China
+SM-A705YN,mob,samsung,Samsung,,a70q,Galaxy A70,#Australia & New Zealand
+SM-A707F,mob,samsung,Samsung,,a70s,Galaxy A70s,#Global
+SM-A7070,mob,samsung,Samsung,,a70s,Galaxy A70s,#China
+SM-A715F,mob,samsung,Samsung,,a71,Galaxy A71,#Global
+SM-A715X,mob,samsung,Samsung,,a71,Galaxy A71,#Global
+SM-A715W,mob,samsung,Samsung,,a71,Galaxy A71,#Canada
+SM-A716B,mob,samsung,Samsung,,a71x,Galaxy A71 5G,#Global
+SM-A7160,mob,samsung,Samsung,,a71x,Galaxy A71 5G,#China
+SM-A716U,mob,samsung,Samsung,,a71xq,Galaxy A71 5G,#US Carrier
+SM-A716U1,mob,samsung,Samsung,,a71xq,Galaxy A71 5G,#US Unlocked
+SM-A716V,mob,samsung,Samsung,,a71xq,Galaxy A71 5G,#UW Verizon
+SM-A725F,mob,samsung,Samsung,,a72q,Galaxy A72,#Global
+SM-A725M,mob,samsung,Samsung,,a72q,Galaxy A72,#Latin America
+SM-A736B,mob,samsung,Samsung,,a73xq,Galaxy A73 5G,#Global
+SM-A805F,mob,samsung,Samsung,,r1q,Galaxy A80,#Global
+SM-A8050,mob,samsung,Samsung,,r1q,Galaxy A80,#China
+SM-A805N,mob,samsung,Samsung,,r1q,Galaxy A80,#South Korea
+SM-A908B,mob,samsung,Samsung,,r3q,Galaxy A90 5G,#Global
+SM-A9080,mob,samsung,Samsung,,r3q,Galaxy A90 5G,#China
+SM-A908N,mob,samsung,Samsung,,r3q,Galaxy A90 5G,#South Korea
+SM-M015F,mob,samsung,Samsung,,m01q,Galaxy M01,#
+SM-M015G,mob,samsung,Samsung,,m01q,Galaxy M01,#
+SM-M013F,mob,samsung,Samsung,,a01core,Galaxy M01 Core,#
+SM-M013F,mob,samsung,Samsung,,a10s,Galaxy M01s,#
+SM-M022F,mob,samsung,Samsung,,a02,Galaxy M02,#India
+SM-M022G,mob,samsung,Samsung,,a02,Galaxy M02,#India (2GB RAM)
+SM-M022M,mob,samsung,Samsung,,a02,Galaxy M02,#Latin America
+SM-M025F,mob,samsung,Samsung,,a02q,Galaxy M02s,#
+SM-M045F,mob,samsung,Samsung,,m04,Galaxy M04,#
+SM-M105G,mob,samsung,Samsung,,m10lte,Galaxy M10,#Global
+SM-M105F,mob,samsung,Samsung,,m10lte,Galaxy M10,#India
+SM-M105M,mob,samsung,Samsung,,m10lte,Galaxy M10,#Latin America
+SM-M105Y,mob,samsung,Samsung,,m10lte,Galaxy M10,#Philippines
+SM-M107F,mob,samsung,Samsung,,m10s,Galaxy M10s,#
+SM-M115F,mob,samsung,Samsung,,m11q,Galaxy M11,#India
+SM-M115M,mob,samsung,Samsung,,m11q,Galaxy M11,#Latin America
+SM-M127G,mob,samsung,Samsung,,m12,Galaxy M12,#India
+SM-M127F,mob,samsung,Samsung,,m12,Galaxy M12,#Latin America
+SM-M127N,mob,samsung,Samsung,,m12,Galaxy M12,#South Korea
+SM-M135F,mob,samsung,Samsung,,m13,Galaxy M13,#EU
+SM-M135FU,mob,samsung,Samsung,,m13,Galaxy M13,#India
+SM-M135M,mob,samsung,Samsung,,m13,Galaxy M13,#Latin America
+SM-M136B,mob,samsung,Samsung,,a13x,Galaxy M13 5G,#
+SM-M145F,mob,samsung,Samsung,,a05s,Galaxy M14,#
+SM-M146B,mob,samsung,Samsung,,m14x,Galaxy M14 5G,#
+SM-M156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,#Global
+SM-E156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,#India
+SM-M205N,mob,samsung,Samsung,,m20,Galaxy M20,#South Korea
+SM-M205F,mob,samsung,Samsung,,m20lte,Galaxy M20,#Global
+SM-M205FN,mob,samsung,Samsung,,m20lte,Galaxy M20,#EU
+SM-M205G,mob,samsung,Samsung,,m20lte,Galaxy M20,#Southeast Asia
+SM-M205M,mob,samsung,Samsung,,m20lte,Galaxy M20,#Latin America
+SM-M215F,mob,samsung,Samsung,,m21,Galaxy M21,#
+SM-M215G,mob,samsung,Samsung,,m21,Galaxy M21,#2021 Edition
+SM-M225FV,mob,samsung,Samsung,,m22,Galaxy M22,#
+SM-M236B,mob,samsung,Samsung,,m23xq,Galaxy M23 5G,#Global
+SM-M236Q,mob,samsung,Samsung,,m23xq,Galaxy M23 5G,#Japan
+SM-M305F,mob,samsung,Samsung,,m30lte,Galaxy M30,#Global
+SM-M305M,mob,samsung,Samsung,,m30lte,Galaxy M30,#Latin America
+SM-M307F,mob,samsung,Samsung,,m30s,Galaxy M30s,#Southeast Asia
+SM-M307FN,mob,samsung,Samsung,,m30s,Galaxy M30s,#Global
+SM-M3070,mob,samsung,Samsung,,m30s,Galaxy M30s,#China
+SM-M315F,mob,samsung,Samsung,,m31,Galaxy M31,#
+SM-M317F,mob,samsung,Samsung,,m31s,Galaxy M31s,#
+SM-M325F,mob,samsung,Samsung,,m32,Galaxy M32,#India
+SM-M325FV,mob,samsung,Samsung,,m32,Galaxy M32,#Southeast Asia
+SM-M326B,mob,samsung,Samsung,,a32x,Galaxy M32 5G,#
+SM-M336B,mob,samsung,Samsung,,m33x,Galaxy M33 5G,#Global
+SM-M336BU,mob,samsung,Samsung,,m33x,Galaxy M33 5G,#India
+SM-M346B,mob,samsung,Samsung,,m34x,Galaxy M34 5G,#India
+SM-M346B1,mob,samsung,Samsung,,m34x,Galaxy M34 5G,#Southeast Asia
+SM-M346B2,mob,samsung,Samsung,,m34x,Galaxy M34 5G,#Global
+SM-M405F,mob,samsung,Samsung,,m40,Galaxy M40,#
+SM-M426B,mob,samsung,Samsung,,a42xq,Galaxy M42 5G,#
+SM-M515F,mob,samsung,Samsung,,m51,Galaxy M51,#
+SM-M526B,mob,samsung,Samsung,,m52xq,Galaxy M52 5G,#
+SM-M526BR,mob,samsung,Samsung,,m52xq,Galaxy M52 5G,#
+SM-M536B,mob,samsung,Samsung,,m53x,Galaxy M53 5G,#
+SM-M546B,mob,samsung,Samsung,,m54x,Galaxy M54 5G,#
+SM-M556B,mob,samsung,Samsung,,m55xq,Galaxy M55 5G,#India
+SM-M556E,mob,samsung,Samsung,,m55xq,Galaxy M55 5G,#Global
+SM-C5560,mob,samsung,Samsung,,m55xq,Galaxy C55 5G,#
+SM-M625F,mob,samsung,Samsung,,m62,Galaxy M62,#
+SM-E025F,mob,samsung,Samsung,,a02q,Galaxy F02s,#
+SM-E045F,mob,samsung,Samsung,,m04,Galaxy F04,#
+SM-F127G,mob,samsung,Samsung,,f12,Galaxy F12,#
+SM-E135F,mob,samsung,Samsung,,m13,Galaxy F13,#
+SM-E145F,mob,samsung,Samsung,,a05s,Galaxy F14,#
+SM-E146B,mob,samsung,Samsung,,m14x,Galaxy F14 5G,#
+SM-E156B,mob,samsung,Samsung,,m15x,Galaxy F15 5G,#
+SM-E225F,mob,samsung,Samsung,,f22,Galaxy F22,#
+SM-E236B,mob,samsung,Samsung,,m23xq,Galaxy F23 5G,#
+SM-E346B,mob,samsung,Samsung,,m34x,Galaxy F34 5G,#
+SM-F415F,mob,samsung,Samsung,,f41,Galaxy F41,#
+SM-E426B,mob,samsung,Samsung,,f42x,Galaxy F42 5G,#
+SM-E5260,mob,samsung,Samsung,,f52x,Galaxy F52 5G,#
+SM-E546B,mob,samsung,Samsung,,m54x,Galaxy F54 5G,#
+SM-E556B,mob,samsung,Samsung,,m55xq,Galaxy F55 5G,#
+SM-E625F,mob,samsung,Samsung,,f62,Galaxy F62,#
 SM701,mob,smartisan,坚果,,sfo,Smartisan T1,#3G 版
 SM705,mob,smartisan,坚果,,sfo,Smartisan T1,#4G 版
 SM801,mob,smartisan,坚果,,icesky,Smartisan T2,#
