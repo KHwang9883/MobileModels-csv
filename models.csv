@@ -1847,7 +1847,7 @@ RMO-NX3,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
 VER-N49,mob,honor,HONOR,,,HONOR Magic V2,#
 VER-N49DP,mob,honor,HONOR,,,PORSCHE DESIGN HONOR Magic V2 RSR,#
 BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,#
-BVL-N59,mob,honor,HONOR,,,PORSCHE DESIGN HONOR Magic6 RSR,#
+BVL-N59,mob,honor,HONOR,,Bvlgari,PORSCHE DESIGN HONOR Magic6 RSR,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 VNA-LX2,mob,honor,HONOR,,,HONOR X5,#
@@ -6536,6 +6536,7 @@ V2218,mob,vivo,vivo,,,X90,#
 V2219,mob,vivo,vivo,,,X90 Pro,#
 V2308,mob,vivo,vivo,,,X100,#
 V2309,mob,vivo,vivo,,,X100 Pro,#
+V2330,mob,vivo,vivo,,,X Fold3 Pro,#
 vivo 1819,mob,vivo,vivo,,,V15,#
 vivo 1920,mob,vivo,vivo,,,V17,#
 vivo 1907,mob,vivo,vivo,,,V17 Neo,#
@@ -6573,11 +6574,13 @@ V2244,mob,vivo,vivo,,,V29 Lite,#5G
 V2318,mob,vivo,vivo,,,V30,#
 V2319,mob,vivo,vivo,,,V30 Pro,vivo Y30 Pro
 V2339,mob,vivo,vivo,,,V30e,#
+V2340,mob,vivo,vivo,,,V30e,#
 V2342,mob,vivo,vivo,,,V30 Lite,#
 V2314,mob,vivo,vivo,,,V30 Lite,#5G
 V2327,mob,vivo,vivo,,,V30 Lite,#5G
 V2327,mob,vivo,vivo,,,V30 SE,#
 V2349,mob,vivo,vivo,,,V30 SE,#
+V2341,mob,vivo,vivo,,,V40 Lite,#
 V2337,mob,vivo,vivo,,,V40 SE,#5G
 vivo 1907,mob,vivo,vivo,,,S1,#
 V1937,mob,vivo,vivo,,,S1 Prime,#
@@ -6695,6 +6698,7 @@ V2154,mob,vivo,vivo,,,Y55,#
 V2127,mob,vivo,vivo,,,Y55,#5G
 V2225,mob,vivo,vivo,,,Y56,#5G
 V2311,mob,vivo,vivo,,,Y56,#5G
+V2355,mob,vivo,vivo,,,Y58,#5G
 V2041,mob,vivo,vivo,,,Y72,#
 V2060,mob,vivo,vivo,,,Y72,#5G
 V2059,mob,vivo,vivo,,,Y73,#
@@ -6704,13 +6708,14 @@ V2142,mob,vivo,vivo,,,Y75,#5G
 V2124,mob,vivo,vivo,,,Y76,#5G
 V2169,mob,vivo,vivo,,,Y77,#5G
 V2244,mob,vivo,vivo,,,Y78,#5G
-V2239,mob,vivo,vivo,,,Y100,#
 V2342,mob,vivo,vivo,,,Y100,#
+V2412,mob,vivo,vivo,,,Y100,#
+V2239,mob,vivo,vivo,,,Y100,#5G
+V2327,mob,vivo,vivo,,,Y100,#5G
 V2222,mob,vivo,vivo,,,Y100A,#5G
 V2307,mob,vivo,vivo,,,Y200,#5G
 V2303,mob,vivo,vivo,,,Y200 Pro,#5G
 V2401,mob,vivo,vivo,,,Y200 Pro,#5G
-V2327,mob,vivo,vivo,,,Y200e,#5G
 V2336,mob,vivo,vivo,,,Y200e,#5G
 I1927,mob,vivo,vivo,,,iQOO 3,#4G
 I1928,mob,vivo,vivo,,,iQOO 3,#5G
@@ -6740,6 +6745,7 @@ I2213,mob,vivo,vivo,,,iQOO Z7,#5G
 I2223,mob,vivo,vivo,,,iQOO Z7s,#5G
 I2216,mob,vivo,vivo,,,iQOO Z7x,#5G
 I2301,mob,vivo,vivo,,,iQOO Z7 Pro,#5G
+I2218,mob,vivo,vivo,,,iQOO Z9,#5G
 I2302,mob,vivo,vivo,,,iQOO Z9,#5G
 I2219,mob,vivo,vivo,,,iQOO Z9x,#5G
 XMSH01HM,band,xiaomi,小米,,,小米手环,#
