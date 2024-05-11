@@ -3353,6 +3353,8 @@ M392Q,mob,meizu,魅族,,m2392,魅族 20 INFINITY 无界版,#
 M461Q,mob,meizu,魅族,,m2461,魅族 21,#公开版
 M461H,mob,meizu,魅族,,m2461,魅族 21,#国际版
 M481Q,mob,meizu,魅族,,m2481,魅族 21 PRO,#
+M468Q,mob,meizu,魅族,,m2468,魅族 21 Note,#公开版
+M468H,mob,meizu,魅族,,m2468,魅族 21 Note,#国际版
 M852Q,mob,meizu,魅族,,m1852,魅族 X8,#公开版
 M852H,mob,meizu,魅族,,m1852,魅族 X8,#国际版
 M813Q,mob,meizu,魅族,,m1813,魅族 V8 高配版,#
@@ -3541,6 +3543,8 @@ M392Q,mob,meizu,MEIZU,,m2392,MEIZU 20 INFINITY,#
 M461Q,mob,meizu,MEIZU,,m2461,MEIZU 21,#China
 M461H,mob,meizu,MEIZU,,m2461,MEIZU 21,#Global
 M481Q,mob,meizu,MEIZU,,m2481,MEIZU 21 PRO,#
+M468Q,mob,meizu,MEIZU,,m2468,MEIZU 21 Note,#China
+M468H,mob,meizu,MEIZU,,m2468,MEIZU 21 Note,#Global
 M463H,mob,meizu,MEIZU,,m71,MEIZU m1 note,#Global
 M463M,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Mobile
 M463U,mob,meizu,MEIZU,,m71,MEIZU m1 note,#China Unicom
@@ -4563,6 +4567,8 @@ PHV110,mob,oppo,OPPO,,viven,OPPO Reno10 Pro,#
 PHU110,mob,oppo,OPPO,,monroe,OPPO Reno10 Pro+,#
 PJH110,mob,oppo,OPPO,,huahai,OPPO Reno11,#
 PJJ110,mob,oppo,OPPO,,daoxiang,OPPO Reno11 Pro,#
+PJV110,mob,oppo,OPPO,,,OPPO Reno12,#
+PJW110,mob,oppo,OPPO,,,OPPO Reno12 Pro,#
 PCLM10,mob,oppo,OPPO,,,OPPO Reno Ace,#
 PDHM00,mob,oppo,OPPO,,,OPPO Ace2,#
 PACM00,mob,oppo,OPPO,,,OPPO R15,#全网通版
@@ -6623,6 +6629,7 @@ V2252,mob,vivo,vivo,,,Y02t,#
 V2254,mob,vivo,vivo,,,Y02t,#
 V2325,mob,vivo,vivo,,,Y02t,#
 V2332,mob,vivo,vivo,,,Y03,#
+V2406,mob,vivo,vivo,,,Y03,#
 V2028,mob,vivo,vivo,,,Y11s,#
 vivo 1904,mob,vivo,vivo,,,Y12,#
 V2026,mob,vivo,vivo,,,Y12A,#
@@ -6648,6 +6655,7 @@ V2310,mob,vivo,vivo,,,Y17s,#
 V2331,mob,vivo,vivo,,,Y17s,#
 V2333,mob,vivo,vivo,,,Y18,#
 V2345,mob,vivo,vivo,,,Y18,#
+V2410,mob,vivo,vivo,,,Y18s,#
 V2350,mob,vivo,vivo,,,Y18e,#
 vivo 1915,mob,vivo,vivo,,,Y19,#
 V2027,mob,vivo,vivo,,,Y20,#
@@ -6678,6 +6686,8 @@ V2248,mob,vivo,vivo,,,Y27,#5G
 V2302,mob,vivo,vivo,,,Y27,#5G
 V2322,mob,vivo,vivo,,,Y27s,#
 V2335,mob,vivo,vivo,,,Y27s,#
+V2352,mob,vivo,vivo,,,Y28,#
+V2353,mob,vivo,vivo,,,Y28,#
 V2315,mob,vivo,vivo,,,Y28,#5G
 V2160,mob,vivo,vivo,,,Y30,#5G
 V2036,mob,vivo,vivo,,,Y31,#
