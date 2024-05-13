@@ -255,6 +255,12 @@ A2325,pad,apple,Apple,J308AP,"iPad13,2",iPad Air (第 4 代),#(无线局域网 +
 A2588,pad,apple,Apple,J407AP,"iPad13,16",iPad Air (第 5 代),#无线局域网
 A2589,pad,apple,Apple,J408AP,"iPad13,17",iPad Air (第 5 代),#(无线局域网 + 蜂窝网络) (eSIM)
 A2591,pad,apple,Apple,J408AP,"iPad13,17",iPad Air (第 5 代),#(无线局域网 + 蜂窝网络) (中国大陆)
+A2902,pad,apple,Apple,J507AP,"iPad14,8","iPad Air (11 英寸, M2)",#无线局域网
+A2903,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11 英寸, M2)",#无线局域网 + 蜂窝网络
+A2904,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11 英寸, M2)",#(无线局域网 + 蜂窝网络) (中国大陆)
+A2898,pad,apple,Apple,J537AP,"iPad14,10","iPad Air (13 英寸, M2)",#无线局域网
+A2899,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13 英寸, M2)",#无线局域网 + 蜂窝网络
+A2900,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13 英寸, M2)",#(无线局域网 + 蜂窝网络) (中国大陆)
 A1584,pad,apple,Apple,J98aAP,"iPad6,7",iPad Pro (12.9 英寸),#无线局域网
 A1652,pad,apple,Apple,J99aAP,"iPad6,8",iPad Pro (12.9 英寸),#无线局域网 + 蜂窝网络
 A1673,pad,apple,Apple,J127AP,"iPad6,3",iPad Pro (9.7 英寸),#无线局域网
@@ -314,6 +320,12 @@ A2436,pad,apple,Apple,J620AP,"iPad14,5","iPad Pro (12.9 英寸, 第 6 代)",#无
 A2437,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9 英寸, 第 6 代)",#(无线局域网 + 蜂窝网络) (eSIM)
 A2764,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9 英寸, 第 6 代)","#(无线局域网 + 蜂窝网络) (eSIM, 毫米波)"
 A2766,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9 英寸, 第 6 代)",#(无线局域网 + 蜂窝网络) (中国大陆)
+A2836,pad,apple,Apple,J717AP,"iPad16,3","iPad Pro (11 英寸, M4)",#无线局域网
+A2837,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11 英寸, M4)",#无线局域网 + 蜂窝网络
+A3006,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11 英寸, M4)",#(无线局域网 + 蜂窝网络) (中国大陆)
+A2925,pad,apple,Apple,J720AP,"iPad16,5","iPad Pro (13 英寸, M4)",#无线局域网
+A2926,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13 英寸, M4)",#无线局域网 + 蜂窝网络
+A3007,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13 英寸, M4)",#(无线局域网 + 蜂窝网络) (中国大陆)
 A1432,pad,apple,Apple,P105AP,"iPad2,5",iPad mini,#无线局域网
 A1454,pad,apple,Apple,P106AP,"iPad2,6",iPad mini,#无线局域网 + 蜂窝网络
 A1455,pad,apple,Apple,P107AP,"iPad2,7",iPad mini,#(无线局域网 + 蜂窝网络) (中国大陆)
@@ -632,6 +644,12 @@ A2325,pad,apple,Apple,J308AP,"iPad13,2",iPad Air (4th generation),#Wi-Fi + Cellu
 A2588,pad,apple,Apple,J407AP,"iPad13,16",iPad Air (5th generation),#Wi-Fi
 A2589,pad,apple,Apple,J408AP,"iPad13,17",iPad Air (5th generation),#Wi-Fi + Cellular
 A2591,pad,apple,Apple,J408AP,"iPad13,17",iPad Air (5th generation),#Wi-Fi + Cellular (China mainland)
+A2902,pad,apple,Apple,J507AP,"iPad14,8","iPad Air (11-inch, M2)",#Wi-Fi
+A2903,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11-inch, M2)",#Wi-Fi + Cellular
+A2904,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11-inch, M2)",#Wi-Fi + Cellular (China mainland)
+A2898,pad,apple,Apple,J537AP,"iPad14,10","iPad Air (13-inch, M2)",#Wi-Fi
+A2899,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13-inch, M2)",#Wi-Fi + Cellular
+A2900,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13-inch, M2)",#Wi-Fi + Cellular (China mainland)
 A1584,pad,apple,Apple,J98aAP,"iPad6,7",iPad Pro (12.9-inch),#Wi-Fi
 A1652,pad,apple,Apple,J99aAP,"iPad6,8",iPad Pro (12.9-inch),#Wi-Fi + Cellular
 A1673,pad,apple,Apple,J127AP,"iPad6,3",iPad Pro (9.7-inch),#Wi-Fi
@@ -691,6 +709,12 @@ A2436,pad,apple,Apple,J620AP,"iPad14,5","iPad Pro (12.9-inch, 6th generation)",#
 A2437,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",#Wi-Fi + Cellular
 A2764,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",#Wi-Fi + Cellular (mmWave)
 A2766,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",#Wi-Fi + Cellular (China mainland)
+A2836,pad,apple,Apple,J717AP,"iPad16,3","iPad Pro (11-inch, M4)",#Wi-Fi
+A2837,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11-inch, M4)",#Wi-Fi + Cellular
+A3006,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11-inch, M4)",#Wi-Fi + Cellular (China mainland)
+A2925,pad,apple,Apple,J720AP,"iPad16,5","iPad Pro (13-inch, M4)",#Wi-Fi
+A2926,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13-inch, M4)",#Wi-Fi + Cellular
+A3007,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13-inch, M4)",#Wi-Fi + Cellular (China mainland)
 A1432,pad,apple,Apple,P105AP,"iPad2,5",iPad mini,#Wi-Fi
 A1454,pad,apple,Apple,P106AP,"iPad2,6",iPad mini,#Wi-Fi + Cellular
 A1455,pad,apple,Apple,P107AP,"iPad2,7",iPad mini,#Wi-Fi + Cellular (China mainland)
@@ -893,6 +917,10 @@ A2316,pad,apple,Apple,J307AP,"iPad13,1",iPad Air (第 4 代),#无线局域网
 A2325,pad,apple,Apple,J308AP,"iPad13,2",iPad Air (第 4 代),#无线局域网 + 蜂窝网络
 A2588,pad,apple,Apple,J407AP,"iPad13,16",iPad Air (第 5 代),#无线局域网
 A2591,pad,apple,Apple,J408AP,"iPad13,17",iPad Air (第 5 代),#无线局域网 + 蜂窝网络
+A2902,pad,apple,Apple,J507AP,"iPad14,8","iPad Air (11 英寸, M2)",#无线局域网
+A2904,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11 英寸, M2)",#无线局域网 + 蜂窝网络
+A2898,pad,apple,Apple,J537AP,"iPad14,10","iPad Air (13 英寸, M2)",#无线局域网
+A2900,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13 英寸, M2)",#无线局域网 + 蜂窝网络
 A1584,pad,apple,Apple,J98aAP,"iPad6,7",iPad Pro (12.9 英寸),#无线局域网
 A1652,pad,apple,Apple,J99aAP,"iPad6,8",iPad Pro (12.9 英寸),#无线局域网 + 蜂窝网络
 A1673,pad,apple,Apple,J127AP,"iPad6,3",iPad Pro (9.7 英寸),#无线局域网
@@ -924,7 +952,11 @@ A2462,pad,apple,Apple,J523xAP,"iPad13,11","iPad Pro (12.9 英寸, 第 5 代)","#
 A2759,pad,apple,Apple,J617AP,"iPad14,3","iPad Pro (11 英寸, 第 4 代)",#无线局域网
 A2762,pad,apple,Apple,J618AP,"iPad14,4","iPad Pro (11 英寸, 第 4 代)",#无线局域网 + 蜂窝网络
 A2436,pad,apple,Apple,J620AP,"iPad14,5","iPad Pro (12.9 英寸, 第 6 代)",#无线局域网
-A2766,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9 英寸, 第 6 代)",#(无线局域网 + 蜂窝网络) (中国大陆)
+A2766,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9 英寸, 第 6 代)",#无线局域网 + 蜂窝网络
+A2836,pad,apple,Apple,J717AP,"iPad16,3","iPad Pro (11 英寸, M4)",#无线局域网
+A3006,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11 英寸, M4)",#无线局域网 + 蜂窝网络
+A2925,pad,apple,Apple,J720AP,"iPad16,5","iPad Pro (13 英寸, M4)",#无线局域网
+A3007,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13 英寸, M4)",#无线局域网 + 蜂窝网络
 A1432,pad,apple,Apple,P105AP,"iPad2,5",iPad mini,#无线局域网
 A1455,pad,apple,Apple,P107AP,"iPad2,7",iPad mini,#无线局域网 + 蜂窝网络
 A1489,pad,apple,Apple,J85AP,"iPad4,4",iPad mini 2,#无线局域网
