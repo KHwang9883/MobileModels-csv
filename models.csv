@@ -1676,6 +1676,7 @@ FRI-G561,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+1TB)
 FRI-H76,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#R7 (16GB+512GB)
 FRI-G56,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5 (16GB+512GB)
 FRI-G561,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5 (16GB+1TB)
+FRI-H56,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#R5 (16GB+512GB)
 FMI-76,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2024,#R7 (16GB+512GB)
 FMI-721,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2024,#R7 (32GB+1TB)
 BBR-WAI9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i3
@@ -1690,6 +1691,7 @@ BRN-G561,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+1TB)
 BRN-H76,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#R7 (16GB+512GB)
 BRN-G56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+512GB)
 BRN-G561,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+1TB)
+BRN-H56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#R5 (16GB+512GB)
 BRI-76,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (16GB+512GB)
 BRI-721,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (32GB+1TB)
 FRI-F56Z,computer,honor,荣耀,,,荣耀 MagicBook Z3 14 2023,#i5
@@ -2163,6 +2165,7 @@ BLK-AL00,mob,huawei,华为,,,HUAWEI nova 12,#
 FIN-AL60,mob,huawei,华为,,Fiona+,HUAWEI nova 12 活力版,#
 ADA-AL00,mob,huawei,华为,,Adela,HUAWEI nova 12 Pro,#
 ADA-AL00U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#
+ADA-AL10U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#星耀版
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,#移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,#联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,#电信版
@@ -2345,6 +2348,8 @@ SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8,#英寸 全网通版
 DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11,#英寸 Wi-Fi 版
 DBR-W00,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 2023,#英寸 2023 Wi-Fi 版
 DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 2023,#英寸 2023 柔光版 Wi-Fi 版
+DMG-W00,pad,huawei,华为,,,"HUAWEI MatePad 11.5"" S",#灵动款 Wi-Fi 版
+TGR-W10,pad,huawei,华为,,Tagore,"HUAWEI MatePad 11.5"" S",#柔光版 Wi-Fi 版
 DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
 DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 全网通版
 AGS2-W09,pad,huawei,华为,,Agassi2,华为畅享平板,#10.1 英寸 Wi-Fi 版
@@ -2471,6 +2476,8 @@ KLVL-W76W,computer,huawei,华为,,KelvinL,HUAWEI MateBook 14 2021,#R7
 KLVF-16,computer,huawei,华为,,KelvinF,HUAWEI MateBook 14 2022,#
 KLVG-16,computer,huawei,华为,,KelvinG,HUAWEI MateBook 14 2023,#16GB 内存
 KLVG-32,computer,huawei,华为,,KelvinG,HUAWEI MateBook 14 2023,#32GB 内存
+FLMH-16,computer,huawei,华为,,FlemingH,HUAWEI MateBook 14 2024,#16GB 内存
+FLMH-32,computer,huawei,华为,,FlemingH,HUAWEI MateBook 14 2024,#32GB 内存
 HKD-W58,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i5 (8GB+512GB)
 HKD-W56,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i5 (16GB+512GB)
 HKD-W76,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,#i7 (16GB+512GB/1TB)
@@ -2589,7 +2596,10 @@ MRGFZ-7651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7 (16GB+512
 MRGFZ-W7611,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7 (16GB+1TB)
 YTSFZ-5651TP,computer,huawei,华为,,YutuFZ,华为擎云 S520,#i5
 YTSFZ-7611T,computer,huawei,华为,,YutuFZ,华为擎云 S520,#i7
+YTGZ-5651SP,computer,huawei,华为,,YutuGZ,华为擎云 S520 Gen2,#i5 (16GB+512GB)
 YTSGZ-5651TP,computer,huawei,华为,,YutuGZ,华为擎云 S520 Gen2,#i5 (16GB+512GB)
+YTGZ-5611SP,computer,huawei,华为,,YutuGZ,华为擎云 S520 Gen2,#i5 (16GB+1TB)
+YTGZ-7611S,computer,huawei,华为,,YutuGZ,华为擎云 S520 Gen2,#i7 (16GB+1TB)
 YTSGZ-7611TP,computer,huawei,华为,,YutuGZ,华为擎云 S520 Gen2,#i7 (16GB+1TB)
 YTFZ-5851S,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5 (U15) (8GB+512GB)
 YTFZ-5851SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5 (P28) (8GB+512GB)
@@ -2768,6 +2778,8 @@ ALX-AL10,watch,huawei,华为,,Alex,华为儿童手表 3X,#
 ASN-AL10,watch,huawei,华为,,,华为儿童手表 4 Pro,#
 NIK-AL00,watch,huawei,华为,,Nick,华为儿童手表 4X,#
 KTY-L10,watch,huawei,华为,,,华为儿童手表 5,#
+KTY-L10D,watch,huawei,华为,,,华为儿童手表 5,#新耀版
+TGR-L10,watch,huawei,华为,,,华为儿童手表 5 Pro,#
 ALA-AL10,watch,huawei,华为,,,华为儿童手表 5X,#
 AHP-AL10,watch,huawei,华为,,,华为儿童手表 5X Pro,#
 CMG0-PER,watch,huawei,华为,,,HUAWEI X GENTLE MONSTER Eyewear,#
@@ -3109,6 +3121,7 @@ BTK-AL09,pad,huawei,HUAWEI,,Bartok,HUAWEI MatePad,#11.5 LTE
 DBY-W09,pad,huawei,HUAWEI,,Debussy,HUAWEI MatePad 11,#Wi-Fi
 DBR-W09,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,#Wi-Fi
 DBR-W19,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,#PaperMatte Edition Wi-Fi
+TGR-W09,pad,huawei,HUAWEI,,Tagore,"HUAWEI MatePad 11.5"" S",#Wi-Fi
 DBY2-W09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,#Wi-Fi
 DBY2-L09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,#LTE
 MRX-W09,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 Wi-Fi
@@ -6206,6 +6219,7 @@ SM-M336BU,mob,samsung,Samsung,,m33x,Galaxy M33 5G,#India
 SM-M346B,mob,samsung,Samsung,,m34x,Galaxy M34 5G,#India
 SM-M346B1,mob,samsung,Samsung,,m34x,Galaxy M34 5G,#Southeast Asia
 SM-M346B2,mob,samsung,Samsung,,m34x,Galaxy M34 5G,#Global
+SM-M356B,mob,samsung,Samsung,,m35x,Galaxy M35 5G,#
 SM-M405F,mob,samsung,Samsung,,m40,Galaxy M40,#
 SM-M426B,mob,samsung,Samsung,,a42xq,Galaxy M42 5G,#
 SM-M515F,mob,samsung,Samsung,,m51,Galaxy M51,#
