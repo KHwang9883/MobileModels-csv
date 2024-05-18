@@ -1251,10 +1251,10 @@ FRI-AN10,mob,honor,荣耀,,Ferrari,荣耀 Magic Vs 至臻版,#
 PGT-AN00,mob,honor,荣耀,,Piaget,荣耀 Magic5,#
 PGT-AN10,mob,honor,荣耀,,Piaget,荣耀 Magic5 Pro,#
 PGT-AN20,mob,honor,荣耀,,Piaget,荣耀 Magic5 至臻版,#
-VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2,#
-VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 至臻版,#
-VER-AN10,mob,honor,荣耀,,,荣耀 Magic V2 RSR 保时捷设计,#
-VER-AN00,mob,honor,荣耀,,,荣耀 Magic Vs2,#
+VER-AN10,mob,honor,荣耀,,Veyron,荣耀 Magic V2,#
+VER-AN10,mob,honor,荣耀,,Veyron,荣耀 Magic V2 至臻版,#
+VER-AN10,mob,honor,荣耀,,Veyron,荣耀 Magic V2 RSR 保时捷设计,#
+VER-AN00,mob,honor,荣耀,,Veyron,荣耀 Magic Vs2,#
 BVL-AN00,mob,honor,荣耀,,Bvlgari,荣耀 Magic6,#
 BVL-AN16,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 Pro,#
 BVL-AN20,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 至臻版,#
@@ -5026,6 +5026,7 @@ RMX3687,mob,realme,realme,,,真我 10 Pro+,#
 RMX3751,mob,realme,realme,,,真我 11,#
 RMX3770,mob,realme,realme,,,真我 11 Pro,#
 RMX3740,mob,realme,realme,,,真我 11 Pro+,#
+RMX3992,mob,realme,realme,,,真我 12,#
 RMX3993,mob,realme,realme,,,真我 12x,#
 RMX3843,mob,realme,realme,,coffee-a,真我 12 Pro,#
 RMX3841,mob,realme,realme,,coffee,真我 12 Pro+,#
@@ -6651,6 +6652,9 @@ V2314,mob,vivo,vivo,,,V30 Lite,#5G
 V2327,mob,vivo,vivo,,,V30 Lite,#5G
 V2327,mob,vivo,vivo,,,V30 SE,#
 V2349,mob,vivo,vivo,,,V30 SE,#
+V2348,mob,vivo,vivo,,,V40,#
+V2347,mob,vivo,vivo,,,V40 Pro,#
+V2403,mob,vivo,vivo,,,V40e,#
 V2341,mob,vivo,vivo,,,V40 Lite,#
 V2337,mob,vivo,vivo,,,V40 SE,#5G
 vivo 1907,mob,vivo,vivo,,,S1,#
@@ -6750,6 +6754,7 @@ V2335,mob,vivo,vivo,,,Y27s,#
 V2352,mob,vivo,vivo,,,Y28,#
 V2353,mob,vivo,vivo,,,Y28,#
 V2315,mob,vivo,vivo,,,Y28,#5G
+V2346,mob,vivo,vivo,,,Y28s,#5G
 V2160,mob,vivo,vivo,,,Y30,#5G
 V2036,mob,vivo,vivo,,,Y31,#
 V2036_21,mob,vivo,vivo,,,Y31,#
@@ -7430,6 +7435,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 国行版
 23090RA98G,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 国际版
 23090RA98I,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 印度版
 24040RA98R,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 日本版
+2406ERN9CC,mob,xiaomi,小米,N19,breeze,Redmi Note 13R,#
 2311FRAFDC,mob,xiaomi,小米,N17,gold,Redmi Note 13R Pro,#
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,#
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,#
@@ -8124,6 +8130,7 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 23090RA98I,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#India
 23090RA98C,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#China
 24040RA98R,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#Japan
+2406ERN9CC,mob,xiaomi,Xiaomi,N19,breeze,Redmi Note 13R,#China
 2311FRAFDC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13R Pro,#China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
