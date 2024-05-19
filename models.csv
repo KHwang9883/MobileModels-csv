@@ -1150,6 +1150,7 @@ CP07,mob,coolpad,酷派,,,酷派 COOL 20s,#5G
 CP13,mob,coolpad,酷派,,,酷派 COOL 30|酷派 COOL 30+,#
 CP13,mob,coolpad,酷派,,,酷派 COOL 30|酷派 COOL 30+,1#
 CP15,mob,coolpad,酷派,,,酷派 COOL 30 Pro,#5G
+CP3NV2,mob,coolpad,酷派,,,酷派 COOL 60,#5G
 CP16t,mob,coolpad,酷派,,,酷派大观 40s,#5G
 CP17,mob,coolpad,酷派,,,酷派大观 50s,#5G
 CP27,mob,coolpad,酷派,,,酷派大观 Y60,#5G
@@ -1447,6 +1448,7 @@ VNE-AN40,mob,honor,荣耀,,Vinnie,荣耀 Play6C,#5G
 RKY-AN10,mob,honor,荣耀,,Rocky,荣耀 Play7T,#5G
 DIO-AN00,mob,honor,荣耀,,Dior,荣耀 Play7T Pro,#5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀 Play8T,#5G
+LLY-AN00,mob,honor,荣耀,,Lily,荣耀 Play8T Pro,#5G
 EDI-AL10,mob,honor,荣耀,,Edison,荣耀 Note8,#全网通版
 EDI-DL00,mob,honor,荣耀,,Edison,荣耀 Note8,#移动/联通版
 RVL-AL09,mob,honor,荣耀,,Ravel,荣耀 Note10,#
@@ -3915,6 +3917,7 @@ L65MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#65 2024 款
 L75MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#75 2024 款
 L65R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#65
 L75R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#75
+L85RA-RX,tv,mitv,小米,,,Redmi 智能电视 MAX,#85 英寸
 L86R6-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#86 英寸
 L90R9-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#90 英寸
 L98M6-RK,tv,mitv,小米,,,Redmi 智能电视 MAX,#98 英寸
