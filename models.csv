@@ -7269,8 +7269,8 @@ A401XM,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (SoftBank)
 23108RN04Y,mob,xiaomi,小米,C3UN,gust,Redmi 13C,#国际版 (NFC)
 23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#国行版
 23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,1#
-23124RN87G,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#国际版
 23124RN87I,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#印度版
+23124RN87G,mob,xiaomi,小米,C3V,atmos,Redmi 13C 5G,#国际版
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,#移动 3G 标准版
@@ -7516,6 +7516,8 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 23129RN51X,mob,xiaomi,小米,C3Y,blue,Redmi A3,#国际版
 23129RN51H,mob,xiaomi,小米,C3Y,blue,Redmi A3,#印度版
 2312CRNCCL,mob,xiaomi,小米,C3YL,blue,Redmi A3,#拉美版
+24048RN6CG,mob,xiaomi,小米,,klein,Redmi A3x,#国际版
+24048RN6CI,mob,xiaomi,小米,,klein,Redmi A3x,#印度版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国际版
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#国行版
@@ -7523,6 +7525,7 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 23073RPBFL,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#拉美版
 2405CRPFDC,pad,xiaomi,小米,,dizi,Redmi Pad Pro,#国行版
 2405CRPFDG,pad,xiaomi,小米,,dizi,Redmi Pad Pro,#国际版
+2405CRPFDL,pad,xiaomi,小米,,dizi,Redmi Pad Pro,#拉美版
 24074RPD2C,pad,xiaomi,小米,,ruan,Redmi Pad Pro 5G,#国行版
 24074RPD2G,pad,xiaomi,小米,,ruan,Redmi Pad Pro 5G,#国际版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
@@ -7580,6 +7583,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,#印度版
 2404APC5FG,mob,xiaomi,小米,N19C,moon,POCO M6,#国际版
 2404APC5FI,mob,xiaomi,小米,N19C,tides,POCO M6,#印度版
 23128PC33I,mob,xiaomi,小米,C3VP,air,POCO M6 5G,#印度版
+24066PC95I,mob,xiaomi,小米,N19P,breeze,POCO M6 Plus 5G,#印度版
 2312FPCA6G,mob,xiaomi,小米,N6P,emerald,POCO M6 Pro,#国际版
 23076PC4BI,mob,xiaomi,小米,M19P,sky,POCO M6 Pro 5G,#印度版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
@@ -7963,7 +7967,7 @@ A401XM,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SoftBank)
 2311DRN14I,mob,xiaomi,Xiaomi,C3U,gale,Redmi 13C,#India
 23100RN82L,mob,xiaomi,Xiaomi,C3UL,gale,Redmi 13C,#Latin America
 23108RN04Y,mob,xiaomi,Xiaomi,C3UN,gust,Redmi 13C,#Global (NFC)
-23124RN87G,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#Global
+23124RN87G,mob,xiaomi,Xiaomi,C3V,atmos,Redmi 13C 5G,#Global
 23124RN87I,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#India
 23124RN87C,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#China
 23124RN87C,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,1#China
@@ -8211,6 +8215,8 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#India
 23129RN51X,mob,xiaomi,Xiaomi,C3Y,blue,Redmi A3,#Global
 23129RN51H,mob,xiaomi,Xiaomi,C3Y,blue,Redmi A3,#India
 2312CRNCCL,mob,xiaomi,Xiaomi,C3YL,blue,Redmi A3,#Latin America
+24048RN6CG,mob,xiaomi,Xiaomi,,klein,Redmi A3x,#Global
+24048RN6CI,mob,xiaomi,Xiaomi,,klein,Redmi A3x,#India
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,#Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,#Global
@@ -8266,6 +8272,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,#India
 2404APC5FG,mob,xiaomi,Xiaomi,N19C,moon,POCO M6,#Global
 2404APC5FI,mob,xiaomi,Xiaomi,N19C,tides,POCO M6,#India
 23128PC33I,mob,xiaomi,Xiaomi,C3VP,air,POCO M6 5G,#India
+24066PC95I,mob,xiaomi,Xiaomi,N19P,breeze,POCO M6 Plus 5G,#India
 2312FPCA6G,mob,xiaomi,Xiaomi,N6P,emerald,POCO M6 Pro,#Global
 23076PC4BI,mob,xiaomi,Xiaomi,M19P,sky,POCO M6 Pro 5G,#India
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
@@ -8308,6 +8315,7 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,#China
 23073RPBFL,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#Latin America
 2405CRPFDG,pad,xiaomi,Xiaomi,,dizi,Redmi Pad Pro,#Global
 2405CRPFDC,pad,xiaomi,Xiaomi,,dizi,Redmi Pad Pro,#China
+2405CRPFDL,pad,xiaomi,Xiaomi,,dizi,Redmi Pad Pro,#Latin America
 24074RPD2G,pad,xiaomi,Xiaomi,,ruan,Redmi Pad Pro 5G,#Global
 24074RPD2C,pad,xiaomi,Xiaomi,,ruan,Redmi Pad Pro 5G,#China
 2405CPCFBG,pad,xiaomi,Xiaomi,,dizi,POCO Pad,#Global
