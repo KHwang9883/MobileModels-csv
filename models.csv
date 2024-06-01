@@ -4839,6 +4839,7 @@ CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F|OPPO Reno11 A,#5G
 CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F|OPPO Reno11 A,1#
 CPH2625,mob,oppo,OPPO,,,OPPO Reno12,#5G
 CPH2629,mob,oppo,OPPO,,,OPPO Reno12 Pro,#5G
+CPH2637,mob,oppo,OPPO,,,OPPO Reno12 F,#5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,#
 CPH1821,mob,oppo,OPPO,,,OPPO F7,#
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,#
@@ -6441,9 +6442,10 @@ V2230A,mob,vivo,vivo,,PD2230,Y35|Y35m,#5G
 V2230A,mob,vivo,vivo,,PD2230,Y35|Y35m,1#5G
 V2279A,mob,vivo,vivo,,PD2279,Y35+|Y35m+,#5G
 V2279A,mob,vivo,vivo,,PD2279,Y35+|Y35m+,1#5G
-V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i,#5G
-V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i,1#5G
-V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i,2#5G
+V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,#5G
+V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,1#5G
+V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,2#5G
+V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,3#5G
 V2327A,mob,vivo,vivo,,PD2327,Y36t,#
 V1965A,mob,vivo,vivo,,PD1965,Y50,#
 V2023EA,mob,vivo,vivo,,PD2023,Y50t,#
@@ -6679,6 +6681,7 @@ V2347,mob,vivo,vivo,,,V40 Pro,#
 V2403,mob,vivo,vivo,,,V40e,#
 V2341,mob,vivo,vivo,,,V40 Lite,#
 V2337,mob,vivo,vivo,,,V40 SE,#5G
+V2342,mob,vivo,vivo,,,V40 SE,#5G
 vivo 1907,mob,vivo,vivo,,,S1,#
 V1937,mob,vivo,vivo,,,S1 Prime,#
 vivo 1920,mob,vivo,vivo,,,S1 Pro,#
@@ -6697,6 +6700,7 @@ V2253,mob,vivo,vivo,,,T2x,#5G
 V2312,mob,vivo,vivo,,,T2x,#5G
 V2334,mob,vivo,vivo,,,T3,#5G
 V2338,mob,vivo,vivo,,,T3x,#5G
+V2356,mob,vivo,vivo,,,T3 Lite,#5G
 vivo 1929,mob,vivo,vivo,,,Y1s,#
 vivo 2015,mob,vivo,vivo,,,Y1s,#
 vivo 2015_21,mob,vivo,vivo,,,Y1s,#
@@ -6777,6 +6781,8 @@ V2352,mob,vivo,vivo,,,Y28,#
 V2353,mob,vivo,vivo,,,Y28,#
 V2315,mob,vivo,vivo,,,Y28,#5G
 V2346,mob,vivo,vivo,,,Y28s,#5G
+V2351,mob,vivo,vivo,,,Y28s,#5G
+V2407,mob,vivo,vivo,,,Y28e,#5G
 V2160,mob,vivo,vivo,,,Y30,#5G
 V2036,mob,vivo,vivo,,,Y31,#
 V2036_21,mob,vivo,vivo,,,Y31,#
@@ -6850,6 +6856,7 @@ I2301,mob,vivo,vivo,,,iQOO Z7 Pro,#5G
 I2218,mob,vivo,vivo,,,iQOO Z9,#5G
 I2302,mob,vivo,vivo,,,iQOO Z9,#5G
 I2219,mob,vivo,vivo,,,iQOO Z9x,#5G
+I2306,mob,vivo,vivo,,,iQOO Z9 Lite,#5G
 XMSH01HM,band,xiaomi,小米,,,小米手环,#
 XMSH02HM,band,xiaomi,小米,,,小米手环,#光感版
 XMSH03HM,band,xiaomi,小米,,,小米手环,#光感版
