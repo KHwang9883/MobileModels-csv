@@ -4246,7 +4246,9 @@ NX617J,mob,nubia,努比亚,,,N3,#
 NX301J,mob,nubia,努比亚,,,N5,#
 nubia 8150N,mob,nubia,努比亚,,,Neo,#5G
 Z2352N,mob,nubia,努比亚,,,Neo 2,#5G
+Z2353,mob,nubia,努比亚,,,Music,#
 Z6255CA,mob,nubia,努比亚,,,Blade A72,#
+nubia 8550,mob,nubia,努比亚,,,V50 Vita,#
 LPD-20W,pad,nubia,努比亚,,,3D,#
 NX609J,mob,nubia,努比亚,,,红魔电竞游戏手机,#
 NX619J,mob,nubia,努比亚,,,红魔 Mars 电竞手机,#
@@ -4371,9 +4373,7 @@ PJE110,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,#国行版
 CPH2585,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#印度版
 CPH2609,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#欧洲版/国际版
 CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版
-PJF110,mob,oneplus,一加,,audi,OnePlus Ace 3V|OnePlus Nord 4,#国行版
-CPH2619,mob,oneplus,一加,,audi,OnePlus Ace 3V|OnePlus Nord 4,1#印度版
-CPH2621,mob,oneplus,一加,,audi,OnePlus Ace 3V|OnePlus Nord 4,1#欧洲版/国际版
+PJF110,mob,oneplus,一加,,audi,OnePlus Ace 3V,#国行版
 PJX110,mob,oneplus,一加,,,OnePlus Ace 3 Pro,#国行版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
@@ -4390,6 +4390,8 @@ CPH2569,mob,oneplus,一加,,,OnePlus Nord CE 3,#印度版
 CPH2465,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#国际版
 CPH2467,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#印度版
 CPH2613,mob,oneplus,一加,,,OnePlus Nord CE4,#印度版
+CPH2619,mob,oneplus,一加,,,OnePlus Nord CE4 Lite,#印度版
+CPH2621,mob,oneplus,一加,,,OnePlus Nord CE4 Lite,#欧洲版/国际版
 BE2025,mob,oneplus,一加,,billie8,OnePlus Nord N10,#Metro 版
 BE2026,mob,oneplus,一加,,billie8,OnePlus Nord N10,#北美版
 BE2029,mob,oneplus,一加,,billie8,OnePlus Nord N10,#欧洲版/国际版
@@ -4519,9 +4521,7 @@ PJE110,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,#China
 CPH2585,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#India
 CPH2609,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#EU / Global
 CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America
-PJF110,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V|OnePlus Nord 4,#China
-CPH2619,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V|OnePlus Nord 4,1#India
-CPH2621,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V|OnePlus Nord 4,1#EU / Global
+PJF110,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V,#China
 PJX110,mob,oneplus,OnePlus,,,OnePlus Ace 3 Pro,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
@@ -4538,6 +4538,8 @@ CPH2569,mob,oneplus,OnePlus,,,OnePlus Nord CE 3,#India
 CPH2465,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#Global
 CPH2467,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#India
 CPH2613,mob,oneplus,OnePlus,,,OnePlus Nord CE4,#India
+CPH2619,mob,oneplus,OnePlus,,,OnePlus Nord CE4 Lite,#India
+CPH2621,mob,oneplus,OnePlus,,,OnePlus Nord CE4 Lite,#EU / Global
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Metro
 BE2026,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#North America
 BE2029,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#EU / Global
@@ -8413,7 +8415,7 @@ ZTE A2023,mob,zte,中兴,,,中兴 Axon 40 Pro,#
 ZTE A2023P,mob,zte,中兴,,,中兴 Axon 40 Ultra,#
 ZTE A2024H,mob,zte,中兴,,,中兴 Axon 50 Ultra,#
 ZTE A2025HL,mob,zte,中兴,,,中兴 Axon 60 Ultra,#
-ZTE A2025H,mob,zte,中兴,,,中兴 Axon 60 Ultra,#卫星通信版
+ZTE A2025H,mob,zte,中兴,,,中兴 Axon 60 Ultra,#天通版
 ZTE A2023BH,mob,zte,中兴,,,中兴天机 A41,#
 ZTE A2023,mob,zte,中兴,,,中兴天机 A41 Pro,#
 ZTE A2023H,mob,zte,中兴,,,中兴天机 A41 Ultra,#
