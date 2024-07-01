@@ -2014,7 +2014,7 @@ BRA-AL00,mob,huawei,华为,,Barry,HUAWEI Mate 60,#
 ALN-AL00,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL80,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro+,#
-ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS | ULTIMATE DESIGN 非凡大师,#
+ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师,#
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,#
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,#
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G
@@ -2177,7 +2177,7 @@ HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,#移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,#联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,#电信版
 HUAWEI G7-TL00,mob,huawei,华为,,,华为 Ascend G7,#移动版
-HUAWEI G7-UL00,mob,huawei,华为,,,华为 Ascend G7,#联通版
+HUAWEI G7-UL20,mob,huawei,华为,,,华为 Ascend G7,#联通版
 HUAWEI RIO-TL00,mob,huawei,华为,,Rio,华为 G7 Plus,#移动版
 HUAWEI RIO-UL00,mob,huawei,华为,,Rio,华为 G7 Plus,#联通版
 HUAWEI VNS-AL00,mob,huawei,华为,,Venus,HUAWEI G9 青春版,#全网通版
@@ -2716,7 +2716,7 @@ ARC-AL00,watch,huawei,华为,,Archi,HUAWEI WATCH 4,#
 MDS-AL00,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 MDS-AL10,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#
-CLB-B39,watch,huawei,华为,,,HUAWEI WATCH | ULTIMATE DESIGN 非凡大师,#
+CLB-B39,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,#
 ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#雅致款
 FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#时尚版/运动版
 DAN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,#42mm
