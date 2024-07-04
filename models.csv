@@ -4192,6 +4192,7 @@ A063,mob,nothing,Nothing,,Spacewar,Nothing Phone (1),#
 A065,mob,nothing,Nothing,,Pong,Nothing Phone (2),#Global
 AIN065,mob,nothing,Nothing,,Pong,Nothing Phone (2),#India
 A142,mob,nothing,Nothing,,Pacman,Nothing Phone (2a),#
+A015,mob,nothing,Nothing,,Tetris,CMF Phone 1,#
 NX501,mob,nubia,努比亚,,,Z5,#
 NX401,mob,nubia,努比亚,,,Z5 mini,#
 NX402,mob,nubia,努比亚,,,Z5 mini,#
@@ -4256,6 +4257,7 @@ Z2353,mob,nubia,努比亚,,,Music,#
 Z6255CA,mob,nubia,努比亚,,,Blade A72,#
 nubia 8550,mob,nubia,努比亚,,,V50 Vita,#
 LPD-20W,pad,nubia,努比亚,,,3D,#
+NP02J,pad,nubia,努比亚,,,3D II,#
 NX609J,mob,nubia,努比亚,,,红魔电竞游戏手机,#
 NX619J,mob,nubia,努比亚,,,红魔 Mars 电竞手机,#
 NX629J,mob,nubia,努比亚,,,红魔 3,#
@@ -4276,6 +4278,8 @@ NX729S,mob,nubia,努比亚,,,红魔 8S Pro|红魔 8S Pro+,#
 NX729S,mob,nubia,努比亚,,,红魔 8S Pro|红魔 8S Pro+,1#
 NX769J,mob,nubia,努比亚,,,红魔 9 Pro|红魔 9 Pro+,#
 NX769J,mob,nubia,努比亚,,,红魔 9 Pro|红魔 9 Pro+,1#
+NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,#
+NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,1#
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,#5G
 ONE A0001,mob,oneplus,一加,,bacon,OnePlus One,#移动版
 ONE A1001,mob,oneplus,一加,,bacon,OnePlus One,#联通版
