@@ -7076,7 +7076,7 @@ A301XM,mob,xiaomi,小米,M12,corot,Xiaomi 13T Pro,#日本版 (SoftBank)
 23127PN0CG,mob,xiaomi,小米,N3,houji,Xiaomi 14,#国际版
 23116PN5BC,mob,xiaomi,小米,N2,shennong,Xiaomi 14 Pro,#
 23116PN5BC,mob,xiaomi,小米,N2,shennong,Xiaomi 14 Pro,#钛金属版
-2311BPN23C,mob,xiaomi,小米,N2T,shennong_t,Xiaomi 14 Pro,#钛金属版 (卫星通讯)
+2311BPN23C,mob,xiaomi,小米,N2T,shennong,Xiaomi 14 Pro,#钛金属版 (卫星通讯)
 24031PN0DC,mob,xiaomi,小米,N1,aurora,Xiaomi 14 Ultra,#国行版
 24030PN60G,mob,xiaomi,小米,N1,aurora,Xiaomi 14 Ultra,#国际版
 24053PY09I,mob,xiaomi,小米,N9,chenfeng,Xiaomi 14 Civi,#印度版
@@ -7464,7 +7464,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 国行版
 21091116UG,mob,xiaomi,小米,K16U,pissarropro,Redmi Note 11 Pro+,#5G 国际版
 22041216C,mob,xiaomi,小米,L16,xaga,Redmi Note 11T Pro,#
 22041216UC,mob,xiaomi,小米,L16U,xagapro,Redmi Note 11T Pro+,#
-22095RA98C,mob,xiaomi,小米,L19X,lightcm,Redmi Note 11R,#5G
+22095RA98C,mob,xiaomi,小米,L19X,light,Redmi Note 11R,#5G
 23021RAAEG,mob,xiaomi,小米,M7,tapas,Redmi Note 12,#国际版
 23027RAD4I,mob,xiaomi,小米,M7,tapas,Redmi Note 12,#印度版
 23028RA60L,mob,xiaomi,小米,M7L,tapas,Redmi Note 12,#拉美版
@@ -7798,7 +7798,7 @@ A301XM,mob,xiaomi,Xiaomi,M12,corot,Xiaomi 13T Pro,#Japan (SoftBank)
 23127PN0CC,mob,xiaomi,Xiaomi,N3,houji,Xiaomi 14,#China
 23116PN5BC,mob,xiaomi,Xiaomi,N2,shennong,Xiaomi 14 Pro,#China
 23116PN5BC,mob,xiaomi,Xiaomi,N2,shennong,Xiaomi 14 Pro,#Ti China
-2311BPN23C,mob,xiaomi,Xiaomi,N2T,shennong_t,Xiaomi 14 Pro Ti Satellite,#China
+2311BPN23C,mob,xiaomi,Xiaomi,N2T,shennong,Xiaomi 14 Pro Ti Satellite,#China
 24030PN60G,mob,xiaomi,Xiaomi,N1,aurora,Xiaomi 14 Ultra,#Global
 24031PN0DC,mob,xiaomi,Xiaomi,N1,aurora,Xiaomi 14 Ultra,#China
 24053PY09I,mob,xiaomi,Xiaomi,N9,chenfeng,Xiaomi 14 Civi,#India
@@ -8167,7 +8167,7 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 21091116UC,mob,xiaomi,Xiaomi,K16U,pissarropro,Redmi Note 11 Pro+,#5G China
 22041216C,mob,xiaomi,Xiaomi,L16,xaga,Redmi Note 11T Pro,#5G China
 22041216UC,mob,xiaomi,Xiaomi,L16U,xagapro,Redmi Note 11T Pro+,#5G China
-22095RA98C,mob,xiaomi,Xiaomi,L19X,lightcm,Redmi Note 11R,#5G China
+22095RA98C,mob,xiaomi,Xiaomi,L19X,light,Redmi Note 11R,#5G China
 23021RAAEG,mob,xiaomi,Xiaomi,M7,tapas,Redmi Note 12,#Global
 23027RAD4I,mob,xiaomi,Xiaomi,M7,tapas,Redmi Note 12,#India
 23028RA60L,mob,xiaomi,Xiaomi,M7L,tapas,Redmi Note 12,#Latin America
