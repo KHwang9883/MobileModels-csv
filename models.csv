@@ -2374,6 +2374,7 @@ AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 全网通�
 AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 Wi-Fi 版
 AGS5-AL00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4,#英寸 全网通版
 AGS6-W00,pad,huawei,华为,,Agassi6,HUAWEI MatePad SE 11,#英寸 Wi-Fi 版
+AGS6-W10,pad,huawei,华为,,Agassi6,HUAWEI MatePad SE 11,#活力版 11 英寸 Wi-Fi 版
 HMW-W09,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
 HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
 BZK-W00,pad,huawei,华为,,Kobe,华为平板 C3,#(华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
@@ -2387,6 +2388,9 @@ BZC-W00,pad,huawei,华为,,,华为平板 C3 2020,#9.7 英寸 2020 Wi-Fi 版
 BZC-AL00,pad,huawei,华为,,,华为平板 C3 2020,#9.7 英寸 2020 全网通版
 BZH-W00,pad,huawei,华为,,,华为平板 C3 2022,#9.7 英寸 2022 Wi-Fi 版
 BZH-W30,pad,huawei,华为,,,华为平板 C3 2022,#9.7 英寸 2022 Wi-Fi 版
+BXE3-W00,pad,huawei,华为,,,华为擎云 C3,#10.4 英寸 Wi-Fi 版
+BVE3-W00,pad,huawei,华为,,,华为擎云 C3,#10.4 英寸 Wi-Fi 版
+BXN3-W00,pad,huawei,华为,,,华为擎云 C3,#10.4 英寸 Wi-Fi 版
 MON-W19,pad,huawei,华为,,,华为平板 C5,#8 英寸 Wi-Fi 版
 MON-AL19,pad,huawei,华为,,,华为平板 C5,#8 英寸 全网通版
 BZT-W09,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 Wi-Fi 版
@@ -2400,20 +2404,24 @@ BZT3-W59,pad,huawei,华为,,,华为平板 C5 2021,#10.4 英寸 2021 Wi-Fi 版
 BZT3-W69,pad,huawei,华为,,,华为平板 C5 2021,#10.4 英寸 2021 Wi-Fi 版
 BZT4-W19,pad,huawei,华为,,,华为平板 C5 2022,#10.4 英寸 2022 Wi-Fi 版
 BZT4-AL10,pad,huawei,华为,,,华为平板 C5 2022,#10.4 英寸 2022 全网通版
-KOB2KZ-W09,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,#8 英寸 2023 Wi-Fi 版
-KOB2KZ-AL00,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,#8 英寸 2023 全网通版
-BTKZ-W00,pad,huawei,华为,,BartokZ,华为擎云 C5,#11.5 英寸 2023 Wi-Fi 版
-BTKZ-AL00,pad,huawei,华为,,BartokZ,华为擎云 C5,#11.5 英寸 2023 全网通版
+KOB2KZ-W09,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,#8 英寸 Wi-Fi 版
+KOB2KZ-AL00,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,#8 英寸 全网通版
+BTKZ-W00,pad,huawei,华为,,BartokZ,华为擎云 C5 (第 2 代),#11.5 英寸 Wi-Fi 版
+BTKZ-AL00,pad,huawei,华为,,BartokZ,华为擎云 C5 (第 2 代),#11.5 英寸 全网通版
 BZI-W00,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 Wi-Fi 版
 BZI-W20,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 Wi-Fi 版
 BZI-AL00,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 全网通版
 BZI-AL20,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 全网通版
-AGS5Z-W09,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 2023 Wi-Fi 版
-AGS5Z-W19,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 2023 Wi-Fi 版
-AGS5Z-AL00,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 2023 全网通版
+AGS5Z-W09,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 Wi-Fi 版
+AGS5Z-W19,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 Wi-Fi 版
+AGS5Z-AL00,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 全网通版
+BZF5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),#11 英寸 Wi-Fi 版
+BLF5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),#11 英寸 Wi-Fi 版
+BZH5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),#11 英寸 Wi-Fi 版
 BVE-W10,pad,huawei,华为,,,华为擎云 C5z,#10.4 英寸 Wi-Fi 版
-DBY-W09,pad,huawei,华为,,Debussy,华为平板 C7,#10.95 英寸 2022 Wi-Fi 版
-DBY2Z-AL00,pad,huawei,华为,,Debussy2Z,华为擎云 C7,#11.5 英寸 2023 Wi-Fi 版
+DBY-W09,pad,huawei,华为,,Debussy,华为平板 C7,#10.95 英寸 Wi-Fi 版
+DBY2Z-AL00,pad,huawei,华为,,Debussy2Z,华为擎云 C7,#11.5 英寸 Wi-Fi 版
+BBG7-W00,pad,huawei,华为,,,华为擎云 C7 (第 2 代),#11.5 英寸 Wi-Fi 版
 HZ-W09,computer,huawei,华为,,Hertz,HUAWEI MateBook,#m3
 HZ-W19,computer,huawei,华为,,Hertz,HUAWEI MateBook,#m5
 HZ-W29,computer,huawei,华为,,Hertz,HUAWEI MateBook,#m7
@@ -8400,6 +8408,7 @@ TYH612M,mob,zhixuan,华为智选,,,麦芒 10|麦芒 · 十年臻爱版,1#
 TYH622M,mob,zhixuan,华为智选,,,麦芒 11,#5G
 TYH631M,mob,zhixuan,华为智选,,,麦芒 20,#5G
 TYH632M,mob,zhixuan,华为智选,,,麦芒 A20,#5G
+TYH641M,mob,zhixuan,华为智选,,,麦芒 30,#5G
 SP100,mob,zhixuan,华为智选,,,NZONE S7,#5G
 SP200,mob,zhixuan,华为智选,,,NZONE S7 Pro,#5G
 SP300,mob,zhixuan,华为智选,,,NZONE S7 Pro+,#5G
