@@ -5427,11 +5427,13 @@ SM-F9160,mob,samsung,三星,,f2q,Galaxy Z Fold2,#5G
 SM-F9260,mob,samsung,三星,,q2q,Galaxy Z Fold3,#5G
 SM-F9360,mob,samsung,三星,,q4q,Galaxy Z Fold4,#
 SM-F9460,mob,samsung,三星,,q5q,Galaxy Z Fold5,#
+SM-F9560,mob,samsung,三星,,q6q,Galaxy Z Fold6,#
 SM-F7000,mob,samsung,三星,,bloomq,Galaxy Z Flip,#
 SM-F7070,mob,samsung,三星,,bloomxq,Galaxy Z Flip 5G,#
 SM-F7110,mob,samsung,三星,,b2q,Galaxy Z Flip3,#5G
 SM-F7210,mob,samsung,三星,,b4q,Galaxy Z Flip4,#
 SM-F7310,mob,samsung,三星,,b5q,Galaxy Z Flip5,#
+SM-F7410,mob,samsung,三星,,b6q,Galaxy Z Flip5,#6
 SM-A3000,mob,samsung,三星,,a3ltechn,Galaxy A3,#公开版
 SM-A3009,mob,samsung,三星,,a3ltectc,Galaxy A3,#电信定制版
 SM-A5000,mob,samsung,三星,,a5ltechn,Galaxy A5,#公开版
@@ -5610,6 +5612,10 @@ SM-R9450,watch,samsung,三星,,fresh6ul,Galaxy Watch6,#LTE 44mm
 SM-R950,watch,samsung,三星,,wise6bs,Galaxy Watch6 Classic,#蓝牙版 43mm
 SM-R960,watch,samsung,三星,,wise6bl,Galaxy Watch6 Classic,#蓝牙版 47mm
 SM-R9650,watch,samsung,三星,,wise6ul,Galaxy Watch6 Classic,#LTE 47mm
+SM-L300,watch,samsung,三星,,fresh7bs,Galaxy Watch7,#蓝牙版 40mm
+SM-L310,watch,samsung,三星,,fresh7bl,Galaxy Watch7,#蓝牙版 44mm
+SM-L3150,watch,samsung,三星,,fresh7ul,Galaxy Watch7,#LTE 44mm
+SM-L7050,watch,samsung,三星,,projectx2ul,Galaxy Watch Ultra,#LTE 47mm
 SM-G970F,mob,samsung,Samsung,,beyond0,Galaxy S10e,#Global
 SM-G970N,mob,samsung,Samsung,,beyond0,Galaxy S10e,#South Korea
 SM-G970U,mob,samsung,Samsung,,beyond0q,Galaxy S10e,#US Carrier
@@ -5880,6 +5886,12 @@ SM-F946N,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#South Korea
 SM-F946Q,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#Japan (SIM Free)
 SCG22,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#Japan (au)
 SC-55D,mob,samsung,Samsung,,q5q,Galaxy Z Fold5,#Japan (NTT Docomo)
+SM-F956B,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#Global
+SM-F956U,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#US Carrier
+SM-F956U1,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#US Unlocked
+SM-F956W,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#Canada
+SM-F9560,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#China
+SM-F956N,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#South Korea
 SM-F700F,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#Global
 SM-F700U,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#US Carrier
 SM-F700U1,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#US Unlocked
@@ -5920,6 +5932,12 @@ SM-F731N,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#South Korea
 SM-F731Q,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (SIM Free)
 SCG23,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (au)
 SC-54D,mob,samsung,Samsung,,b5q,Galaxy Z Flip5,#Japan (NTT Docomo)
+SM-F741B,mob,samsung,Samsung,,b6q,Galaxy Z Flip6,#Global
+SM-F741U,mob,samsung,Samsung,,b6q,Galaxy Z Flip6,#US Carrier
+SM-F741U1,mob,samsung,Samsung,,b6q,Galaxy Z Flip6,#US Unlocked
+SM-F741W,mob,samsung,Samsung,,b6q,Galaxy Z Flip6,#Canada
+SM-F7410,mob,samsung,Samsung,,b6q,Galaxy Z Flip6,#China
+SM-F741N,mob,samsung,Samsung,,b6q,Galaxy Z Flip6,#South Korea
 SM-A015F,mob,samsung,Samsung,,a01q,Galaxy A01,#Global
 SM-A015U,mob,samsung,Samsung,,a01q,Galaxy A01,#US Carrier
 SM-A015U1,mob,samsung,Samsung,,a01q,Galaxy A01,#US Unlocked
@@ -6210,6 +6228,8 @@ SC-53D,mob,samsung,Samsung,,a54x,Galaxy A54 5G,#Japan (NTT Docomo)
 SM-A556E,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#Global
 SM-A556B,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#EU
 SM-A5560,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#China
+SCG27,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#Japan (au)
+SC-53E,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#Japan (NTT Docomo)
 SM-A606F,mob,samsung,Samsung,,a60q,Galaxy A60,#Global
 SM-A6060,mob,samsung,Samsung,,a60q,Galaxy A60,#China mainland
 SM-A606Y,mob,samsung,Samsung,,a60q,Galaxy A60,#TW
