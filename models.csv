@@ -3344,6 +3344,7 @@ Letv L6,mob,letv,乐视,,,Letv Y1 Pro,#
 Letv L6B,mob,letv,乐视,,,Letv Y1 Pro+,#
 Letv L7,mob,letv,乐视,,,Letv Y2 Pro,#
 Letv L8,mob,letv,乐视,,,Letv S1 Pro,#5G
+Letv L9,mob,letv,乐视,,,Letv S3 Pro,#
 M8,mob,meizu,魅族,,,魅族 M8,#
 M8SE,mob,meizu,魅族,,,魅族 M8,#SE
 M9,mob,meizu,魅族,,,魅族 M9,#
@@ -6518,6 +6519,8 @@ V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,1#5G
 V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,2#5G
 V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,3#5G
 V2327A,mob,vivo,vivo,,PD2327,Y36t,#
+V2357A,mob,vivo,vivo,,PD2357,Y37,#5G
+V2357EA,mob,vivo,vivo,,PD2357,Y37m,#5G
 V1965A,mob,vivo,vivo,,PD1965,Y50,#
 V2023EA,mob,vivo,vivo,,PD2023,Y50t,#
 V2002A,mob,vivo,vivo,,PD2019,Y51s,#5G
