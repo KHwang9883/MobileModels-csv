@@ -1428,6 +1428,7 @@ ALP-AN00,mob,honor,荣耀,,AliP,荣耀 X50 Pro|荣耀 X50 GT,#5G
 ALP-AN00,mob,honor,荣耀,,AliP,荣耀 X50 Pro|荣耀 X50 GT,1#5G
 CRT-AN00,mob,honor,荣耀,,Cartier,荣耀 X50i,#5G
 LLY-AN00,mob,honor,荣耀,,Lily,荣耀 X50i+,#5G
+LYN-AN00,mob,honor,荣耀,,,荣耀 X60i,#
 JMM-AL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通标配版
 JMM-AL10,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通高配版
 JMM-TL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#移动定制标配版
@@ -3516,6 +3517,7 @@ M811Q,mob,meizu,魅族,,m1811,魅蓝 6T,#公开版
 M811H,mob,meizu,魅族,,m1811,魅蓝 6T,魅族 M6T 国际版
 M2110,mob,meizu,魅族,,m2110,魅蓝 10,#
 M2111,mob,meizu,魅族,,m2111,魅蓝 10s,#
+M421Q,mob,meizu,魅族,,m2421,魅蓝 20,#
 S685Q,mob,meizu,魅族,,s25,魅蓝 Max,#公开版
 S685M,mob,meizu,魅族,,s25,魅蓝 Max,#移动版
 S685C,mob,meizu,魅族,,s25,魅蓝 Max,#电信版
@@ -3706,6 +3708,7 @@ M810H,mob,meizu,MEIZU,,m1810,MEIZU M8c,#Global
 M918H,mob,meizu,MEIZU,,m1918,MEIZU M10,#Global
 M2110,mob,meizu,MEIZU,,m2110,mblu 10,#
 M2111,mob,meizu,MEIZU,,m2111,mblu 10s,#
+M421Q,mob,meizu,MEIZU,,m2421,mblu 20,#
 S685H,mob,meizu,MEIZU,,s25,MEIZU M3 Max,#Global
 S685Q,mob,meizu,MEIZU,,s25,MEIZU M3 Max,#China
 S685M,mob,meizu,MEIZU,,s25,MEIZU M3 Max,#China Mobile
@@ -4297,13 +4300,13 @@ NX769J,mob,nubia,努比亚,,,红魔 9 Pro|红魔 9 Pro+,1#
 NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,#
 NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,1#
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,#5G
-ONE A0001,mob,oneplus,一加,,bacon,OnePlus One,#移动版
+ONE A0001,mob,oneplus,一加,,bacon,OnePlus One,#全网通版 / 移动版 / 国际版
 ONE A1001,mob,oneplus,一加,,bacon,OnePlus One,#联通版
 ONE A2001,mob,oneplus,一加,,oneplus2,OnePlus 2,#
 ONE A2003,mob,oneplus,一加,,oneplus2,OnePlus 2,#国际版
 ONE A2005,mob,oneplus,一加,,oneplus2,OnePlus 2,#北美版
-ONE E1001,mob,oneplus,一加,,onyx,OnePlus X,#移动/联通版
 ONE E1000,mob,oneplus,一加,,onyx,OnePlus X,#全网通版
+ONE E1001,mob,oneplus,一加,,onyx,OnePlus X,#移动版 / 联通版
 ONE E1003,mob,oneplus,一加,,onyx,OnePlus X,#国际版
 ONE E1005,mob,oneplus,一加,,onyx,OnePlus X,#北美版
 ONEPLUS A3000,mob,oneplus,一加,,oneplus3,OnePlus 3,#国行版
@@ -4319,108 +4322,112 @@ ONEPLUS A6013,mob,oneplus,一加,,fajita,OnePlus 6T,#国际版
 GM1900,mob,oneplus,一加,,guacamoleb,OnePlus 7,#国行版
 GM1901,mob,oneplus,一加,,guacamoleb,OnePlus 7,#印度版
 GM1903,mob,oneplus,一加,,guacamoleb,OnePlus 7,#欧洲版
-GM1905,mob,oneplus,一加,,guacamoleb,OnePlus 7,#北美版/国际版
+GM1905,mob,oneplus,一加,,guacamoleb,OnePlus 7,#北美版 / 国际版
 GM1910,mob,oneplus,一加,,guacamole,OnePlus 7 Pro,#国行版
 GM1911,mob,oneplus,一加,,guacamole,OnePlus 7 Pro,#印度版
 GM1913,mob,oneplus,一加,,guacamole,OnePlus 7 Pro,#欧洲版
-GM1915,mob,oneplus,一加,,guacamole,OnePlus 7 Pro,#北美版/国际版
+GM1915,mob,oneplus,一加,,guacamole,OnePlus 7 Pro,#北美版 / 国际版
 GM1917,mob,oneplus,一加,,guacamolet,OnePlus 7 Pro,#T-Mobile 版
 GM1920,mob,oneplus,一加,,guacamoleg,OnePlus 7 Pro 5G,#欧洲版
 GM1925,mob,oneplus,一加,,guacamoles,OnePlus 7 Pro 5G,#Sprint 版
 HD1900,mob,oneplus,一加,,hotdogb,OnePlus 7T,#国行版
 HD1901,mob,oneplus,一加,,hotdogb,OnePlus 7T,#印度版
 HD1903,mob,oneplus,一加,,hotdogb,OnePlus 7T,#欧洲版
-HD1905,mob,oneplus,一加,,hotdogb,OnePlus 7T,#北美版/国际版
+HD1905,mob,oneplus,一加,,hotdogb,OnePlus 7T,#北美版 / 国际版
 HD1907,mob,oneplus,一加,,hotdogt,OnePlus 7T,#T-Mobile 版
 HD1910,mob,oneplus,一加,,hotdog,OnePlus 7T Pro,#国行版
 HD1911,mob,oneplus,一加,,hotdog,OnePlus 7T Pro,#印度版
-HD1913,mob,oneplus,一加,,hotdog,OnePlus 7T Pro,#欧洲版/国际版
+HD1913,mob,oneplus,一加,,hotdog,OnePlus 7T Pro,#欧洲版 / 国际版
 HD1925,mob,oneplus,一加,,hotdogg,OnePlus 7T Pro 5G,#T-Mobile 版
 HD1925,mob,oneplus,一加,,hotdogg,OnePlus 7T Pro 5G,#Concept One
 IN2010,mob,oneplus,一加,,instantnoodle,OnePlus 8,#国行版
 IN2011,mob,oneplus,一加,,instantnoodle,OnePlus 8,#印度版
 IN2013,mob,oneplus,一加,,instantnoodle,OnePlus 8,#欧洲版
-IN2015,mob,oneplus,一加,,instantnoodle,OnePlus 8,#北美版/国际版
+IN2015,mob,oneplus,一加,,instantnoodle,OnePlus 8,#北美版 / 国际版
 IN2017,mob,oneplus,一加,,instantnoodlet,OnePlus 8,#T-Mobile 版
-IN2019,mob,oneplus,一加,,instantnoodlevis,OnePlus 8,#Visible 版/Verizon 版
+IN2019,mob,oneplus,一加,,instantnoodlevis,OnePlus 8,#Visible 版 / Verizon 版
 IN2020,mob,oneplus,一加,,instantnoodlep,OnePlus 8 Pro,#国行版
 IN2021,mob,oneplus,一加,,instantnoodlep,OnePlus 8 Pro,#印度版
 IN2023,mob,oneplus,一加,,instantnoodlep,OnePlus 8 Pro,#欧洲版
-IN2025,mob,oneplus,一加,,instantnoodlep,OnePlus 8 Pro,#北美版/国际版
+IN2025,mob,oneplus,一加,,instantnoodlep,OnePlus 8 Pro,#北美版 / 国际版
 KB2000,mob,oneplus,一加,,kebab,OnePlus 8T,#国行版
 KB2001,mob,oneplus,一加,,kebab,OnePlus 8T,#印度版
 KB2003,mob,oneplus,一加,,kebab,OnePlus 8T,#欧洲版
-KB2005,mob,oneplus,一加,,kebab,OnePlus 8T,#北美版/国际版
+KB2005,mob,oneplus,一加,,kebab,OnePlus 8T,#北美版 / 国际版 / OnePlus 8T Concept
 KB2007,mob,oneplus,一加,,kebabt,OnePlus 8T+,#T-Mobile 版
 LE2100,mob,oneplus,一加,,lemonades,OnePlus 9R,#国行版
 LE2101,mob,oneplus,一加,,lemonades,OnePlus 9R,#印度版
 LE2110,mob,oneplus,一加,,lemonade,OnePlus 9,#国行版
 LE2111,mob,oneplus,一加,,lemonade,OnePlus 9,#印度版
 LE2113,mob,oneplus,一加,,lemonade,OnePlus 9,#欧洲版
-LE2115,mob,oneplus,一加,,lemonade,OnePlus 9,#北美版/国际版
+LE2115,mob,oneplus,一加,,lemonade,OnePlus 9,#北美版 / 国际版
 LE2117,mob,oneplus,一加,,lemonadet,OnePlus 9,#T-Mobile 版
 LE2119,mob,oneplus,一加,,lemonadev,OnePlus 9,#Verzion 版
 LE2120,mob,oneplus,一加,,lemonadep,OnePlus 9 Pro,#国行版
 LE2121,mob,oneplus,一加,,lemonadep,OnePlus 9 Pro,#印度版
 LE2123,mob,oneplus,一加,,lemonadep,OnePlus 9 Pro,#欧洲版
-LE2125,mob,oneplus,一加,,lemonadep,OnePlus 9 Pro,#北美版/国际版
+LE2125,mob,oneplus,一加,,lemonadep,OnePlus 9 Pro,#北美版 / 国际版
 LE2127,mob,oneplus,一加,,lemonadept,OnePlus 9 Pro,#T-Mobile 版
 MT2110,mob,oneplus,一加,,martini,OnePlus 9RT,#国行版
 MT2111,mob,oneplus,一加,,martini,OnePlus 9RT,#印度版
 NE2210,mob,oneplus,一加,,negroni,OnePlus 10 Pro,#国行版
 NE2211,mob,oneplus,一加,,negroni,OnePlus 10 Pro,#印度版
-NE2213,mob,oneplus,一加,,negroni,OnePlus 10 Pro,#欧洲版/国际版
+NE2213,mob,oneplus,一加,,negroni,OnePlus 10 Pro,#欧洲版 / 国际版
 NE2215,mob,oneplus,一加,,negroni,OnePlus 10 Pro,#北美版
 NE2217,mob,oneplus,一加,,negroni,OnePlus 10 Pro,#T-Mobile 版
 PGKM10,mob,oneplus,一加,,pickle,OnePlus 10R|OnePlus Ace,1#国行版
 CPH2423,mob,oneplus,一加,,pickle,OnePlus 10R|OnePlus Ace,#印度版
-CPH2411,mob,oneplus,一加,,pickle,OnePlus 10R|OnePlus Ace,#Endurance 印度版
-PGZ110,mob,oneplus,一加,,qqcandy,OnePlus Ace 竞速版,#国行版
-PGP110,mob,oneplus,一加,,ovaltine,OnePlus Ace Pro|OnePlus 10T,#国行版
+CPH2411,mob,oneplus,一加,,pickle,OnePlus 10R|OnePlus Ace,#长寿版 印度版
+PGZ110,mob,oneplus,一加,,qqcandy,OnePlus Ace Race,#竞速版 国行版
+PGP110,mob,oneplus,一加,,ovaltine,OnePlus Ace Pro|OnePlus 10T,#国行版 / 原神限定版
 CPH2413,mob,oneplus,一加,,ovaltine,OnePlus Ace Pro|OnePlus 10T,1#印度版
-CPH2415,mob,oneplus,一加,,ovaltine,OnePlus Ace Pro|OnePlus 10T,1#欧洲版/国际版
+CPH2415,mob,oneplus,一加,,ovaltine,OnePlus Ace Pro|OnePlus 10T,1#欧洲版 / 国际版
 CPH2417,mob,oneplus,一加,,ovaltine,OnePlus Ace Pro|OnePlus 10T,1#北美版
 CPH2419,mob,oneplus,一加,,ovaltine,OnePlus Ace Pro|OnePlus 10T,1#T-Mobile 版
 PHB110,mob,oneplus,一加,,salami,OnePlus 11,#国行版
 CPH2447,mob,oneplus,一加,,salami,OnePlus 11,#印度版
-CPH2449,mob,oneplus,一加,,salami,OnePlus 11,#欧洲版/国际版
+CPH2449,mob,oneplus,一加,,salami,OnePlus 11,#欧洲版 / 国际版 / OnePlus 11 Concept
 CPH2451,mob,oneplus,一加,,salami,OnePlus 11,#北美版
-PHK110,mob,oneplus,一加,,udon,OnePlus Ace 2|OnePlus 11R,#国行版
+PHK110,mob,oneplus,一加,,udon,OnePlus Ace 2|OnePlus 11R,#国行版 / 原神定制礼盒
 CPH2487,mob,oneplus,一加,,udon,OnePlus Ace 2|OnePlus 11R,1#印度版
 PHP110,mob,oneplus,一加,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,#国行版
 CPH2491,mob,oneplus,一加,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#印度版
 CPH2493,mob,oneplus,一加,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#欧洲版
-PJA110,mob,oneplus,一加,,xigua,OnePlus Ace 2 Pro,#国行版
+PJA110,mob,oneplus,一加,,xigua,OnePlus Ace 2 Pro,#国行版 / 原神派蒙主题礼盒
 PJD110,mob,oneplus,一加,,waffle,OnePlus 12,#国行版
 CPH2573,mob,oneplus,一加,,waffle,OnePlus 12,#印度版
-CPH2581,mob,oneplus,一加,,waffle,OnePlus 12,#欧洲版/国际版
+CPH2581,mob,oneplus,一加,,waffle,OnePlus 12,#欧洲版 / 国际版
 CPH2583,mob,oneplus,一加,,waffle,OnePlus 12,#北美版
-PJE110,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,#国行版
-CPH2585,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#印度版
-CPH2609,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#欧洲版/国际版
-CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版
+PJE110,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,#国行版 / 原神刻晴定制机
+CPH2585,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#印度版 / 原神刻晴定制机
+CPH2609,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#欧洲版 / 国际版 / 原神刻晴定制机
+CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版 / 原神刻晴定制机
 PJF110,mob,oneplus,一加,,audi,OnePlus Ace 3V,#国行版
 PJX110,mob,oneplus,一加,,corvette,OnePlus Ace 3 Pro,#国行版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
-AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版/国际版
+AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
 DN2103,mob,oneplus,一加,,denniz,OnePlus Nord 2,#欧洲版
 CPH2399,mob,oneplus,一加,,karen,OnePlus Nord 2T,#国际版
 CPH2401,mob,oneplus,一加,,karen,OnePlus Nord 2T,#印度版
+CPH2661,mob,oneplus,一加,,avalon,OnePlus Nord 4,#印度版
+CPH2663,mob,oneplus,一加,,avalon,OnePlus Nord 4,#欧洲版 / 国际版
 EB2101,mob,oneplus,一加,,ebba,OnePlus Nord CE,#印度版
-EB2103,mob,oneplus,一加,,ebba,OnePlus Nord CE,#欧洲版/国际版
+EB2103,mob,oneplus,一加,,ebba,OnePlus Nord CE,#欧洲版 / 国际版
 IV2201,mob,oneplus,一加,,ivan,OnePlus Nord CE 2,#印度版
 CPH2381,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#印度版
-CPH2409,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#欧洲版/国际版
-CPH2569,mob,oneplus,一加,,,OnePlus Nord CE 3,#印度版
-CPH2465,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#国际版
-CPH2467,mob,oneplus,一加,,,OnePlus Nord CE 3 Lite,#印度版
-CPH2613,mob,oneplus,一加,,,OnePlus Nord CE4,#印度版
-CPH2619,mob,oneplus,一加,,,OnePlus Nord CE4 Lite,#印度版
-CPH2621,mob,oneplus,一加,,,OnePlus Nord CE4 Lite,#欧洲版/国际版
+CPH2409,mob,oneplus,一加,,oscar,OnePlus Nord CE 2 Lite,#欧洲版 / 国际版
+CPH2569,mob,oneplus,一加,,ziti,OnePlus Nord CE 3,#印度版
+CPH2465,mob,oneplus,一加,,larry,OnePlus Nord CE 3 Lite|OnePlus Nord N30,#国际版
+CPH2467,mob,oneplus,一加,,larry,OnePlus Nord CE 3 Lite|OnePlus Nord N30,#印度版
+CPH2513,mob,oneplus,一加,,larry,OnePlus Nord CE 3 Lite|OnePlus Nord N30,1#北美版
+CPH2515,mob,oneplus,一加,,larry,OnePlus Nord CE 3 Lite|OnePlus Nord N30,1#T-Mobile 版
+CPH2613,mob,oneplus,一加,,benz,OnePlus Nord CE 4,#印度版
+CPH2619,mob,oneplus,一加,,camry,OnePlus Nord CE 4 Lite,#印度版
+CPH2621,mob,oneplus,一加,,camry,OnePlus Nord CE 4 Lite,#欧洲版 / 国际版
 BE2025,mob,oneplus,一加,,billie8,OnePlus Nord N10,#Metro 版
 BE2026,mob,oneplus,一加,,billie8,OnePlus Nord N10,#北美版
-BE2029,mob,oneplus,一加,,billie8,OnePlus Nord N10,#欧洲版/国际版
+BE2029,mob,oneplus,一加,,billie8,OnePlus Nord N10,#欧洲版 / 国际版
 BE2028,mob,oneplus,一加,,billie8t,OnePlus Nord N10,#T-Mobile 版
 BE2011,mob,oneplus,一加,,bengal,OnePlus Nord N100,#北美版
 BE2012,mob,oneplus,一加,,bengal,OnePlus Nord N100,#T-Mobile 版
@@ -4428,32 +4435,33 @@ BE2013,mob,oneplus,一加,,bengal,OnePlus Nord N100,#国际版
 BE2015,mob,oneplus,一加,,bengal,OnePlus Nord N100,#Metro 版
 GN2200,mob,oneplus,一加,,,OnePlus Nord N20,#
 CPH2459,mob,oneplus,一加,,,OnePlus Nord N20,#
-CPH2469,mob,oneplus,一加,,,OnePlus Nord N20 SE,#20 SE
-CPH2513,mob,oneplus,一加,,,OnePlus Nord N30,#北美版
-CPH2515,mob,oneplus,一加,,,OnePlus Nord N30,#T-Mobile 版
+CPH2469,mob,oneplus,一加,,,OnePlus Nord N20 SE,#
 CPH2605,mob,oneplus,一加,,fanli,OnePlus Nord N30 SE,#欧洲版
 DE2117,mob,oneplus,一加,,dre9,OnePlus Nord N200,#北美版
 DE2118,mob,oneplus,一加,,dre8t,OnePlus Nord N200,#T-Mobile 版
 CPH2389,mob,oneplus,一加,,,OnePlus Nord N300,#
-CPH2551,pad,oneplus,一加,,hedwig,OnePlus Open,#
+CPH2551,pad,oneplus,一加,,,"OnePlus Open (`hedwig`, `xueying)",#
 OPD2203,pad,oneplus,一加,,aries,OnePlus Pad,#
 OPD2304,pad,oneplus,一加,,bluey,OnePlus Pad Go,#LTE
 OPD2305,pad,oneplus,一加,,bluey,OnePlus Pad Go,#Wi-Fi
-OPD2404,pad,oneplus,一加,,caihong,OnePlus Pad Pro,#国行版
-W101IN,band,oneplus,一加,,,OnePlus Band,#印度版
-OPBBE221,watch,oneplus,一加,,,OnePlus Nord Watch,#国际版
+OPD2404,pad,oneplus,一加,,,"OnePlus Pad 2|OnePlus Pad Pro (`rainbow`, `caihong)",1#
+OPD2403,pad,oneplus,一加,,,"OnePlus Pad 2|OnePlus Pad Pro (`rainbow`, `caihong)",#
+W101IN,band,oneplus,一加,,audio,OnePlus Band,#印度版
+OPBBE221,watch,oneplus,一加,,newton,OnePlus Nord Watch,#
 W301CN,watch,oneplus,一加,,,OnePlus Watch,#国行版 / Cyberpunk 2077 限定版
 W501CN,watch,oneplus,一加,,,OnePlus Watch,#钴合金限定版 (国行)
 W301GB,watch,oneplus,一加,,,OnePlus Watch,#国际版 / 钴合金限定版 (国际)
-OPWW234,watch,oneplus,一加,,bagel,OnePlus Watch 2,#国行版
+OPWW234,watch,oneplus,一加,,bagel,OnePlus Watch 2R|OnePlus Watch 2 (CN),#国行
+OPWWE234,watch,oneplus,一加,,bagel,OnePlus Watch 2R|OnePlus Watch 2 (CN),#
+OPWWE231,watch,oneplus,一加,,almond,OnePlus Watch 2,#
 OPWWE231,watch,oneplus,一加,,almond,OnePlus Watch 2,#国际版
-ONE A0001,mob,oneplus,OnePlus,,bacon,OnePlus One,#
-ONE A1001,mob,oneplus,OnePlus,,bacon,OnePlus One,#
+ONE A0001,mob,oneplus,OnePlus,,bacon,OnePlus One,#China / China Mobile / Global
+ONE A1001,mob,oneplus,OnePlus,,bacon,OnePlus One,#China Unicom
 ONE A2001,mob,oneplus,OnePlus,,oneplus2,OnePlus 2,#China
 ONE A2003,mob,oneplus,OnePlus,,oneplus2,OnePlus 2,#Global
 ONE A2005,mob,oneplus,OnePlus,,oneplus2,OnePlus 2,#North America
 ONE E1000,mob,oneplus,OnePlus,,onyx,OnePlus X,#China
-ONE E1001,mob,oneplus,OnePlus,,onyx,OnePlus X,#China
+ONE E1001,mob,oneplus,OnePlus,,onyx,OnePlus X,#China Mobile / China Unicom
 ONE E1003,mob,oneplus,OnePlus,,onyx,OnePlus X,#Global
 ONE E1005,mob,oneplus,OnePlus,,onyx,OnePlus X,#North America
 ONEPLUS A3000,mob,oneplus,OnePlus,,oneplus3,OnePlus 3,#China / North America
@@ -4468,109 +4476,113 @@ ONEPLUS A6010,mob,oneplus,OnePlus,,fajita,OnePlus 6T,#China
 ONEPLUS A6013,mob,oneplus,OnePlus,,fajita,OnePlus 6T,#Global
 GM1900,mob,oneplus,OnePlus,,guacamoleb,OnePlus 7,#China
 GM1901,mob,oneplus,OnePlus,,guacamoleb,OnePlus 7,#India
-GM1903,mob,oneplus,OnePlus,,guacamoleb,OnePlus 7,#EU
+GM1903,mob,oneplus,OnePlus,,guacamoleb,OnePlus 7,#Europe
 GM1905,mob,oneplus,OnePlus,,guacamoleb,OnePlus 7,#North America / Global
 GM1910,mob,oneplus,OnePlus,,guacamole,OnePlus 7 Pro,#China
 GM1911,mob,oneplus,OnePlus,,guacamole,OnePlus 7 Pro,#India
-GM1913,mob,oneplus,OnePlus,,guacamole,OnePlus 7 Pro,#EU
+GM1913,mob,oneplus,OnePlus,,guacamole,OnePlus 7 Pro,#Europe
 GM1915,mob,oneplus,OnePlus,,guacamole,OnePlus 7 Pro,#North America / Global
 GM1917,mob,oneplus,OnePlus,,guacamolet,OnePlus 7 Pro,#T-Mobile
-GM1920,mob,oneplus,OnePlus,,guacamoleg,OnePlus 7 Pro 5G,#EU
+GM1920,mob,oneplus,OnePlus,,guacamoleg,OnePlus 7 Pro 5G,#Europe
 GM1925,mob,oneplus,OnePlus,,guacamoles,OnePlus 7 Pro 5G,#Sprint
 HD1900,mob,oneplus,OnePlus,,hotdogb,OnePlus 7T,#China
 HD1901,mob,oneplus,OnePlus,,hotdogb,OnePlus 7T,#India
-HD1903,mob,oneplus,OnePlus,,hotdogb,OnePlus 7T,#EU
+HD1903,mob,oneplus,OnePlus,,hotdogb,OnePlus 7T,#Europe
 HD1905,mob,oneplus,OnePlus,,hotdogb,OnePlus 7T,#North America / Global
 HD1907,mob,oneplus,OnePlus,,hotdogt,OnePlus 7T,#T-Mobile
 HD1910,mob,oneplus,OnePlus,,hotdog,OnePlus 7T Pro,#China
 HD1911,mob,oneplus,OnePlus,,hotdog,OnePlus 7T Pro,#India
-HD1913,mob,oneplus,OnePlus,,hotdog,OnePlus 7T Pro,#EU / Global
+HD1913,mob,oneplus,OnePlus,,hotdog,OnePlus 7T Pro,#Europe / Global
 HD1925,mob,oneplus,OnePlus,,hotdogg,OnePlus 7T Pro 5G,#T-Mobile
 HD1925,mob,oneplus,OnePlus,,hotdogg,OnePlus 7T Pro 5G,#Concept One
 IN2010,mob,oneplus,OnePlus,,instantnoodle,OnePlus 8,#China
 IN2011,mob,oneplus,OnePlus,,instantnoodle,OnePlus 8,#India
-IN2013,mob,oneplus,OnePlus,,instantnoodle,OnePlus 8,#EU
+IN2013,mob,oneplus,OnePlus,,instantnoodle,OnePlus 8,#Europe
 IN2015,mob,oneplus,OnePlus,,instantnoodle,OnePlus 8,#North America / Global
 IN2017,mob,oneplus,OnePlus,,instantnoodlet,OnePlus 8,#T-Mobile
 IN2019,mob,oneplus,OnePlus,,instantnoodlevis,OnePlus 8,#Visible / Verzion
 IN2020,mob,oneplus,OnePlus,,instantnoodlep,OnePlus 8 Pro,#China
 IN2021,mob,oneplus,OnePlus,,instantnoodlep,OnePlus 8 Pro,#India
-IN2023,mob,oneplus,OnePlus,,instantnoodlep,OnePlus 8 Pro,#EU
+IN2023,mob,oneplus,OnePlus,,instantnoodlep,OnePlus 8 Pro,#Europe
 IN2025,mob,oneplus,OnePlus,,instantnoodlep,OnePlus 8 Pro,#North America / Global
 KB2000,mob,oneplus,OnePlus,,kebab,OnePlus 8T,#China
 KB2001,mob,oneplus,OnePlus,,kebab,OnePlus 8T,#India
-KB2003,mob,oneplus,OnePlus,,kebab,OnePlus 8T,#EU
-KB2005,mob,oneplus,OnePlus,,kebab,OnePlus 8T,#North America / Global
+KB2003,mob,oneplus,OnePlus,,kebab,OnePlus 8T,#Europe
+KB2005,mob,oneplus,OnePlus,,kebab,OnePlus 8T,#North America / Global / OnePlus 8T Concept
 KB2007,mob,oneplus,OnePlus,,kebabt,OnePlus 8T+,#T-Mobile
 LE2100,mob,oneplus,OnePlus,,lemonades,OnePlus 9R,#China
 LE2101,mob,oneplus,OnePlus,,lemonades,OnePlus 9R,#India
 LE2110,mob,oneplus,OnePlus,,lemonade,OnePlus 9,#China
 LE2111,mob,oneplus,OnePlus,,lemonade,OnePlus 9,#India
-LE2113,mob,oneplus,OnePlus,,lemonade,OnePlus 9,#EU
+LE2113,mob,oneplus,OnePlus,,lemonade,OnePlus 9,#Europe
 LE2115,mob,oneplus,OnePlus,,lemonade,OnePlus 9,#North America / Global
 LE2117,mob,oneplus,OnePlus,,lemonadet,OnePlus 9,#T-Mobile
 LE2119,mob,oneplus,OnePlus,,lemonadev,OnePlus 9,#Verzion
 LE2120,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,#China
 LE2121,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,#India
-LE2123,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,#EU
+LE2123,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,#Europe
 LE2125,mob,oneplus,OnePlus,,lemonadep,OnePlus 9 Pro,#North America / Global
 LE2127,mob,oneplus,OnePlus,,lemonadept,OnePlus 9 Pro,#T-Mobile
 MT2110,mob,oneplus,OnePlus,,martini,OnePlus 9RT,#China
 MT2111,mob,oneplus,OnePlus,,martini,OnePlus 9RT,#India
 NE2210,mob,oneplus,OnePlus,,negroni,OnePlus 10 Pro,#China
 NE2211,mob,oneplus,OnePlus,,negroni,OnePlus 10 Pro,#India
-NE2213,mob,oneplus,OnePlus,,negroni,OnePlus 10 Pro,#EU / Global
+NE2213,mob,oneplus,OnePlus,,negroni,OnePlus 10 Pro,#Europe / Global
 NE2215,mob,oneplus,OnePlus,,negroni,OnePlus 10 Pro,#North America
 NE2217,mob,oneplus,OnePlus,,negroni,OnePlus 10 Pro,#T-Mobile
 PGKM10,mob,oneplus,OnePlus,,pickle,OnePlus 10R|OnePlus Ace,1#China
-CPH2411,mob,oneplus,OnePlus,,pickle,OnePlus 10R|OnePlus Ace,#Endurance India
 CPH2423,mob,oneplus,OnePlus,,pickle,OnePlus 10R|OnePlus Ace,#India
+CPH2411,mob,oneplus,OnePlus,,pickle,OnePlus 10R|OnePlus Ace,#Endurance India
 PGZ110,mob,oneplus,OnePlus,,qqcandy,OnePlus Ace Race,#China
-PGP110,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,1#China
+PGP110,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,1#China / Genshin Impact Edition
 CPH2413,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#India
-CPH2415,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#EU / Global
+CPH2415,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#Europe / Global
 CPH2417,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#North America
 CPH2419,mob,oneplus,OnePlus,,ovaltine,OnePlus 10T|OnePlus Ace Pro,#T-Mobile
 PHB110,mob,oneplus,OnePlus,,salami,OnePlus 11,#China
 CPH2447,mob,oneplus,OnePlus,,salami,OnePlus 11,#India
-CPH2449,mob,oneplus,OnePlus,,salami,OnePlus 11,#EU / Global
+CPH2449,mob,oneplus,OnePlus,,salami,OnePlus 11,#Europe / Global / OnePlus 11 Concept
 CPH2451,mob,oneplus,OnePlus,,salami,OnePlus 11,#North America
-PHK110,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,1#China
+PHK110,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,1#China / Genshin Impact Edition
 CPH2487,mob,oneplus,OnePlus,,udon,OnePlus 11R|OnePlus Ace 2,#India
 PHP110,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,#China
 CPH2491,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#India
-CPH2493,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#EU
-PJA110,mob,oneplus,OnePlus,,xigua,OnePlus Ace 2 Pro,#China
+CPH2493,mob,oneplus,OnePlus,,vitamin,OnePlus Ace 2V|OnePlus Nord 3,1#Europe
+PJA110,mob,oneplus,OnePlus,,xigua,OnePlus Ace 2 Pro,#China / Genshin Impact Edition
 PJD110,mob,oneplus,OnePlus,,waffle,OnePlus 12,#China
 CPH2573,mob,oneplus,OnePlus,,waffle,OnePlus 12,#India
-CPH2581,mob,oneplus,OnePlus,,waffle,OnePlus 12,#EU / Global
+CPH2581,mob,oneplus,OnePlus,,waffle,OnePlus 12,#Europe / Global
 CPH2583,mob,oneplus,OnePlus,,waffle,OnePlus 12,#North America
-PJE110,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,#China
-CPH2585,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#India
-CPH2609,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#EU / Global
-CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America
+PJE110,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,#China / Genshin Impact Edition
+CPH2585,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#India / Genshin Impact Edition
+CPH2609,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#Europe / Global / Genshin Impact Edition
+CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America / Genshin Impact Edition
 PJF110,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V,#China
 PJX110,mob,oneplus,OnePlus,,corvette,OnePlus Ace 3 Pro,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
-AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#EU / Global
+AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
-DN2103,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#EU
+DN2103,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#Europe
 CPH2399,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#Global
 CPH2401,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,#India
+CPH2661,mob,oneplus,OnePlus,,avalon,OnePlus Nord 4,#India
+CPH2663,mob,oneplus,OnePlus,,avalon,OnePlus Nord 4,#Europe / Global
 EB2101,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#India
-EB2103,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#EU / Global
+EB2103,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,#Europe / Global
 IV2201,mob,oneplus,OnePlus,,ivan,OnePlus Nord CE 2,#India
 CPH2381,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#India
-CPH2409,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#EU / Global
-CPH2569,mob,oneplus,OnePlus,,,OnePlus Nord CE 3,#India
-CPH2465,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#Global
-CPH2467,mob,oneplus,OnePlus,,,OnePlus Nord CE 3 Lite,#India
-CPH2613,mob,oneplus,OnePlus,,,OnePlus Nord CE4,#India
-CPH2619,mob,oneplus,OnePlus,,,OnePlus Nord CE4 Lite,#India
-CPH2621,mob,oneplus,OnePlus,,,OnePlus Nord CE4 Lite,#EU / Global
+CPH2409,mob,oneplus,OnePlus,,oscar,OnePlus Nord CE 2 Lite,#Europe / Global
+CPH2569,mob,oneplus,OnePlus,,ziti,OnePlus Nord CE 3,#India
+CPH2465,mob,oneplus,OnePlus,,larry,OnePlus Nord CE 3 Lite|OnePlus Nord N30,#Global
+CPH2467,mob,oneplus,OnePlus,,larry,OnePlus Nord CE 3 Lite|OnePlus Nord N30,#India
+CPH2513,mob,oneplus,OnePlus,,larry,OnePlus Nord CE 3 Lite|OnePlus Nord N30,1#North America
+CPH2515,mob,oneplus,OnePlus,,larry,OnePlus Nord CE 3 Lite|OnePlus Nord N30,1#T-Mobile
+CPH2613,mob,oneplus,OnePlus,,benz,OnePlus Nord CE 4,#India
+CPH2619,mob,oneplus,OnePlus,,camry,OnePlus Nord CE 4 Lite,#India
+CPH2621,mob,oneplus,OnePlus,,camry,OnePlus Nord CE 4 Lite,#Europe / Global
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Metro
 BE2026,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#North America
-BE2029,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#EU / Global
+BE2029,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,#Europe / Global
 BE2028,mob,oneplus,OnePlus,,billie8t,OnePlus Nord N10,#T-Mobile
 BE2011,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#North America
 BE2012,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#T-Mobile
@@ -4579,24 +4591,24 @@ BE2015,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#Metro
 GN2200,mob,oneplus,OnePlus,,,OnePlus Nord N20,#
 CPH2459,mob,oneplus,OnePlus,,,OnePlus Nord N20,#
 CPH2469,mob,oneplus,OnePlus,,,OnePlus Nord N20 SE,#20 SE
-CPH2513,mob,oneplus,OnePlus,,,OnePlus Nord N30,#North America
-CPH2515,mob,oneplus,OnePlus,,,OnePlus Nord N30,#T-Mobile
-CPH2605,mob,oneplus,OnePlus,,fanli,OnePlus Nord N30 SE,#EU
+CPH2605,mob,oneplus,OnePlus,,fanli,OnePlus Nord N30 SE,#Europe
 DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,#North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,#T-Mobile
 CPH2389,mob,oneplus,OnePlus,,,OnePlus Nord N300,#
-CPH2551,pad,oneplus,OnePlus,,hedwig,OnePlus Open,#
+CPH2551,pad,oneplus,OnePlus,,,"OnePlus Open (`hedwig`, `xueying)",#
 OPD2203,pad,oneplus,OnePlus,,aries,OnePlus Pad,#
 OPD2304,pad,oneplus,OnePlus,,bluey,OnePlus Pad Go,#LTE
 OPD2305,pad,oneplus,OnePlus,,bluey,OnePlus Pad Go,#Wi-Fi
-OPD2404,pad,oneplus,OnePlus,,caihong,OnePlus Pad Pro,#
-W101IN,band,oneplus,OnePlus,,,OnePlus Band,#India
-OPBBE221,watch,oneplus,OnePlus,,,OnePlus Nord Watch,#Global
+OPD2404,pad,oneplus,OnePlus,,,"OnePlus Pad 2|OnePlus Pad Pro (`rainbow`, `caihong)",1#
+OPD2403,pad,oneplus,OnePlus,,,"OnePlus Pad 2|OnePlus Pad Pro (`rainbow`, `caihong)",#
+W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,#India
+OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,#
 W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,#China / Cyberpunk 2077 Limited Edition
 W501CN,watch,oneplus,OnePlus,,,OnePlus Watch,#Cobalt Limited Edition (China)
 W301GB,watch,oneplus,OnePlus,,,OnePlus Watch,#Global / Cobalt Limited Edition (Global)
-OPWW234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2 China|OnePlus Watch 2R,#
-OPWWE231,watch,oneplus,OnePlus,,almond,OnePlus Watch 2,#Global
+OPWW234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2R|OnePlus Watch 2 China,1#N
+OPWWE234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2R|OnePlus Watch 2 China,#
+OPWWE231,watch,oneplus,OnePlus,,almond,OnePlus Watch 2,#
 PAFM00,mob,oppo,OPPO,,,OPPO Find X,#标准版 全网通版
 PAFT00,mob,oppo,OPPO,,,OPPO Find X,#标准版 移动版
 PAHM00,mob,oppo,OPPO,,,OPPO Find X,#超级闪充版/兰博基尼版 全网通版
