@@ -6969,6 +6969,8 @@ M2239B1,band,xiaomi,小米,,,小米手环 8,#
 M2240B1,band,xiaomi,小米,,,小米手环 8,#NFC 版
 M2303B1,band,xiaomi,小米,,,小米手环 8 Pro,#国行版
 M2333B1,band,xiaomi,小米,,,小米手环 8 Pro,#国际版
+M2345B1,band,xiaomi,小米,,,小米手环 9,#
+M2346B1,band,xiaomi,小米,,,小米手环 9,#NFC 版 / 陶瓷特别版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,#
 M2320W1,watch,xiaomi,小米,,axolotlaxie,Xiaomi Watch 2,#
 M2234W1,watch,xiaomi,小米,,axolotl,Xiaomi Watch 2 Pro,#蓝牙版
@@ -6983,6 +6985,7 @@ M2206W1,watch,xiaomi,小米,,,Xiaomi Watch S2,#42mm
 M2207W1,watch,xiaomi,小米,,,Xiaomi Watch S2,#46mm
 M2313W1,watch,xiaomi,小米,,,Xiaomi Watch S3,#蓝牙版
 M2311W1,watch,xiaomi,小米,,,Xiaomi Watch S3,#eSIM 版
+M2312W1,watch,xiaomi,小米,,,Xiaomi Watch S4 Sport,#eSIM 版
 M2230W1,watch,xiaomi,小米,,,小米腕部心电血压记录仪,#Xiaomi Watch H1
 HMSH01GE,band,xiaomi,小米,,,Redmi 手环,#
 M2101B1,band,xiaomi,小米,,,Redmi Smart Band Pro,#国际版
