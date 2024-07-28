@@ -3251,6 +3251,7 @@ TB138FC,pad,lenovo,联想,,,联想小新 Pad Pro,#2022 骁龙版
 TB132FU,pad,lenovo,联想,,,联想小新 Pad Pro,#2022 迅鲲版
 TB371FC,pad,lenovo,联想,,,联想小新 Pad Pro,#12.7 骁龙版
 TB370FU,pad,lenovo,联想,,,联想小新 Pad Pro,#12.7 天玑版
+TB375FC,pad,lenovo,联想,,,联想小新 Pad Pro,#12.7 2025
 TB351FU,pad,lenovo,联想,,,联想小新 Pad Studio,#
 TB372FC,pad,lenovo,联想,,,联想小新学习平板,#12.7
 Lenovo YT3-850F,pad,lenovo,联想,,,联想 YOGA Tab 3,#8” Wi-Fi 版
@@ -3519,7 +3520,7 @@ M712C,mob,meizu,魅族,,m1712,魅蓝 S6,#电信版
 M712H,mob,meizu,魅族,,m1712,魅蓝 S6,魅族 M6s 国际版
 M811Q,mob,meizu,魅族,,m1811,魅蓝 6T,#公开版
 M811H,mob,meizu,魅族,,m1811,魅蓝 6T,魅族 M6T 国际版
-M2110,mob,meizu,魅族,,m2110,魅蓝 10,#
+M2112,mob,meizu,魅族,,m2112,魅蓝 10,#
 M2111,mob,meizu,魅族,,m2111,魅蓝 10s,#
 M421Q,mob,meizu,魅族,,m2421,魅蓝 20,#
 S685Q,mob,meizu,魅族,,s25,魅蓝 Max,#公开版
@@ -3710,9 +3711,9 @@ M816H,mob,meizu,MEIZU,,m1816,MEIZU M8 Lite,#Global
 M816Q,mob,meizu,MEIZU,,m1816,MEIZU M8 Lite,#V8 China
 M810H,mob,meizu,MEIZU,,m1810,MEIZU M8c,#Global
 M918H,mob,meizu,MEIZU,,m1918,MEIZU M10,#Global
-M2110,mob,meizu,MEIZU,,m2110,mblu 10,#
+M2112,mob,meizu,MEIZU,,m2112,mblu 10,#
 M2111,mob,meizu,MEIZU,,m2111,mblu 10s,#
-M421Q,mob,meizu,MEIZU,,m2421,mblu 20,#
+M421Q,mob,meizu,MEIZU,,m2421,MEIZU M20,#
 S685H,mob,meizu,MEIZU,,s25,MEIZU M3 Max,#Global
 S685Q,mob,meizu,MEIZU,,s25,MEIZU M3 Max,#China
 S685M,mob,meizu,MEIZU,,s25,MEIZU M3 Max,#China Mobile
