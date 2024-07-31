@@ -1237,7 +1237,7 @@ GBZ4S,watch,google,Google,,r11,Pixel Watch,#LTE (Global)
 G4TSL,watch,google,Google,,eos,Pixel Watch 2,#Bluetooth & Wi-Fi
 GD2WG,watch,google,Google,,eos,Pixel Watch 2,#LTE (US)
 GC3G8,watch,google,Google,,eos,Pixel Watch 2,#LTE (Global)
-NTS-AL00,mob,honor,荣耀,,,荣耀 Magic,#全网通版
+NTS-AL00,mob,honor,荣耀,,Natasha,荣耀 Magic,#全网通版
 TNY-AL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#全网通版
 TNY-AL10,mob,honor,荣耀,,Tony,荣耀 Magic2,#3D 感光版
 TNY-TL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#移动 4G+ 版
@@ -5218,6 +5218,8 @@ RMX3998,mob,realme,realme,,,12x 5G,#
 RMX3867,mob,realme,realme,,,12+ 5G,#
 RMX3842,mob,realme,realme,,coffee-a,12 Pro 5G,#
 RMX3840,mob,realme,realme,,coffee,12 Pro+ 5G,#
+RMX3990,mob,realme,realme,,,13 Pro 5G,#
+RMX3921,mob,realme,realme,,,13 Pro+ 5G,#
 RMX1901,mob,realme,realme,,,X,#
 RMX1921,mob,realme,realme,,,XT,#Global
 RMX1922,mob,realme,realme,,,XT,#India
@@ -5298,7 +5300,8 @@ RMX3765,mob,realme,realme,,,C51s,#
 RMX3760,mob,realme,realme,,,C53,#Global
 RMX3762,mob,realme,realme,,,C53,#India
 RMX3710,mob,realme,realme,,,C55,#
-RMX3939,mob,realme,realme,,,C61,#
+RMX3939,mob,realme,realme,,,C61,#Global
+RMX3933,mob,realme,realme,,,C61,#India
 RMX3939,mob,realme,realme,,,C63,#
 RMX3910,mob,realme,realme,,,C65,#
 RMX3997,mob,realme,realme,,,C65,#5G
@@ -5337,6 +5340,9 @@ RMX3710,mob,realme,realme,,,Narzo N55,#
 RMX3750,mob,realme,realme,,,Narzo 60,#5G
 RMX3771,mob,realme,realme,,,Narzo 60 Pro,#5G
 RMX3782,mob,realme,realme,,,Narzo 60x,#5G
+RMX3933,mob,realme,realme,,,NARZO N61,#
+RMX3939,mob,realme,realme,,,NARZO N63,#
+RMX3997,mob,realme,realme,,,NARZO N65,#5G
 RMX3869,mob,realme,realme,,,NARZO 70,#5G
 RMX3868,mob,realme,realme,,,NARZO 70 Pro,#5G
 RMX3998,mob,realme,realme,,,NARZO 70x,#5G
@@ -6825,6 +6831,8 @@ V2254,mob,vivo,vivo,,,Y02t,#
 V2325,mob,vivo,vivo,,,Y02t,#
 V2332,mob,vivo,vivo,,,Y03,#
 V2406,mob,vivo,vivo,,,Y03,#
+V2344,mob,vivo,vivo,,,Y03t,#
+V2409,mob,vivo,vivo,,,Y03t,#
 V2028,mob,vivo,vivo,,,Y11s,#
 vivo 1904,mob,vivo,vivo,,,Y12,#
 V2026,mob,vivo,vivo,,,Y12A,#
@@ -6851,7 +6859,9 @@ V2331,mob,vivo,vivo,,,Y17s,#
 V2333,mob,vivo,vivo,,,Y18,#
 V2345,mob,vivo,vivo,,,Y18,#
 V2410,mob,vivo,vivo,,,Y18s,#
+V2408,mob,vivo,vivo,,,Y18t,#
 V2350,mob,vivo,vivo,,,Y18e,#
+V2414,mob,vivo,vivo,,,Y18i,#
 vivo 1915,mob,vivo,vivo,,,Y19,#
 V2027,mob,vivo,vivo,,,Y20,#
 V2037,mob,vivo,vivo,,,Y20G,#
