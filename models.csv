@@ -1886,7 +1886,10 @@ CRT-NX1,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
 CRT-NX3,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
 CLK-NX1,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
 CLK-NX3,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
+ELI-NX9,mob,honor,HONOR,,,HONOR 200,#
+ELP-NX9,mob,honor,HONOR,,,HONOR 200 Pro,#
 LLY-NX1,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
+LLY-NX3,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
@@ -1917,6 +1920,10 @@ WDY-LX1,mob,honor,HONOR,,Woody,HONOR X6a,#
 WDY-LX2,mob,honor,HONOR,,Woody,HONOR X6a,#
 WDY-LX3,mob,honor,HONOR,,Woody,HONOR X6a,#
 WDY-LX3,mob,honor,HONOR,,Woody,HONOR X6a,#Plus
+JDY-LX1,mob,honor,HONOR,,,HONOR X6b,#
+JDY-LX2,mob,honor,HONOR,,,HONOR X6b,#
+JDY-LX3,mob,honor,HONOR,,,HONOR X6b,#
+JDY-LX3P,mob,honor,HONOR,,,HONOR X6b,#Plus
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,#
@@ -5314,8 +5321,10 @@ RMX3760,mob,realme,realme,,,C53,#Global
 RMX3762,mob,realme,realme,,,C53,#India
 RMX3710,mob,realme,realme,,,C55,#
 RMX3939,mob,realme,realme,,,C61,#Global
+RMX3930,mob,realme,realme,,,C61,#Global
 RMX3933,mob,realme,realme,,,C61,#India
 RMX3939,mob,realme,realme,,,C63,#
+RMX3950,mob,realme,realme,,,C63,#5G
 RMX3910,mob,realme,realme,,,C65,#
 RMX3997,mob,realme,realme,,,C65,#5G
 RMX3890,mob,realme,realme,,,C67,#
@@ -5325,6 +5334,7 @@ RMX1831,mob,realme,realme,,,U1,#
 RMX1833,mob,realme,realme,,,U1,#
 RMX3870,mob,realme,realme,,,P1,#5G
 RMX3844,mob,realme,realme,,coffee-a,P1 Pro,#5G
+RMX3987,mob,realme,realme,,,P2 Pro,#5G
 RMX2002,mob,realme,realme,,nemo,Narzo,#Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,#India
 RMX2020,mob,realme,realme,,,Narzo 10A,#India
