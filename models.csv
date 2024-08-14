@@ -1230,6 +1230,17 @@ G6GPR,mob,google,Google,,akita,Pixel 8a,#Global
 G576D,mob,google,Google,,akita,Pixel 8a,#Japan
 G9FPL,mob,google,Google,,felix,Pixel Fold,"#US, EU"
 G0B96,mob,google,Google,,felix,Pixel Fold,#Japan
+G2YBB,mob,google,Google,,tokay,Pixel 9,"#US, mmWave"
+GUR25,mob,google,Google,,tokay,Pixel 9,#Global
+G1B60,mob,google,Google,,tokay,Pixel 9,#Japan
+GR83Y,mob,google,Google,,caiman,Pixel 9 Pro,"#US, mmWave"
+GEC77,mob,google,Google,,caiman,Pixel 9 Pro,#Global
+GWVK6,mob,google,Google,,caiman,Pixel 9 Pro,#Japan
+GGX8B,mob,google,Google,,komodo,Pixel 9 Pro XL,"#US, mmWave"
+GZC4K,mob,google,Google,,komodo,Pixel 9 Pro XL,#Global
+GQ57S,mob,google,Google,,komodo,Pixel 9 Pro XL,#Japan
+GGH2X,mob,google,Google,,comet,Pixel 9 Pro Fold,#Global
+GC15S,mob,google,Google,,comet,Pixel 9 Pro Fold,#Japan
 C1502W,mob,google,Google,,dragon,Pixel C,#
 GTU8P,pad,google,Google,,tangorpro,Pixel Tablet,#
 GQF4C,watch,google,Google,,r11btwifi,Pixel Watch,#Bluetooth & Wi-Fi
@@ -7695,8 +7706,8 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 24074RPD2C,pad,xiaomi,小米,N83U,ruan,Redmi Pad Pro 5G,#国行版
 24074RPD2G,pad,xiaomi,小米,N83U,ruan,Redmi Pad Pro 5G,#国际版
 24075RP89G,pad,xiaomi,小米,N85,,Redmi Pad SE 8.7,#国际版
-24076RP19G,pad,xiaomi,小米,N85,,Redmi Pad SE 8.7 4G,#国际版
-24076RP19I,pad,xiaomi,小米,N85,,Redmi Pad SE 8.7 4G,#4G 印度版
+24076RP19G,pad,xiaomi,小米,N85,spark,Redmi Pad SE 8.7 4G,#国际版
+24076RP19I,pad,xiaomi,小米,N85,spark,Redmi Pad SE 8.7 4G,#4G 印度版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,#国际版
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,#国际版
@@ -8491,8 +8502,8 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,#China
 24074RPD2G,pad,xiaomi,Xiaomi,N83U,ruan,Redmi Pad Pro 5G,#Global
 24074RPD2C,pad,xiaomi,Xiaomi,N83U,ruan,Redmi Pad Pro 5G,#China
 24075RP89G,pad,xiaomi,Xiaomi,N85,,Redmi Pad SE 8.7,#Global
-24076RP19G,pad,xiaomi,Xiaomi,N85,,Redmi Pad SE 8.7 4G,#Global
-24076RP19I,pad,xiaomi,Xiaomi,N85,,Redmi Pad SE 8.7 4G,#4G India
+24076RP19G,pad,xiaomi,Xiaomi,N85,spark,Redmi Pad SE 8.7 4G,#Global
+24076RP19I,pad,xiaomi,Xiaomi,N85,spark,Redmi Pad SE 8.7 4G,#4G India
 2405CPCFBG,pad,xiaomi,Xiaomi,N83P,dizi,POCO Pad,#Global
 FYJ01QP,pad,xiaomi,Xiaomi,,FYJ01QP,Xiaomi Mijia Translator,#
 21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,#Bio-inspired Quadruped Robot
