@@ -1569,6 +1569,8 @@ KOB2-W09HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,#8 英寸 Wi-Fi 版
 KOB2-AL00HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,#8 英寸 全网通版
 AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,#9.7 英寸 Wi-Fi 版
 AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,#9.7 英寸 全网通版
+AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,#10.1 英寸 Wi-Fi 版
+AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,#10.1 英寸 全网通版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 X8,#10.1 英寸 Wi-Fi 版
 ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,#11.5 英寸 Wi-Fi 版
 HEY-W09,pad,honor,荣耀,,Hendry,荣耀平板 8,#12 英寸 Wi-Fi 版
@@ -1579,6 +1581,7 @@ HEY2-W09,pad,honor,荣耀,,Hendry2,荣耀平板 9,#12.1 英寸 Wi-Fi 版
 HEY2-W19,pad,honor,荣耀,,Hendry2,荣耀平板 9,#柔光版 12.1 英寸 Wi-Fi 版
 HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 9,#12.1 英寸 5G 版
 ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,#12.1 英寸 Wi-Fi 版
+ROD-W19,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,#柔光版 12.1 英寸 Wi-Fi 版
 HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,#12.1 英寸 5G 版
 ROD2-W09,pad,honor,荣耀,,Rolland2,荣耀平板 MagicPad 2,#12.3 英寸 Wi-Fi 版
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 Wi-Fi 版
@@ -4971,6 +4974,8 @@ CPH2455,mob,oppo,OPPO,,,OPPO F21s Pro,#5G
 CPH2481,mob,oppo,OPPO,,,OPPO F23,#
 CPH2527,mob,oppo,OPPO,,,OPPO F23,#5G
 CPH2603,mob,oppo,OPPO,,,OPPO F25 Pro,#5G
+CPH2637,mob,oppo,OPPO,,,OPPO F27,#5G
+CPH2643,mob,oppo,OPPO,,,OPPO F27 Pro+,#5G
 CPH1835,mob,oppo,OPPO,,,OPPO R15,#
 CPH1831,mob,oppo,OPPO,,,OPPO R15 Pro,#
 CPH1833,mob,oppo,OPPO,,,OPPO R15 Pro,#
@@ -4986,7 +4991,11 @@ A402OP,mob,oppo,OPPO,,,OPPO A3,#5G (SoftBank)
 CPH1803,mob,oppo,OPPO,,,OPPO A3s,#
 CPH1853,mob,oppo,OPPO,,,OPPO A3s,#
 CPH1805,mob,oppo,OPPO,,,OPPO A3s,#
-CPH2667,mob,oppo,OPPO,,,OPPO A3 Pro,#
+CPH2641,mob,oppo,OPPO,,,OPPO A3x,#5G
+CPH2681,mob,oppo,OPPO,,,OPPO A3x,#5G
+CPH2639,mob,oppo,OPPO,,,OPPO A3 Pro,#5G
+CPH2665,mob,oppo,OPPO,,,OPPO A3 Pro,#5G
+CPH2667,mob,oppo,OPPO,,,OPPO A3 Pro,#5G
 CPH1809,mob,oppo,OPPO,,,OPPO A5,#
 CPH1909,mob,oppo,OPPO,,,OPPO A5s,#
 CPH1909RU,mob,oppo,OPPO,,,OPPO A5s,#
@@ -5053,6 +5062,7 @@ CPH2385,mob,oppo,OPPO,,,OPPO A57s,#
 CPH2577,mob,oppo,OPPO,,,OPPO A58,#
 CPH2617,mob,oppo,OPPO,,,OPPO A59,#5G
 CPH2631,mob,oppo,OPPO,,,OPPO A60,#
+CPH2683,mob,oppo,OPPO,,,OPPO A60,#5G
 CPH2067,mob,oppo,OPPO,,,OPPO A72,#
 CPH2095,mob,oppo,OPPO,,,OPPO A73,#
 CPH2099,mob,oppo,OPPO,,,OPPO A73,#
@@ -5084,6 +5094,7 @@ CPH2529,mob,oppo,OPPO,,,OPPO A98,#5G
 CPH1955,mob,oppo,OPPO,,,OPPO K3,#
 CPH2373,mob,oppo,OPPO,,,OPPO K10,#
 CPH2237,mob,oppo,OPPO,,,OPPO K10,#5G
+CPH2667,mob,oppo,OPPO,,,OPPO K12x,#5G
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,#
 OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi
@@ -6589,6 +6600,7 @@ V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,3#5G
 V2327A,mob,vivo,vivo,,PD2327,Y36t,#
 V2357A,mob,vivo,vivo,,PD2357,Y37,#5G
 V2357EA,mob,vivo,vivo,,PD2357,Y37m,#5G
+V2354A,mob,vivo,vivo,,PD2354,Y37 Pro,#5G
 V1965A,mob,vivo,vivo,,PD1965,Y50,#
 V2023EA,mob,vivo,vivo,,PD2023,Y50t,#
 V2002A,mob,vivo,vivo,,PD2019,Y51s,#5G
@@ -6646,10 +6658,12 @@ V2313A,mob,vivo,vivo,,PD2313,Y100,#5G
 V2314DA,mob,vivo,vivo,,PD2314,Y100t,#5G
 V2279A,mob,vivo,vivo,,PD2279,Y100i,#5G
 V2312BA,mob,vivo,vivo,,PD2312,Y100i 长续航版,#5G
+V2354A,mob,vivo,vivo,,PD2354,Y100+|Y200i,#5G
+V2354A,mob,vivo,vivo,,PD2354,Y100+|Y200i,1#5G
 V2343A,mob,vivo,vivo,,PD2343,Y200,#5G
 V2361GA,mob,vivo,vivo,,PD2361,Y200 GT,#5G
 V2353DA,mob,vivo,vivo,,PD2353,Y200t,#5G
-V2354A,mob,vivo,vivo,,PD2354,Y200i,#5G
+V2410A,mob,vivo,vivo,,PD2410,Y300 Pro,#5G
 V2115A,mob,vivo,vivo,,PD2115,T1,#
 V2123A,mob,vivo,vivo,,PD2123,T1x,#
 V2188A,mob,vivo,vivo,,PD2188,T2x,#
@@ -7699,13 +7713,14 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#国行版
 23073RPBFG,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#国际版
 23073RPBFL,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#拉美版
-2405CRPFDC,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,#国行版
-2405CRPFDG,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,#国际版
-2405CRPFDI,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,#印度版
-2405CRPFDL,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,#拉美版
+2405CRPFDC,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,#Wi-Fi 国行版
+2405CRPFDG,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,#Wi-Fi 国际版
+2405CRPFDI,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,#Wi-Fi 印度版
+2405CRPFDL,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,#Wi-Fi 拉美版
 24074RPD2C,pad,xiaomi,小米,N83U,ruan,Redmi Pad Pro 5G,#国行版
 24074RPD2G,pad,xiaomi,小米,N83U,ruan,Redmi Pad Pro 5G,#国际版
-24075RP89G,pad,xiaomi,小米,N85,,Redmi Pad SE 8.7,#国际版
+24074RPD2I,pad,xiaomi,小米,N83U,ruan,Redmi Pad Pro 5G,#印度版
+24075RP89G,pad,xiaomi,小米,N85,flare,Redmi Pad SE 8.7,#Wi-Fi 国际版
 24076RP19G,pad,xiaomi,小米,N85,spark,Redmi Pad SE 8.7 4G,#国际版
 24076RP19I,pad,xiaomi,小米,N85,spark,Redmi Pad SE 8.7 4G,#4G 印度版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
@@ -7780,7 +7795,8 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 2312BPC51H,mob,xiaomi,小米,C3YP,blue,POCO C61,#印度版
 2310FPCA4G,mob,xiaomi,小米,C3UP,gust,POCO C65,#国际版
 2310FPCA4I,mob,xiaomi,小米,C3UP,gale,POCO C65,#印度版
-2405CPCFBG,pad,xiaomi,小米,N83P,dizi,POCO Pad,#国际版
+2405CPCFBG,pad,xiaomi,小米,N83P,dizi,POCO Pad,#Wi-Fi 国际版
+24074PCD2I,pad,xiaomi,小米,N83U,ruan,POCO Pad 5G,#印度版
 FYJ01QP,pad,xiaomi,小米,,FYJ01QP,小米米家翻译机,#
 21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,#
 MI-ONE PLUS,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,#WCDMA
@@ -8495,16 +8511,18 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,#China
 23073RPBFG,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#Global
 23073RPBFC,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#China
 23073RPBFL,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#Latin America
-2405CRPFDG,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Global
-2405CRPFDC,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#China
-2405CRPFDI,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#India
-2405CRPFDL,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Latin America
+2405CRPFDG,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Wi-Fi Global
+2405CRPFDC,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Wi-Fi China
+2405CRPFDI,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Wi-Fi India
+2405CRPFDL,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Wi-Fi Latin America
 24074RPD2G,pad,xiaomi,Xiaomi,N83U,ruan,Redmi Pad Pro 5G,#Global
 24074RPD2C,pad,xiaomi,Xiaomi,N83U,ruan,Redmi Pad Pro 5G,#China
-24075RP89G,pad,xiaomi,Xiaomi,N85,,Redmi Pad SE 8.7,#Global
+24074RPD2I,pad,xiaomi,Xiaomi,N83U,ruan,Redmi Pad Pro 5G,#India
+24075RP89G,pad,xiaomi,Xiaomi,N85,flare,Redmi Pad SE 8.7,#Wi-Fi Global
 24076RP19G,pad,xiaomi,Xiaomi,N85,spark,Redmi Pad SE 8.7 4G,#Global
 24076RP19I,pad,xiaomi,Xiaomi,N85,spark,Redmi Pad SE 8.7 4G,#4G India
-2405CPCFBG,pad,xiaomi,Xiaomi,N83P,dizi,POCO Pad,#Global
+2405CPCFBG,pad,xiaomi,Xiaomi,N83P,dizi,POCO Pad,#Wi-Fi Global
+24074PCD2I,pad,xiaomi,Xiaomi,N83U,ruan,POCO Pad 5G,#India
 FYJ01QP,pad,xiaomi,Xiaomi,,FYJ01QP,Xiaomi Mijia Translator,#
 21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,#Bio-inspired Quadruped Robot
 VP001,mob,zhixuan,华为智选,,,优畅享 20 Plus,#5G
