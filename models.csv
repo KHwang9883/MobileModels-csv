@@ -4947,7 +4947,8 @@ CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F|OPPO Reno11 A,#5G
 CPH2603,mob,oppo,OPPO,,,OPPO Reno11 F|OPPO Reno11 A,1#
 CPH2625,mob,oppo,OPPO,,,OPPO Reno12,#5G
 CPH2629,mob,oppo,OPPO,,,OPPO Reno12 Pro,#5G
-CPH2637,mob,oppo,OPPO,,,OPPO Reno12 F,#5G
+CPH2637,mob,oppo,OPPO,,,OPPO Reno12 F|OPPO Reno12 FS,#5G
+CPH2637,mob,oppo,OPPO,,,OPPO Reno12 F|OPPO Reno12 FS,1#5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,#
 CPH1821,mob,oppo,OPPO,,,OPPO F7,#
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,#
