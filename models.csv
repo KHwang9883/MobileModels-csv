@@ -6610,7 +6610,8 @@ V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,1#5G
 V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,2#5G
 V2318A,mob,vivo,vivo,,PD2318,Y36|Y36m|Y36i|Y36s,3#5G
 V2327A,mob,vivo,vivo,,PD2327,Y36t,#
-V2357A,mob,vivo,vivo,,PD2357,Y37,#5G
+V2357A,mob,vivo,vivo,,PD2357,Y36c|Y37,#5G
+V2357A,mob,vivo,vivo,,PD2357,Y36c|Y37,1#5G
 V2357EA,mob,vivo,vivo,,PD2357,Y37m,#5G
 V2354A,mob,vivo,vivo,,PD2354,Y37 Pro,#5G
 V1965A,mob,vivo,vivo,,PD1965,Y50,#
