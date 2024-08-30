@@ -4239,6 +4239,7 @@ XT2321-2,mob,motorola,Motorola,,zeekr,moto razr 40 Ultra,#
 XT2343-3,mob,motorola,Motorola,,cancunf,moto g54,#
 XT2363-4,mob,motorola,Motorola,,fogos,moto g34,#
 XT2401-2,mob,motorola,Motorola,,ctwo,moto X50 Ultra,#
+XT2409-5,mob,motorola,Motorola,,vienna,moto S50,#
 XT2427-4,mob,motorola,Motorola,,malmo,moto S50 Neo,#
 XT2453-2,mob,motorola,Motorola,,aito,moto razr 50,#
 XT2451-4,mob,motorola,Motorola,,arcfox,moto razr 50 Ultra,#
@@ -5174,8 +5175,8 @@ RMX3993,mob,realme,realme,,,真我 12x,#
 RMX3843,mob,realme,realme,,coffee-a,真我 12 Pro,#
 RMX3843,mob,realme,realme,,coffee-a,真我 12 Pro,#至尊版
 RMX3841,mob,realme,realme,,coffee,真我 12 Pro+,#
-RMX3989,mob,realme,realme,,,真我 13 Pro,#
-RMX3989,mob,realme,realme,,,真我 13 Pro,#至尊版
+RMX5002,mob,realme,realme,,,真我 13 Pro,#
+RMX3989,mob,realme,realme,,,真我 13 Pro 至尊版,#
 RMX3920,mob,realme,realme,,,真我 13 Pro+,#
 RMX2200,mob,realme,realme,,,真我 V3,#5G 全网通版
 RMX2201,mob,realme,realme,,,真我 V3,#5G 运营商定制版
@@ -5270,6 +5271,8 @@ RMX3998,mob,realme,realme,,,12x 5G,#
 RMX3867,mob,realme,realme,,,12+ 5G,#
 RMX3842,mob,realme,realme,,coffee-a,12 Pro 5G,#
 RMX3840,mob,realme,realme,,coffee,12 Pro+ 5G,#
+RMX3951,mob,realme,realme,,,13 5G,#
+RMX5000,mob,realme,realme,,,13+ 5G,#
 RMX3990,mob,realme,realme,,,13 Pro 5G,#
 RMX3921,mob,realme,realme,,,13 Pro+ 5G,#
 RMX1901,mob,realme,realme,,,X,#
