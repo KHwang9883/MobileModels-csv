@@ -3586,6 +3586,8 @@ M57AU,mob,meizu,魅族,,ma01,魅蓝 metal,#联通版
 M57AC,mob,meizu,魅族,,ma01,魅蓝 metal,#电信版
 M710M,mob,meizu,魅族,,m1710,魅蓝 A5,#移动定制版
 M710H,mob,meizu,魅族,,m1710,魅蓝 A5,魅族 M5c 国际版
+M468Q,mob,meizu,魅族,,m2468,LYNK & CO Phone Note,#
+M481S,mob,meizu,魅族,,m2481,LYNK & CO Phone Pro,#
 M481S,mob,meizu,魅族,,m2481,Polestar Phone,#
 M8,mob,meizu,MEIZU,,,MEIZU M8,#
 M8SE,mob,meizu,MEIZU,,,MEIZU M8,#SE
@@ -3781,6 +3783,8 @@ U685M,mob,meizu,MEIZU,,u15,MEIZU U20,#China Mobile
 U685C,mob,meizu,MEIZU,,u15,MEIZU U20,#China Telecom
 M818H,mob,meizu,MEIZU,,m1818,MEIZU C9,#Global
 M819H,mob,meizu,MEIZU,,m1819,MEIZU C9 Pro,#Global
+M468Q,mob,meizu,MEIZU,,m2468,LYNK & CO Phone Note,#
+M481S,mob,meizu,MEIZU,,m2481,LYNK & CO Phone Pro,#
 M481S,mob,meizu,MEIZU,,m2481,Polestar Phone,#
 L47M1-AA,tv,mitv,小米,,,小米电视,#47 英寸
 L40M2-AA,tv,mitv,小米,,,小米电视 2,#40 英寸
@@ -4358,6 +4362,8 @@ NX769J,mob,nubia,努比亚,,,红魔 9 Pro|红魔 9 Pro+,1#
 NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,#
 NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,1#
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,#5G
+NP03J,pad,nubia,努比亚,,,红魔电竞平板 Pro,#
+NP02J,pad,nubia,努比亚,,,红魔平板 · 3D 探索版,#5G
 ONE A0001,mob,oneplus,一加,,bacon,OnePlus One,#全网通版 / 移动版 / 国际版
 ONE A1001,mob,oneplus,一加,,bacon,OnePlus One,#联通版
 ONE A2001,mob,oneplus,一加,,oneplus2,OnePlus 2,#
@@ -7477,9 +7483,10 @@ A401XM,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (SoftBank)
 23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,1#
 23124RN87I,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#印度版
 23124RN87G,mob,xiaomi,小米,C3V,atmos,Redmi 13C 5G,#国际版
-2409BRN2CA,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国际版
-2409BRN2CI,mob,xiaomi,小米,C3N,lake,Redmi 14C,#印度版
-2409BRN2CL,mob,xiaomi,小米,C3N,lake,Redmi 14C,#拉美版
+2409BRN2CA,mob,xiaomi,小米,C3N,pond,Redmi 14C,#国际版
+2409BRN2CI,mob,xiaomi,小米,C3N,pond,Redmi 14C,#印度版
+2409BRN2CL,mob,xiaomi,小米,C3N,pond,Redmi 14C,#拉美版
+2409BRN2CY,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国际版 (NFC)
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,#移动 3G 标准版
@@ -8189,9 +8196,10 @@ A401XM,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SoftBank)
 23124RN87I,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#India
 23124RN87C,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#China
 23124RN87C,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,1#China
-2409BRN2CA,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Global
-2409BRN2CI,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#India
-2409BRN2CL,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Latin America
+2409BRN2CA,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#Global
+2409BRN2CI,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#India
+2409BRN2CL,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#Latin America
+2409BRN2CY,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Global (NFC)
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,#WCDMA (1GB RAM)
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,#WCDMA (2GB RAM)
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,#TD-SCDMA (1GB RAM)
