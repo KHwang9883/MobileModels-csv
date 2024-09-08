@@ -1247,9 +1247,13 @@ GTU8P,pad,google,Google,,tangorpro,Pixel Tablet,#
 GQF4C,watch,google,Google,,r11btwifi,Pixel Watch,#Bluetooth & Wi-Fi
 GWT9R,watch,google,Google,,r11,Pixel Watch,#LTE (US)
 GBZ4S,watch,google,Google,,r11,Pixel Watch,#LTE (Global)
-G4TSL,watch,google,Google,,eos,Pixel Watch 2,#Bluetooth & Wi-Fi
+G4TSL,watch,google,Google,,aurora,Pixel Watch 2,#Bluetooth & Wi-Fi
 GD2WG,watch,google,Google,,eos,Pixel Watch 2,#LTE (US)
 GC3G8,watch,google,Google,,eos,Pixel Watch 2,#LTE (Global)
+GG3HH,watch,google,Google,,,Pixel Watch 3,#Bluetooth & Wi-Fi (41mm)
+GBDU9,watch,google,Google,,,Pixel Watch 3,#LTE (41mm)
+GGE4J,watch,google,Google,,,Pixel Watch 3,#Bluetooth & Wi-Fi (45mm)
+GRY0E,watch,google,Google,,,Pixel Watch 3,#LTE (45mm)
 NTS-AL00,mob,honor,荣耀,,Natasha,荣耀 Magic,#全网通版
 TNY-AL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#全网通版
 TNY-AL10,mob,honor,荣耀,,Tony,荣耀 Magic2,#3D 感光版
@@ -1923,6 +1927,7 @@ BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,#
 BVL-N59,mob,honor,HONOR,,Bvlgari,PORSCHE DESIGN HONOR Magic6 RSR,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
+FCP-N49,mob,honor,HONOR,,,HONOR Magic V3,#
 VNA-LX2,mob,honor,HONOR,,,HONOR X5,#
 VNA-LX3,mob,honor,HONOR,,,HONOR X5,#
 WOD-LX1,mob,honor,HONOR,,,HONOR X5 Plus,#
@@ -1980,6 +1985,7 @@ HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#5G
 ELN-W09,pad,honor,HONOR,,Eileen,HONOR Pad X9,#Wi-Fi
 ELN-L03,pad,honor,HONOR,,Eileen,HONOR Pad X9,#LTE
 ELN-L09,pad,honor,HONOR,,Eileen,HONOR Pad X9,#LTE
+ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,#
 HUAWEI MT1-T00,mob,huawei,华为,,,华为 Ascend Mate,#移动版
 HUAWEI MT1-U06,mob,huawei,华为,,,华为 Ascend Mate,#联通版
 HUAWEI MT2-U071,mob,huawei,华为,,,华为 Ascend Mate 2,#联通 3G 版
@@ -3983,6 +3989,13 @@ L43RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#43 2025 款
 L50RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#50 2025 款
 L55RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#55 2025 款
 L65RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#65 2025 款
+L70RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#70 2025 款
+L43RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#43
+L50RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#50 节能版
+L55RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#55 节能版
+L65RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#65 节能版
+L70RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#70 节能版
+L75RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#75 节能版
 L50M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#50 (2020)
 L55M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#55 (2020)
 L65M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#65 (2020)
@@ -4004,6 +4017,7 @@ L75MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#75 2024 款
 L65R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#65
 L75R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#75
 L85RA-RX,tv,mitv,小米,,,Redmi 智能电视 MAX,#85 英寸
+L85RB-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#85 2025 款
 L86R6-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#86 英寸
 L90R9-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#90 英寸
 L98M6-RK,tv,mitv,小米,,,Redmi 智能电视 MAX,#98 英寸
@@ -6860,6 +6874,7 @@ V2349,mob,vivo,vivo,,,V30 SE,#
 V2348,mob,vivo,vivo,,,V40,#
 V2347,mob,vivo,vivo,,,V40 Pro,#
 V2403,mob,vivo,vivo,,,V40e,#
+V2418,mob,vivo,vivo,,,V40e,#
 V2341,mob,vivo,vivo,,,V40 Lite,#
 V2337,mob,vivo,vivo,,,V40 SE,#5G
 V2342,mob,vivo,vivo,,,V40 SE,#5G
@@ -6883,6 +6898,7 @@ V2334,mob,vivo,vivo,,,T3,#5G
 V2338,mob,vivo,vivo,,,T3x,#5G
 V2404,mob,vivo,vivo,,,T3 Pro,#5G
 V2356,mob,vivo,vivo,,,T3 Lite,#5G
+V2426,mob,vivo,vivo,,,T3 Ultra,#5G
 vivo 1929,mob,vivo,vivo,,,Y1s,#
 vivo 2015,mob,vivo,vivo,,,Y1s,#
 vivo 2015_21,mob,vivo,vivo,,,Y1s,#
@@ -6935,6 +6951,7 @@ V2408,mob,vivo,vivo,,,Y18t,#
 V2350,mob,vivo,vivo,,,Y18e,#
 V2414,mob,vivo,vivo,,,Y18i,#
 vivo 1915,mob,vivo,vivo,,,Y19,#
+V2419,mob,vivo,vivo,,,Y19s,#
 V2027,mob,vivo,vivo,,,Y20,#
 V2037,mob,vivo,vivo,,,Y20G,#
 V2032,mob,vivo,vivo,,,Y20i,#
@@ -7011,6 +7028,9 @@ V2307,mob,vivo,vivo,,,Y200,#5G
 V2303,mob,vivo,vivo,,,Y200 Pro,#5G
 V2401,mob,vivo,vivo,,,Y200 Pro,#5G
 V2336,mob,vivo,vivo,,,Y200e,#5G
+V2416,mob,vivo,vivo,,,Y300,#5G
+V2422,mob,vivo,vivo,,,Y300+,#5G
+V2402,mob,vivo,vivo,,,Y300 Pro,#5G
 I1927,mob,vivo,vivo,,,iQOO 3,#4G
 I1928,mob,vivo,vivo,,,iQOO 3,#5G
 I2009,mob,vivo,vivo,,,iQOO 7,#
