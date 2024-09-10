@@ -417,6 +417,16 @@ A2984,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,#(GPS + 蜂窝�
 A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,#(GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
 A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,#全球
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,#中国大陆 & 港澳
+A1218,tv,apple,Apple,,"AppleTV1,1",Apple TV (第 1 代),#
+A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (第 2 代),#
+A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (第 3 代),#
+A1469,tv,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (第 3 代),#Rev A
+A1625,tv,apple,Apple,J42dAP,"AppleTV5,3",Apple TV HD,#
+A1842,tv,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,#
+A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (第 2 代),#
+A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),#无线局域网
+A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),#无线局域网 + 以太网
+A2117,tv,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,#
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,#
 A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),#
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),#中国大陆
@@ -806,6 +816,16 @@ A2984,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,#(GPS + Cellular
 A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,"#(GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
 A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,#Global
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,"#China mainland, Hong Kong, Macao"
+A1218,tv,apple,Apple,,"AppleTV1,1",Apple TV (1st generation),#
+A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (2nd generation),#
+A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (3rd generation),#
+A1469,tv,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (3rd generation),#Rev A
+A1625,tv,apple,Apple,J42dAP,"AppleTV5,3",Apple TV HD,#
+A1842,tv,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,#
+A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (2nd generation),#
+A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),#Wi-Fi
+A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),#Wi-Fi + Ethernet
+A2117,tv,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,#
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch (1st generation),#
 A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),#
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),#China mainland
@@ -1017,6 +1037,7 @@ A2980,watch,apple,Apple,N207bAP,"Watch7,2",Apple Watch Series 9,#(GPS) (45 毫�
 A2983,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,#(GPS + 蜂窝网络) (41 毫米表壳)
 A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,#(GPS + 蜂窝网络) (45 毫米表壳)
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,#
+A2117,watch,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,#
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,#
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),#
 A1318,pod,apple,Apple,N18AP,"iPod3,1",iPod touch (第 3 代),#
