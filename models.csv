@@ -1271,10 +1271,10 @@ GBZ4S,watch,google,Google,,r11,Pixel Watch,#LTE (Global)
 G4TSL,watch,google,Google,,aurora,Pixel Watch 2,#Bluetooth & Wi-Fi
 GD2WG,watch,google,Google,,eos,Pixel Watch 2,#LTE (US)
 GC3G8,watch,google,Google,,eos,Pixel Watch 2,#LTE (Global)
-GG3HH,watch,google,Google,,,Pixel Watch 3,#Bluetooth & Wi-Fi (41mm)
-GBDU9,watch,google,Google,,,Pixel Watch 3,#LTE (41mm)
-GGE4J,watch,google,Google,,,Pixel Watch 3,#Bluetooth & Wi-Fi (45mm)
-GRY0E,watch,google,Google,,,Pixel Watch 3,#LTE (45mm)
+GG3HH,watch,google,Google,,helios,Pixel Watch 3,#Bluetooth & Wi-Fi (41mm)
+GBDU9,watch,google,Google,,selene,Pixel Watch 3,#LTE (41mm)
+GGE4J,watch,google,Google,,sol,Pixel Watch 3,#Bluetooth & Wi-Fi (45mm)
+GRY0E,watch,google,Google,,luna,Pixel Watch 3,#LTE (45mm)
 NTS-AL00,mob,honor,荣耀,,Natasha,荣耀 Magic,#全网通版
 TNY-AL00,mob,honor,荣耀,,Tony,荣耀 Magic2,#全网通版
 TNY-AL10,mob,honor,荣耀,,Tony,荣耀 Magic2,#3D 感光版
@@ -5219,6 +5219,7 @@ RMX3993,mob,realme,realme,,,真我 12x,#
 RMX3843,mob,realme,realme,,coffee-a,真我 12 Pro,#
 RMX3843,mob,realme,realme,,coffee-a,真我 12 Pro,#至尊版
 RMX3841,mob,realme,realme,,coffee,真我 12 Pro+,#
+RMX3952,mob,realme,realme,,,真我 13,#
 RMX5002,mob,realme,realme,,,真我 13 Pro,#
 RMX3989,mob,realme,realme,,,真我 13 Pro 至尊版,#
 RMX3920,mob,realme,realme,,,真我 13 Pro+,#
@@ -5448,6 +5449,7 @@ RMX3997,mob,realme,realme,,,NARZO N65,#5G
 RMX3869,mob,realme,realme,,,NARZO 70,#5G
 RMX3868,mob,realme,realme,,,NARZO 70 Pro,#5G
 RMX3998,mob,realme,realme,,,NARZO 70x,#5G
+RMX5003,mob,realme,realme,,,NARZO 70 Turbo,#5G
 RMP2102,pad,realme,realme,,,,#realme Pad LTE
 RMP2103,pad,realme,realme,,,,#realme Pad Wi-Fi
 RMP2105,pad,realme,realme,,,mini,#LTE
