@@ -4092,16 +4092,23 @@ L32M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,#32
 L32MA-AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,#32 2024 Edition
 L40M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,#40
 L43M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,#43
+L43MA-AFIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,#43 2024 Edition
 L43M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#43
 L43M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#43 2023 Edition
+L43MA-AUIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#43 2023 Edition
 L50M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#50
 L50M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#50 2023 Edition
+L50MA-AUIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#50 2024 Edition
 L55M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#55
 L55M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#55 2023 Edition
+L55MA-AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#55 2024 Edition
 L65M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,#65 2023 Edition
 L43M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#43
+L43MA-SIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#QLED Series 43
 L50M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#50
 L55M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#55
+L55MA-SIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#QLED Series 55
+L65MA-SIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,#QLED Series 65
 L55M6-EQG,tv,mitv,Xiaomi,,,Mi QLED TV,#Q1 4K 55
 L75M6-ESG,tv,mitv,Xiaomi,,,Mi QLED TV,#Q1 75
 O55M7-Z2IN,tv,mitv,Xiaomi,,,Xiaomi OLED Vision TV,#55
@@ -4116,6 +4123,8 @@ L65M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,#X65
 L32R8-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,#32
 L32MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,#32 2024 Edition
 L43R8-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,#43
+L43MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,#4K 43 2024 Edition
+L55MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,#4K 55 2024 Edition
 MDZ-22-AB,tv,mitv,Xiaomi,,,Mi Box,#4K
 L32M5-AN,tv,mitv,Xiaomi,,,Mi TV 4 / 4A (Indonesia),#32
 L43M5-AN,tv,mitv,Xiaomi,,,Mi TV 4 / 4A (Indonesia),#43
@@ -7531,6 +7540,7 @@ A401XM,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (SoftBank)
 2409BRN2CI,mob,xiaomi,小米,C3N,pond,Redmi 14C,#印度版
 2409BRN2CL,mob,xiaomi,小米,C3N,pond,Redmi 14C,#拉美版
 2409BRN2CY,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国际版 (NFC)
+2411DRN47C,mob,xiaomi,小米,,flame,Redmi 14R 5G,#
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,#移动 3G 标准版
@@ -8244,6 +8254,7 @@ A401XM,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SoftBank)
 2409BRN2CI,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#India
 2409BRN2CL,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#Latin America
 2409BRN2CY,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Global (NFC)
+2411DRN47C,mob,xiaomi,Xiaomi,,flame,Redmi 14R 5G,#China
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,#WCDMA (1GB RAM)
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,#WCDMA (2GB RAM)
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,#TD-SCDMA (1GB RAM)
