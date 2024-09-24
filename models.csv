@@ -438,9 +438,9 @@ A2998,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,"#(GPS) (42 毫
 A2999,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,#(GPS) (46 毫米表壳) (全球)
 A3000,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,"#(GPS) (46 毫米表壳) (中国大陆, 印度尼西亚)"
 A3001,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,#(GPS + 蜂窝网络) (42 毫米表壳) (全球)
-A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,"#(GPS + 蜂窝网络) (42 毫米表壳) (中国大陆 & 港澳, 印度尼西亚)"
+A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,"#(GPS + 蜂窝网络) (42 毫米表壳) (中国大陆, 印度尼西亚)"
 A3003,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,#(GPS + 蜂窝网络) (46 毫米表壳) (全球)
-A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,"#(GPS + 蜂窝网络) (46 毫米表壳) (中国大陆 & 港澳, 印度尼西亚)"
+A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,"#(GPS + 蜂窝网络) (46 毫米表壳) (中国大陆, 印度尼西亚)"
 A1218,tv,apple,Apple,,"AppleTV1,1",Apple TV (第 1 代),#
 A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (第 2 代),#
 A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (第 3 代),#
@@ -861,9 +861,9 @@ A2998,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,"#(GPS) (42mm c
 A2999,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,#(GPS) (46mm case) (Global)
 A3000,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,"#(GPS) (46mm case) (China mainland, Indonesia)"
 A3001,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,#(GPS + Cellular) (42mm case) (Global)
-A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,"#(GPS + Cellular) (42mm case) (China mainland, Hong Kong, Macao, Indonesia)"
+A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,"#(GPS + Cellular) (42mm case) (China mainland, Indonesia)"
 A3003,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,#(GPS + Cellular) (46mm case) (Global)
-A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,"#(GPS + Cellular) (46mm case) (China mainland, Hong Kong, Macao, Indonesia)"
+A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,"#(GPS + Cellular) (46mm case) (China mainland, Indonesia)"
 A1218,tv,apple,Apple,,"AppleTV1,1",Apple TV (1st generation),#
 A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (2nd generation),#
 A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (3rd generation),#
@@ -1552,6 +1552,7 @@ DIO-AN00,mob,honor,荣耀,,Dior,荣耀 Play7T Pro,#5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀 Play8T,#5G
 LLY-AN00,mob,honor,荣耀,,Lily,荣耀 Play8T Pro,#5G
 ALT-AN00,mob,honor,荣耀,,,荣耀 Play9T,#5G
+JDY-AN00,mob,honor,荣耀,,,荣耀 Play9C,#5G
 EDI-AL10,mob,honor,荣耀,,Edison,荣耀 Note8,#全网通版
 EDI-DL00,mob,honor,荣耀,,Edison,荣耀 Note8,#移动/联通版
 RVL-AL09,mob,honor,荣耀,,Ravel,荣耀 Note10,#
@@ -4580,6 +4581,7 @@ CPH2609,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#欧洲版 / 国际
 CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版 / 原神刻晴定制机
 PJF110,mob,oneplus,一加,,audi,OnePlus Ace 3V,#国行版
 PJX110,mob,oneplus,一加,,corvette,OnePlus Ace 3 Pro,#国行版
+PJZ110,mob,oneplus,一加,,,OnePlus 13,#国行版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
@@ -4735,6 +4737,7 @@ CPH2609,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#Europe / Global /
 CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America / Genshin Impact Edition
 PJF110,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V,#China
 PJX110,mob,oneplus,OnePlus,,corvette,OnePlus Ace 3 Pro,#China
+PJZ110,mob,oneplus,OnePlus,,,OnePlus 13,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
@@ -6487,6 +6490,7 @@ SM-M022G,mob,samsung,Samsung,,a02,Galaxy M02,#India (2GB RAM)
 SM-M022M,mob,samsung,Samsung,,a02,Galaxy M02,#Latin America
 SM-M025F,mob,samsung,Samsung,,a02q,Galaxy M02s,#
 SM-M045F,mob,samsung,Samsung,,m04,Galaxy M04,#
+SM-M055F,mob,samsung,Samsung,,a05m,Galaxy M05,#
 SM-M105G,mob,samsung,Samsung,,m10lte,Galaxy M10,#Global
 SM-M105F,mob,samsung,Samsung,,m10lte,Galaxy M10,#India
 SM-M105M,mob,samsung,Samsung,,m10lte,Galaxy M10,#Latin America
@@ -6540,10 +6544,12 @@ SM-M536B,mob,samsung,Samsung,,m53x,Galaxy M53 5G,#
 SM-M546B,mob,samsung,Samsung,,m54x,Galaxy M54 5G,#
 SM-M556B,mob,samsung,Samsung,,m55xq,Galaxy M55 5G,#India
 SM-M556E,mob,samsung,Samsung,,m55xq,Galaxy M55 5G,#Global
+SM-M558B,mob,samsung,Samsung,,m55xq,Galaxy M55s 5G,#
 SM-C5560,mob,samsung,Samsung,,m55xq,Galaxy C55 5G,#
 SM-M625F,mob,samsung,Samsung,,m62,Galaxy M62,#
 SM-E025F,mob,samsung,Samsung,,a02q,Galaxy F02s,#
 SM-E045F,mob,samsung,Samsung,,m04,Galaxy F04,#
+SM-E055F,mob,samsung,Samsung,,a05m,Galaxy F05,#
 SM-F127G,mob,samsung,Samsung,,f12,Galaxy F12,#
 SM-E135F,mob,samsung,Samsung,,m13,Galaxy F13,#
 SM-E145F,mob,samsung,Samsung,,a05s,Galaxy F14,#
@@ -6889,6 +6895,7 @@ V2314A,mob,vivo,vivo,,PD2314,iQOO Z8,#
 V2312A,mob,vivo,vivo,,PD2312,iQOO Z8x,#
 V2361A,mob,vivo,vivo,,PD2361,iQOO Z9,#
 V2352A,mob,vivo,vivo,,PD2352,iQOO Z9 Turbo,#
+V2417A,mob,vivo,vivo,,PD2417,iQOO Z9 Turbo+,#
 V2353A,mob,vivo,vivo,,PD2353,iQOO Z9x,#
 V2023A,mob,vivo,vivo,,PD2023,iQOO U1,#
 V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,#
