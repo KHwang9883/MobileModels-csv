@@ -1808,6 +1808,8 @@ BRN-G561,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+1TB)
 BRN-H56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#R5 (16GB+512GB)
 BRI-76,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (16GB+512GB)
 BRI-721,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (32GB+1TB)
+BRG-565,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i5 (16GB+512GB)
+BRG-561,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i5 (16GB+1TB)
 FRI-F56Z,computer,honor,荣耀,,,荣耀 MagicBook Z3 14 2023,#i5
 FRD-WDG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (8GB+512GB) (华为终端)
 FRD-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB) (华为终端)
@@ -2780,6 +2782,7 @@ HD98ARKB,tv,huawei,华为,,,华为智慧屏 V5,#98
 HD75ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,#75
 HD85ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,#85
 HD98ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,#98
+HDC0ARIA,tv,huawei,华为,,,华为智慧屏 V5 Max,#110
 PLAT-760,tv,huawei,华为,,Plato,华为智慧屏 X 系列,#65
 HD55KANB,tv,huawei,华为,,Kant,华为智慧屏 S 系列,#55 60Hz (3GB+16GB)
 HD55KANC,tv,huawei,华为,,Kant,华为智慧屏 S 系列,#55 60Hz (3GB+32GB)
@@ -2882,6 +2885,7 @@ ARA-B19,watch,huawei,华为,,,HUAWEI WATCH GT 4,#41mm
 PNX-B19,watch,huawei,华为,,,HUAWEI WATCH GT 4,#46mm
 JNA-B19,watch,huawei,华为,,Jana,HUAWEI WATCH GT 5,#41mm
 VLI-B19,watch,huawei,华为,,Vili,HUAWEI WATCH GT 5,#46mm
+JNA-B29,watch,huawei,华为,,Jana,HUAWEI WATCH GT 5 Pro,#42mm
 VLI-B29,watch,huawei,华为,,Vili,HUAWEI WATCH GT 5 Pro,#46mm
 RUN-B19,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,#
 RUN-B29,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,#
