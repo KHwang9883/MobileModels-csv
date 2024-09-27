@@ -1435,19 +1435,19 @@ LSA-AN00,mob,honor,荣耀,,Lisa,荣耀 60,#5G
 TNA-AN00,mob,honor,荣耀,,Tina,荣耀 60 Pro,#5G 全网通版
 TNA-TN00,mob,honor,荣耀,,Tina,荣耀 60 Pro,#5G 移动版
 GIA-AN00,mob,honor,荣耀,,Gina,荣耀 60 SE,#5G
-FNE-AN00,mob,honor,荣耀,,,荣耀 70,#
+FNE-AN00,mob,honor,荣耀,,Fennie,荣耀 70,#
 SDY-AN00,mob,honor,荣耀,,Sandy,荣耀 70 Pro,#
 HPB-TN00,mob,honor,荣耀,,Hepburn,荣耀 70 Pro+,#
 ANN-AN00,mob,honor,荣耀,,Anna,荣耀 80,#
-ANP-AN00,mob,honor,荣耀,,,荣耀 80 Pro,#
-ANB-AN00,mob,honor,荣耀,,,荣耀 80 Pro 直屏版,#
+ANP-AN00,mob,honor,荣耀,,AnnaP,荣耀 80 Pro,#
+ANB-AN00,mob,honor,荣耀,,AnnaB,荣耀 80 Pro 直屏版,#
 GIA-AN80,mob,honor,荣耀,,Gina,荣耀 80 SE,#
-AGT-AN00,mob,honor,荣耀,,,荣耀 80 GT,#
-REA-AN00,mob,honor,荣耀,,,荣耀 90,#
-REP-AN00,mob,honor,荣耀,,,荣耀 90 Pro,#
+AGT-AN00,mob,honor,荣耀,,AnnaGT,荣耀 80 GT,#
+REA-AN00,mob,honor,荣耀,,Rhea,荣耀 90,#
+REP-AN00,mob,honor,荣耀,,RheaP,荣耀 90 Pro,#
 MAG-AN00,mob,honor,荣耀,,MiaGT,荣耀 90 GT,#
-MAA-AN00,mob,honor,荣耀,,,荣耀 100,#
-MAA-AN10,mob,honor,荣耀,,,荣耀 100 Pro,#
+MAA-AN00,mob,honor,荣耀,,Mia,荣耀 100,#
+MAA-AN10,mob,honor,荣耀,,MiaP,荣耀 100 Pro,#
 ELI-AN00,mob,honor,荣耀,,,荣耀 200,#
 ELP-AN00,mob,honor,荣耀,,,荣耀 200 Pro,#
 KNT-AL10,mob,honor,荣耀,,Knight,荣耀 V8,#全网通版
@@ -1552,7 +1552,7 @@ DIO-AN00,mob,honor,荣耀,,Dior,荣耀 Play7T Pro,#5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀 Play8T,#5G
 LLY-AN00,mob,honor,荣耀,,Lily,荣耀 Play8T Pro,#5G
 ALT-AN00,mob,honor,荣耀,,,荣耀 Play9T,#5G
-JDY-AN00,mob,honor,荣耀,,,荣耀 Play9C,#5G
+JDY-AN00,mob,honor,荣耀,,Judy,荣耀 Play9C,#5G
 EDI-AL10,mob,honor,荣耀,,Edison,荣耀 Note8,#全网通版
 EDI-DL00,mob,honor,荣耀,,Edison,荣耀 Note8,#移动/联通版
 RVL-AL09,mob,honor,荣耀,,Ravel,荣耀 Note10,#
@@ -1622,8 +1622,8 @@ WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 4
 WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 40S,1#5G
 WDY-AN00,mob,honor,荣耀,,Woody,荣耀畅玩 40|荣耀畅玩 40C|荣耀畅玩 40S,2#5G
 RKY-AN00,mob,honor,荣耀,,Rocky,荣耀畅玩 40 Plus,#5G
-JDY-AN00,mob,honor,荣耀,,,荣耀畅玩 50|荣耀畅玩 50m,#5G
-JDY-AN00,mob,honor,荣耀,,,荣耀畅玩 50|荣耀畅玩 50m,1#5G
+JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50|荣耀畅玩 50m,#5G
+JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50|荣耀畅玩 50m,1#5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,#5G
 ALT-AN00,mob,honor,荣耀,,,荣耀畅玩 60 Plus,#5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,#Wi-Fi 版
@@ -1980,9 +1980,9 @@ NTH-NX9,mob,honor,HONOR,,Nottingham,HONOR 50,#
 NTN-LX1,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#
 NTN-L22,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#
 NTN-LX3,mob,honor,HONOR,,NewtonH,HONOR 50 Lite,#
-FNE-NX9,mob,honor,HONOR,,,HONOR 70,#
-RBN-NX1,mob,honor,HONOR,,,HONOR 70 Lite,#
-REA-NX9,mob,honor,HONOR,,,HONOR 90,#
+FNE-NX9,mob,honor,HONOR,,Fennie,HONOR 70,#
+RBN-NX1,mob,honor,HONOR,,Robin,HONOR 70 Lite,#
+REA-NX9,mob,honor,HONOR,,Rhea,HONOR 90,#
 CRT-NX1,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
 CRT-NX3,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
 CLK-NX1,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
@@ -2001,31 +2001,31 @@ PGT-N09,mob,honor,HONOR,,Piaget,HONOR Magic5,#
 PGT-N19,mob,honor,HONOR,,Piaget,HONOR Magic5 Pro,#
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
 RMO-NX3,mob,honor,HONOR,,Rambo,HONOR Magic5 Lite 5G,#
-VER-N49,mob,honor,HONOR,,,HONOR Magic V2,#
-VER-N49DP,mob,honor,HONOR,,,PORSCHE DESIGN HONOR Magic V2 RSR,#
+VER-N49,mob,honor,HONOR,,Veyron,HONOR Magic V2,#
+VER-N49DP,mob,honor,HONOR,,Veyron,PORSCHE DESIGN HONOR Magic V2 RSR,#
 BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,#
 BVL-N59,mob,honor,HONOR,,Bvlgari,PORSCHE DESIGN HONOR Magic6 RSR,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 FCP-N49,mob,honor,HONOR,,,HONOR Magic V3,#
-VNA-LX2,mob,honor,HONOR,,,HONOR X5,#
-VNA-LX3,mob,honor,HONOR,,,HONOR X5,#
-WOD-LX1,mob,honor,HONOR,,,HONOR X5 Plus,#
-WOD-LX2,mob,honor,HONOR,,,HONOR X5 Plus,#
-WOD-LX3,mob,honor,HONOR,,,HONOR X5 Plus,#
+VNA-LX2,mob,honor,HONOR,,Vanessa,HONOR X5,#
+VNA-LX3,mob,honor,HONOR,,Vanessa,HONOR X5,#
+WOD-LX1,mob,honor,HONOR,,Woody,HONOR X5 Plus,#
+WOD-LX2,mob,honor,HONOR,,Woody,HONOR X5 Plus,#
+WOD-LX3,mob,honor,HONOR,,Woody,HONOR X5 Plus,#
 VNE-LX1,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX2,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX3,mob,honor,HONOR,,Vinnie,HONOR X6,#
 VNE-LX3,mob,honor,HONOR,,Vinnie,HONOR X6s,#
-RBN-NX1,mob,honor,HONOR,,,HONOR X6 5G,#
+RBN-NX1,mob,honor,HONOR,,Robin,HONOR X6 5G,#
 WDY-LX1,mob,honor,HONOR,,Woody,HONOR X6a,#
 WDY-LX2,mob,honor,HONOR,,Woody,HONOR X6a,#
 WDY-LX3,mob,honor,HONOR,,Woody,HONOR X6a,#
 WDY-LX3,mob,honor,HONOR,,Woody,HONOR X6a,#Plus
-JDY-LX1,mob,honor,HONOR,,,HONOR X6b,#
-JDY-LX2,mob,honor,HONOR,,,HONOR X6b,#
-JDY-LX3,mob,honor,HONOR,,,HONOR X6b,#
-JDY-LX3P,mob,honor,HONOR,,,HONOR X6b,#Plus
+JDY-LX1,mob,honor,HONOR,,Judy,HONOR X6b,#
+JDY-LX2,mob,honor,HONOR,,Judy,HONOR X6b,#
+JDY-LX3,mob,honor,HONOR,,Judy,HONOR X6b,#
+JDY-LX3P,mob,honor,HONOR,,Judy,HONOR X6b,#Plus
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,#
@@ -2045,10 +2045,10 @@ VNE-N41,mob,honor,HONOR,,Vinnie,HONOR X8 5G,#
 CRT-LX1,mob,honor,HONOR,,Cartier,HONOR X8a,#
 CRT-LX2,mob,honor,HONOR,,Cartier,HONOR X8a,#
 CRT-LX3,mob,honor,HONOR,,Cartier,HONOR X8a,#
-RBN-NX3,mob,honor,HONOR,,,HONOR X8a 5G,#
-LLY-LX1,mob,honor,HONOR,,,HONOR X8b,#
-LLY-LX2,mob,honor,HONOR,,,HONOR X8b,#
-LLY-LX3,mob,honor,HONOR,,,HONOR X8b,#
+RBN-NX3,mob,honor,HONOR,,Robin,HONOR X8a 5G,#
+LLY-LX1,mob,honor,HONOR,,Lily,HONOR X8b,#
+LLY-LX2,mob,honor,HONOR,,Lily,HONOR X8b,#
+LLY-LX3,mob,honor,HONOR,,Lily,HONOR X8b,#
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR X9,#
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR X9,#
 ANY-LX3,mob,honor,HONOR,,Andy,HONOR X9,#
@@ -7795,6 +7795,15 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#5G 日本版 (KDDI)
 24040RA98R,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 日本版
 2406ERN9CC,mob,xiaomi,小米,N19,breeze,Redmi Note 13R,#
 2311FRAFDC,mob,xiaomi,小米,N17,gold,Redmi Note 13R Pro,#
+24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国行版
+24094RAD4G,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国际版
+24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#印度版
+24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,#国行版
+24090RA29G,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,#5G 国际版
+24090RA29I,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,#5G 印度版
+24115RA8EC,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,#国行版
+24115RA8EG,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,#5G 国际版
+24115RA8EI,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,#5G 印度版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,#
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,#
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,#
@@ -8508,6 +8517,15 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#Japan (KDDI)
 24040RA98R,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#Japan
 2406ERN9CC,mob,xiaomi,Xiaomi,N19,breeze,Redmi Note 13R,#China
 2311FRAFDC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13R Pro,#China
+24094RAD4G,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#Global
+24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#India
+24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#China
+24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro,#5G Global
+24090RA29I,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro,#5G India
+24090RA29C,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro,#5G China
+24115RA8EG,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+,#5G Global
+24115RA8EI,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+,#5G India
+24115RA8EC,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+,#5G China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,#China
