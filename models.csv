@@ -4340,7 +4340,7 @@ XT1710-08,mob,motorola,Motorola,,albus,Moto Z2 Play,#
 XT1710-11,mob,motorola,Motorola,,albus,Moto Z2 Play,#移动定制版
 XT1799-1,mob,motorola,Motorola,,montana,moto 青柚,#
 XT1799-2,mob,motorola,Motorola,,montana,moto 青柚,#
-XT1789-05,mob,motorola,Motorola,,payton,moto Z 2018,#
+XT1789-05,mob,motorola,Motorola,,nash,moto Z 2018,#
 XT1925-10,mob,motorola,Motorola,,ali,moto 青柚 1s,#
 XT1929-15,mob,motorola,Motorola,,messi,Z3,#
 XT1924-9,mob,motorola,Motorola,,ahannah,e5 plus,#
@@ -5798,6 +5798,9 @@ SM-X510,mob,samsung,三星,,gts9fewifi,Galaxy Tab S9 FE,#WLAN
 SM-X516C,mob,samsung,三星,,gts9fe,Galaxy Tab S9 FE,#5G
 SM-X610,mob,samsung,三星,,gts9fepwifi,Galaxy Tab S9 FE+,#WLAN
 SM-X616C,mob,samsung,三星,,gts9fep,Galaxy Tab S9 FE+,#5G
+SM-X820,mob,samsung,三星,,gts10pwifi,Galaxy Tab S10+,#WLAN
+SM-X920,mob,samsung,三星,,gts10uwifi,Galaxy Tab S10 Ultra,#WLAN
+SM-X926C,mob,samsung,三星,,gts10u,Galaxy Tab S10 Ultra,#5G
 SM-T350,mob,samsung,三星,,gt58wifichn,Galaxy Tab A 8.0,#WLAN
 SM-T355C,mob,samsung,三星,,gt58ltechn,Galaxy Tab A 8.0,#LTE
 SM-T550,mob,samsung,三星,,gt510wifichn,Galaxy Tab A 8.0,#9.7 WLAN
