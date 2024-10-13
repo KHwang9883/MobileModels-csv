@@ -4958,6 +4958,7 @@ PKA110,mob,oppo,OPPO,,,OPPO A3,#5G (2024)
 PKD110,mob,oppo,OPPO,,,OPPO A3 活力版,#
 PKD120,mob,oppo,OPPO,,,OPPO A3m,#
 PKD130,mob,oppo,OPPO,,,OPPO A3x,#
+PKL110,mob,oppo,OPPO,,,OPPO A3i,#
 PJY110,mob,oppo,OPPO,,,OPPO A3 Pro,#
 PBCM30,mob,oppo,OPPO,,,OPPO K1,#
 PCGM00,mob,oppo,OPPO,,,OPPO K3,#全网通版
@@ -6298,7 +6299,14 @@ SM-A156U1,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#US Unlocked
 SM-S156V,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#TracFone
 SM-A156W,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Canada
 SM-A156M,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Latin America
-SM-A1560,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#TW
+SM-A1560,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#HK & TW
+SM-A166E,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Global
+SM-A166B,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#EU
+SM-A166U,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#US Carrier
+SM-A166U1,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#US Unlocked
+SM-S166V,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#TracFone
+SM-A166M,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Latin America
+SM-A1660,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#HK & TW
 SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,#Global
 SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,#India
 SM-A205F,mob,samsung,Samsung,,a20,Galaxy A20,#Global
@@ -8839,6 +8847,7 @@ ZTE 1021L,mob,zte,中兴,,,中兴畅行 40 SE,#
 ZTE 7543N,mob,zte,中兴,,,中兴小鲜 50 / 中兴畅行 50,#
 ZTE 7551N,mob,zte,中兴,,,中兴小鲜 60 / 中兴远航 60 / 中兴 V80,#
 ZTE 7552N,mob,zte,中兴,,,中兴畅行 60,#
+ZTE 7553N,mob,zte,中兴,,,中兴远航 61,#
 Z9101,mob,zte,中兴,,,中兴远航 3D,#
 ZTE 9041N,mob,zte,中兴,,,中兴 V70,#
 ZTE 9043N,mob,zte,中兴,,,中兴 V70 Pro,#
