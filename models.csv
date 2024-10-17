@@ -1,35 +1,35 @@
 ﻿model,dtype,brand,brand_title,code,code_alias,model_name,ver_name
-1503-M02,mob,360,360,,,N4,#移动版
-1503-A01,mob,360,360,,,N4,#全网通版
-1505-A01,mob,360,360,,,N4s,#
-1505-A02,mob,360,360,,,N4s 骁龙版,#
-1603-A03,mob,360,360,,,N4A,#
-1605-A01,mob,360,360,,,N5,#全网通版
-1605-A02,mob,360,360,,,N5,#移动版
-1607-A01,mob,360,360,,,N5s,#
-1801-A01,mob,360,360,,,N6 Pro,#
-1707-A01,mob,360,360,,,N6,#
-1713-A01,mob,360,360,,,N6 Lite,#
-1807-A01,mob,360,360,,,N7,#
-1809-A01,mob,360,360,,,N7 Pro,#
-1803-A01,mob,360,360,,,N7 Lite,#
+1503-M02,mob,360,360,,,手机 N4,#移动版
+1503-A01,mob,360,360,,,手机 N4,#全网通版
+1505-A01,mob,360,360,,,手机 N4s,#
+1505-A02,mob,360,360,,,手机 N4s 骁龙版,#
+1603-A03,mob,360,360,,,手机 N4A,#
+1605-A01,mob,360,360,,,手机 N5,#全网通版
+1605-A02,mob,360,360,,,手机 N5,#移动版
+1607-A01,mob,360,360,,,手机 N5s,#
+1801-A01,mob,360,360,,,手机 N6 Pro,#
+1707-A01,mob,360,360,,,手机 N6,#
+1713-A01,mob,360,360,,,手机 N6 Lite,#
+1807-A01,mob,360,360,,,手机 N7,#
+1809-A01,mob,360,360,,,手机 N7 Pro,#
+1803-A01,mob,360,360,,,手机 N7 Lite,#
 8676-A01,mob,360,360,,,大神 Note 3,#全网通版
 8676-M01,mob,360,360,,,大神 Note 3,#移动版
-1711-A01,mob,360,360,,,vizza,#
-1501-M02,mob,360,360,,,F4,#移动版
-1501-A02,mob,360,360,,,F4,#全网通版
-1603-A02,mob,360,360,,,F4s,#
-1701-M01,mob,360,360,,,F5,#
-1515-A01,mob,360,360,,,Q5,#
-1509-M02,mob,360,360,,,Q5 Plus,#移动版
-1509-A00,mob,360,360,,,Q5 Plus,#全网通版
-1703-M01,mob,360,360,,,C5,#
-8681-M01,mob,360,360,,,奇酷青春版,#移动版
-8681-M02,mob,360,360,,,奇酷青春版,#双网通版
-8681-A01,mob,360,360,,,奇酷青春版,#全网通版
-8692-M02,mob,360,360,,,奇酷旗舰版,#双网通版
-8692-A00,mob,360,360,,,奇酷旗舰版,#全网通版
-8692-A00,mob,360,360,,,奇酷旗舰版,#极客版
+1711-A01,mob,360,360,,,手机 vizza,#
+1501-M02,mob,360,360,,,手机 F4,#移动版
+1501-A02,mob,360,360,,,手机 F4,#全网通版
+1603-A02,mob,360,360,,,手机 F4s,#
+1701-M01,mob,360,360,,,手机 F5,#
+1515-A01,mob,360,360,,,手机 Q5,#
+1509-M02,mob,360,360,,,手机 Q5 Plus,#移动版
+1509-A00,mob,360,360,,,手机 Q5 Plus,#全网通版
+1703-M01,mob,360,360,,,手机 C5,#
+8681-M01,mob,360,360,,,手机奇酷青春版,#移动版
+8681-M02,mob,360,360,,,手机奇酷青春版,#双网通版
+8681-A01,mob,360,360,,,手机奇酷青春版,#全网通版
+8692-M02,mob,360,360,,,手机奇酷旗舰版,#双网通版
+8692-A00,mob,360,360,,,手机奇酷旗舰版,#全网通版
+8692-A00,mob,360,360,,,手机奇酷旗舰版,#极客版
 QSN2112,mob,360,360,,,奇少年 Q10,#
 QSN2201,mob,360,360,,,奇少年 Q10 Pro,#5G
 QSN2211,mob,360,360,,,奇少年 Q20|奇少年 Q30,#
@@ -4476,8 +4476,8 @@ Z2352N,mob,nubia,努比亚,,,Neo 2,#5G
 Z2353,mob,nubia,努比亚,,,Music,#
 Z6255CA,mob,nubia,努比亚,,,Blade A72,#
 nubia 8550,mob,nubia,努比亚,,,V50 Vita,#
-LPD-20W,pad,nubia,努比亚,,,3D,#
-NP02J,pad,nubia,努比亚,,,3D II,#
+LPD-20W,pad,nubia,努比亚,,,Pad 3D,#
+NP02J,pad,nubia,努比亚,,,Pad 3D II,#
 NX609J,mob,nubia,努比亚,,,红魔电竞游戏手机,#
 NX619J,mob,nubia,努比亚,,,红魔 Mars 电竞手机,#
 NX629J,mob,nubia,努比亚,,,红魔 3,#
@@ -5563,14 +5563,14 @@ RMX3869,mob,realme,realme,,,NARZO 70,#5G
 RMX3868,mob,realme,realme,,,NARZO 70 Pro,#5G
 RMX3998,mob,realme,realme,,,NARZO 70x,#5G
 RMX5003,mob,realme,realme,,,NARZO 70 Turbo,#5G
-RMP2102,pad,realme,realme,,,,#realme Pad LTE
-RMP2103,pad,realme,realme,,,,#realme Pad Wi-Fi
-RMP2105,pad,realme,realme,,,mini,#LTE
-RMP2106,pad,realme,realme,,,mini,#Wi-Fi
-RMP2107,pad,realme,realme,,,X,#5G
-RMP2108,pad,realme,realme,,,X,#Wi-Fi
-RMP2204,pad,realme,realme,,,2,#LTE
-RMP2205,pad,realme,realme,,,2,#Wi-Fi
+RMP2102,pad,realme,realme,,,Pad,#LTE
+RMP2103,pad,realme,realme,,,Pad,#Wi-Fi
+RMP2105,pad,realme,realme,,,Pad mini,#LTE
+RMP2106,pad,realme,realme,,,Pad mini,#Wi-Fi
+RMP2107,pad,realme,realme,,,Pad X,#5G
+RMP2108,pad,realme,realme,,,Pad X,#Wi-Fi
+RMP2204,pad,realme,realme,,,Pad 2,#LTE
+RMP2205,pad,realme,realme,,,Pad 2,#Wi-Fi
 GT-I9000,mob,samsung,三星,,,Galaxy S,#公开版
 GT-I9008,mob,samsung,三星,,,Galaxy S,#移动定制版
 GT-I9008L,mob,samsung,三星,,,Galaxy S,#移动定制版
@@ -6961,11 +6961,11 @@ V2143A,mob,vivo,vivo,,PD2143,iQOO U3x 标准版,#
 V2165A,mob,vivo,vivo,,PD2165,iQOO U5,#5G
 V2180GA,mob,vivo,vivo,,PD2180G,iQOO U5x,#
 V2197A,mob,vivo,vivo,,PD2197,iQOO U5e,#5G
-PA2170,pad,vivo,vivo,,DPD2106,,#vivo Pad
-PA2373,pad,vivo,vivo,,DPD2221,2,#
-PA2353,pad,vivo,vivo,,DPD2305,Air,#
-PA2455,pad,vivo,vivo,,DPD2345,3,#
-PA2473,pad,vivo,vivo,,DPD2329,3 Pro,#
+PA2170,pad,vivo,vivo,,DPD2106,Pad,#
+PA2373,pad,vivo,vivo,,DPD2221,Pad2,#
+PA2353,pad,vivo,vivo,,DPD2305,Pad Air,#
+PA2455,pad,vivo,vivo,,DPD2345,Pad3,#
+PA2473,pad,vivo,vivo,,DPD2329,Pad3 Pro,#
 iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
 iPA2453,pad,vivo,vivo,,DPD2345,iQOO Pad2,#
