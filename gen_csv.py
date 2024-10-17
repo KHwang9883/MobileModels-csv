@@ -145,8 +145,6 @@ def _process_bold_model(line: str):
             # 型号包含品牌名，去除
             mname = _strip_text(mname[brand_start + len(root_brand):])
             dtype_mat = _re_device_type.search(mname)
-            if dtype_mat:
-                mname = _strip_text(mname[dtype_mat.end():])
         devc_model_names.append(mname)
 
 
