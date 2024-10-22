@@ -360,6 +360,9 @@ A2125,pad,apple,Apple,J211AP,"iPad11,2",iPad mini (第 5 代),#(无线局域网 
 A2567,pad,apple,Apple,J310AP,"iPad14,1",iPad mini (第 6 代),#无线局域网
 A2568,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),#(无线局域网 + 蜂窝网络) (eSIM)
 A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),#(无线局域网 + 蜂窝网络) (中国大陆)
+A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),#无线局域网
+A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),#无线局域网 + 蜂窝网络
+A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),#(无线局域网 + 蜂窝网络) (中国大陆)
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (第 1 代),#38 毫米表壳
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (第 1 代),#42 毫米表壳
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,#38 毫米表壳
@@ -783,6 +786,9 @@ A2125,pad,apple,Apple,J211AP,"iPad11,2",iPad mini (5th generation),#Wi-Fi + Cell
 A2567,pad,apple,Apple,J310AP,"iPad14,1",iPad mini (6th generation),#Wi-Fi
 A2568,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (6th generation),#Wi-Fi + Cellular
 A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (6th generation),#Wi-Fi + Cellular (China mainland)
+A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),#Wi-Fi
+A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),#Wi-Fi + Cellular
+A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),#Wi-Fi + Cellular (China mainland)
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (1st generation),#38mm case
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (1st generation),#42mm case
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,#38mm case
@@ -1043,6 +1049,8 @@ A2133,pad,apple,Apple,J210AP,"iPad11,1",iPad mini (第 5 代),#无线局域网
 A2125,pad,apple,Apple,J211AP,"iPad11,2",iPad mini (第 5 代),#无线局域网 + 蜂窝网络
 A2567,pad,apple,Apple,J310AP,"iPad14,1",iPad mini (第 6 代),#无线局域网
 A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),#无线局域网 + 蜂窝网络
+A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),#无线局域网
+A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),#无线局域网 + 蜂窝网络
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (第 1 代),#38 毫米表壳
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (第 1 代),#42 毫米表壳
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,#38 毫米表壳
