@@ -2317,6 +2317,8 @@ ADA-AL00,mob,huawei,华为,,Adela,HUAWEI nova 12 Pro,#
 ADA-AL00U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#
 ADA-AL10U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#星耀版
 PSD-AL00,mob,huawei,华为,,Poseidon,HUAWEI nova Flip,#
+BLK-AL80,mob,huawei,华为,,Blake,HUAWEI nova 13,#
+MIS-AL00,mob,huawei,华为,,,HUAWEI nova 13 Pro,#
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,#移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,#联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,#电信版
@@ -2729,10 +2731,12 @@ GK-G56,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (16GB+512G
 GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#性能版 Wi-Fi
 GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#2023 Wi-Fi
 NBZ-WBH9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i5 (8GB+256GB)
-NBZ-WBM9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i5 (8GB+512GB)
+NBZ-WBH9B,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i5 (8GB+512GB)
 NBZ-WBE9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i7
-NDZ-WDH9A,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i5 (8GB+512GB)
-NDZ-WFH9A,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i5 (16GB+512GB)
+NDZ-WDI9A,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i3
+NDZ-WDH9A,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i5 集显
+NDZ-WFH9A,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i5 集显
+NDZ-WFH9B,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i5 独显
 NDZ-WFE9A,computer,huawei,华为,,NobelDZ,HUAWEI MateBook B3-420,#i7
 NFZ-WDH9,computer,huawei,华为,,NobelFZ,HUAWEI MateBook B3-430,#i5 (8GB+512GB)
 NFZ-WFH9,computer,huawei,华为,,NobelFZ,HUAWEI MateBook B3-430,#i5 (16GB+512GB)
@@ -2761,8 +2765,8 @@ MDZ-WDH9B,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i5 (8GB+256GB)
 MDZ-WFH9A,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i5 (16GB+512GB)
 MDZ-WFE9A,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+512GB)
 MDZ-WFE9B,computer,huawei,华为,,MachDZ,HUAWEI MateBook B7-410,#i7 (16GB+1TB)
-MRGFZ-5651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i5 (16GB+512GB)
-MRGFZ-7651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7 (16GB+512GB)
+MRGFZ-W5651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i5 (16GB+512GB)
+MRGFZ-W7651,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7 (16GB+512GB)
 MRGFZ-W7611,computer,huawei,华为,,MorganFZ,HUAWEI MateBook B7-420,#i7 (16GB+1TB)
 YTSFZ-5651TP,computer,huawei,华为,,YutuFZ,华为擎云 S520,#i5
 YTSFZ-7611T,computer,huawei,华为,,YutuFZ,华为擎云 S520,#i7
@@ -2777,6 +2781,8 @@ YTFZ-5651S,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5 (U15) (16GB+512G
 YTFZ-5651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i5 (P28) (16GB+512GB)
 YTFZ-7651S,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i7 (U15) (16GB+512GB)
 YTFZ-7651SP,computer,huawei,华为,,YutuFZ,华为擎云 S540,#i7 (P28) (16GB+512GB)
+YTSFZ-5651TP,computer,huawei,华为,,YutuFZ,华为擎云 G540,#i5
+YTSGZ-5651TP,computer,huawei,华为,,YutuGZ,华为擎云 G540 Gen2,#i5
 KLVG-16Z3-xxx,computer,huawei,华为,,KelvinG,华为擎云 G740,#i5 (16GB+512GB)
 KLVG-16Z2-xxx,computer,huawei,华为,,KelvinG,华为擎云 G740,#i5 (16GB+1TB)
 KLVG-16Z1-xxx,computer,huawei,华为,,KelvinG,华为擎云 G740,#i7 (16GB+1TB)
@@ -2888,7 +2894,8 @@ GLL-AL09,watch,huawei,华为,,GalileoPro,HUAWEI WATCH 3 Pro new,#尊享款
 ARC-AL00,watch,huawei,华为,,Archi,HUAWEI WATCH 4,#
 MDS-AL00,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 MDS-AL10,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
-CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#
+CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#非凡大师
+WDS-B19,watch,huawei,华为,,Woods,HUAWEI WATCH Ultimate,#非凡探索
 CLB-B39,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,#
 ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#雅致款
 FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#时尚版/运动版
