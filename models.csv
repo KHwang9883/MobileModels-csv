@@ -7390,11 +7390,11 @@ M2007J3SP,mob,xiaomi,小米,J3S,apollo,小米 10T,#印度版
 M2007J3SG,mob,xiaomi,小米,J3S,apollo,小米 10T Pro,#国际版
 M2007J3SI,mob,xiaomi,小米,J3S,apollo,小米 10T Pro,#印度版
 M2007J17G,mob,xiaomi,小米,J17,gauguin,小米 10T Lite,#国际版
-M2007J17I,mob,xiaomi,小米,J17,gauguininpro,小米 10i,#印度版
+M2007J17I,mob,xiaomi,小米,J17,gauguinin,小米 10i,#印度版
 M2102J2SC,mob,xiaomi,小米,J2S,thyme,小米 10S,#
 M2011K2C,mob,xiaomi,小米,K2,venus,小米 11,#国行版
 M2011K2G,mob,xiaomi,小米,K2,venus,小米 11,#国际版
-M2102K1AC,mob,xiaomi,小米,K1A,mars,小米 11 Pro,#
+M2102K1AC,mob,xiaomi,小米,K1A,star,小米 11 Pro,#
 M2102K1C,mob,xiaomi,小米,K1,star,小米 11 Ultra,#国行版
 M2102K1G,mob,xiaomi,小米,K1,star,小米 11 Ultra,#国际版
 M2101K9C,mob,xiaomi,小米,K9,renoir,小米 11 青春版,#国行版
@@ -7408,12 +7408,12 @@ M2101K9AI,mob,xiaomi,小米,K9A,courbet,小米 11 Lite,#4G 印度版
 M2012K11G,mob,xiaomi,小米,K11,haydn,小米 11i,#国际版
 M2012K11AI,mob,xiaomi,小米,K11A,aliothin,小米 11X,#印度版
 M2012K11I,mob,xiaomi,小米,K11,haydnin,小米 11X Pro,#印度版
-21081111RG,mob,xiaomi,小米,K11R,amber,Xiaomi 11T,#国际版
+21081111RG,mob,xiaomi,小米,K11R,agate,Xiaomi 11T,#国际版
 2107113SG,mob,xiaomi,小米,K3S,vili,Xiaomi 11T Pro,#国际版
 2107113SI,mob,xiaomi,小米,K3S,vili,Xiaomi 11T Pro,#印度版
 2107113SR,mob,xiaomi,小米,K3S,vili,Xiaomi 11T Pro,#日本版
-21091116I,mob,xiaomi,小米,K16,pissarroin,Xiaomi 11i,#印度版
-21091116UI,mob,xiaomi,小米,K16U,pissarroinpro,Xiaomi 11i HyperCharge,#印度版
+21091116I,mob,xiaomi,小米,K16,pissarro,Xiaomi 11i,#印度版
+21091116UI,mob,xiaomi,小米,K16U,pissarro,Xiaomi 11i HyperCharge,#印度版
 2201123C,mob,xiaomi,小米,L3,cupid,Xiaomi 12,#国行版
 2201123G,mob,xiaomi,小米,L3,cupid,Xiaomi 12,#国际版
 2112123AC,mob,xiaomi,小米,L3A,psyche,Xiaomi 12X,#国行版
@@ -7640,7 +7640,7 @@ M2001C3K3I,mob,xiaomi,小米,C3K3,olivewood,Redmi 8A Dual|Redmi 8A Pro,1#国际�
 M2004J19C,mob,xiaomi,小米,J19,lancelot,Redmi 9|Redmi 9 Prime,#国行版
 M2004J19G,mob,xiaomi,小米,J19,lancelot,Redmi 9|Redmi 9 Prime,#国际版
 M2004J19I,mob,xiaomi,小米,J19,lancelot,Redmi 9|Redmi 9 Prime,1#印度版
-M2004J19AG,mob,xiaomi,小米,J19A,galahad,Redmi 9,#国际版 (NFC)
+M2004J19AG,mob,xiaomi,小米,J19A,lancelot,Redmi 9,#国际版 (NFC)
 M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A|Redmi 9AT|Redmi 9i,#国行版
 M2006C3LG,mob,xiaomi,小米,C3L,dandelion,Redmi 9A|Redmi 9AT|Redmi 9i,#国际版
 M2006C3LVG,mob,xiaomi,小米,C3L,dandelion,Redmi 9A|Redmi 9AT|Redmi 9i,1#国际版
@@ -7651,30 +7651,30 @@ M2006C3LII,mob,xiaomi,小米,C3L,dandelion,Redmi 9A|Redmi 9AT|Redmi 9i,2#Sport �
 M2006C3MG,mob,xiaomi,小米,C3M,angelica,Redmi 9C,#国际版
 M2006C3MT,mob,xiaomi,小米,C3M,angelica,Redmi 9C,#泰国版
 M2006C3MNG,mob,xiaomi,小米,C3MN,angelican,Redmi 9C NFC,#国际版
-M2006C3MII,mob,xiaomi,小米,C3MI,cattail,Redmi 9|Redmi 9 Activ,#印度版
-M2006C3MII,mob,xiaomi,小米,C3MI,cattail,Redmi 9|Redmi 9 Activ,1#印度版
+M2006C3MII,mob,xiaomi,小米,C3MI,angelica,Redmi 9|Redmi 9 Activ,#印度版
+M2006C3MII,mob,xiaomi,小米,C3MI,angelica,Redmi 9|Redmi 9 Activ,1#印度版
 M2010J19SG,mob,xiaomi,小米,J19S,lime,Redmi 9T|Redmi 9 Power,#国际版
 M2010J19SI,mob,xiaomi,小米,J19S,lime,Redmi 9T|Redmi 9 Power,1#印度版
 M2010J19SR,mob,xiaomi,小米,J19S,lime,Redmi 9T|Redmi 9 Power,#日本版
 M2010J19ST,mob,xiaomi,小米,J19S,lime,Redmi 9T|Redmi 9 Power,#泰国版
-M2010J19SY,mob,xiaomi,小米,J19N,lemon,Redmi 9T,#国际版 (NFC)
-M2010J19SL,mob,xiaomi,小米,J19L,pomelo,Redmi 9T,#拉美版
+M2010J19SY,mob,xiaomi,小米,J19N,lime,Redmi 9T,#国际版 (NFC)
+M2010J19SL,mob,xiaomi,小米,J19L,lime,Redmi 9T,#拉美版
 21061119AG,mob,xiaomi,小米,K19A,selene,Redmi 10,#国际版
 21061119AL,mob,xiaomi,小米,K19A,selene,Redmi 10,#拉美版
 21061119BI,mob,xiaomi,小米,K19B,selene,Redmi 10 Prime,#印度版
-21061119DG,mob,xiaomi,小米,K19D,eos,Redmi 10,#国际版 (NFC)
+21061119DG,mob,xiaomi,小米,K19D,selene,Redmi 10,#国际版 (NFC)
 21121119SG,mob,xiaomi,小米,K19S,selene,Redmi 10 2022,#国际版
 21121119VL,mob,xiaomi,小米,K19V,selene,Redmi 10 2022,#拉美版
 22011119TI,mob,xiaomi,小米,K19T,selene,Redmi 10 Prime 2022,#印度版
-22011119UY,mob,xiaomi,小米,K19U,eos,Redmi 10 2022,#国际版 (NFC)
+22011119UY,mob,xiaomi,小米,K19U,selene,Redmi 10 2022,#国际版 (NFC)
 22041219G,mob,xiaomi,小米,L19,light,Redmi 10 5G|Redmi 11 Prime 5G,#国际版
 22041219I,mob,xiaomi,小米,L19,light,Redmi 10 5G|Redmi 11 Prime 5G,1#印度版
-22041219NY,mob,xiaomi,小米,L19N,thunder,Redmi 10 5G,#国际版 (NFC)
+22041219NY,mob,xiaomi,小米,L19N,light,Redmi 10 5G,#国际版 (NFC)
 220333QAG,mob,xiaomi,小米,C3QA,fog,Redmi 10C,#国际版
 220333QBI,mob,xiaomi,小米,C3QB,fog,Redmi 10|Redmi 10 Power,#印度版
 220333QBI,mob,xiaomi,小米,C3QB,fog,Redmi 10|Redmi 10 Power,1#印度版
-220333QNY,mob,xiaomi,小米,C3QN,rain,Redmi 10C,#国际版 (NFC)
-220333QL,mob,xiaomi,小米,C3QL,wind,Redmi 10C,#拉美版
+220333QNY,mob,xiaomi,小米,C3QN,fog,Redmi 10C,#国际版 (NFC)
+220333QL,mob,xiaomi,小米,C3QL,fog,Redmi 10C,#拉美版
 220233L2C,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,#国行版
 220233L2G,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,#国际版
 220233L2I,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,#印度版
@@ -7683,12 +7683,12 @@ M2010J19SL,mob,xiaomi,小米,J19L,pomelo,Redmi 9T,#拉美版
 23053RN02A,mob,xiaomi,小米,M19A,fire,Redmi 12,#国际版
 23053RN02I,mob,xiaomi,小米,M19A,fire,Redmi 12,#印度版
 23053RN02L,mob,xiaomi,小米,M19L,fire,Redmi 12,#拉美版
-23053RN02Y,mob,xiaomi,小米,M19E,heat,Redmi 12,#国际版 (NFC)
-23077RABDC,mob,xiaomi,小米,M19,river,Redmi 12 5G,#国行版
-23076RN8DY,mob,xiaomi,小米,M19,river,Redmi 12 5G,#国际版 (NFC)
-23076RA4BR,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (无锁)
-XIG03,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (KDDI)
-A401XM,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (SoftBank)
+23053RN02Y,mob,xiaomi,小米,M19E,fire,Redmi 12,#国际版 (NFC)
+23077RABDC,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#国行版
+23076RN8DY,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#国际版 (NFC)
+23076RA4BR,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#日本版 (无锁)
+XIG03,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#日本版 (KDDI)
+A401XM,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#日本版 (SoftBank)
 23076RN4BI,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#印度版
 23076RA4BC,mob,xiaomi,小米,M19,sky,Redmi 12R,#
 22120RN86C,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国行版
@@ -7696,24 +7696,24 @@ A401XM,mob,xiaomi,小米,M19,river,Redmi 12 5G,#日本版 (SoftBank)
 22120RN86H,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 22120RN86I,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 2212ARNC4L,mob,xiaomi,小米,C3TL,earth,Redmi 12C,#拉美版
-22126RN91Y,mob,xiaomi,小米,C3TN,aether,Redmi 12C,#国际版 (NFC)
-2404ARN45A,mob,xiaomi,小米,N19A,tides,Redmi 13,#国际版
-2404ARN45I,mob,xiaomi,小米,N19A,tides,Redmi 13,#印度版
-24049RN28L,mob,xiaomi,小米,N19L,tides,Redmi 13,#拉美版
+22126RN91Y,mob,xiaomi,小米,C3TN,earth,Redmi 12C,#国际版 (NFC)
+2404ARN45A,mob,xiaomi,小米,N19A,moon,Redmi 13,#国际版
+2404ARN45I,mob,xiaomi,小米,N19A,moon,Redmi 13,#印度版
+24049RN28L,mob,xiaomi,小米,N19L,moon,Redmi 13,#拉美版
 24040RN64Y,mob,xiaomi,小米,N19E,moon,Redmi 13,#国际版 (NFC)
 2406ERN9CI,mob,xiaomi,小米,N19,breeze,Redmi 13 5G,#印度版
 23106RN0DA,mob,xiaomi,小米,C3U,gale,Redmi 13C,#国际版
 2311DRN14I,mob,xiaomi,小米,C3U,gale,Redmi 13C,#印度版
 23100RN82L,mob,xiaomi,小米,C3UL,gale,Redmi 13C,#拉美版
-23108RN04Y,mob,xiaomi,小米,C3UN,gust,Redmi 13C,#国际版 (NFC)
+23108RN04Y,mob,xiaomi,小米,C3UN,gale,Redmi 13C,#国际版 (NFC)
 23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#国行版
 23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,1#
 23124RN87I,mob,xiaomi,小米,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#印度版
-23124RN87G,mob,xiaomi,小米,C3V,atmos,Redmi 13C 5G,#国际版
-2409BRN2CC,mob,xiaomi,小米,C3N,pond,Redmi 14C,#国行版
-2409BRN2CA,mob,xiaomi,小米,C3N,pond,Redmi 14C,#国际版
-2409BRN2CI,mob,xiaomi,小米,C3N,pond,Redmi 14C,#印度版
-2409BRN2CL,mob,xiaomi,小米,C3N,pond,Redmi 14C,#拉美版
+23124RN87G,mob,xiaomi,小米,C3V,air,Redmi 13C 5G,#国际版
+2409BRN2CC,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国行版
+2409BRN2CA,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国际版
+2409BRN2CI,mob,xiaomi,小米,C3N,lake,Redmi 14C,#印度版
+2409BRN2CL,mob,xiaomi,小米,C3N,lake,Redmi 14C,#拉美版
 2409BRN2CY,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国际版 (NFC)
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,#
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 标准版
@@ -7792,11 +7792,11 @@ M2010J19SC,mob,xiaomi,小米,J19S,lime,Redmi Note 9 4G,#国行版
 M2007J22C,mob,xiaomi,小米,J22,cannon,Redmi Note 9 5G,#国行版
 M2003J15SS,mob,xiaomi,小米,J15S,merlin,Redmi Note 9,#国际版
 M2003J15SI,mob,xiaomi,小米,J15S,merlin,Redmi Note 9,#印度版
-M2003J15SG,mob,xiaomi,小米,J15S,merlinnfc,Redmi Note 9,#国际版 (NFC)
+M2003J15SG,mob,xiaomi,小米,J15S,merlin,Redmi Note 9,#国际版 (NFC)
 M2007J22G,mob,xiaomi,小米,J22,cannong,Redmi Note 9T,#5G 国际版
 M2007J22R,mob,xiaomi,小米,J22,cannong,Redmi Note 9T,#5G 日本版 (SoftBank)
 A001XM,mob,xiaomi,小米,J22,cannong,Redmi Note 9T,#5G 日本版 (SoftBank)
-M2007J17C,mob,xiaomi,小米,J17,gauguinpro,Redmi Note 9 Pro,#5G 国行版
+M2007J17C,mob,xiaomi,小米,J17,gauguin,Redmi Note 9 Pro,#5G 国行版
 M2003J6A1G,mob,xiaomi,小米,J6A1,curtana,Redmi Note 9 Pro|Redmi Note 9S,1#国际版
 M2003J6A1R,mob,xiaomi,小米,J6A1,curtana,Redmi Note 9 Pro|Redmi Note 9S,1#日本版
 M2003J6A1R,mob,xiaomi,小米,J6A1,curtana,Redmi Note 9 Pro|Redmi Note 9S,1#韩国版
@@ -7805,10 +7805,10 @@ M2003J6B1I,mob,xiaomi,小米,J6B1,excalibur,Redmi Note 9 Pro Max,#印度版
 M2003J6B2G,mob,xiaomi,小米,J6B2,joyeuse,Redmi Note 9 Pro,#国际版
 M2101K7AG,mob,xiaomi,小米,K7A,mojito,Redmi Note 10,#国际版
 M2101K7AI,mob,xiaomi,小米,K7A,mojito,Redmi Note 10,#印度版
-M2101K7BG,mob,xiaomi,小米,K7B,secret,Redmi Note 10S,#国际版
-M2101K7BI,mob,xiaomi,小米,K7B,secret,Redmi Note 10S,#印度版
+M2101K7BG,mob,xiaomi,小米,K7B,rosemary,Redmi Note 10S,#国际版
+M2101K7BI,mob,xiaomi,小米,K7B,rosemary,Redmi Note 10S,#印度版
 M2101K7BNY,mob,xiaomi,小米,K7BN,rosemary,Redmi Note 10S,#国际版 (NFC)
-M2101K7BL,mob,xiaomi,小米,K7BL,maltose,Redmi Note 10S,#拉美版
+M2101K7BL,mob,xiaomi,小米,K7BL,rosemary,Redmi Note 10S,#拉美版
 M2103K19C,mob,xiaomi,小米,K19,camellia,Redmi Note 10 5G|Redmi Note 10T|Redmi Note 11SE,#国行版
 M2103K19C,mob,xiaomi,小米,K19,camellia,Redmi Note 10 5G|Redmi Note 10T|Redmi Note 11SE,2#国行版
 M2103K19I,mob,xiaomi,小米,K19,camellia,Redmi Note 10 5G|Redmi Note 10T|Redmi Note 11SE,1#5G 印度版
@@ -7825,7 +7825,7 @@ M2101K6P,mob,xiaomi,小米,K6,sweetin,Redmi Note 10 Pro|Redmi Note 10 Pro Max,#�
 M2101K6I,mob,xiaomi,小米,K6,sweetin,Redmi Note 10 Pro|Redmi Note 10 Pro Max,1#印度版
 M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 国行版
 2109106A1I,mob,xiaomi,小米,J6A1,curtana,Redmi Note 10 Lite,#印度版
-21121119SC,mob,xiaomi,小米,K19S,selenes,Redmi Note 11 4G,#国行版
+21121119SC,mob,xiaomi,小米,K19S,selene,Redmi Note 11 4G,#国行版
 2201117TG,mob,xiaomi,小米,K7T,spes,Redmi Note 11,#国际版
 2201117TI,mob,xiaomi,小米,K7T,spes,Redmi Note 11,#印度版
 2201117TL,mob,xiaomi,小米,K7TL,spes,Redmi Note 11,#拉美版
@@ -7833,11 +7833,11 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 国行版
 21091116AC,mob,xiaomi,小米,K16A,evergo,Redmi Note 11 5G|Redmi Note 11T,#国行版
 21091116AI,mob,xiaomi,小米,K16A,evergo,Redmi Note 11 5G|Redmi Note 11T,1#5G 印度版
 22041219C,mob,xiaomi,小米,L19,light,Redmi Note 11E 5G,#
-2201117SG,mob,xiaomi,小米,K7S,miel,Redmi Note 11S,#国际版
-2201117SI,mob,xiaomi,小米,K7S,miel,Redmi Note 11S,#印度版
-2201117SL,mob,xiaomi,小米,K7SL,miel,Redmi Note 11S,#拉美版
+2201117SG,mob,xiaomi,小米,K7S,fleur,Redmi Note 11S,#国际版
+2201117SI,mob,xiaomi,小米,K7S,fleur,Redmi Note 11S,#印度版
+2201117SL,mob,xiaomi,小米,K7SL,fleur,Redmi Note 11S,#拉美版
 2201117SY,mob,xiaomi,小米,K7S,fleur,Redmi Note 11S,#国际版 (NFC)
-22087RA4DI,mob,xiaomi,小米,K7B,secret,Redmi Note 11 SE,#印度版
+22087RA4DI,mob,xiaomi,小米,K7B,rosemary,Redmi Note 11 SE,#印度版
 22031116BG,mob,xiaomi,小米,K16B,opal,Redmi Note 11S 5G,#国际版
 21091116C,mob,xiaomi,小米,K16,pissarro,Redmi Note 11 Pro,#国行版
 2201116TG,mob,xiaomi,小米,K6T,viva,Redmi Note 11 Pro,#国际版
@@ -7845,11 +7845,11 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 国行版
 2201116SC,mob,xiaomi,小米,K6S,veux,Redmi Note 11E Pro|Redmi Note 11 Pro 5G,#国行版
 2201116SG,mob,xiaomi,小米,K6S,veux,Redmi Note 11E Pro|Redmi Note 11 Pro 5G,1#国际版
 2201116SR,mob,xiaomi,小米,K6S,veux,Redmi Note 11E Pro|Redmi Note 11 Pro 5G,1#日本版
-2201116SI,mob,xiaomi,小米,K6S,peux,Redmi Note 11 Pro+ 5G,#印度版
-21091116UC,mob,xiaomi,小米,K16U,pissarropro,Redmi Note 11 Pro+,#国行版
-21091116UG,mob,xiaomi,小米,K16U,pissarropro,Redmi Note 11 Pro+,#5G 国际版
+2201116SI,mob,xiaomi,小米,K6S,veux,Redmi Note 11 Pro+ 5G,#印度版
+21091116UC,mob,xiaomi,小米,K16U,pissarro,Redmi Note 11 Pro+,#国行版
+21091116UG,mob,xiaomi,小米,K16U,pissarro,Redmi Note 11 Pro+,#5G 国际版
 22041216C,mob,xiaomi,小米,L16,xaga,Redmi Note 11T Pro,#
-22041216UC,mob,xiaomi,小米,L16U,xagapro,Redmi Note 11T Pro+,#
+22041216UC,mob,xiaomi,小米,L16U,xaga,Redmi Note 11T Pro+,#
 22095RA98C,mob,xiaomi,小米,L19X,light,Redmi Note 11R,#5G
 23021RAAEG,mob,xiaomi,小米,M7,tapas,Redmi Note 12,#国际版
 23027RAD4I,mob,xiaomi,小米,M7,tapas,Redmi Note 12,#印度版
@@ -7860,17 +7860,17 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 国行版
 22111317G,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#国际版
 22111317I,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#印度版
 23076RA4BC,mob,xiaomi,小米,M19,sky,Redmi Note 12R,#
-2303CRA44A,mob,xiaomi,小米,K7SR,ocean,Redmi Note 12S,#国际版
-2303ERA42L,mob,xiaomi,小米,K7SRL,ocean,Redmi Note 12S,#拉美版
+2303CRA44A,mob,xiaomi,小米,K7SR,sea,Redmi Note 12S,#国际版
+2303ERA42L,mob,xiaomi,小米,K7SRL,sea,Redmi Note 12S,#拉美版
 23030RAC7Y,mob,xiaomi,小米,K7SRN,sea,Redmi Note 12S,#国际版 (NFC)
 2209116AG,mob,xiaomi,小米,K6A,sweet,Redmi Note 12 Pro,#国际版
 22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#国行版
 22101316G,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 国际版
 22101316I,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,#5G 印度版
-22101316UCP,mob,xiaomi,小米,M16U,rubypro,Redmi Note 12 Pro+,#国行版
-22101316UG,mob,xiaomi,小米,M16U,rubypro,Redmi Note 12 Pro+,#5G 国际版
-22101316UP,mob,xiaomi,小米,M16U,rubypro,Redmi Note 12 Pro+,#5G 印度版
-22101316UC,mob,xiaomi,小米,M16U,rubyplus,Redmi Note 12 探索版,#
+22101316UCP,mob,xiaomi,小米,M16U,ruby,Redmi Note 12 Pro+,#国行版
+22101316UG,mob,xiaomi,小米,M16U,ruby,Redmi Note 12 Pro+,#5G 国际版
+22101316UP,mob,xiaomi,小米,M16U,ruby,Redmi Note 12 Pro+,#5G 印度版
+22101316UC,mob,xiaomi,小米,M16U,ruby,Redmi Note 12 探索版,#
 22101320C,mob,xiaomi,小米,M20,redwood,Redmi Note 12 Pro 极速版,#
 23054RA19C,mob,xiaomi,小米,L16S,pearl,Redmi Note 12T Pro,#
 23049RAD8C,mob,xiaomi,小米,M16T,marble,Redmi Note 12 Turbo,#
@@ -7879,7 +7879,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,#5G 国行版
 23124RA7EO,mob,xiaomi,小米,N7N,sapphiren,Redmi Note 13,#国际版 (NFC)
 2312DRAABC,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#国行版
 2312DRAABI,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#印度版
-2312DRAABG,mob,xiaomi,小米,N17,iron,Redmi Note 13 5G,#国际版
+2312DRAABG,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,#国际版
 23117RA68G,mob,xiaomi,小米,N6,emerald,Redmi Note 13 Pro,#国际版
 2312DRA50C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#国行版
 2312CRAD3C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#国行版
@@ -7894,7 +7894,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#5G 日本版 (KDDI)
 2311FRAFDC,mob,xiaomi,小米,N17,gold,Redmi Note 13R Pro,#
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国行版
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#印度版
-24094RAD4G,mob,xiaomi,小米,O17,citrine,Redmi Note 14 5G,#国际版
+24094RAD4G,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国际版
 24116RACCG,mob,xiaomi,小米,O6,obsidian,Redmi Note 14 Pro,#国际版
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,#国行版
 24090RA29G,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,#5G 国际版
@@ -7912,7 +7912,7 @@ M1903F10I,mob,xiaomi,小米,F10,davinciin,Redmi K20,#印度版
 M1903F11A,mob,xiaomi,小米,F11,raphael,Redmi K20 Pro,#全网通版
 M1903F11C,mob,xiaomi,小米,F11,raphael,Redmi K20 Pro,#运营商全网通版
 M1903F11I,mob,xiaomi,小米,F11,raphaelin,Redmi K20 Pro,#印度版
-M1903F11A,mob,xiaomi,小米,F11,raphaels,Redmi K20 Pro 尊享版,#
+M1903F11A,mob,xiaomi,小米,F11,raphael,Redmi K20 Pro 尊享版,#
 M2001G7AE,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,#
 M2001G7AE,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,#极速版
 M2001G7AC,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,#
@@ -7920,8 +7920,8 @@ M2001G7AC,mob,xiaomi,小米,G7A,picasso48m,Redmi K30i 5G,#
 M1912G7BE,mob,xiaomi,小米,G7B,phoenix,Redmi K30 4G,#全网通版
 M1912G7BC,mob,xiaomi,小米,G7B,phoenix,Redmi K30 4G,#运营商全网通版
 M2001J11C,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,#
-M2001J11C,mob,xiaomi,小米,J11,lmipro,Redmi K30 Pro,#变焦版
-M2001J11E,mob,xiaomi,小米,J11,lmipro,Redmi K30 Pro,#变焦版
+M2001J11C,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,#变焦版
+M2001J11E,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,#变焦版
 M2006J10C,mob,xiaomi,小米,J10,cezanne,Redmi K30 至尊纪念版,#
 M2007J3SC,mob,xiaomi,小米,J3S,apollo,Redmi K30S 至尊纪念版,#
 M2012K11AC,mob,xiaomi,小米,K11A,alioth,Redmi K40,#
@@ -7933,7 +7933,7 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,#
 22011211C,mob,xiaomi,小米,L11,matisse,Redmi K50 Pro,#
 21121210C,mob,xiaomi,小米,L10,ingres,Redmi K50 电竞版,#
 22081212C,mob,xiaomi,小米,L12,diting,Redmi K50 至尊版,#
-22041216I,mob,xiaomi,小米,L16,xagain,Redmi K50i,#印度版
+22041216I,mob,xiaomi,小米,L16,xaga,Redmi K50i,#印度版
 23013RK75C,mob,xiaomi,小米,M11A,mondrian,Redmi K60,#
 22127RK46C,mob,xiaomi,小米,M11,socrates,Redmi K60 Pro,#
 22122RK93C,mob,xiaomi,小米,M11R,rembrandt,Redmi K60E,#
@@ -7960,13 +7960,13 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 220733SH,mob,xiaomi,小米,C3S,ice,Redmi A1,#印度版
 220733SI,mob,xiaomi,小米,C3S,ice,Redmi A1,#印度版
 220733SL,mob,xiaomi,小米,C3SL,ice,Redmi A1,#拉美版
-220733SFG,mob,xiaomi,小米,C3SF,snow,Redmi A1+,#国际版
-220733SFH,mob,xiaomi,小米,C3SF,snow,Redmi A1+,#印度版
-220743FI,mob,xiaomi,小米,C3SF,snow,Redmi A1+,#印度版
-23028RN4DG,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#国际版
-23028RN4DH,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#印度版
-23028RN4DI,mob,xiaomi,小米,C3S2,cloud,Redmi A2,#印度版
-23026RN54G,mob,xiaomi,小米,CSL2,cloud,Redmi A2,#拉美版
+220733SFG,mob,xiaomi,小米,C3SF,ice,Redmi A1+,#国际版
+220733SFH,mob,xiaomi,小米,C3SF,ice,Redmi A1+,#印度版
+220743FI,mob,xiaomi,小米,C3SF,ice,Redmi A1+,#印度版
+23028RN4DG,mob,xiaomi,小米,C3S2,water,Redmi A2,#国际版
+23028RN4DH,mob,xiaomi,小米,C3S2,water,Redmi A2,#印度版
+23028RN4DI,mob,xiaomi,小米,C3S2,water,Redmi A2,#印度版
+23026RN54G,mob,xiaomi,小米,CSL2,water,Redmi A2,#拉美版
 23028RNCAG,mob,xiaomi,小米,CSF2,water,Redmi A2+,#国际版
 23028RNCAH,mob,xiaomi,小米,CSF2,water,Redmi A2+,#印度版
 23028RNCAI,mob,xiaomi,小米,CSF2,water,Redmi A2+,#印度版
@@ -7976,7 +7976,7 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 24048RN6CG,mob,xiaomi,小米,C3Y2,klein,Redmi A3x,#国际版
 24048RN6CI,mob,xiaomi,小米,C3Y2,klein,Redmi A3x,#印度版
 24044RN32L,mob,xiaomi,小米,C3Y2,klein,Redmi A3x,#拉美版
-2409BRN2CG,mob,xiaomi,小米,C3N,pond,Redmi A3 Pro,#国际版
+2409BRN2CG,mob,xiaomi,小米,C3N,lake,Redmi A3 Pro,#国际版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,#国际版
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,#国行版
@@ -7996,30 +7996,30 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,#印度版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,#国际版
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,#国际版
-M2104K10I,mob,xiaomi,小米,K10,aresin,POCO F3 GT,#印度版
+M2104K10I,mob,xiaomi,小米,K10,ares,POCO F3 GT,#印度版
 22021211RG,mob,xiaomi,小米,L11R,munch,POCO F4,#国际版
 22021211RI,mob,xiaomi,小米,L11R,munch,POCO F4,#印度版
 21121210G,mob,xiaomi,小米,L10,ingres,POGO F4 GT,POCO F4 GT 国际版
 23049PCD8G,mob,xiaomi,小米,M16T,marble,POCO F5,#国际版
-23049PCD8I,mob,xiaomi,小米,M16T,marblein,POCO F5,#印度版
+23049PCD8I,mob,xiaomi,小米,M16T,marble,POCO F5,#印度版
 23013PC75G,mob,xiaomi,小米,M11A,mondrian,POCO F5 Pro,#国际版
 24069PC21G,mob,xiaomi,小米,N16T,peridot,POCO F6,#国际版
 24069PC21I,mob,xiaomi,小米,N16T,peridot,POCO F6,#印度版
 23113RKC6G,mob,xiaomi,小米,N11,vermeer,POCO F6 Pro,#国际版
 M1912G7BI,mob,xiaomi,小米,G7B,phoenixin,POCO X2,#印度版
-M2007J20CI,mob,xiaomi,小米,J20C,karna,POCO X3,#印度版
+M2007J20CI,mob,xiaomi,小米,J20C,surya,POCO X3,#印度版
 M2007J20CG,mob,xiaomi,小米,J20C,surya,POCO X3 NFC,#国际版
 M2007J20CT,mob,xiaomi,小米,J20C,surya,POCO X3 NFC,#泰国版
 M2102J20SG,mob,xiaomi,小米,J20S,vayu,POCO X3 Pro,#国际版
-M2102J20SI,mob,xiaomi,小米,J20S,bhima,POCO X3 Pro,#印度版
+M2102J20SI,mob,xiaomi,小米,J20S,vayu,POCO X3 Pro,#印度版
 21061110AG,mob,xiaomi,小米,K10A,chopin,POCO X3 GT,#国际版
 2201116PG,mob,xiaomi,小米,K6P,veux,POCO X4 Pro 5G,#国际版
-2201116PI,mob,xiaomi,小米,K6P,peux,POCO X4 Pro 5G,#印度版
+2201116PI,mob,xiaomi,小米,K6P,veux,POCO X4 Pro 5G,#印度版
 22041216G,mob,xiaomi,小米,L16,xaga,POCO X4 GT,#国际版
 22111317PG,mob,xiaomi,小米,M17P,moonstone,POCO X5 5G,#国际版
 22111317PI,mob,xiaomi,小米,M17P,moonstone,POCO X5 5G,#印度版
 22101320G,mob,xiaomi,小米,M20,redwood,POCO X5 Pro 5G,#国际版
-22101320I,mob,xiaomi,小米,M20,redwoodin,POCO X5 Pro 5G,#印度版
+22101320I,mob,xiaomi,小米,M20,redwood,POCO X5 Pro 5G,#印度版
 23122PCD1G,mob,xiaomi,小米,N16P,garnet,POCO X6 5G,#国际版
 23122PCD1I,mob,xiaomi,小米,N16P,garnet,POCO X6 5G,#印度版
 2311DRK48G,mob,xiaomi,小米,N11A,duchamp,POCO X6 Pro 5G,#国际版
@@ -8033,29 +8033,29 @@ M2010J19CI,mob,xiaomi,小米,J19C,citrus,POCO M3,#印度版
 M2103K19PG,mob,xiaomi,小米,K19P,camellian,POCO M3 Pro 5G,#国际版
 M2103K19PY,mob,xiaomi,小米,K19P,camellian,POCO M3 Pro 5G,#国际版
 M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,#印度版
-22041219PG,mob,xiaomi,小米,L19P,thunder,POCO M4 5G,#国际版
+22041219PG,mob,xiaomi,小米,L19P,light,POCO M4 5G,#国际版
 22041219PI,mob,xiaomi,小米,L19P,light,POCO M4 5G,#印度版
 2201117PG,mob,xiaomi,小米,K7P,fleur,POCO M4 Pro,#国际版
-2201117PI,mob,xiaomi,小米,K7P,miel,POCO M4 Pro,#印度版
+2201117PI,mob,xiaomi,小米,K7P,fleur,POCO M4 Pro,#印度版
 21091116AG,mob,xiaomi,小米,K16A,evergreen,POCO M4 Pro 5G,#国际版
 22031116AI,mob,xiaomi,小米,K16A,evergo,POCO M4 Pro 5G,#印度版
-22071219CG,mob,xiaomi,小米,L19C,stone,POCO M5,#国际版
+22071219CG,mob,xiaomi,小米,L19C,rock,POCO M5,#国际版
 22071219CI,mob,xiaomi,小米,L19C,rock,POCO M5,#印度版
 2207117BPG,mob,xiaomi,小米,K7BP,rosemary,POCO M5s,#国际版
 2404APC5FG,mob,xiaomi,小米,N19C,moon,POCO M6,#国际版
-2404APC5FI,mob,xiaomi,小米,N19C,tides,POCO M6,#印度版
+2404APC5FI,mob,xiaomi,小米,N19C,moon,POCO M6,#印度版
 23128PC33I,mob,xiaomi,小米,C3VP,air,POCO M6 5G,#印度版
 24066PC95I,mob,xiaomi,小米,N19P,breeze,POCO M6 Plus 5G,#印度版
 2312FPCA6G,mob,xiaomi,小米,N6P,emerald,POCO M6 Pro,#国际版
 23076PC4BI,mob,xiaomi,小米,M19P,sky,POCO M6 Pro 5G,#印度版
 24108PCE2I,mob,xiaomi,小米,C3FP,flame,POCO M7 5G,#印度版
-2409FPCC4G,mob,xiaomi,小米,O17P,citrine,POCO M7 Pro 5G,#国际版
+2409FPCC4G,mob,xiaomi,小米,O17P,beryl,POCO M7 Pro 5G,#国际版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,#印度版
 220333QPG,mob,xiaomi,小米,C3QP,frost,POCO C40,#国际版
 220333QPI,mob,xiaomi,小米,C3QP,frost,POCO C40,#印度版
-220733SPH,mob,xiaomi,小米,C3SP,snow,POCO C50,#印度版
-220733SPI,mob,xiaomi,小米,C3SP,snow,POCO C50,#印度版
+220733SPH,mob,xiaomi,小米,C3SP,ice,POCO C50,#印度版
+220733SPI,mob,xiaomi,小米,C3SP,ice,POCO C50,#印度版
 2305EPCC4G,mob,xiaomi,小米,CSP2,water,POCO C51,#国际版
 2302EPCC4H,mob,xiaomi,小米,CSP2,water,POCO C51,#印度版
 2302EPCC4I,mob,xiaomi,小米,CSP2,water,POCO C51,#印度版
@@ -8064,10 +8064,10 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,#印度版
 22127PC95I,mob,xiaomi,小米,C3TP,earth,POCO C55,#印度版
 2312BPC51X,mob,xiaomi,小米,C3YP,blue,POCO C61,#国际版
 2312BPC51H,mob,xiaomi,小米,C3YP,blue,POCO C61,#印度版
-2310FPCA4G,mob,xiaomi,小米,C3UP,gust,POCO C65,#国际版
+2310FPCA4G,mob,xiaomi,小米,C3UP,gale,POCO C65,#国际版
 2310FPCA4I,mob,xiaomi,小米,C3UP,gale,POCO C65,#印度版
 2410FPCC5G,mob,xiaomi,小米,C3NP,lake,POCO C75,#国际版
-2410FPCC5I,mob,xiaomi,小米,C3NP,pond,POCO C75,#印度版
+2410FPCC5I,mob,xiaomi,小米,C3NP,lake,POCO C75,#印度版
 2405CPCFBG,pad,xiaomi,小米,N83P,dizi,POCO Pad,#Wi-Fi 国际版
 24074PCD2I,pad,xiaomi,小米,N83U,ruan,POCO Pad 5G,#印度版
 FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,#
@@ -8093,28 +8093,28 @@ MI-ONE,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,#Lite
 2014716,mob,xiaomi,Xiaomi,X4LTE-CT,cancro_lte_ct,Mi 4,#LTE China Telecom
 2014726,mob,xiaomi,Xiaomi,X4LTE-CT,cancro_lte_ct,Mi 4,#LTE China Telecom
 2015015,mob,xiaomi,Xiaomi,X9,ferrari,Mi 4i,#Global
-2015561,mob,xiaomi,Xiaomi,X11,libra,Mi 4c,#
+2015561,mob,xiaomi,Xiaomi,X11,libra,Mi 4c,#China
 2015562,mob,xiaomi,Xiaomi,X11,libra,Mi 4c,#China Mobile
-2015911,mob,xiaomi,Xiaomi,A10,aqua,Mi 4S,#
+2015911,mob,xiaomi,Xiaomi,A10,aqua,Mi 4S,#China
 2015105,mob,xiaomi,Xiaomi,A1,gemini,Mi 5,#(32GB) Global
 2015201,mob,xiaomi,Xiaomi,A1,gemini,Mi 5,#(32GB) China
 2015628,mob,xiaomi,Xiaomi,A1,gemini,Mi 5,#(64GB & 128GB) China
-2015711,mob,xiaomi,Xiaomi,A7,capricorn,Mi 5s,#
-2016070,mob,xiaomi,Xiaomi,B7,natrium,Mi 5s Plus,#
-2016089,mob,xiaomi,Xiaomi,C10,meri,Mi 5c,#
+2015711,mob,xiaomi,Xiaomi,A7,capricorn,Mi 5s,#China / Global
+2016070,mob,xiaomi,Xiaomi,B7,natrium,Mi 5s Plus,#China / Global
+2016089,mob,xiaomi,Xiaomi,C10,meri,Mi 5c,#China
 MDE2,mob,xiaomi,Xiaomi,D2,tiffany,Mi 5X,#China
 MDT2,mob,xiaomi,Xiaomi,D2,tiffany,Mi 5X,#China Mobile
-MCE16,mob,xiaomi,Xiaomi,C1,sagit,Mi 6,#
+MCE16,mob,xiaomi,Xiaomi,C1,sagit,Mi 6,#China / Global
 MCT1,mob,xiaomi,Xiaomi,C1,sagit,Mi 6,#China Mobile
 M1804D2SE,mob,xiaomi,Xiaomi,D2S,wayne,Mi 6X,#China
 M1804D2ST,mob,xiaomi,Xiaomi,D2S,wayne,Mi 6X,#China Mobile
 M1804D2SC,mob,xiaomi,Xiaomi,D2S,wayne,Mi 6X,#China Unicom & China Telecom
-M1803E1A,mob,xiaomi,Xiaomi,E1,dipper,Mi 8,#
+M1803E1A,mob,xiaomi,Xiaomi,E1,dipper,Mi 8,#China / Global
 M1803E1T,mob,xiaomi,Xiaomi,E1,dipper,Mi 8,#China Mobile
 M1803E1C,mob,xiaomi,Xiaomi,E1,dipper,Mi 8,#China Unicom & China Telecom
 M1807E8S,mob,xiaomi,Xiaomi,E8,ursa,Mi 8 Explorer Edition,#
-M1807E8A,mob,xiaomi,Xiaomi,E1S,equuleus,Mi 8 Pro,#
-M1805E2A,mob,xiaomi,Xiaomi,E2,sirius,Mi 8 SE,#
+M1807E8A,mob,xiaomi,Xiaomi,E1S,equuleus,Mi 8 Pro,#China / Global
+M1805E2A,mob,xiaomi,Xiaomi,E2,sirius,Mi 8 SE,#China
 M1808D2TG,mob,xiaomi,Xiaomi,D2T,platina,Mi 8 Lite,#Global
 M1808D2TE,mob,xiaomi,Xiaomi,D2T,platina,Mi 8 Lite,#China
 M1808D2TT,mob,xiaomi,Xiaomi,D2T,platina,Mi 8 Lite,#China Mobile
@@ -8147,11 +8147,11 @@ M2007J3SP,mob,xiaomi,Xiaomi,J3S,apollo,Mi 10T,#India
 M2007J3SG,mob,xiaomi,Xiaomi,J3S,apollo,Mi 10T Pro,#Global
 M2007J3SI,mob,xiaomi,Xiaomi,J3S,apollo,Mi 10T Pro,#India
 M2007J17G,mob,xiaomi,Xiaomi,J17,gauguin,Mi 10T Lite,#Global
-M2007J17I,mob,xiaomi,Xiaomi,J17,gauguininpro,Mi 10i,#India
+M2007J17I,mob,xiaomi,Xiaomi,J17,gauguinin,Mi 10i,#India
 M2102J2SC,mob,xiaomi,Xiaomi,J2S,thyme,Mi 10S,#China
 M2011K2G,mob,xiaomi,Xiaomi,K2,venus,Mi 11,#Global
 M2011K2C,mob,xiaomi,Xiaomi,K2,venus,Mi 11,#China
-M2102K1AC,mob,xiaomi,Xiaomi,K1A,mars,Mi 11 Pro,#China
+M2102K1AC,mob,xiaomi,Xiaomi,K1A,star,Mi 11 Pro,#China
 M2102K1G,mob,xiaomi,Xiaomi,K1,star,Mi 11 Ultra,#Global
 M2102K1C,mob,xiaomi,Xiaomi,K1,star,Mi 11 Ultra,#China
 M2101K9G,mob,xiaomi,Xiaomi,K9,renoir,Mi 11 Lite 5G,#Global
@@ -8165,12 +8165,12 @@ M2101K9AI,mob,xiaomi,Xiaomi,K9A,courbet,Mi 11 Lite,#4G India
 M2012K11G,mob,xiaomi,Xiaomi,K11,haydn,Mi 11i,#Global
 M2012K11AI,mob,xiaomi,Xiaomi,K11A,aliothin,Mi 11X,#India
 M2012K11I,mob,xiaomi,Xiaomi,K11,haydnin,Mi 11X Pro,#India
-21081111RG,mob,xiaomi,Xiaomi,K11R,amber,Xiaomi 11T,#Global
+21081111RG,mob,xiaomi,Xiaomi,K11R,agate,Xiaomi 11T,#Global
 2107113SG,mob,xiaomi,Xiaomi,K3S,vili,Xiaomi 11T Pro,#Global
 2107113SI,mob,xiaomi,Xiaomi,K3S,vili,Xiaomi 11T Pro,#India
 2107113SR,mob,xiaomi,Xiaomi,K3S,vili,Xiaomi 11T Pro,#Japan
-21091116I,mob,xiaomi,Xiaomi,K16,pissarroin,Xiaomi 11i,#India
-21091116UI,mob,xiaomi,Xiaomi,K16U,pissarroinpro,Xiaomi 11i HyperCharge,#India
+21091116I,mob,xiaomi,Xiaomi,K16,pissarro,Xiaomi 11i,#India
+21091116UI,mob,xiaomi,Xiaomi,K16U,pissarro,Xiaomi 11i HyperCharge,#India
 2201123G,mob,xiaomi,Xiaomi,L3,cupid,Xiaomi 12,#Global
 2201123C,mob,xiaomi,Xiaomi,L3,cupid,Xiaomi 12,#China
 2112123AG,mob,xiaomi,Xiaomi,L3A,psyche,Xiaomi 12X,#Global
@@ -8220,31 +8220,34 @@ A402XM,mob,xiaomi,Xiaomi,N12,rothko,Xiaomi 14T Pro,#Japan (SoftBank)
 24129PN74C,mob,xiaomi,Xiaomi,O3,dada,Xiaomi 15,#China
 2410DPN6CC,mob,xiaomi,Xiaomi,O2,haotian,Xiaomi 15 Pro,#China
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#Global
-2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China
-2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China
+2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China (Dual-network)
+2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China (Full-network)
 2014618,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China Mobile
 2014617,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China Unicom
-2015021,mob,xiaomi,Xiaomi,X7,leo,Mi Note Pro,#
-2015022,mob,xiaomi,Xiaomi,X7,leo,Mi Note Pro,#
+2015021,mob,xiaomi,Xiaomi,X7,leo,Mi Note Pro,#China (Dual-network)
+2015022,mob,xiaomi,Xiaomi,X7,leo,Mi Note Pro,#China (Full-network)
 2015501,mob,xiaomi,Xiaomi,X7,leo,Mi Note Pro,#China Mobile
 2015213,mob,xiaomi,Xiaomi,A4,scorpio,Mi Note 2,#Global
+2015213,mob,xiaomi,Xiaomi,A4,scorpio,Mi Note 2,#Global Edition China
 2015211,mob,xiaomi,Xiaomi,A4,scorpio,Mi Note 2,#China
 2015212,mob,xiaomi,Xiaomi,A4,scorpio,Mi Note 2,#China Mobile
-MCE8,mob,xiaomi,Xiaomi,C8,jason,Mi Note 3,#
+MCE8,mob,xiaomi,Xiaomi,C8,jason,Mi Note 3,#China / Global
 MCT8,mob,xiaomi,Xiaomi,C8,jason,Mi Note 3,#China Mobile
 M1910F4G,mob,xiaomi,Xiaomi,F4,tucana,Mi Note 10,#Global
 M1910F4S,mob,xiaomi,Xiaomi,F4,tucana,Mi Note 10,#Pro Global
 M2002F4LG,mob,xiaomi,Xiaomi,F4L,toco,Mi Note 10 Lite,#Global
-2016080,mob,xiaomi,Xiaomi,A8,lithium,Mi MIX,#
-MDE5,mob,xiaomi,Xiaomi,D5,chiron,Mi MIX 2,#
+2016080,mob,xiaomi,Xiaomi,A8,lithium,Mi MIX,#China / Global
+MDE5,mob,xiaomi,Xiaomi,D5,chiron,Mi MIX 2,#China / Global
 MDT5,mob,xiaomi,Xiaomi,D5,chiron,Mi MIX 2,#China Mobile
 MDE5S,mob,xiaomi,Xiaomi,D5,chiron,Mi MIX 2,#Unibody Ceramic Edition
 M1803D5XA,mob,xiaomi,Xiaomi,D5X,polaris,Mi MIX 2S,#Global
+M1803D5XA,mob,xiaomi,Xiaomi,D5X,polaris,Mi MIX 2S,#Premium Edition China
 M1803D5XE,mob,xiaomi,Xiaomi,D5X,polaris,Mi MIX 2S,#China
 M1803D5XT,mob,xiaomi,Xiaomi,D5X,polaris,Mi MIX 2S,#China Mobile
 M1803D5XC,mob,xiaomi,Xiaomi,D5X,polaris,Mi MIX 2S,#China Unicom & China Telecom
 M1810E5A,mob,xiaomi,Xiaomi,E5,perseus,Mi MIX 3,#Global
-M1810E5E,mob,xiaomi,Xiaomi,E5,perseus,Mi MIX 3,#China
+M1810E5A,mob,xiaomi,Xiaomi,E5,perseus,Mi MIX 3,#China (8GB+256GB & 10GB+256GB)
+M1810E5E,mob,xiaomi,Xiaomi,E5,perseus,Mi MIX 3,#China (6GB+128GB & 8GB+128GB)
 M1810E5GG,mob,xiaomi,Xiaomi,E5G,andromeda,Mi MIX 3 5G,#
 2106118C,mob,xiaomi,Xiaomi,K8,odin,Xiaomi MIX 4,#China
 M2011J18C,mob,xiaomi,Xiaomi,J18,cetus,Mi MIX FOLD,#China
@@ -8256,10 +8259,10 @@ M2011J18C,mob,xiaomi,Xiaomi,J18,cetus,Mi MIX FOLD,#China
 2016002,mob,xiaomi,Xiaomi,B3,hydrogen,Mi Max,#Global
 2016001,mob,xiaomi,Xiaomi,B3,hydrogen,Mi Max,#China
 2016007,mob,xiaomi,Xiaomi,B3_PRO,helium,Mi Max Prime,#
-MDE40,mob,xiaomi,Xiaomi,D4,oxygen,Mi Max 2,#
+MDE40,mob,xiaomi,Xiaomi,D4,oxygen,Mi Max 2,#China / Global
 MDT4,mob,xiaomi,Xiaomi,D4,oxygen,Mi Max 2,#China Mobile
 MDI40,mob,xiaomi,Xiaomi,D4,oxygen,Mi Max 2,#India
-M1804E4A,mob,xiaomi,Xiaomi,E4,nitrogen,Mi Max 3,#
+M1804E4A,mob,xiaomi,Xiaomi,E4,nitrogen,Mi Max 3,#China / Global
 M1804E4T,mob,xiaomi,Xiaomi,E4,nitrogen,Mi Max 3,#China Mobile
 M1804E4C,mob,xiaomi,Xiaomi,E4,nitrogen,Mi Max 3,#China Unicom & China Telecom
 M1904F3BC,mob,xiaomi,Xiaomi,F3B,pyxis,Mi CC 9,#China
@@ -8271,7 +8274,7 @@ M1910F4E,mob,xiaomi,Xiaomi,F4,tucana,Mi CC 9 Pro,#China
 2209129SC,mob,xiaomi,Xiaomi,L9S,ziyi,Xiaomi Civi 2,#China
 23046PNC9C,mob,xiaomi,Xiaomi,M9,yuechu,Xiaomi Civi 3,#China
 24053PY09C,mob,xiaomi,Xiaomi,N9,chenfeng,Xiaomi Civi 4 Pro,#China
-M1901F9E,mob,xiaomi,Xiaomi,F9,lotus,Mi Play,#
+M1901F9E,mob,xiaomi,Xiaomi,F9,lotus,Mi Play,#China / Global
 M1901F9T,mob,xiaomi,Xiaomi,F9,lotus,Mi Play,#China Mobile
 MDG2,mob,xiaomi,Xiaomi,D2,tissot,Mi A1,#Global
 MDI2,mob,xiaomi,Xiaomi,D2,tissot,Mi A1,#India
@@ -8294,10 +8297,10 @@ M1906F9SI,mob,xiaomi,Xiaomi,F9S,laurel_sprout,Mi A3,#India
 2014811,mob,xiaomi,Xiaomi,H2X,wt88047,Redmi 2,#China Unicom
 2014812,mob,xiaomi,Xiaomi,H2X,wt88047,Redmi 2,#China Telecom
 2014821,mob,xiaomi,Xiaomi,H2X,wt88047,Redmi 2,#China Telecom
-2014502,mob,xiaomi,Xiaomi,H2X(LC),lte26007,Redmi 2A,#
-2014512,mob,xiaomi,Xiaomi,H2X(LC),lte26007,Redmi 2A,#Prime
-2014055,mob,xiaomi,Xiaomi,H2X(LC),lte26007,Redmi 2A,#Prime
-2014816,mob,xiaomi,Xiaomi,H2X,wt86047,Redmi 2A,#Prime (Snapdragon 410)
+2014502,mob,xiaomi,Xiaomi,H2X(LC),lte26007,Redmi 2A,#China
+2014512,mob,xiaomi,Xiaomi,H2X(LC),lte26007,Redmi 2A,#Prime China
+2014055,mob,xiaomi,Xiaomi,H2X(LC),lte26007,Redmi 2A,#Prime China
+2014816,mob,xiaomi,Xiaomi,H2X,wt86047,Redmi 2A,#Prime China (Snapdragon 410)
 2015816,mob,xiaomi,Xiaomi,A9,ido_xhdpi,Redmi 3,#Global
 2015811,mob,xiaomi,Xiaomi,A9,ido_xhdpi,Redmi 3,#China
 2015815,mob,xiaomi,Xiaomi,A9,ido_xhdpi,Redmi 3,#China
@@ -8310,11 +8313,11 @@ M1906F9SI,mob,xiaomi,Xiaomi,F9S,laurel_sprout,Mi A3,#India
 2016037,mob,xiaomi,Xiaomi,A12,land,Redmi 3S,#India
 2016032,mob,xiaomi,Xiaomi,A12,land,Redmi 3S,#Prime India
 2016030,mob,xiaomi,Xiaomi,A12,land,Redmi 3S,#China
-2016036,mob,xiaomi,Xiaomi,A12,land,Redmi 3X,#
+2016036,mob,xiaomi,Xiaomi,A12,land,Redmi 3X,#China
 2016035,mob,xiaomi,Xiaomi,A12,land,Redmi 3X,#China Mobile
 2016033,mob,xiaomi,Xiaomi,A12,land,Redmi 3X,#China Unicom
-2016090,mob,xiaomi,Xiaomi,C5,prada,Redmi 4,#
-2016060,mob,xiaomi,Xiaomi,B5W,markw,Redmi 4,#Pro
+2016090,mob,xiaomi,Xiaomi,C5,prada,Redmi 4,#China / Global
+2016060,mob,xiaomi,Xiaomi,B5W,markw,Redmi 4,#Pro China / Global
 2016117,mob,xiaomi,Xiaomi,C3A,rolex,Redmi 4A,#Global
 2016116,mob,xiaomi,Xiaomi,C3A,rolex,Redmi 4A,#India
 2016111,mob,xiaomi,Xiaomi,C3A,rolex,Redmi 4A,#China
@@ -8375,7 +8378,7 @@ M2001C3K3I,mob,xiaomi,Xiaomi,C3K3,olivewood,Redmi 8A Dual|Redmi 8A Pro,1#Global
 M2004J19G,mob,xiaomi,Xiaomi,J19,lancelot,Redmi 9|Redmi 9 Prime,#Global
 M2004J19I,mob,xiaomi,Xiaomi,J19,lancelot,Redmi 9|Redmi 9 Prime,1#India
 M2004J19C,mob,xiaomi,Xiaomi,J19,lancelot,Redmi 9|Redmi 9 Prime,#China
-M2004J19AG,mob,xiaomi,Xiaomi,J19A,galahad,Redmi 9,#Global (NFC)
+M2004J19AG,mob,xiaomi,Xiaomi,J19A,lancelot,Redmi 9,#Global (NFC)
 M2006C3LG,mob,xiaomi,Xiaomi,C3L,dandelion,Redmi 9A|Redmi 9AT|Redmi 9i,#Global
 M2006C3LVG,mob,xiaomi,Xiaomi,C3L,dandelion,Redmi 9A|Redmi 9AT|Redmi 9i,1#Global
 M2006C3LI,mob,xiaomi,Xiaomi,C3L,dandelion,Redmi 9A|Redmi 9AT|Redmi 9i,#India
@@ -8386,30 +8389,30 @@ M2006C3LC,mob,xiaomi,Xiaomi,C3L,dandelion,Redmi 9A|Redmi 9AT|Redmi 9i,#China
 M2006C3MG,mob,xiaomi,Xiaomi,C3M,angelica,Redmi 9C,#Global
 M2006C3MT,mob,xiaomi,Xiaomi,C3M,angelica,Redmi 9C,#Thailand
 M2006C3MNG,mob,xiaomi,Xiaomi,C3MN,angelican,Redmi 9C NFC,#Global
-M2006C3MII,mob,xiaomi,Xiaomi,C3MI,cattail,Redmi 9|Redmi 9 Activ,#India
-M2006C3MII,mob,xiaomi,Xiaomi,C3MI,cattail,Redmi 9|Redmi 9 Activ,1#India
+M2006C3MII,mob,xiaomi,Xiaomi,C3MI,angelica,Redmi 9|Redmi 9 Activ,#India
+M2006C3MII,mob,xiaomi,Xiaomi,C3MI,angelica,Redmi 9|Redmi 9 Activ,1#India
 M2010J19SG,mob,xiaomi,Xiaomi,J19S,lime,Redmi 9T|Redmi 9 Power,#Global
 M2010J19SI,mob,xiaomi,Xiaomi,J19S,lime,Redmi 9T|Redmi 9 Power,1#India
 M2010J19SR,mob,xiaomi,Xiaomi,J19S,lime,Redmi 9T|Redmi 9 Power,#Japan
 M2010J19ST,mob,xiaomi,Xiaomi,J19S,lime,Redmi 9T|Redmi 9 Power,#Thailand
-M2010J19SY,mob,xiaomi,Xiaomi,J19N,lemon,Redmi 9T,#Global (NFC)
-M2010J19SL,mob,xiaomi,Xiaomi,J19L,pomelo,Redmi 9T,#Latin America
+M2010J19SY,mob,xiaomi,Xiaomi,J19N,lime,Redmi 9T,#Global (NFC)
+M2010J19SL,mob,xiaomi,Xiaomi,J19L,lime,Redmi 9T,#Latin America
 21061119AG,mob,xiaomi,Xiaomi,K19A,selene,Redmi 10,#Global
 21061119AL,mob,xiaomi,Xiaomi,K19A,selene,Redmi 10,#Latin America
 21061119BI,mob,xiaomi,Xiaomi,K19B,selene,Redmi 10 Prime,#India
-21061119DG,mob,xiaomi,Xiaomi,K19D,eos,Redmi 10,#Global (NFC)
+21061119DG,mob,xiaomi,Xiaomi,K19D,selene,Redmi 10,#Global (NFC)
 21121119SG,mob,xiaomi,Xiaomi,K19S,selene,Redmi 10 2022,#Global
 21121119VL,mob,xiaomi,Xiaomi,K19V,selene,Redmi 10 2022,#Latin America
 22011119TI,mob,xiaomi,Xiaomi,K19T,selene,Redmi 10 Prime 2022,#India
-22011119UY,mob,xiaomi,Xiaomi,K19U,eos,Redmi 10 2022,#Global (NFC)
+22011119UY,mob,xiaomi,Xiaomi,K19U,selene,Redmi 10 2022,#Global (NFC)
 22041219G,mob,xiaomi,Xiaomi,L19,light,Redmi 10 5G|Redmi 11 Prime 5G,#Global
 22041219I,mob,xiaomi,Xiaomi,L19,light,Redmi 10 5G|Redmi 11 Prime 5G,1#India
-22041219NY,mob,xiaomi,Xiaomi,L19N,thunder,Redmi 10 5G,#Global (NFC)
+22041219NY,mob,xiaomi,Xiaomi,L19N,light,Redmi 10 5G,#Global (NFC)
 220333QAG,mob,xiaomi,Xiaomi,C3QA,fog,Redmi 10C,#Global
 220333QBI,mob,xiaomi,Xiaomi,C3QB,fog,Redmi 10,#India
 220333QBI,mob,xiaomi,Xiaomi,C3QB,fog,Redmi 10,#Power India
-220333QNY,mob,xiaomi,Xiaomi,C3QN,rain,Redmi 10C,#Global (NFC)
-220333QL,mob,xiaomi,Xiaomi,C3QL,wind,Redmi 10C,#Latin America
+220333QNY,mob,xiaomi,Xiaomi,C3QN,fog,Redmi 10C,#Global (NFC)
+220333QL,mob,xiaomi,Xiaomi,C3QL,fog,Redmi 10C,#Latin America
 220233L2G,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,#Global
 220233L2I,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,#India
 220233L2I,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,#Sport India
@@ -8418,12 +8421,12 @@ M2010J19SL,mob,xiaomi,Xiaomi,J19L,pomelo,Redmi 9T,#Latin America
 23053RN02A,mob,xiaomi,Xiaomi,M19A,fire,Redmi 12,#Global
 23053RN02I,mob,xiaomi,Xiaomi,M19A,fire,Redmi 12,#India
 23053RN02L,mob,xiaomi,Xiaomi,M19L,fire,Redmi 12,#Latin America
-23053RN02Y,mob,xiaomi,Xiaomi,M19E,heat,Redmi 12,#Global (NFC)
-23076RN8DY,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Global (NFC)
-23077RABDC,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#China
-23076RA4BR,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SIM Free)
-XIG03,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (KDDI)
-A401XM,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SoftBank)
+23053RN02Y,mob,xiaomi,Xiaomi,M19E,fire,Redmi 12,#Global (NFC)
+23076RN8DY,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Global (NFC)
+23077RABDC,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#China
+23076RA4BR,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Japan (SIM Free)
+XIG03,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Japan (KDDI)
+A401XM,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Japan (SoftBank)
 23076RN4BI,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#India
 23076RA4BC,mob,xiaomi,Xiaomi,M19,sky,Redmi 12R,#China
 22120RN86G,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Global
@@ -8431,24 +8434,24 @@ A401XM,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SoftBank)
 22120RN86I,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
 22120RN86C,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#China
 2212ARNC4L,mob,xiaomi,Xiaomi,C3TL,earth,Redmi 12C,#Latin America
-22126RN91Y,mob,xiaomi,Xiaomi,C3TN,aether,Redmi 12C,#Global (NFC)
-2404ARN45A,mob,xiaomi,Xiaomi,N19A,tides,Redmi 13,#Global
-2404ARN45I,mob,xiaomi,Xiaomi,N19A,tides,Redmi 13,#India
-24049RN28L,mob,xiaomi,Xiaomi,N19L,tides,Redmi 13,#Latin America
+22126RN91Y,mob,xiaomi,Xiaomi,C3TN,earth,Redmi 12C,#Global (NFC)
+2404ARN45A,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13,#Global
+2404ARN45I,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13,#India
+24049RN28L,mob,xiaomi,Xiaomi,N19L,moon,Redmi 13,#Latin America
 24040RN64Y,mob,xiaomi,Xiaomi,N19E,moon,Redmi 13,#Global (NFC)
 2406ERN9CI,mob,xiaomi,Xiaomi,N19,breeze,Redmi 13 5G,#India
 23106RN0DA,mob,xiaomi,Xiaomi,C3U,gale,Redmi 13C,#Global
 2311DRN14I,mob,xiaomi,Xiaomi,C3U,gale,Redmi 13C,#India
 23100RN82L,mob,xiaomi,Xiaomi,C3UL,gale,Redmi 13C,#Latin America
-23108RN04Y,mob,xiaomi,Xiaomi,C3UN,gust,Redmi 13C,#Global (NFC)
-23124RN87G,mob,xiaomi,Xiaomi,C3V,atmos,Redmi 13C 5G,#Global
+23108RN04Y,mob,xiaomi,Xiaomi,C3UN,gale,Redmi 13C,#Global (NFC)
+23124RN87G,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G,#Global
 23124RN87I,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#India
 23124RN87C,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,#China
 23124RN87C,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,1#China
-2409BRN2CA,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#Global
-2409BRN2CI,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#India
-2409BRN2CL,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#Latin America
-2409BRN2CC,mob,xiaomi,Xiaomi,C3N,pond,Redmi 14C,#China
+2409BRN2CA,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Global
+2409BRN2CI,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#India
+2409BRN2CL,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Latin America
+2409BRN2CC,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#China
 2409BRN2CY,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Global (NFC)
 2411DRN47C,mob,xiaomi,Xiaomi,C3F,flame,Redmi 14R 5G,#China
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,#WCDMA (1GB RAM)
@@ -8470,19 +8473,19 @@ A401XM,mob,xiaomi,Xiaomi,M19,river,Redmi 12 5G,#Japan (SoftBank)
 2015052,mob,xiaomi,Xiaomi,H3Y,hermes,Redmi Note 2,#(16GB) China Mobile
 2015055,mob,xiaomi,Xiaomi,H3Y,hermes,Redmi Note 2,#(16GB) China Mobile
 2015056,mob,xiaomi,Xiaomi,H3Y,hermes,Redmi Note 2,#(32GB) China Mobile
-2015617,mob,xiaomi,Xiaomi,H3Z,hennessy,Redmi Note 3,#Mediatek
+2015617,mob,xiaomi,Xiaomi,H3Z,hennessy,Redmi Note 3,#(Mediatek) China
 2015611,mob,xiaomi,Xiaomi,H3Z,hennessy,Redmi Note 3,#(Mediatek) China Mobile
 2015116,mob,xiaomi,Xiaomi,H3A,kenzo,Redmi Note 3,#(Qualcomm) Global
 2015112,mob,xiaomi,Xiaomi,H3A,kenzo,Redmi Note 3,#(Qualcomm) China
 2015115,mob,xiaomi,Xiaomi,H3A,kenzo,Redmi Note 3,#(Qualcomm) China
 2015161,mob,xiaomi,Xiaomi,H3B,kate,Redmi Note 3,#(Special Edition) Taiwan
-2016050,mob,xiaomi,Xiaomi,B6L,nikel,Redmi Note 4,#Mediatek
+2016050,mob,xiaomi,Xiaomi,B6L,nikel,Redmi Note 4,#(Mediatek) China / Global
 2016051,mob,xiaomi,Xiaomi,B6L,nikel,Redmi Note 4,#(Mediatek) China Mobile
 2016100,mob,xiaomi,Xiaomi,C6,mido,Redmi Note 4|Redmi Note 4X,#(Qualcomm) Global
 2016102,mob,xiaomi,Xiaomi,C6,mido,Redmi Note 4|Redmi Note 4X,#(Qualcomm) Global
 2016101,mob,xiaomi,Xiaomi,C6,mido,Redmi Note 4|Redmi Note 4X,1#(Qualcomm) China
 2016130,mob,xiaomi,Xiaomi,C6,mido,Redmi Note 4|Redmi Note 4X,1#(Qualcomm) China Mobile
-MBE6A5,mob,xiaomi,Xiaomi,B6A,nikel,Redmi Note 4X,#Mediatek
+MBE6A5,mob,xiaomi,Xiaomi,B6A,nikel,Redmi Note 4X,#(Mediatek) China
 MBT6A5,mob,xiaomi,Xiaomi,B6A,nikel,Redmi Note 4X,#(Mediatek) China Mobile
 MEI7,mob,xiaomi,Xiaomi,E7,vince,Redmi Note 5,#India
 M1803E7SG,mob,xiaomi,Xiaomi,E7S,whyred,Redmi Note 5|Redmi Note 5 Pro,#Global
@@ -8524,7 +8527,7 @@ M1906G7T,mob,xiaomi,Xiaomi,G7,begonia,Redmi Note 8 Pro,#Chinese Carrier Version
 M1906G7I,mob,xiaomi,Xiaomi,G7,begoniain,Redmi Note 8 Pro,#India
 M2003J15SS,mob,xiaomi,Xiaomi,J15S,merlin,Redmi Note 9,#Global
 M2003J15SI,mob,xiaomi,Xiaomi,J15S,merlin,Redmi Note 9,#India
-M2003J15SG,mob,xiaomi,Xiaomi,J15S,merlinnfc,Redmi Note 9,#Global (NFC)
+M2003J15SG,mob,xiaomi,Xiaomi,J15S,merlin,Redmi Note 9,#Global (NFC)
 M2010J19SC,mob,xiaomi,Xiaomi,J19S,lime,Redmi Note 9 4G,#China
 M2007J22C,mob,xiaomi,Xiaomi,J22,cannon,Redmi Note 9 5G,#China
 M2007J22G,mob,xiaomi,Xiaomi,J22,cannong,Redmi Note 9T,#5G Global
@@ -8536,13 +8539,13 @@ M2003J6A1R,mob,xiaomi,Xiaomi,J6A1,curtana,Redmi Note 9 Pro|Redmi Note 9S,1#Korea
 M2003J6A1I,mob,xiaomi,Xiaomi,J6A1,curtana,Redmi Note 9 Pro|Redmi Note 9S,#India
 M2003J6B1I,mob,xiaomi,Xiaomi,J6B1,excalibur,Redmi Note 9 Pro Max,#India
 M2003J6B2G,mob,xiaomi,Xiaomi,J6B2,joyeuse,Redmi Note 9 Pro,#Global
-M2007J17C,mob,xiaomi,Xiaomi,J17,gauguinpro,Redmi Note 9 Pro,#5G China
+M2007J17C,mob,xiaomi,Xiaomi,J17,gauguin,Redmi Note 9 Pro,#5G China
 M2101K7AG,mob,xiaomi,Xiaomi,K7A,mojito,Redmi Note 10,#Global
 M2101K7AI,mob,xiaomi,Xiaomi,K7A,mojito,Redmi Note 10,#India
-M2101K7BG,mob,xiaomi,Xiaomi,K7B,secret,Redmi Note 10S,#Global
-M2101K7BI,mob,xiaomi,Xiaomi,K7B,secret,Redmi Note 10S,#India
+M2101K7BG,mob,xiaomi,Xiaomi,K7B,rosemary,Redmi Note 10S,#Global
+M2101K7BI,mob,xiaomi,Xiaomi,K7B,rosemary,Redmi Note 10S,#India
 M2101K7BNY,mob,xiaomi,Xiaomi,K7BN,rosemary,Redmi Note 10S,#Global (NFC)
-M2101K7BL,mob,xiaomi,Xiaomi,K7BL,maltose,Redmi Note 10S,#Latin America
+M2101K7BL,mob,xiaomi,Xiaomi,K7BL,rosemary,Redmi Note 10S,#Latin America
 M2103K19G,mob,xiaomi,Xiaomi,K19,camellian,Redmi Note 10 5G|Redmi Note 10T,#Global
 M2103K19Y,mob,xiaomi,Xiaomi,K19,camellian,Redmi Note 10 5G|Redmi Note 10T,1#Global
 M2103K19I,mob,xiaomi,Xiaomi,K19,camellia,Redmi Note 10 5G|Redmi Note 10T|Redmi Note 11SE,1#5G India
@@ -8559,7 +8562,7 @@ M2101K6P,mob,xiaomi,Xiaomi,K6,sweetin,Redmi Note 10 Pro|Redmi Note 10 Pro Max,#I
 M2101K6I,mob,xiaomi,Xiaomi,K6,sweetin,Redmi Note 10 Pro|Redmi Note 10 Pro Max,1#India
 M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 2109106A1I,mob,xiaomi,Xiaomi,J6A1,curtana,Redmi Note 10 Lite,#India
-21121119SC,mob,xiaomi,Xiaomi,K19S,selenes,Redmi Note 11 4G,#China
+21121119SC,mob,xiaomi,Xiaomi,K19S,selene,Redmi Note 11 4G,#China
 2201117TG,mob,xiaomi,Xiaomi,K7T,spes,Redmi Note 11,#Global
 2201117TI,mob,xiaomi,Xiaomi,K7T,spes,Redmi Note 11,#India
 2201117TL,mob,xiaomi,Xiaomi,K7TL,spes,Redmi Note 11,#Latin America
@@ -8567,23 +8570,23 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 21091116AI,mob,xiaomi,Xiaomi,K16A,evergo,Redmi Note 11 5G|Redmi Note 11T,1#5G India
 21091116AC,mob,xiaomi,Xiaomi,K16A,evergo,Redmi Note 11 5G|Redmi Note 11T,#China
 22041219C,mob,xiaomi,Xiaomi,L19,light,Redmi Note 11E 5G,#China
-2201117SG,mob,xiaomi,Xiaomi,K7S,miel,Redmi Note 11S,#Global
-2201117SI,mob,xiaomi,Xiaomi,K7S,miel,Redmi Note 11S,#India
-2201117SL,mob,xiaomi,Xiaomi,K7SL,miel,Redmi Note 11S,#Latin America
+2201117SG,mob,xiaomi,Xiaomi,K7S,fleur,Redmi Note 11S,#Global
+2201117SI,mob,xiaomi,Xiaomi,K7S,fleur,Redmi Note 11S,#India
+2201117SL,mob,xiaomi,Xiaomi,K7SL,fleur,Redmi Note 11S,#Latin America
 2201117SY,mob,xiaomi,Xiaomi,K7S,fleur,Redmi Note 11S,#Global (NFC)
-22087RA4DI,mob,xiaomi,Xiaomi,K7B,secret,Redmi Note 11 SE,#India
+22087RA4DI,mob,xiaomi,Xiaomi,K7B,rosemary,Redmi Note 11 SE,#India
 22031116BG,mob,xiaomi,Xiaomi,K16B,opal,Redmi Note 11S 5G,#Global
 2201116TG,mob,xiaomi,Xiaomi,K6T,viva,Redmi Note 11 Pro,#Global
 2201116TI,mob,xiaomi,Xiaomi,K6T,vida,Redmi Note 11 Pro,#India
 2201116SG,mob,xiaomi,Xiaomi,K6S,veux,Redmi Note 11 Pro 5G|Redmi Note 11E Pro,#Global
 2201116SR,mob,xiaomi,Xiaomi,K6S,veux,Redmi Note 11 Pro 5G|Redmi Note 11E Pro,#Japan
 2201116SC,mob,xiaomi,Xiaomi,K6S,veux,Redmi Note 11 Pro 5G|Redmi Note 11E Pro,1#5G China
-2201116SI,mob,xiaomi,Xiaomi,K6S,peux,Redmi Note 11 Pro+ 5G,#India
+2201116SI,mob,xiaomi,Xiaomi,K6S,veux,Redmi Note 11 Pro+ 5G,#India
 21091116C,mob,xiaomi,Xiaomi,K16,pissarro,Redmi Note 11 Pro,#5G China
-21091116UG,mob,xiaomi,Xiaomi,K16U,pissarropro,Redmi Note 11 Pro+,#5G Global
-21091116UC,mob,xiaomi,Xiaomi,K16U,pissarropro,Redmi Note 11 Pro+,#5G China
+21091116UG,mob,xiaomi,Xiaomi,K16U,pissarro,Redmi Note 11 Pro+,#5G Global
+21091116UC,mob,xiaomi,Xiaomi,K16U,pissarro,Redmi Note 11 Pro+,#5G China
 22041216C,mob,xiaomi,Xiaomi,L16,xaga,Redmi Note 11T Pro,#5G China
-22041216UC,mob,xiaomi,Xiaomi,L16U,xagapro,Redmi Note 11T Pro+,#5G China
+22041216UC,mob,xiaomi,Xiaomi,L16U,xaga,Redmi Note 11T Pro+,#5G China
 22095RA98C,mob,xiaomi,Xiaomi,L19X,light,Redmi Note 11R,#5G China
 23021RAAEG,mob,xiaomi,Xiaomi,M7,tapas,Redmi Note 12,#Global
 23027RAD4I,mob,xiaomi,Xiaomi,M7,tapas,Redmi Note 12,#India
@@ -8594,24 +8597,24 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#China
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,1#China
 23076RA4BC,mob,xiaomi,Xiaomi,M19,sky,Redmi Note 12R,#China
-2303CRA44A,mob,xiaomi,Xiaomi,K7SR,ocean,Redmi Note 12S,#Global
-2303ERA42L,mob,xiaomi,Xiaomi,K7SRL,ocean,Redmi Note 12S,#Latin America
+2303CRA44A,mob,xiaomi,Xiaomi,K7SR,sea,Redmi Note 12S,#Global
+2303ERA42L,mob,xiaomi,Xiaomi,K7SRL,sea,Redmi Note 12S,#Latin America
 23030RAC7Y,mob,xiaomi,Xiaomi,K7SRN,sea,Redmi Note 12S,#Global (NFC)
 2209116AG,mob,xiaomi,Xiaomi,K6A,sweet,Redmi Note 12 Pro,#Global
 22101316G,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#Global
 22101316I,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#India
 22101316C,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,#China
-22101316UG,mob,xiaomi,Xiaomi,M16U,rubypro,Redmi Note 12 Pro+ 5G,#Global
-22101316UP,mob,xiaomi,Xiaomi,M16U,rubypro,Redmi Note 12 Pro+ 5G,#India
-22101316UCP,mob,xiaomi,Xiaomi,M16U,rubypro,Redmi Note 12 Pro+ 5G,#China
-22101316UC,mob,xiaomi,Xiaomi,M16U,rubyplus,Redmi Note 12 Discovery Edition,#China
+22101316UG,mob,xiaomi,Xiaomi,M16U,ruby,Redmi Note 12 Pro+ 5G,#Global
+22101316UP,mob,xiaomi,Xiaomi,M16U,ruby,Redmi Note 12 Pro+ 5G,#India
+22101316UCP,mob,xiaomi,Xiaomi,M16U,ruby,Redmi Note 12 Pro+ 5G,#China
+22101316UC,mob,xiaomi,Xiaomi,M16U,ruby,Redmi Note 12 Discovery Edition,#China
 22101320C,mob,xiaomi,Xiaomi,M20,redwood,Redmi Note 12 Pro Speed,#China
 23054RA19C,mob,xiaomi,Xiaomi,L16S,pearl,Redmi Note 12T Pro,#China
 23049RAD8C,mob,xiaomi,Xiaomi,M16T,marble,Redmi Note 12 Turbo,#China
 23129RAA4G,mob,xiaomi,Xiaomi,N7,sapphire,Redmi Note 13,#Global
 23129RA5FL,mob,xiaomi,Xiaomi,N7L,sapphire,Redmi Note 13,#Latin America
 23124RA7EO,mob,xiaomi,Xiaomi,N7N,sapphiren,Redmi Note 13,#Global (NFC)
-2312DRAABG,mob,xiaomi,Xiaomi,N17,iron,Redmi Note 13 5G,#Global
+2312DRAABG,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#Global
 2312DRAABI,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#India
 2312DRAABC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13 5G,#China
 23117RA68G,mob,xiaomi,Xiaomi,N6,emerald,Redmi Note 13 Pro,#Global
@@ -8626,7 +8629,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#Japan (KDDI)
 24040RA98R,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#Japan
 2406ERN9CC,mob,xiaomi,Xiaomi,N19,breeze,Redmi Note 13R,#China
 2311FRAFDC,mob,xiaomi,Xiaomi,N17,gold,Redmi Note 13R Pro,#China
-24094RAD4G,mob,xiaomi,Xiaomi,O17,citrine,Redmi Note 14 5G,#Global
+24094RAD4G,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#Global
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#India
 24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#China
 24116RACCG,mob,xiaomi,Xiaomi,O6,obsidian,Redmi Note 14 Pro,#Global
@@ -8646,7 +8649,7 @@ M1903F10I,mob,xiaomi,Xiaomi,F10,davinciin,Redmi K20,#India
 M1903F11A,mob,xiaomi,Xiaomi,F11,raphael,Redmi K20 Pro,#China
 M1903F11C,mob,xiaomi,Xiaomi,F11,raphael,Redmi K20 Pro,#Chinese Carrier Version
 M1903F11I,mob,xiaomi,Xiaomi,F11,raphaelin,Redmi K20 Pro,#India
-M1903F11A,mob,xiaomi,Xiaomi,F11,raphaels,Redmi K20 Pro Premium Edition,#China
+M1903F11A,mob,xiaomi,Xiaomi,F11,raphael,Redmi K20 Pro Premium Edition,#China
 M2001G7AE,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,#China
 M2001G7AE,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,#Speed China
 M2001G7AC,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,#China
@@ -8654,8 +8657,8 @@ M2001G7AC,mob,xiaomi,Xiaomi,G7A,picasso48m,Redmi K30i 5G,#China
 M1912G7BE,mob,xiaomi,Xiaomi,G7B,phoenix,Redmi K30 4G,#China
 M1912G7BC,mob,xiaomi,Xiaomi,G7B,phoenix,Redmi K30 4G,#Chinese Carrier Version
 M2001J11C,mob,xiaomi,Xiaomi,J11,lmi,Redmi K30 Pro,#China
-M2001J11C,mob,xiaomi,Xiaomi,J11,lmipro,Redmi K30 Pro Zoom Edition,#China
-M2001J11E,mob,xiaomi,Xiaomi,J11,lmipro,Redmi K30 Pro Zoom Edition,#China
+M2001J11C,mob,xiaomi,Xiaomi,J11,lmi,Redmi K30 Pro Zoom Edition,#China
+M2001J11E,mob,xiaomi,Xiaomi,J11,lmi,Redmi K30 Pro Zoom Edition,#China
 M2006J10C,mob,xiaomi,Xiaomi,J10,cezanne,Redmi K30 Ultra,#China
 M2007J3SC,mob,xiaomi,Xiaomi,J3S,apollo,Redmi K30S Ultra,#China
 M2012K11AC,mob,xiaomi,Xiaomi,K11A,alioth,Redmi K40,#China
@@ -8667,15 +8670,15 @@ M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,#China
 22011211C,mob,xiaomi,Xiaomi,L11,matisse,Redmi K50 Pro,#China
 21121210C,mob,xiaomi,Xiaomi,L10,ingres,Redmi K50G,#China
 22081212C,mob,xiaomi,Xiaomi,L12,diting,Redmi K50 Ultra,#China
-22041216I,mob,xiaomi,Xiaomi,L16,xagain,Redmi K50i,#India
+22041216I,mob,xiaomi,Xiaomi,L16,xaga,Redmi K50i,#India
 23013RK75C,mob,xiaomi,Xiaomi,M11A,mondrian,Redmi K60,#China
 22127RK46C,mob,xiaomi,Xiaomi,M11,socrates,Redmi K60 Pro,#China
 22122RK93C,mob,xiaomi,Xiaomi,M11R,rembrandt,Redmi K60E,#China
 23078RKD5C,mob,xiaomi,Xiaomi,M12,corot,Redmi K60 Ultra,#China
-2407FRK8EC,mob,xiaomi,Xiaomi,N12,rothko,Redmi K70 Ultra,#China
 23113RKC6C,mob,xiaomi,Xiaomi,N11,vermeer,Redmi K70,#China
 23117RK66C,mob,xiaomi,Xiaomi,N11U,manet,Redmi K70 Pro,#China
 2311DRK48C,mob,xiaomi,Xiaomi,N11A,duchamp,Redmi K70E,#China
+2407FRK8EC,mob,xiaomi,Xiaomi,N12,rothko,Redmi K70 Ultra,#China
 24117RK2CC,mob,xiaomi,Xiaomi,O11,zorn,Redmi K80,#China
 2016020,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,#32GB
 2016021,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,#64GB & 128GB
@@ -8694,13 +8697,13 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#India
 220733SH,mob,xiaomi,Xiaomi,C3S,ice,Redmi A1,#India
 220733SI,mob,xiaomi,Xiaomi,C3S,ice,Redmi A1,#India
 220733SL,mob,xiaomi,Xiaomi,C3SL,ice,Redmi A1,#Latin America
-220733SFG,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1+,#Global
-220733SFH,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1+,#India
-220743FI,mob,xiaomi,Xiaomi,C3SF,snow,Redmi A1+,#India
-23028RN4DG,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#Global
-23028RN4DH,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#India
-23028RN4DI,mob,xiaomi,Xiaomi,C3S2,cloud,Redmi A2,#India
-23026RN54G,mob,xiaomi,Xiaomi,CSL2,cloud,Redmi A2,#Latin America
+220733SFG,mob,xiaomi,Xiaomi,C3SF,ice,Redmi A1+,#Global
+220733SFH,mob,xiaomi,Xiaomi,C3SF,ice,Redmi A1+,#India
+220743FI,mob,xiaomi,Xiaomi,C3SF,ice,Redmi A1+,#India
+23028RN4DG,mob,xiaomi,Xiaomi,C3S2,water,Redmi A2,#Global
+23028RN4DH,mob,xiaomi,Xiaomi,C3S2,water,Redmi A2,#India
+23028RN4DI,mob,xiaomi,Xiaomi,C3S2,water,Redmi A2,#India
+23026RN54G,mob,xiaomi,Xiaomi,CSL2,water,Redmi A2,#Latin America
 23028RNCAG,mob,xiaomi,Xiaomi,CSF2,water,Redmi A2+,#Global
 23028RNCAH,mob,xiaomi,Xiaomi,CSF2,water,Redmi A2+,#India
 23028RNCAI,mob,xiaomi,Xiaomi,CSF2,water,Redmi A2+,#India
@@ -8710,34 +8713,34 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,#India
 24048RN6CG,mob,xiaomi,Xiaomi,C3Y2,klein,Redmi A3x,#Global
 24048RN6CI,mob,xiaomi,Xiaomi,C3Y2,klein,Redmi A3x,#India
 24044RN32L,mob,xiaomi,Xiaomi,C3Y2,klein,Redmi A3x,#Latin America
-2409BRN2CG,mob,xiaomi,Xiaomi,C3N,pond,Redmi A3 Pro,#Global
+2409BRN2CG,mob,xiaomi,Xiaomi,C3N,lake,Redmi A3 Pro,#Global
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,#
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,#Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,#Global
-M2104K10I,mob,xiaomi,Xiaomi,K10,aresin,POCO F3 GT,#India
+M2104K10I,mob,xiaomi,Xiaomi,K10,ares,POCO F3 GT,#India
 22021211RG,mob,xiaomi,Xiaomi,L11R,munch,POCO F4,#Global
 22021211RI,mob,xiaomi,Xiaomi,L11R,munch,POCO F4,#India
 21121210G,mob,xiaomi,Xiaomi,L10,ingres,POGO F4 GT,POCO F4 GT Global
 23049PCD8G,mob,xiaomi,Xiaomi,M16T,marble,POCO F5,#Global
-23049PCD8I,mob,xiaomi,Xiaomi,M16T,marblein,POCO F5,#India
+23049PCD8I,mob,xiaomi,Xiaomi,M16T,marble,POCO F5,#India
 23013PC75G,mob,xiaomi,Xiaomi,M11A,mondrian,POCO F5 Pro,#Global
 24069PC21G,mob,xiaomi,Xiaomi,N16T,peridot,POCO F6,#Global
 24069PC21I,mob,xiaomi,Xiaomi,N16T,peridot,POCO F6,#India
 23113RKC6G,mob,xiaomi,Xiaomi,N11,vermeer,POCO F6 Pro,#Global
 M1912G7BI,mob,xiaomi,Xiaomi,G7B,phoenixin,POCO X2,#India
-M2007J20CI,mob,xiaomi,Xiaomi,J20C,karna,POCO X3,#India
+M2007J20CI,mob,xiaomi,Xiaomi,J20C,surya,POCO X3,#India
 M2007J20CG,mob,xiaomi,Xiaomi,J20C,surya,POCO X3 NFC,#Global
 M2007J20CT,mob,xiaomi,Xiaomi,J20C,surya,POCO X3 NFC,#Thailand
 M2102J20SG,mob,xiaomi,Xiaomi,J20S,vayu,POCO X3 Pro,#Global
-M2102J20SI,mob,xiaomi,Xiaomi,J20S,bhima,POCO X3 Pro,#India
+M2102J20SI,mob,xiaomi,Xiaomi,J20S,vayu,POCO X3 Pro,#India
 21061110AG,mob,xiaomi,Xiaomi,K10A,chopin,POCO X3 GT,#Global
 2201116PG,mob,xiaomi,Xiaomi,K6P,veux,POCO X4 Pro 5G,#Global
-2201116PI,mob,xiaomi,Xiaomi,K6P,peux,POCO X4 Pro 5G,#India
+2201116PI,mob,xiaomi,Xiaomi,K6P,veux,POCO X4 Pro 5G,#India
 22041216G,mob,xiaomi,Xiaomi,L16,xaga,POCO X4 GT,#Global
 22111317PG,mob,xiaomi,Xiaomi,M17P,moonstone,POCO X5 5G,#Global
 22111317PI,mob,xiaomi,Xiaomi,M17P,moonstone,POCO X5 5G,#India
 22101320G,mob,xiaomi,Xiaomi,M20,redwood,POCO X5 Pro 5G,#Global
-22101320I,mob,xiaomi,Xiaomi,M20,redwoodin,POCO X5 Pro 5G,#India
+22101320I,mob,xiaomi,Xiaomi,M20,redwood,POCO X5 Pro 5G,#India
 23122PCD1G,mob,xiaomi,Xiaomi,N16P,garnet,POCO X6 5G,#Global
 23122PCD1I,mob,xiaomi,Xiaomi,N16P,garnet,POCO X6 5G,#India
 2311DRK48G,mob,xiaomi,Xiaomi,N11A,duchamp,POCO X6 Pro 5G,#Global
@@ -8751,29 +8754,29 @@ M2010J19CI,mob,xiaomi,Xiaomi,J19C,citrus,POCO M3,#India
 M2103K19PG,mob,xiaomi,Xiaomi,K19P,camellian,POCO M3 Pro 5G,#Global
 M2103K19PY,mob,xiaomi,Xiaomi,K19P,camellian,POCO M3 Pro 5G,#Global
 M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,#India
-22041219PG,mob,xiaomi,Xiaomi,L19P,thunder,POCO M4 5G,#Global
+22041219PG,mob,xiaomi,Xiaomi,L19P,light,POCO M4 5G,#Global
 22041219PI,mob,xiaomi,Xiaomi,L19P,light,POCO M4 5G,#India
 2201117PG,mob,xiaomi,Xiaomi,K7P,fleur,POCO M4 Pro,#Global
-2201117PI,mob,xiaomi,Xiaomi,K7P,miel,POCO M4 Pro,#India
+2201117PI,mob,xiaomi,Xiaomi,K7P,fleur,POCO M4 Pro,#India
 21091116AG,mob,xiaomi,Xiaomi,K16A,evergreen,POCO M4 Pro 5G,#Global
 22031116AI,mob,xiaomi,Xiaomi,K16A,evergo,POCO M4 Pro 5G,#India
-22071219CG,mob,xiaomi,Xiaomi,L19C,stone,POCO M5,#Global
+22071219CG,mob,xiaomi,Xiaomi,L19C,rock,POCO M5,#Global
 22071219CI,mob,xiaomi,Xiaomi,L19C,rock,POCO M5,#India
 2207117BPG,mob,xiaomi,Xiaomi,K7BP,rosemary,POCO M5s,#Global
 2404APC5FG,mob,xiaomi,Xiaomi,N19C,moon,POCO M6,#Global
-2404APC5FI,mob,xiaomi,Xiaomi,N19C,tides,POCO M6,#India
+2404APC5FI,mob,xiaomi,Xiaomi,N19C,moon,POCO M6,#India
 23128PC33I,mob,xiaomi,Xiaomi,C3VP,air,POCO M6 5G,#India
 24066PC95I,mob,xiaomi,Xiaomi,N19P,breeze,POCO M6 Plus 5G,#India
 2312FPCA6G,mob,xiaomi,Xiaomi,N6P,emerald,POCO M6 Pro,#Global
 23076PC4BI,mob,xiaomi,Xiaomi,M19P,sky,POCO M6 Pro 5G,#India
 24108PCE2I,mob,xiaomi,Xiaomi,C3FP,flame,POCO M7 5G,#India
-2409FPCC4G,mob,xiaomi,Xiaomi,O17P,citrine,POCO M7 Pro 5G,#Global
+2409FPCC4G,mob,xiaomi,Xiaomi,O17P,beryl,POCO M7 Pro 5G,#Global
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,#India
 220333QPG,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,#Global
 220333QPI,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,#India
-220733SPH,mob,xiaomi,Xiaomi,C3SP,snow,POCO C50,#India
-220733SPI,mob,xiaomi,Xiaomi,C3SP,snow,POCO C50,#India
+220733SPH,mob,xiaomi,Xiaomi,C3SP,ice,POCO C50,#India
+220733SPI,mob,xiaomi,Xiaomi,C3SP,ice,POCO C50,#India
 2305EPCC4G,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#Global
 2302EPCC4H,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#India
 2302EPCC4I,mob,xiaomi,Xiaomi,CSP2,water,POCO C51,#India
@@ -8782,10 +8785,10 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,#India
 22127PC95I,mob,xiaomi,Xiaomi,C3TP,earth,POCO C55,#India
 2312BPC51X,mob,xiaomi,Xiaomi,C3YP,blue,POCO C61,#Global
 2312BPC51H,mob,xiaomi,Xiaomi,C3YP,blue,POCO C61,#India
-2310FPCA4G,mob,xiaomi,Xiaomi,C3UP,gust,POCO C65,#Global
+2310FPCA4G,mob,xiaomi,Xiaomi,C3UP,gale,POCO C65,#Global
 2310FPCA4I,mob,xiaomi,Xiaomi,C3UP,gale,POCO C65,#India
 2410FPCC5G,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,#Global
-2410FPCC5I,mob,xiaomi,Xiaomi,C3NP,pond,POCO C75,#India
+2410FPCC5I,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,#India
 A0101,pad,xiaomi,Xiaomi,X6,mocha,Mi Pad,#
 2015716,pad,xiaomi,Xiaomi,A3,latte,Mi Pad 2,#
 MCE91,pad,xiaomi,Xiaomi,C9,cappu,Mi Pad 3,#
