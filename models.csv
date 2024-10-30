@@ -2498,18 +2498,19 @@ BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 820)
 BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 全网通版 (麒麟 810)
 BAH3-AN10,pad,huawei,华为,,Bach3,HUAWEI MatePad,#5G 10.4 英寸 全网通版 (麒麟 820)
+SCMR-W09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8 英寸,#Wi-Fi 版
+SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8 英寸,#全网通版
 BAH4-W09,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W29,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W39,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W19,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
-BTK-W00,pad,huawei,华为,,Bartok,HUAWEI MatePad,#11.5 英寸 2023 Wi-Fi 版
-BTK-AL00,pad,huawei,华为,,Bartok,HUAWEI MatePad,#11.5 英寸 2023 全网通版
-SCMR-W09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8 英寸,#Wi-Fi 版
-SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8 英寸,#全网通版
 DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11 英寸,#Wi-Fi 版
 DBR-W00,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,#Wi-Fi 版
 DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,#柔光版 Wi-Fi 版
+BTK-W00,pad,huawei,华为,,Bartok,HUAWEI MatePad,#11.5 英寸 2023 Wi-Fi 版
+BTK-AL00,pad,huawei,华为,,Bartok,HUAWEI MatePad,#11.5 英寸 2023 全网通版
+BTKR-W00,pad,huawei,华为,,BartokR,HUAWEI MatePad 11.5,#英寸 2024 Wi-Fi 版
 TGR-W00,pad,huawei,华为,,Tagore,"HUAWEI MatePad 11.5"" S",#Wi-Fi 版
 TGR-W10,pad,huawei,华为,,Tagore,"HUAWEI MatePad 11.5"" S",#柔光版 Wi-Fi 版
 DMG-W00,pad,huawei,华为,,Domingo,"HUAWEI MatePad 11.5"" S",#灵动款 Wi-Fi 版
@@ -4069,10 +4070,10 @@ L55M9-S,tv,mitv,小米,,,小米电视 S,#55
 L65M9-S,tv,mitv,小米,,,小米电视 S,#65
 L75M9-S,tv,mitv,小米,,,小米电视 S,#75
 L85MA-S,tv,mitv,小米,,,小米电视 S,#85
-L55MA-SPL,tv,mitv,小米,,,小米电视 S,#55 Mini LED
-L65MA-SPL,tv,mitv,小米,,,小米电视 S,#65 Mini LED
-L75MA-SPL,tv,mitv,小米,,,小米电视 S,#75 Mini LED
-L85MA-SPL,tv,mitv,小米,,,小米电视 S,#85 Mini LED
+L55MA-SPL,tv,mitv,小米,N32,,小米电视 S Mini LED,#55 Mini LED
+L65MA-SPL,tv,mitv,小米,N32,,小米电视 S Mini LED,#65 Mini LED
+L75MA-SPL,tv,mitv,小米,N32,,小米电视 S Mini LED,#75 Mini LED
+L85MA-SPL,tv,mitv,小米,N32,,小米电视 S Mini LED,#85 Mini LED
 L65MA-SM,tv,mitv,小米,,,小米电视 S Pro,#65 Mini LED
 L75MA-SM,tv,mitv,小米,,,小米电视 S Pro,#75 Mini LED
 L85MA-SM,tv,mitv,小米,,,小米电视 S Pro,#85 Mini LED
@@ -4156,7 +4157,7 @@ L86R6-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#86 英寸
 L90R9-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#90 英寸
 L98M6-RK,tv,mitv,小米,,,Redmi 智能电视 MAX,#98 英寸
 L100R8-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#100 英寸
-L100RA-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#100 2025 款
+L100RA-MAX,tv,mitv,小米,N36,,Redmi 智能电视 MAX 100,#2025 款
 MDZ-18-DA,tv_hub,mitv,小米,,,小米电视主机,#
 MDZ-19-DA,tv_hub,mitv,小米,,,小米电视主机,小米家庭影院
 MDZ-05-AA,tv_hub,mitv,小米,,,小米盒子,#
@@ -4294,9 +4295,10 @@ L55M7-EATWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 A2 (Taiwan),#55 型
 L32M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),#32
 L43M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),#UHD 43
 L55M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),#55
-L86M7-ESRU,tv,mitv,Xiaomi,,,Xiaomi TV Max (Russia),#86
-L86M7-ESME,tv,mitv,Xiaomi,,,Xiaomi TV Max (Middle East),#86
-L86M7-ESTWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 Max (Taiwan),#86 型
+L86M7-ESRU,tv,mitv,Xiaomi,,,Xiaomi TV Max 86 (Russia),#
+L86M7-ESME,tv,mitv,Xiaomi,,,Xiaomi TV Max 86 (Middle East),#
+L86M7-ESTWN,tv,mitv,Xiaomi,,,"Xiaomi TV Max 86 (Japan, Korea, TW)",#
+L100MA-MAXEA,tv,mitv,Xiaomi,N36,,"Xiaomi TV Max 100 (Japan, Korea, TW, Vietnam, Indonesia)",#
 L32M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),#32
 L43M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),#FHD 43
 L43MA-AUEU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),#43 2025
@@ -4311,6 +4313,8 @@ L55M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#55
 L32M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#32
 L43M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#FHD 43
 L55M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#55
+L55MA-ATWN,tv,mitv,Xiaomi,,,"Xiaomi TV A (Japan, Korea, TW)",#55 2025
+L65MA-ATWN,tv,mitv,Xiaomi,,,"Xiaomi TV A (Japan, Korea, TW)",#65 2025
 L32M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#32
 L43M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#43
 L43MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#43 2025
@@ -4333,10 +4337,10 @@ L65M8A2T,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Japan),#65
 L50M8-A2KR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (South Korea),#50
 L55M8-A2KR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (South Korea),#55
 L65M8-A2KR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (South Korea),#65
-L32M8-A2TWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 A Pro (Taiwan),#32 型
-L43M8-A2TWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 A Pro (Taiwan),#43 型
-L55M8-A2TWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 A Pro (Taiwan),#55 型
-L65M8-A2TWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 A Pro (Taiwan),#65 型
+L32M8-A2TWN,tv,mitv,Xiaomi,,,"Xiaomi TV A Pro (Japan, Korea, TW)",#32
+L43M8-A2TWN,tv,mitv,Xiaomi,,,"Xiaomi TV A Pro (Japan, Korea, TW)",#43
+L55M8-A2TWN,tv,mitv,Xiaomi,,,"Xiaomi TV A Pro (Japan, Korea, TW)",#55
+L65M8-A2TWN,tv,mitv,Xiaomi,,,"Xiaomi TV A Pro (Japan, Korea, TW)",#65
 L32M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),#32
 L43M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),#43
 L50M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),#50
@@ -4347,6 +4351,13 @@ L43M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),#43
 L50M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),#50
 L55M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),#55
 L65M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),#65
+L43MA-STWN,tv,mitv,Xiaomi,,,"Xiaomi TV A Pro (Japan, Korea, TW)",#43 2025
+L55MA-STWN,tv,mitv,Xiaomi,,,"Xiaomi TV A Pro (Japan, Korea, TW)",#55 2025
+L65MA-STWN,tv,mitv,Xiaomi,,,"Xiaomi TV A Pro (Japan, Korea, TW)",#65 2025
+L75MA-STWN,tv,mitv,Xiaomi,,,"Xiaomi TV A Pro (Japan, Korea, TW)",#75 2025
+L55MA-SPLEA,tv,mitv,Xiaomi,N32,,"Xiaomi TV S Mini LED (Japan, Korea, TW, Vietnam)",#55
+L65MA-SPLEA,tv,mitv,Xiaomi,N32,,"Xiaomi TV S Mini LED (Japan, Korea, TW, Vietnam)",#65
+L75MA-SPLEA,tv,mitv,Xiaomi,N32,,"Xiaomi TV S Mini LED (Japan, Korea, TW, Vietnam)",#75
 L32M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,#32
 L43M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,#43
 L50M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,#50
@@ -7686,16 +7697,16 @@ M2010J19SL,mob,xiaomi,小米,J19L,lime,Redmi 9T,#拉美版
 23053RN02Y,mob,xiaomi,小米,M19E,fire,Redmi 12,#国际版 (NFC)
 23077RABDC,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#国行版
 23076RN8DY,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#国际版 (NFC)
-23076RA4BR,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#日本版 (无锁)
-XIG03,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#日本版 (KDDI)
-A401XM,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#日本版 (SoftBank)
+23076RA4BR,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,#日本版 (无锁)
+XIG03,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,#日本版 (KDDI)
+A401XM,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,#日本版 (SoftBank)
 23076RN4BI,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#印度版
 23076RA4BC,mob,xiaomi,小米,M19,sky,Redmi 12R,#
 22120RN86C,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国行版
 22120RN86G,mob,xiaomi,小米,C3T,earth,Redmi 12C,#国际版
 22120RN86H,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 22120RN86I,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
-2212ARNC4L,mob,xiaomi,小米,C3TL,earth,Redmi 12C,#拉美版
+2212ARNC4L,mob,xiaomi,小米,C3TL,earth,Redmi 12C,#拉美版 / 日本版
 22126RN91Y,mob,xiaomi,小米,C3TN,earth,Redmi 12C,#国际版 (NFC)
 2404ARN45A,mob,xiaomi,小米,N19A,moon,Redmi 13,#国际版
 2404ARN45I,mob,xiaomi,小米,N19A,moon,Redmi 13,#印度版
@@ -7713,7 +7724,7 @@ A401XM,mob,xiaomi,小米,M19,sky,Redmi 12 5G,#日本版 (SoftBank)
 2409BRN2CC,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国行版
 2409BRN2CA,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国际版
 2409BRN2CI,mob,xiaomi,小米,C3N,lake,Redmi 14C,#印度版
-2409BRN2CL,mob,xiaomi,小米,C3N,lake,Redmi 14C,#拉美版
+2409BRN2CL,mob,xiaomi,小米,C3N,lake,Redmi 14C,#拉美版 / 日本版
 2409BRN2CY,mob,xiaomi,小米,C3N,lake,Redmi 14C,#国际版 (NFC)
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,#
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,#联通 3G 标准版
@@ -8424,16 +8435,16 @@ M2010J19SL,mob,xiaomi,Xiaomi,J19L,lime,Redmi 9T,#Latin America
 23053RN02Y,mob,xiaomi,Xiaomi,M19E,fire,Redmi 12,#Global (NFC)
 23076RN8DY,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Global (NFC)
 23077RABDC,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#China
-23076RA4BR,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Japan (SIM Free)
-XIG03,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Japan (KDDI)
-A401XM,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Japan (SoftBank)
+23076RA4BR,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,#Japan (SIM Free)
+XIG03,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,#Japan (KDDI)
+A401XM,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,#Japan (SoftBank)
 23076RN4BI,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#India
 23076RA4BC,mob,xiaomi,Xiaomi,M19,sky,Redmi 12R,#China
 22120RN86G,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Global
 22120RN86H,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
 22120RN86I,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
 22120RN86C,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#China
-2212ARNC4L,mob,xiaomi,Xiaomi,C3TL,earth,Redmi 12C,#Latin America
+2212ARNC4L,mob,xiaomi,Xiaomi,C3TL,earth,Redmi 12C,#Latin America / Japan
 22126RN91Y,mob,xiaomi,Xiaomi,C3TN,earth,Redmi 12C,#Global (NFC)
 2404ARN45A,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13,#Global
 2404ARN45I,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13,#India
@@ -8450,7 +8461,7 @@ A401XM,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#Japan (SoftBank)
 23124RN87C,mob,xiaomi,Xiaomi,C3V,air,Redmi 13C 5G|Redmi 13R 5G,1#China
 2409BRN2CA,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Global
 2409BRN2CI,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#India
-2409BRN2CL,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Latin America
+2409BRN2CL,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Latin America / Japan
 2409BRN2CC,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#China
 2409BRN2CY,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,#Global (NFC)
 2411DRN47C,mob,xiaomi,Xiaomi,C3F,flame,Redmi 14R 5G,#China
