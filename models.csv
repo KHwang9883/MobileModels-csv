@@ -8445,7 +8445,6 @@ M2010J19SL,mob,xiaomi,Xiaomi,J19L,lime,Redmi 9T,#Latin America
 XIG03,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,#Japan (KDDI)
 A401XM,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,#Japan (SoftBank)
 23076RN4BI,mob,xiaomi,Xiaomi,M19,sky,Redmi 12 5G,#India
-23076RA4BC,mob,xiaomi,Xiaomi,M19,sky,Redmi 12R,#China
 22120RN86G,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#Global
 22120RN86H,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
 22120RN86I,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#India
@@ -8613,7 +8612,8 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,#5G China
 22111317I,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#India
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,#China
 22101317C,mob,xiaomi,Xiaomi,M17,sunstone,Redmi Note 12 5G|Redmi Note 12R Pro,1#China
-23076RA4BC,mob,xiaomi,Xiaomi,M19,sky,Redmi Note 12R,#China
+23076RA4BC,mob,xiaomi,Xiaomi,M19,sky,Redmi Note 12R|Redmi 12R,#China
+23076RA4BC,mob,xiaomi,Xiaomi,M19,sky,Redmi Note 12R|Redmi 12R,1#China
 2303CRA44A,mob,xiaomi,Xiaomi,K7SR,sea,Redmi Note 12S,#Global
 2303ERA42L,mob,xiaomi,Xiaomi,K7SRL,sea,Redmi Note 12S,#Latin America
 23030RAC7Y,mob,xiaomi,Xiaomi,K7SRN,sea,Redmi Note 12S,#Global (NFC)
@@ -8664,9 +8664,9 @@ M1903F10A,mob,xiaomi,Xiaomi,F10,davinci,Redmi K20,#China
 M1903F10C,mob,xiaomi,Xiaomi,F10,davinci,Redmi K20,#Chinese Carrier Version
 M1903F10I,mob,xiaomi,Xiaomi,F10,davinciin,Redmi K20,#India
 M1903F11A,mob,xiaomi,Xiaomi,F11,raphael,Redmi K20 Pro,#China
+M1903F11A,mob,xiaomi,Xiaomi,F11,raphael,Redmi K20 Pro,#Premium Edition China
 M1903F11C,mob,xiaomi,Xiaomi,F11,raphael,Redmi K20 Pro,#Chinese Carrier Version
 M1903F11I,mob,xiaomi,Xiaomi,F11,raphaelin,Redmi K20 Pro,#India
-M1903F11A,mob,xiaomi,Xiaomi,F11,raphael,Redmi K20 Pro Premium Edition,#China
 M2001G7AE,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,#China
 M2001G7AE,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,#Speed China
 M2001G7AC,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,#China
@@ -8830,10 +8830,10 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,#China
 24091RPADC,pad,xiaomi,Xiaomi,O81,muyu,Xiaomi Pad 7 Pro,#China
 22081283G,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,#Global
 22081283C,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,#China
-23073RPBFG,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#Global
-23073RPBFC,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#China
-23073RPBFL,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,#Latin America
-23073RPBFC,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad M7,#China
+23073RPBFG,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE|Redmi Pad M7,#Global
+23073RPBFC,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE|Redmi Pad M7,#China
+23073RPBFC,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE|Redmi Pad M7,1#China
+23073RPBFL,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE|Redmi Pad M7,#Latin America
 2405CRPFDG,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Wi-Fi Global
 2405CRPFDC,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Wi-Fi China
 2405CRPFDI,pad,xiaomi,Xiaomi,N83,dizi,Redmi Pad Pro,#Wi-Fi India
