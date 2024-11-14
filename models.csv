@@ -2322,6 +2322,7 @@ GOA-AL80U,mob,huawei,华为,,Gloria,HUAWEI nova 11 Ultra,#
 BON-AL00,mob,huawei,华为,,Bonnie,HUAWEI nova 11 SE,#
 BLK-AL00,mob,huawei,华为,,Blake,HUAWEI nova 12,#
 FIN-AL60,mob,huawei,华为,,Fiona,HUAWEI nova 12 活力版,#
+FIN-AL60a,mob,huawei,华为,,Fiona,HUAWEI nova 12 活力版,#
 ADA-AL00,mob,huawei,华为,,Adela,HUAWEI nova 12 Pro,#
 ADA-AL00U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#
 ADA-AL10U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#星耀版
@@ -3111,6 +3112,7 @@ ANA-NX9,mob,huawei,HUAWEI,,Anna,HUAWEI P40,#Dual SIM
 ELS-N04,mob,huawei,HUAWEI,,Elsa,HUAWEI P40 Pro,#Single SIM
 ELS-NX9,mob,huawei,HUAWEI,,Elsa,HUAWEI P40 Pro,#Single SIM
 ELS-NX9,mob,huawei,HUAWEI,,Elsa,HUAWEI P40 Pro,#Dual SIM
+ELS-N39,mob,huawei,HUAWEI,,ElsaP,HUAWEI P40 Pro,#+
 JNY-LX1,mob,huawei,HUAWEI,,Jenny,HUAWEI P40 lite,#Dual SIM
 JNY-LX2,mob,huawei,HUAWEI,,Jenny,HUAWEI P40 lite,#Single SIM
 CDY-NX9,mob,huawei,HUAWEI,,CindyN,HUAWEI P40 lite 5G,#
@@ -4540,6 +4542,8 @@ NX769J,mob,nubia,努比亚,,,红魔 9 Pro|红魔 9 Pro+,#
 NX769J,mob,nubia,努比亚,,,红魔 9 Pro|红魔 9 Pro+,1#
 NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,#
 NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,1#
+NX789J,mob,nubia,努比亚,,,红魔 10 Pro|红魔 10 Pro+,#
+NX789J,mob,nubia,努比亚,,,红魔 10 Pro|红魔 10 Pro+,1#
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,#5G
 NP03J,pad,nubia,努比亚,,,红魔电竞平板 Pro,#
 NP02J,pad,nubia,努比亚,,,红魔平板 · 3D 探索版,#5G
