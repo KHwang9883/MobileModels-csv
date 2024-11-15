@@ -3725,10 +3725,10 @@ M57AU,mob,meizu,魅族,,ma01,魅蓝 metal,#联通版
 M57AC,mob,meizu,魅族,,ma01,魅蓝 metal,#电信版
 M710M,mob,meizu,魅族,,m1710,魅蓝 A5,#移动定制版
 M710H,mob,meizu,魅族,,m1710,魅蓝 A5,魅族 M5c 国际版
-M468Q,mob,meizu,魅族,,m2468,LYNK & CO Phone Note,#
-M481S,mob,meizu,魅族,,m2481,LYNK & CO Phone Pro,#
-M481S,mob,meizu,魅族,,m2481,Polestar Phone,#
-M481R,mob,meizu,魅族,,m2481,HongQi Phone,#
+M468Q,mob,meizu,魅族,,m2468l,Lync & Co Phone Note,#
+M481S,mob,meizu,魅族,,m2481l,Lync & Co Phone Pro,#
+M481S,mob,meizu,魅族,,m2481s,Polestar Phone,#
+M481R,mob,meizu,魅族,,m2481r,HongQi Wonder,#
 M8,mob,meizu,MEIZU,,,MEIZU M8,#
 M8SE,mob,meizu,MEIZU,,,MEIZU M8,#SE
 M9,mob,meizu,MEIZU,,,MEIZU M9,#
@@ -3925,10 +3925,10 @@ U685M,mob,meizu,MEIZU,,u15,MEIZU U20,#China Mobile
 U685C,mob,meizu,MEIZU,,u15,MEIZU U20,#China Telecom
 M818H,mob,meizu,MEIZU,,m1818,MEIZU C9,#Global
 M819H,mob,meizu,MEIZU,,m1819,MEIZU C9 Pro,#Global
-M468Q,mob,meizu,MEIZU,,m2468,LYNK & CO Phone Note,#
-M481S,mob,meizu,MEIZU,,m2481,LYNK & CO Phone Pro,#
-M481S,mob,meizu,MEIZU,,m2481,Polestar Phone,#
-M481R,mob,meizu,MEIZU,,m2481,HongQi Phone,#
+M468Q,mob,meizu,MEIZU,,m2468l,Lync & Co Phone Note,#
+M481S,mob,meizu,MEIZU,,m2481l,Lync & Co Phone Pro,#
+M481S,mob,meizu,MEIZU,,m2481s,Polestar Phone,#
+M481R,mob,meizu,MEIZU,,m2481r,HongQi Wonder,#
 L47M1-AA,tv,mitv,小米,,,小米电视,#47 英寸
 L40M2-AA,tv,mitv,小米,,,小米电视 2,#40 英寸
 L49M2-AA,tv,mitv,小米,,,小米电视 2,#49 英寸
