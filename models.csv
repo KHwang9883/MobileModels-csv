@@ -7297,17 +7297,18 @@ XMSH10HM,band,xiaomi,小米,,,小米手环 5,#
 XMSH11HM,band,xiaomi,小米,,,小米手环 5,#NFC 版
 XMSH15HM,band,xiaomi,小米,,,小米手环 6,#
 XMSH16HM,band,xiaomi,小米,,,小米手环 6,#NFC 版
-M2129B1,band,xiaomi,小米,,,小米手环 7,#
-M2130B1,band,xiaomi,小米,,,小米手环 7,#NFC 版
-M2140B1,band,xiaomi,小米,,,小米手环 7 Pro,#国行版
-M2141B1,band,xiaomi,小米,,,小米手环 7 Pro,#国际版
-M2239B1,band,xiaomi,小米,,,小米手环 8,#
-M2240B1,band,xiaomi,小米,,,小米手环 8,#NFC 版
-M2303B1,band,xiaomi,小米,,,小米手环 8 Pro,#国行版
-M2333B1,band,xiaomi,小米,,,小米手环 8 Pro,#国际版
-M2345B1,band,xiaomi,小米,,,小米手环 9,#
-M2346B1,band,xiaomi,小米,,,小米手环 9,#NFC 版 / 陶瓷特别版
-M2401B1,band,xiaomi,小米,,,小米手环 9 Pro,#
+M2129B1,band,xiaomi,小米,L66,,小米手环 7,#
+M2130B1,band,xiaomi,小米,L66,,小米手环 7,#NFC 版
+M2140B1,band,xiaomi,小米,L67,,小米手环 7 Pro,#国行版
+M2141B1,band,xiaomi,小米,L67,,小米手环 7 Pro,#国际版
+M2239B1,band,xiaomi,小米,M66,,小米手环 8,#
+M2240B1,band,xiaomi,小米,M66,,小米手环 8,#NFC 版
+M2302B1,band,xiaomi,小米,M69B,,小米手环 8 Active,#国际版
+M2303B1,band,xiaomi,小米,M67,,小米手环 8 Pro,#国行版
+M2333B1,band,xiaomi,小米,M67,,小米手环 8 Pro,#国际版
+M2345B1,band,xiaomi,小米,N66,,小米手环 9,#
+M2346B1,band,xiaomi,小米,N66,,小米手环 9,#NFC 版 / 陶瓷特别版
+M2401B1,band,xiaomi,小米,N67,,小米手环 9 Pro,#
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,#
 M2320W1,watch,xiaomi,小米,,axolotlaxie,Xiaomi Watch 2,#
 M2234W1,watch,xiaomi,小米,,axolotl,Xiaomi Watch 2 Pro,#蓝牙版
@@ -7320,8 +7321,8 @@ M2108W1,watch,xiaomi,小米,,,Xiaomi Watch S1,#
 M2134W1,watch,xiaomi,小米,,,Xiaomi Watch S1 Pro,#
 M2206W1,watch,xiaomi,小米,,,Xiaomi Watch S2,#42mm
 M2207W1,watch,xiaomi,小米,,,Xiaomi Watch S2,#46mm
-M2313W1,watch,xiaomi,小米,,,Xiaomi Watch S3,#蓝牙版
-M2311W1,watch,xiaomi,小米,,,Xiaomi Watch S3,#eSIM 版
+M2313W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,#蓝牙版
+M2311W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,#eSIM 版
 M2425W1,watch,xiaomi,小米,,,Xiaomi Watch S4,#蓝牙版
 M2424W1,watch,xiaomi,小米,,,Xiaomi Watch S4,#eSIM 版
 M2312W1,watch,xiaomi,小米,,,Xiaomi Watch S4 Sport,#eSIM 版
@@ -7329,14 +7330,14 @@ M2230W1,watch,xiaomi,小米,,,小米腕部心电血压记录仪,#Xiaomi Watch H1
 M2412W1,watch,xiaomi,小米,,,小米腕部血压记录仪,#Xiaomi Watch H1 E
 HMSH01GE,band,xiaomi,小米,,,Redmi 手环,#
 M2101B1,band,xiaomi,小米,,,Redmi Smart Band Pro,#国际版
-M2225B1,band,xiaomi,小米,,,Redmi 手环 2,#
-M2434B1,band,xiaomi,小米,,,Redmi 手环 3,#
+M2225B1,band,xiaomi,小米,M69B,,Redmi 手环 2,#
+M2434B1,band,xiaomi,小米,N69,,Redmi 手环 3,#
 REDMIWT01,watch,xiaomi,小米,,,Redmi Watch,#
 M2102W1,watch,xiaomi,小米,,,Redmi Watch 2,#
 M2109W1,watch,xiaomi,小米,,,Redmi Watch 2 Lite,#国际版
 M2215W1,watch,xiaomi,小米,,,Redmi Watch 3,#
 M2309W1,watch,xiaomi,小米,,,Redmi Watch 3 青春版,#
-M2235W1,watch,xiaomi,小米,,,Redmi Watch 3 Active,#国际版
+M2235W1,watch,xiaomi,小米,M65A,,Redmi Watch 3 Active,#国际版
 M2314W1,watch,xiaomi,小米,,,Redmi Watch 4,#
 M2131W1,watch,xiaomi,小米,,,POCO Watch,#
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,#联通版
@@ -8895,6 +8896,7 @@ LGN-AN00,mob,zhixuan,华为智选,,,Hi 畅享 60 Pro,#5G
 MKY-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70|Hi 畅享 70m,#5G
 MKY-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70|Hi 畅享 70m,1#5G
 BAL-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70 Pro,#5G
+JEY-AN00,mob,zhixuan,华为智选,,,Hi 畅享 70 Plus,#
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,#
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,#
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,#
