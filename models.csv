@@ -4323,7 +4323,11 @@ L43M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#FHD 43
 L55M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),#55
 L32M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#32
 L43M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#FHD 43
+L43MA-AFID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#FHD 43 2025
 L55M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#55
+L55MA-AID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),#55 2025
+L43MA-SID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),#43
+L55MA-SID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),#55
 L55MA-ATWN,tv,mitv,Xiaomi,,,"Xiaomi TV A (Japan, Korea, TW)",#55 2025
 L65MA-ATWN,tv,mitv,Xiaomi,,,"Xiaomi TV A (Japan, Korea, TW)",#65 2025
 L32M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),#32
@@ -7338,7 +7342,7 @@ M2109W1,watch,xiaomi,小米,,,Redmi Watch 2 Lite,#国际版
 M2215W1,watch,xiaomi,小米,,,Redmi Watch 3,#
 M2309W1,watch,xiaomi,小米,,,Redmi Watch 3 青春版,#
 M2235W1,watch,xiaomi,小米,M65A,,Redmi Watch 3 Active,#国际版
-M2314W1,watch,xiaomi,小米,,,Redmi Watch 4,#
+M2314W1,watch,xiaomi,小米,N65,,Redmi Watch 4,#
 M2131W1,watch,xiaomi,小米,,,POCO Watch,#
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,#联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,#电信版
