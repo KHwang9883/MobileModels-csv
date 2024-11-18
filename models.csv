@@ -4655,7 +4655,7 @@ CPH2609,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#欧洲版 / 国际
 CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版 / 原神刻晴定制机
 PJF110,mob,oneplus,一加,,audi,OnePlus Ace 3V,#国行版
 PJX110,mob,oneplus,一加,,corvette,OnePlus Ace 3 Pro,#国行版
-PJZ110,mob,oneplus,一加,,,OnePlus 13,#国行版
+PJZ110,mob,oneplus,一加,,dodge,OnePlus 13,#国行版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
@@ -4811,7 +4811,7 @@ CPH2609,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#Europe / Global /
 CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America / Genshin Impact Edition
 PJF110,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V,#China
 PJX110,mob,oneplus,OnePlus,,corvette,OnePlus Ace 3 Pro,#China
-PJZ110,mob,oneplus,OnePlus,,,OnePlus 13,#China
+PJZ110,mob,oneplus,OnePlus,,dodge,OnePlus 13,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
@@ -4880,9 +4880,9 @@ PGEM10,mob,oppo,OPPO,,wukong,OPPO Find X6 Pro,#
 PHZ110,mob,oppo,OPPO,,nvwa,OPPO Find X7,#
 PHY110,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#
 PHY120,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#卫星通信版
-PKB110,mob,oppo,OPPO,,,OPPO Find X8,#
-PKC110,mob,oppo,OPPO,,,OPPO Find X8 Pro,#
-PKC130,mob,oppo,OPPO,,,OPPO Find X8 Pro,#卫星通信版
+PKB110,mob,oppo,OPPO,,yala,OPPO Find X8,#
+PKC110,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,#
+PKC130,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,#卫星通信版
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,#
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
@@ -5046,7 +5046,7 @@ OPD2101,pad,oppo,OPPO,,,OPPO Pad,#
 OPD2102,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2201,pad,oppo,OPPO,,aries,OPPO Pad 2,#
 OPD2301,pad,oppo,OPPO,,bluey,OPPO Pad Air2,#
-OPD2401,pad,oppo,OPPO,,,OPPO Pad 3 Pro,#
+OPD2401,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,#
 OB19B1,band,oppo,OPPO,,,OPPO Band,#标准版 / 名侦探柯南限定版
 OB19B3,band,oppo,OPPO,,,OPPO Band,#NFC 版
 OB19O0,band,oppo,OPPO,,,OPPO Band,#时尚版
