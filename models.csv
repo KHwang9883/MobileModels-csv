@@ -1126,6 +1126,8 @@ ASUS_AI2205_A,mob,asus,华硕,,AI2205,ROG Phone 7,#游戏手机 7
 ASUS_AI2205_B,mob,asus,华硕,,AI2205,ROG Phone 7,#游戏手机 7 Pro
 ASUS_AI2401_A,mob,asus,华硕,,AI2401,ROG Phone 8,#游戏手机 8
 ASUS_AI2401_A,mob,asus,华硕,,AI2401,ROG Phone 8,#游戏手机 8 Pro
+ASUSAI2501A,mob,asus,华硕,,AI2401,ROG Phone 9,#游戏手机 9
+ASUSAI2501A,mob,asus,华硕,,AI2401,ROG Phone 9,#游戏手机 9 Pro
 ASUS_I007D,mob,asus,华硕,,,Smartphone for Snapdragon Insiders,#
 SKR-A0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#全网通版
 SKR-H0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#国际版
@@ -1567,7 +1569,7 @@ RKY-AN10,mob,honor,荣耀,,Rocky,荣耀 Play7T,#5G
 DIO-AN00,mob,honor,荣耀,,Dior,荣耀 Play7T Pro,#5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀 Play8T,#5G
 LLY-AN00,mob,honor,荣耀,,Lily,荣耀 Play8T Pro,#5G
-ALT-AN00,mob,honor,荣耀,,,荣耀 Play9T,#5G
+ALT-AN00,mob,honor,荣耀,,Alita,荣耀 Play9T,#5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀 Play9C,#5G
 EDI-AL10,mob,honor,荣耀,,Edison,荣耀 Note8,#全网通版
 EDI-DL00,mob,honor,荣耀,,Edison,荣耀 Note8,#移动/联通版
@@ -1641,7 +1643,7 @@ RKY-AN00,mob,honor,荣耀,,Rocky,荣耀畅玩 40 Plus,#5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50|荣耀畅玩 50m,#5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50|荣耀畅玩 50m,1#5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,#5G
-ALT-AN00,mob,honor,荣耀,,,荣耀畅玩 60 Plus,#5G
+ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,#5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,#Wi-Fi 版
 S8-701u,pad,honor,荣耀,,,荣耀平板,#3G 版
 T1-821w,pad,honor,荣耀,,,荣耀平板,#优享版
@@ -2012,8 +2014,8 @@ ELI-NX9,mob,honor,HONOR,,,HONOR 200,#
 ELP-NX9,mob,honor,HONOR,,,HONOR 200 Pro,#
 LLY-NX1,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 LLY-NX3,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
-ALT-NX1,mob,honor,HONOR,,,HONOR 200 Smart,#
-ALT-NX3,mob,honor,HONOR,,,HONOR 200 Smart,#
+ALT-NX1,mob,honor,HONOR,,Alita,HONOR 200 Smart,#
+ALT-NX3,mob,honor,HONOR,,Alita,HONOR 200 Smart,#
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
@@ -2030,6 +2032,8 @@ BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,#
 BVL-N59,mob,honor,HONOR,,Bvlgari,PORSCHE DESIGN HONOR Magic6 RSR,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
+BRP-NX1M,mob,honor,HONOR,,BruceP,HONOR Magic7 Lite,#
+BRP-NX3,mob,honor,HONOR,,BruceP,HONOR Magic7 Lite,#
 FCP-N49,mob,honor,HONOR,,,HONOR Magic V3,#
 VNA-LX2,mob,honor,HONOR,,Vanessa,HONOR X5,#
 VNA-LX3,mob,honor,HONOR,,Vanessa,HONOR X5,#
@@ -2052,7 +2056,7 @@ JDY-LX1,mob,honor,HONOR,,Judy,HONOR X6b,#
 JDY-LX2,mob,honor,HONOR,,Judy,HONOR X6b,#
 JDY-LX3,mob,honor,HONOR,,Judy,HONOR X6b,#
 JDY-LX3P,mob,honor,HONOR,,Judy,HONOR X6b,#Plus
-ALT-NX3,mob,honor,HONOR,,,HONOR X6b 5G,#
+ALT-NX3,mob,honor,HONOR,,Alita,HONOR X6b 5G,#
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,#
@@ -2065,7 +2069,10 @@ CLK-LX2,mob,honor,HONOR,,Clark,HONOR X7b,#
 CLK-LX3,mob,honor,HONOR,,Clark,HONOR X7b,#
 CLK-NX1,mob,honor,HONOR,,Clark,HONOR X7b 5G,#
 CLK-NX2,mob,honor,HONOR,,Clark,HONOR X7b 5G,#
-ALT-NX1,mob,honor,HONOR,,,HONOR X7c 5G,#
+ALT-LX1,mob,honor,HONOR,,Alita,HONOR X7c,#
+ALT-LX2,mob,honor,HONOR,,Alita,HONOR X7c,#
+ALT-LX3,mob,honor,HONOR,,Alita,HONOR X7c,#
+ALT-NX1,mob,honor,HONOR,,Alita,HONOR X7c 5G,#
 TFY-LX1,mob,honor,HONOR,,Tiffany,HONOR X8,#
 TFY-LX2,mob,honor,HONOR,,Tiffany,HONOR X8,#
 TFY-LX3,mob,honor,HONOR,,Tiffany,HONOR X8,#
@@ -2084,7 +2091,7 @@ ANY-NX1,mob,honor,HONOR,,Andy,HONOR X9 5G,#
 RMO-NX1,mob,honor,HONOR,,Rambo,HONOR X9a 5G,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR X9b 5G,#
 ALI-NX3P,mob,honor,HONOR,,Ali,HONOR X9b 5G,#
-BRP-NX1,mob,honor,HONOR,,BruceP,HONOR X9c 5G,#
+BRP-NX1,mob,honor,HONOR,,BruceP,HONOR X9c,#
 HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,#
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#LTE
