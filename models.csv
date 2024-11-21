@@ -2184,6 +2184,11 @@ PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#
 ALT-AL00,mob,huawei,华为,,Alta,HUAWEI Mate X3,#
 ALT-AL10,mob,huawei,华为,,Alta,HUAWEI Mate X5,#
 GRL-AL10,mob,huawei,华为,,Greenland,HUAWEI Mate XT ULTIMATE DESIGN 非凡大师,#
+CLS-AL00,mob,huawei,华为,,Celestial,HUAWEI Mate 70,#
+PLR-AL00,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,#
+PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,#
+ICL-AL10,mob,huawei,华为,,,HUAWEI Mate X6,#
+ICL-AL20,mob,huawei,华为,,,HUAWEI Mate X6,#典藏版
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,#
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,#XL
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,#S
@@ -2946,9 +2951,10 @@ YDA-B09S,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
 YDA-B19S,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
 YDA-B19V,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,#
 SLO-B19,watch,huawei,华为,,Solo,HUAWEI WATCH FIT 3,#
-MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,#
-MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,#
-LCA-B11,watch,huawei,华为,,Luca,HUAWEI WATCH D2,#
+MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,#黑色氟橡胶表带
+MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,#米白色氟橡胶表带
+LCA-B10,watch,huawei,华为,,Luca,HUAWEI WATCH D2,#幻夜黑
+LCA-B11,watch,huawei,华为,,Luca,HUAWEI WATCH D2,#晨曦金
 SGA-B19,watch,huawei,华为,,Saga,HUAWEI WATCH Buds,#
 MIL-B29B,watch,huawei,华为,,Milo,HUAWEI WATCH B5,#532
 JPT-B29B,watch,huawei,华为,,Jupiter,HUAWEI WATCH B5,#536
@@ -3420,40 +3426,44 @@ Z2131,mob,lenovo,联想,,,ZUK Z2,#
 Z2121,mob,lenovo,联想,,,ZUK Z2 Pro,#
 Z2122,mob,lenovo,联想,,,ZUK Z2 Pro,#
 Z2151,mob,lenovo,联想,,,ZUK Edge,#
-Lenovo TB-8804F,pad,lenovo,联想,,,联想小新平板 (2017),#8 英寸
-Lenovo TB-X804F,pad,lenovo,联想,,,联想小新平板 (2017),#10 英寸
-Lenovo TB-J606F,pad,lenovo,联想,,,联想小新 Pad,#
-TB128FU,pad,lenovo,联想,,,联想小新 Pad,#2022
-TB331FC,pad,lenovo,联想,,,联想小新 Pad,#2024
-Lenovo TB-J607F,pad,lenovo,联想,,,联想小新 Pad Plus,#
-Lenovo TB-J607Z,pad,lenovo,联想,,,联想小新 Pad Plus,#5G
-TB350FU,pad,lenovo,联想,,,联想小新 Pad Plus,#2023
-TB372FC,pad,lenovo,联想,,,联想小新 Pad Plus,#12.7 舒视版
-Lenovo TB-J706F,pad,lenovo,联想,,,联想小新 Pad Pro,#2020
-Lenovo TB-J716F,pad,lenovo,联想,,,联想小新 Pad Pro,#2021
-Lenovo TB-Q706F,pad,lenovo,联想,,,联想小新 Pad Pro,#12.6
-TB138FC,pad,lenovo,联想,,,联想小新 Pad Pro,#2022 骁龙版
-TB132FU,pad,lenovo,联想,,,联想小新 Pad Pro,#2022 迅鲲版
-TB371FC,pad,lenovo,联想,,,联想小新 Pad Pro,#12.7 骁龙版
-TB370FU,pad,lenovo,联想,,,联想小新 Pad Pro,#12.7 天玑版
-TB375FC,pad,lenovo,联想,,,联想小新 Pad Pro,#12.7 2025
-TB351FU,pad,lenovo,联想,,,联想小新 Pad Studio,#
-TB372FC,pad,lenovo,联想,,,联想小新学习平板,#12.7
-Lenovo YT3-850F,pad,lenovo,联想,,,联想 YOGA Tab 3,#8” Wi-Fi 版
-Lenovo YT3-850L,pad,lenovo,联想,,,联想 YOGA Tab 3,#8” LTE 版
-Lenovo YT3-X50F,pad,lenovo,联想,,,联想 YOGA Tab 3,#10” Wi-Fi 版
-Lenovo YT3-X50L,pad,lenovo,联想,,,联想 YOGA Tab 3,#10” LTE 版
-Lenovo YT-X703F,pad,lenovo,联想,,,联想 YOGA Tab 3 Plus,#Wi-Fi 版
-Lenovo YT-X703L,pad,lenovo,联想,,,联想 YOGA Tab 3 Plus,#LTE 版
-Lenovo YT3-X90F,pad,lenovo,联想,,,联想 YOGA Tab 3 PRO,#10” Wi-Fi 版
-Lenovo YT3-X90L,pad,lenovo,联想,,,联想 YOGA Tab 3 PRO,#10” LTE 版
-Lenovo YT-K606F,pad,lenovo,联想,,,联想 YOGA Pad Pro,#
-SP101FU,pad,lenovo,联想,,,联想 YOGA Paper 墨水平板,#
-Lenovo TB-9707F,pad,lenovo,联想,,,联想拯救者 Y700,#2022
-TB320FC,pad,lenovo,联想,,,联想拯救者 Y700,#2023
-TB321FU,pad,lenovo,联想,,,联想拯救者 Y700,#2024
-TB570FU,pad,lenovo,联想,,,联想拯救者 Y900,#
-Lenovo TB-J616F,pad,lenovo,联想,,,联想天骄平板电脑,#
+Lenovo TB-8804F,pad,lenovo,联想,,,小新平板 (2017),#8 英寸
+Lenovo TB-X804F,pad,lenovo,联想,,,小新平板 (2017),#10 英寸
+Lenovo TB-J606F,pad,lenovo,联想,,m11,小新 Pad,#
+TB128FU,pad,lenovo,联想,,oak,小新 Pad 2022,#
+TB331FC,pad,lenovo,联想,,Balsa,小新 Pad 2024,#
+Lenovo TB-J607F,pad,lenovo,联想,,arnoz,小新 Pad Plus,#
+Lenovo TB-J607Z,pad,lenovo,联想,,arnoz,小新 Pad Plus,#5G
+TB350FU,pad,lenovo,联想,,tulip,小新 Pad Plus 2023,#
+TB350XC,pad,lenovo,联想,,tulip,小新 Pad Plus 2023,#
+TB372FC,pad,lenovo,联想,,spruce,小新 Pad Plus 12.7 舒视版,#
+Lenovo TB-J706F,pad,lenovo,联想,,pearl,小新 Pad Pro,#2020
+Lenovo TB-J716F,pad,lenovo,联想,,p11_pro_plus,小新 Pad Pro 2021,#
+Lenovo TB-Q706F,pad,lenovo,联想,,paladin,小新 Pad Pro 12.6,#
+TB138FC,pad,lenovo,联想,,olivine,小新 Pad Pro 2022 骁龙版,#
+TB132FU,pad,lenovo,联想,,onyx,小新 Pad Pro 2022 迅鲲版,#
+TB371FC,pad,lenovo,联想,,spinel,小新 Pad Pro 12.7 骁龙版,#
+TB370FU,pad,lenovo,联想,,spruce,小新 Pad Pro 12.7 天玑版,#
+TB375FC,pad,lenovo,联想,,,小新 Pad Pro 12.7 2025,#
+TB351FU,pad,lenovo,联想,,calla,小新 Pad Studio,#
+TB372FC,pad,lenovo,联想,,spruce,小新学习平板,#12.7
+Lenovo YT3-850F,pad,lenovo,联想,,,YOGA Tab 3,#8” Wi-Fi 版
+Lenovo YT3-850L,pad,lenovo,联想,,,YOGA Tab 3,#8” LTE 版
+Lenovo YT3-X50F,pad,lenovo,联想,,,YOGA Tab 3,#10” Wi-Fi 版
+Lenovo YT3-X50L,pad,lenovo,联想,,,YOGA Tab 3,#10” LTE 版
+Lenovo YT-X703F,pad,lenovo,联想,,,YOGA Tab 3 Plus,#Wi-Fi 版
+Lenovo YT-X703L,pad,lenovo,联想,,,YOGA Tab 3 Plus,#LTE 版
+Lenovo YT3-X90F,pad,lenovo,联想,,,YOGA Tab 3 PRO,#10” Wi-Fi 版
+Lenovo YT3-X90L,pad,lenovo,联想,,,YOGA Tab 3 PRO,#10” LTE 版
+Lenovo YT-K606F,pad,lenovo,联想,,bladex,YOGA Pad Pro,#
+TB520FU,pad,lenovo,联想,,lapis,YOGA Pad Pro AI 元启版,#
+SP101FU,pad,lenovo,联想,,,YOGA Paper 墨水平板,#
+Lenovo TB-9707F,pad,lenovo,联想,,p8,拯救者平板 Y700,#2022
+TB320FC,pad,lenovo,联想,,asphalt,拯救者平板 Y700 2023,#
+TB321FU,pad,lenovo,联想,,,拯救者平板 Y700 2025,#
+TB570FU,pad,lenovo,联想,,inception,拯救者平板 Y900,#
+TB570ZU,pad,lenovo,联想,,inception,拯救者平板 Y900,#
+Lenovo TB-J616F,pad,lenovo,联想,,p11_plus,联想天骄平板电脑,#
+Lenovo TB-J616N,pad,lenovo,联想,,p11_plus,联想天骄平板电脑,#
 Lenovo TB-8504F,pad,lenovo,联想,,,联想 TAB4,#8 英寸 Wi-Fi 版
 Lenovo TB-8504N,pad,lenovo,联想,,,联想 TAB4,#8 英寸 LTE 版
 Lenovo TB-8604F,pad,lenovo,联想,,,联想 TAB4,#8 英寸 REL
@@ -3465,36 +3475,54 @@ Lenovo TB-8704F,pad,lenovo,联想,,,联想 TAB4 Plus,#8 英寸 Wi-Fi 版
 Lenovo TB-8704N,pad,lenovo,联想,,,联想 TAB4 Plus,#8 英寸 LTE 版
 Lenovo TB-X704F,pad,lenovo,联想,,,联想 TAB4 Plus,#10.1 英寸 Wi-Fi 版
 Lenovo TB-X704N,pad,lenovo,联想,,,联想 TAB4 Plus,#10.1 英寸 LTE 版
-Lenovo TB-8705F,pad,lenovo,联想,,,联想 M8,#8 英寸 Wi-Fi 版
-Lenovo TB-8705N,pad,lenovo,联想,,,联想 M8,#8 英寸 LTE 版
-Lenovo TB-8505F,pad,lenovo,联想,,,联想 M8,#8 英寸 Wi-Fi 版 (商用)
-Lenovo TB-8505N,pad,lenovo,联想,,,联想 M8,#8 英寸 LTE 版 (商用)
-Lenovo TB-X306FC,pad,lenovo,联想,,,联想 M10 HD,#10.1 英寸 Wi-Fi 版
-Lenovo TB-X306NC,pad,lenovo,联想,,,联想 M10 HD,#10.1 英寸 LTE 版
-Lenovo TB-X605FC,pad,lenovo,联想,,,联想 M10 FHD,#REL 10.1 英寸 Wi-Fi 版
-Lenovo TB-X605LC,pad,lenovo,联想,,,联想 M10 FHD,#REL 10.1 英寸 LTE 版
-Lenovo TB-X606F,pad,lenovo,联想,,,联想 M10 PLUS,#10.3 英寸 Wi-Fi 版
-Lenovo TB-X616F,pad,lenovo,联想,,,联想平板 TB-X616F,#10.3 英寸 Wi-Fi 版
-TB310FU,pad,lenovo,联想,,,联想启天 K9,#9 英寸 Wi-Fi 版
-TB310XC,pad,lenovo,联想,,,联想启天 K9,#9 英寸 LTE 版
-Lenovo TB-X6C6F,pad,lenovo,联想,,,联想启天 K10,#10.3 英寸 Wi-Fi 版
-Lenovo TB-X6C6X,pad,lenovo,联想,,,联想启天 K10,#10.3 英寸 LTE 版
-TB128FU,pad,lenovo,联想,,,联想启天 K10 Pro,#10.61 英寸 Wi-Fi 版
-TB223FC,pad,lenovo,联想,,,联想启天 K10 Pro,#10.61 英寸 Wi-Fi 版
-TB128XC,pad,lenovo,联想,,,联想启天 K10 Pro,#10.61 英寸 LTE 版
-TB226XC,pad,lenovo,联想,,,联想启天 K10 Pro,#10.61 英寸 LTE 版
-TB360ZU,pad,lenovo,联想,,,联想启天 K10 Pro,#10.61 英寸 5G 版
-Lenovo TB-J6C6F,pad,lenovo,联想,,,联想启天 K11,#11 英寸 Wi-Fi 版
-Lenovo TB-J6C6X,pad,lenovo,联想,,,联想启天 K11,#11 英寸 LTE 版
-Lenovo TB-J607Z,pad,lenovo,联想,,,联想启天 K11 Pro 5G,#
-TB230FC,pad,lenovo,联想,,,联想启天 K11 Gen2,#11.5 英寸 Wi-Fi 版
-TB230XC,pad,lenovo,联想,,,联想启天 K11 Gen2,#11.5 英寸 LTE 版
-TB240FC,pad,lenovo,联想,,,联想启天 K12,#12.7 英寸 Wi-Fi 版
+Lenovo TB-8705F,pad,lenovo,联想,,aaron,联想 M8,#8 英寸 Wi-Fi 版
+Lenovo TB-8705N,pad,lenovo,联想,,aaron,联想 M8,#8 英寸 LTE 版
+Lenovo TB-8505F,pad,lenovo,联想,,aaron,联想 M8,#8 英寸 Wi-Fi 版 (商用)
+Lenovo TB-8505N,pad,lenovo,联想,,aaron,联想 M8,#8 英寸 LTE 版 (商用)
+Lenovo TB-X306FC,pad,lenovo,联想,,amar,联想 M10 HD,#10.1 英寸 Wi-Fi 版
+Lenovo TB-X306NC,pad,lenovo,联想,,amar,联想 M10 HD,#10.1 英寸 LTE 版
+Lenovo TB-X605FC,pad,lenovo,联想,,achilles5,联想 M10 FHD,#REL 10.1 英寸 Wi-Fi 版
+Lenovo TB-X605LC,pad,lenovo,联想,,achilles5,联想 M10 FHD,#REL 10.1 英寸 LTE 版
+Lenovo TB-X606F,pad,lenovo,联想,,achilles6,联想 M10 PLUS,#10.3 英寸 Wi-Fi 版
+Lenovo TB-X616F,pad,lenovo,联想,,achilles6,联想 M10 PLUS,#10.3 英寸 Wi-Fi 版
+Lenovo TB-X606M,pad,lenovo,联想,,achilles6,联想 M10 PLUS,#10.3 英寸 LTE 版
+Lenovo TB-X616M,pad,lenovo,联想,,achilles6,联想 M10 PLUS,#10.3 英寸 LTE 版
+Lenovo TB-8506F,pad,lenovo,联想,,,联想启天 K8,#8 英寸 Wi-Fi 版
+Lenovo TB-8506N,pad,lenovo,联想,,,联想启天 K8,#8 英寸 LTE 版
+TB310FU,pad,lenovo,联想,,pine,联想启天 K9,#9 英寸 Wi-Fi 版
+TB310XC,pad,lenovo,联想,,pine,联想启天 K9,#9 英寸 LTE 版
+Lenovo TB-X6C6F,pad,lenovo,联想,,asha,联想启天 K10,#10.3 英寸 Wi-Fi 版
+Lenovo TB-X6C6NBF,pad,lenovo,联想,,asha,联想启天 K10,#10.3 英寸 无电池版本
+Lenovo TB-X6C6X,pad,lenovo,联想,,asha,联想启天 K10,#10.3 英寸 LTE 版
+Lenovo TB-X6E6F,pad,lenovo,联想,,,联想启天 K10c,#10.3 英寸 Wi-Fi 版
+Lenovo TB-X6E6N,pad,lenovo,联想,,,联想启天 K10c,#10.3 英寸 LTE 版
+Lenovo TB-X6E6FC,pad,lenovo,联想,,,联想启天 E10c,#10.3 英寸 Wi-Fi 版
+TB223FC,pad,lenovo,联想,,maple,联想启天 K10 Pro,#10.61 英寸 Wi-Fi 版
+TB128FU,pad,lenovo,联想,,oak,联想启天 K10 Pro,#10.61 英寸 Wi-Fi 版
+TB128XC,pad,lenovo,联想,,oak,联想启天 K10 Pro,#10.61 英寸 LTE 版
+TB226XC,pad,lenovo,联想,,oak,联想启天 K10 Pro,#10.61 英寸 LTE 版
+TB360ZU,pad,lenovo,联想,,linden,联想启天 K10 Pro,#10.61 英寸 5G 版
+Lenovo TB-J6C6F,pad,lenovo,联想,,p11,联想启天 K11,#11 英寸 Wi-Fi 版
+Lenovo TB-J6C6X,pad,lenovo,联想,,p11,联想启天 K11,#11 英寸 LTE 版
+Lenovo TB-J607F,pad,lenovo,联想,,arnoz,联想启天 K11 Pro,#11 英寸 Wi-Fi 版
+Lenovo TB-J607Z,pad,lenovo,联想,,arnoz,联想启天 K11 Pro,#11 英寸 5G 版
+TB230FC,pad,lenovo,联想,,tulip,联想启天 K11 Gen2,#11.5 英寸 Wi-Fi 版
+TB230XC,pad,lenovo,联想,,tulip,联想启天 K11 Gen2,#11.5 英寸 LTE 版
+TB240FC,pad,lenovo,联想,,spruce,联想启天 K12,#12.7 英寸 Wi-Fi 版
 SP523FC,pad,lenovo,联想,,,联想启天 SmartPaper,#10.3 英寸 Wi-Fi 版
-Lenovo TB-X6E6F,pad,lenovo,联想,,,Lenovo Tab K10,#10.3 英寸 Wi-Fi 版
-Lenovo TB-X6E6X,pad,lenovo,联想,,,Lenovo Tab K10,#10.3 英寸 LTE 版
-Lenovo TB-J606F,pad,lenovo,联想,,,Lenovo Tab K11,#11 英寸 Wi-Fi 版
-Lenovo TB-J606N,pad,lenovo,联想,,,Lenovo Tab K11,#11 英寸 LTE 版
+TB310FU,pad,lenovo,联想,,pine,联想昭阳 K9,#9 英寸 Wi-Fi 版
+TB310XC,pad,lenovo,联想,,pine,联想昭阳 K9,#9 英寸 LTE 版
+TB330FU,pad,lenovo,联想,,barley,联想昭阳 K10,#10.95 英寸 Wi-Fi 版
+TB330XC,pad,lenovo,联想,,barley,联想昭阳 K10,#10.95 英寸 LTE 版
+TB360ZU,pad,lenovo,联想,,linden,联想昭阳 K10,#10.61 英寸 5G 版
+TB352FC,pad,lenovo,联想,,citrus,联想昭阳 K11,#11.5 英寸 Wi-Fi 版
+TB352XC,pad,lenovo,联想,,citrus,联想昭阳 K11,#11.5 英寸 LTE 版
+TB240FC,pad,lenovo,联想,,spruce,联想昭阳 K12,#12.7 英寸 Wi-Fi 版
+TB373FU,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),#12.7 英寸 Wi-Fi 版
+TB373ZC,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),#12.7 英寸 5G 版
+Lenovo TB-J606F,pad,lenovo,联想,,m11,Lenovo Tab K11,#11 英寸 Wi-Fi 版
+Lenovo TB-J606N,pad,lenovo,联想,,m11,Lenovo Tab K11,#11 英寸 LTE 版
+TB610FU,pad,lenovo,联想,,gem,ThinkBook Plus Hybrid 2024,#平板
 Letv X600,mob,letv,乐视,,,乐 1,#通用版
 Letv X608,mob,letv,乐视,,,乐 1,#移动定制版
 Letv X500,mob,letv,乐视,,,乐 1s,#通用版
@@ -6820,6 +6848,8 @@ V2344A,mob,vivo,vivo,,PD2344,S18 Pro,#
 V2334A,mob,vivo,vivo,,PD2334,S18e,#
 V2364A,mob,vivo,vivo,,PD2364,S19,#
 V2362A,mob,vivo,vivo,,PD2362,S19 Pro,#
+V2429A,mob,vivo,vivo,,PD2429,S20,#
+V2430A,mob,vivo,vivo,,PD2430,S20 Pro,#
 V1901A,mob,vivo,vivo,,PD1901,Y3,#全网通版
 V1901T,mob,vivo,vivo,,PD1901,Y3,#移动全网通版
 V1930A,mob,vivo,vivo,,PD1930,Y3 标准版,#全网通版
@@ -6927,6 +6957,7 @@ V2354A,mob,vivo,vivo,,PD2354,Y100+|Y200i,1#5G
 V2343A,mob,vivo,vivo,,PD2343,Y200,#5G
 V2361GA,mob,vivo,vivo,,PD2361,Y200 GT,#5G
 V2353DA,mob,vivo,vivo,,PD2353,Y200t,#5G
+V2435A,mob,vivo,vivo,,PD2435,Y300,#
 V2410A,mob,vivo,vivo,,PD2410,Y300 Pro,#5G
 V2115A,mob,vivo,vivo,,PD2115,T1,#
 V2123A,mob,vivo,vivo,,PD2123,T1x,#
@@ -7001,6 +7032,7 @@ V2338A,mob,vivo,vivo,,PD2338,iQOO Neo9,#
 V2339A,mob,vivo,vivo,,PD2339,iQOO Neo9 Pro,#
 V2339FA,mob,vivo,vivo,,PD2339,iQOO Neo9S Pro,#
 V2403A,mob,vivo,vivo,,PD2403,iQOO Neo9S Pro+,#
+V2425A,mob,vivo,vivo,,PD2425,iQOO Neo10,#
 V1986A,mob,vivo,vivo,,PD1986,iQOO Z1,#
 V2012A,mob,vivo,vivo,,PD2012,iQOO Z1x,#
 V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,#
@@ -8907,7 +8939,7 @@ LGN-AN00,mob,zhixuan,华为智选,,,Hi 畅享 60 Pro,#5G
 MKY-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70|Hi 畅享 70m,#5G
 MKY-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70|Hi 畅享 70m,1#5G
 BAL-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70 Pro,#5G
-JEY-AN00,mob,zhixuan,华为智选,,,Hi 畅享 70 Plus,#
+JEY-AN00,mob,zhixuan,华为智选,,Jerry,Hi 畅享 70 Plus,#
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,#
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,#
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,#
