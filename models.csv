@@ -4536,6 +4536,8 @@ NX715J,mob,nubia,努比亚,,,Z50 SE,#
 NX721J,mob,nubia,努比亚,,,Z60 Ultra|Z60 Ultra 领先版,#
 NX721J,mob,nubia,努比亚,,,Z60 Ultra|Z60 Ultra 领先版,1#
 NX725J,mob,nubia,努比亚,,,Z60S Pro,#
+NX733J,mob,nubia,努比亚,,,Z70 Ultra,#
+NX736J,mob,nubia,努比亚,,,Z70 Ultra,#星空典藏版 (卫星通信)
 NX601J,mob,nubia,努比亚,,,X6,#
 NX616J,mob,nubia,努比亚,,,X,#
 NX612J,mob,nubia,努比亚,,,V18,#
@@ -5854,7 +5856,7 @@ SM-W9023,mob,samsung,三星,,v4q,三星 W23,#
 SM-W7023,mob,samsung,三星,,e4q,三星 W23 Flip,#
 SM-W9024,mob,samsung,三星,,v5q,三星 W24,#
 SM-W7024,mob,samsung,三星,,e5q,三星 W24 Flip,#
-SM-W9025,mob,samsung,三星,,,三星 W25,#
+SM-W9025,mob,samsung,三星,,q6aq,三星 W25,#
 SM-W7025,mob,samsung,三星,,b6q,三星 W25 Flip,#
 SM-G1600,mob,samsung,三星,,eliteltechn,Galaxy Folder,#
 SM-G1650,mob,samsung,三星,,elitexltechn,Galaxy Folder 2,#
@@ -6243,7 +6245,7 @@ SM-F956N,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#South Korea
 SM-F956Q,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#Japan (SIM Free)
 SCG28,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#Japan (au)
 SC-55E,mob,samsung,Samsung,,q6q,Galaxy Z Fold6,#Japan (NTT Docomo)
-SM-F958N,mob,samsung,Samsung,,q6a,Galaxy Z Fold Special Edition,#South Korea
+SM-F958N,mob,samsung,Samsung,,q6aq,Galaxy Z Fold Special Edition,#South Korea
 SM-F700F,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#Global
 SM-F700U,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#US Carrier
 SM-F700U1,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,#US Unlocked
@@ -6409,13 +6411,14 @@ SM-S156V,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#TracFone
 SM-A156W,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Canada
 SM-A156M,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Latin America
 SM-A1560,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#HK & TW
-SM-A166E,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Global
+SM-A166E,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Global (Exynos)
 SM-A166B,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#EU
 SM-A166U,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#US Carrier
 SM-A166U1,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#US Unlocked
 SM-S166V,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#TracFone
 SM-A166M,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Latin America
 SM-A1660,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#HK & TW
+SM-A166P,mob,samsung,Samsung,,a16xm,Galaxy A16 5G,#Global (Mediatek)
 SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,#Global
 SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,#India
 SM-A205F,mob,samsung,Samsung,,a20,Galaxy A20,#Global
