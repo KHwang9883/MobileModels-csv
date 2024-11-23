@@ -5113,13 +5113,15 @@ CPH2025,mob,oppo,OPPO,,,OPPO Find X2 Pro,#
 OPG01,mob,oppo,OPPO,,,OPPO Find X2 Pro,#KDDI
 CPH2005,mob,oppo,OPPO,,,OPPO Find X2 Lite,#
 CPH2009,mob,oppo,OPPO,,,OPPO Find X2 Neo,#
-CPH2173,mob,oppo,OPPO,,,OPPO Find X3 Pro,#
-OPG03,mob,oppo,OPPO,,,OPPO Find X3 Pro,#KDDI
+CPH2173,mob,oppo,OPPO,,fussi,OPPO Find X3 Pro,#
+OPG03,mob,oppo,OPPO,,fussi,OPPO Find X3 Pro,#KDDI
 CPH2145,mob,oppo,OPPO,,,OPPO Find X3 Lite,#
 CPH2207,mob,oppo,OPPO,,,OPPO Find X3 Neo,#
-CPH2307,mob,oppo,OPPO,,,OPPO Find X5,#
-CPH2305,mob,oppo,OPPO,,,OPPO Find X5 Pro,#
+CPH2307,mob,oppo,OPPO,,luwu,OPPO Find X5,#
+CPH2305,mob,oppo,OPPO,,baize,OPPO Find X5 Pro,#
 CPH2371,mob,oppo,OPPO,,,OPPO Find X5 Lite,#
+CPH2651,mob,oppo,OPPO,,yala,OPPO Find X8,#
+CPH2659,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,#
 CPH2439,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
 CPH2437,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
 CPH2499,mob,oppo,OPPO,,hedwig,OPPO Find N3,#
@@ -5233,12 +5235,14 @@ CPH1893RU,mob,oppo,OPPO,,,OPPO R17 Neo,#
 CPH1923,mob,oppo,OPPO,,,OPPO A1k,#
 CPH1923RU,mob,oppo,OPPO,,,OPPO A1k,#
 CPH1837,mob,oppo,OPPO,,,OPPO A3,#
+CPH2669,mob,oppo,OPPO,,,OPPO A3,#2024
 CPH2639,mob,oppo,OPPO,,,OPPO A3,#5G
+CPH2683,mob,oppo,OPPO,,,OPPO A3,#5G
 A402OP,mob,oppo,OPPO,,,OPPO A3,#5G (SoftBank)
 CPH1803,mob,oppo,OPPO,,,OPPO A3s,#
 CPH1853,mob,oppo,OPPO,,,OPPO A3s,#
 CPH1805,mob,oppo,OPPO,,,OPPO A3s,#
-CPH2641,mob,oppo,OPPO,,,OPPO A3x,#5G
+CPH2641,mob,oppo,OPPO,,,OPPO A3x,#
 CPH2681,mob,oppo,OPPO,,,OPPO A3x,#5G
 CPH2639,mob,oppo,OPPO,,,OPPO A3 Pro,#5G
 CPH2665,mob,oppo,OPPO,,,OPPO A3 Pro,#5G
@@ -5278,6 +5282,7 @@ CPH2421,mob,oppo,OPPO,,,OPPO A16e,#
 CPH2477,mob,oppo,OPPO,,,OPPO A17,#
 CPH2471,mob,oppo,OPPO,,,OPPO A17k,#
 CPH2591,mob,oppo,OPPO,,,OPPO A18,#
+CPH2641,mob,oppo,OPPO,,,OPPO A20,#
 CPH2015,mob,oppo,OPPO,,,OPPO A31,#
 CPH2031,mob,oppo,OPPO,,,OPPO A31,#
 CPH2073,mob,oppo,OPPO,,,OPPO A31,#
@@ -5285,6 +5290,8 @@ CPH2081,mob,oppo,OPPO,,,OPPO A31,#
 CPH2127,mob,oppo,OPPO,,,OPPO A33,#
 CPH2137,mob,oppo,OPPO,,,OPPO A33,#
 CPH2579,mob,oppo,OPPO,,,OPPO A38,#
+CPH2669,mob,oppo,OPPO,,,OPPO A40|OPPO A40m,#
+CPH2669,mob,oppo,OPPO,,,OPPO A40|OPPO A40m,1#
 CPH2061,mob,oppo,OPPO,,,OPPO A52,#
 CPH2069,mob,oppo,OPPO,,,OPPO A52,#
 CPH2127,mob,oppo,OPPO,,,OPPO A53,#
@@ -5309,6 +5316,7 @@ CPH2385,mob,oppo,OPPO,,,OPPO A57s,#
 CPH2577,mob,oppo,OPPO,,,OPPO A58,#
 CPH2617,mob,oppo,OPPO,,,OPPO A59,#5G
 CPH2631,mob,oppo,OPPO,,,OPPO A60,#
+CPH3669,mob,oppo,OPPO,,,OPPO A60,#
 CPH2683,mob,oppo,OPPO,,,OPPO A60,#5G
 CPH2067,mob,oppo,OPPO,,,OPPO A72,#
 CPH2095,mob,oppo,OPPO,,,OPPO A73,#
@@ -5346,6 +5354,7 @@ OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,#
 OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi
 OPD2303,pad,oppo,OPPO,,,OPPO Pad Neo,#LTE
+OPD2402,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,#
 OB19B1,band,oppo,OPPO,,,OPPO Band,#Style
 OBBE215,band,oppo,OPPO,,,OPPO Band 2,#Japan
 OWWE201,watch,oppo,OPPO,,,OPPO Watch Free,#
@@ -7036,6 +7045,7 @@ V2339A,mob,vivo,vivo,,PD2339,iQOO Neo9 Pro,#
 V2339FA,mob,vivo,vivo,,PD2339,iQOO Neo9S Pro,#
 V2403A,mob,vivo,vivo,,PD2403,iQOO Neo9S Pro+,#
 V2425A,mob,vivo,vivo,,PD2425,iQOO Neo10,#
+V2426A,mob,vivo,vivo,,PD2426,iQOO Neo10 Pro,#
 V1986A,mob,vivo,vivo,,PD1986,iQOO Z1,#
 V2012A,mob,vivo,vivo,,PD2012,iQOO Z1x,#
 V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,#
@@ -7091,6 +7101,8 @@ V2219,mob,vivo,vivo,,,X90 Pro,#
 V2308,mob,vivo,vivo,,,X100,#
 V2309,mob,vivo,vivo,,,X100 Pro,#
 V2330,mob,vivo,vivo,,,X Fold3 Pro,#
+V2415,mob,vivo,vivo,,,X200,#
+V2413,mob,vivo,vivo,,,X200 Pro,#
 vivo 1819,mob,vivo,vivo,,,V15,#
 vivo 1920,mob,vivo,vivo,,,V17,#
 vivo 1907,mob,vivo,vivo,,,V17 Neo,#
