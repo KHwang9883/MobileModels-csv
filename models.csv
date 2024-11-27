@@ -1465,6 +1465,9 @@ MAA-AN00,mob,honor,荣耀,,Mia,荣耀 100,#
 MAA-AN10,mob,honor,荣耀,,MiaP,荣耀 100 Pro,#
 ELI-AN00,mob,honor,荣耀,,,荣耀 200,#
 ELP-AN00,mob,honor,荣耀,,,荣耀 200 Pro,#
+AMM-AN00,mob,honor,荣耀,,,荣耀 300,#
+AMP-AN00,mob,honor,荣耀,,,荣耀 300 Pro,#
+AMP-AN10,mob,honor,荣耀,,,荣耀 300 Ultra,#
 KNT-AL10,mob,honor,荣耀,,Knight,荣耀 V8,#全网通版
 KNT-AL20,mob,honor,荣耀,,Knight,荣耀 V8,"#全网通版 (麒麟 955, 2K 显示屏)"
 KNT-TL10,mob,honor,荣耀,,Knight,荣耀 V8,#移动版
@@ -2173,6 +2176,10 @@ ALN-AL00,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL80,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro+,#
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师,#
+CLS-AL00,mob,huawei,华为,,Celestial,HUAWEI Mate 70,#
+PLR-AL00,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,#
+PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,#
+PLU-AL10,mob,huawei,华为,,ULTIMATE DESIGN,HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师,#
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,#
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,#
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,#5G
@@ -2184,9 +2191,6 @@ PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#
 ALT-AL00,mob,huawei,华为,,Alta,HUAWEI Mate X3,#
 ALT-AL10,mob,huawei,华为,,Alta,HUAWEI Mate X5,#
 GRL-AL10,mob,huawei,华为,,Greenland,HUAWEI Mate XT ULTIMATE DESIGN 非凡大师,#
-CLS-AL00,mob,huawei,华为,,Celestial,HUAWEI Mate 70,#
-PLR-AL00,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,#
-PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,#
 ICL-AL10,mob,huawei,华为,,,HUAWEI Mate X6,#
 ICL-AL20,mob,huawei,华为,,,HUAWEI Mate X6,#典藏版
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,#
@@ -2511,6 +2515,8 @@ PCE-AL40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#典藏版 �
 MRO-W00,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版
 MRO-W10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版 (16GB+1TB)
 MRO-AL10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#全网通版 (16GB+1TB)
+WEB-W00,pad,huawei,华为,,,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版
+WEB-W10,pad,huawei,华为,,,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版 (16GB+1TB)
 DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
 DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 全网通版
 BKY-W00,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,#12 英寸 Wi-Fi 版 (8GB+256GB)
@@ -2919,7 +2925,8 @@ MDS-AL00,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 MDS-AL10,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#非凡大师
 WDS-B19,watch,huawei,华为,,Woods,HUAWEI WATCH Ultimate,#非凡探索
-CLB-B39,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,#
+CLB-B19,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,#黄金款
+EDD-B39,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,#蓝宝石黄金款
 ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#雅致款
 FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,#时尚版/运动版
 DAN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,#42mm
@@ -5558,6 +5565,7 @@ RMX3371,mob,realme,realme,,,GT NEO 3T,#
 RMX3709,mob,realme,realme,,senna-C,GT 3,#240W
 RMX3851,mob,realme,realme,,,GT 6,#
 RMX3853,mob,realme,realme,,,GT 6T,#
+RMX5011,mob,realme,realme,,,GT 7 Pro,#
 RMX1805,mob,realme,realme,,,C1,#
 RMX1941,mob,realme,realme,,,C2,#
 RMX1942,mob,realme,realme,,,C2,#
@@ -5618,6 +5626,7 @@ RMX3910,mob,realme,realme,,,C65,#
 RMX3997,mob,realme,realme,,,C65,#5G
 RMX3890,mob,realme,realme,,,C67,#
 RMX3782,mob,realme,realme,,,C67,#5G
+RMX3941,mob,realme,realme,,,C75,#
 RMX3834,mob,realme,realme,,,Note 50,#
 RMX3933,mob,realme,realme,,,Note 60,#
 RMX1831,mob,realme,realme,,,U1,#
