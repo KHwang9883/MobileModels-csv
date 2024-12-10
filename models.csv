@@ -1249,6 +1249,7 @@ CP3NV1,mob,coolpad,酷派,,,酷派大观 3,#5G
 CPDAY3,mob,coolpad,酷派,,,酷派锋尚 50 Lite,#60 Lite
 CP2FM1,mob,coolpad,酷派,,,酷派 Y70 Lite,#5G
 CP23NV3,mob,coolpad,酷派,,,酷派金世纪 Y60,#5G
+CP2FM2,mob,coolpad,酷派,,,酷派 Y77,#5G
 G-2PW4100,mob,google,Google,,sailfish,Pixel,#North America
 G-2PW4200,mob,google,Google,,sailfish,Pixel,#Rest of the world
 G-2PW2100,mob,google,Google,,marlin,Pixel XL,#North America
@@ -2098,6 +2099,7 @@ RMO-NX1,mob,honor,HONOR,,Rambo,HONOR X9a 5G,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR X9b 5G,#
 ALI-NX3P,mob,honor,HONOR,,Ali,HONOR X9b 5G,#
 BRP-NX1,mob,honor,HONOR,,BruceP,HONOR X9c,#
+BRC-NX1,mob,honor,HONOR,,Bruce,HONOR X9c Smart,#
 HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,#
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#LTE
