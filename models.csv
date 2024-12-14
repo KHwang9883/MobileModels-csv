@@ -3073,6 +3073,7 @@ TAH-N29m,mob,huawei,HUAWEI,,Tahiti,HUAWEI Mate Xs,#Dual SIM
 PAL-LX9,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,#
 PAL-L29,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,#
 ALT-L29,mob,huawei,HUAWEI,,Alta,HUAWEI Mate X3,#
+ICL-LX9,mob,huawei,HUAWEI,,,HUAWEI Mate X6,#
 P6-U06,mob,huawei,HUAWEI,,,HUAWEI Ascend P6,#Single SIM
 P7-L10,mob,huawei,HUAWEI,,Sophia,HUAWEI Ascend P7,#
 P7-L11,mob,huawei,HUAWEI,,Sophia,HUAWEI Ascend P7,#
@@ -3227,6 +3228,8 @@ FOA-LX9,mob,huawei,HUAWEI,,Fiona,HUAWEI nova 12s,#
 CTR-L81,mob,huawei,HUAWEI,,Cartier,HUAWEI nova 12i,#
 BNE-LX1,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,#
 BNE-LX3,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,#
+BLK-LX9,mob,huawei,HUAWEI,,Blake,HUAWEI nova 13,#
+MIS-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 13 Pro,#
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,#
 EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
 EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
@@ -3247,7 +3250,7 @@ MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova
 MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,2#
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y70|HUAWEI nova Y70 Plus|HUAWEI nova Y71,2#
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y72,#
-GFY-LX1,mob,huawei,HUAWEI,,Goofy,HUAWEI nova Y73,#
+GFY-LX1,mob,huawei,HUAWEI,,Goofy,HUAWEI nova Y72S,#
 CTR-LX1,mob,huawei,HUAWEI,,Cartier,HUAWEI nova Y90,#
 CTR-LX2,mob,huawei,HUAWEI,,Cartier,HUAWEI nova Y90,#
 CTR-LX3,mob,huawei,HUAWEI,,Cartier,HUAWEI nova Y90,#
