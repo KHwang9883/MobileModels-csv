@@ -1681,6 +1681,7 @@ AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,#10.1 英寸 Wi-Fi 版
 AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,#10.1 英寸 全网通版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 X8,#10.1 英寸 Wi-Fi 版
 ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,#11.5 英寸 Wi-Fi 版
+ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 Z6,#11.5 英寸 Wi-Fi 版
 HEY-W09,pad,honor,荣耀,,Hendry,荣耀平板 8,#12 英寸 Wi-Fi 版
 BRT-W09,pad,honor,荣耀,,Britten,荣耀平板 V8,#11 英寸 Wi-Fi 版
 ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 V8 Pro,#12.1 英寸 Wi-Fi 版
@@ -4722,6 +4723,8 @@ CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版 / 原神
 PJF110,mob,oneplus,一加,,audi,OnePlus Ace 3V,#国行版
 PJX110,mob,oneplus,一加,,corvette,OnePlus Ace 3 Pro,#国行版
 PJZ110,mob,oneplus,一加,,dodge,OnePlus 13,#国行版
+PKG110,mob,oneplus,一加,,,OnePlus Ace 5,#国行版
+PKR110,mob,oneplus,一加,,,OnePlus Ace 5 Pro,#国行版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
@@ -4878,6 +4881,8 @@ CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America / G
 PJF110,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V,#China
 PJX110,mob,oneplus,OnePlus,,corvette,OnePlus Ace 3 Pro,#China
 PJZ110,mob,oneplus,OnePlus,,dodge,OnePlus 13,#China
+PKG110,mob,oneplus,OnePlus,,,OnePlus Ace 5,#China
+PKR110,mob,oneplus,OnePlus,,,OnePlus Ace 5 Pro,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
@@ -5090,6 +5095,7 @@ PKD120,mob,oppo,OPPO,,,OPPO A3m,#
 PKD130,mob,oppo,OPPO,,,OPPO A3x,#
 PKL110,mob,oppo,OPPO,,,OPPO A3i,#
 PJY110,mob,oppo,OPPO,,,OPPO A3 Pro,#
+PKP110,mob,oppo,OPPO,,,OPPO A5 Pro,#
 PBCM30,mob,oppo,OPPO,,,OPPO K1,#
 PCGM00,mob,oppo,OPPO,,,OPPO K3,#全网通版
 PCGT00,mob,oppo,OPPO,,,OPPO K3,#移动版
