@@ -1823,6 +1823,7 @@ FRI-H76,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#R7 (16GB+512GB)
 FRI-G56,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5 (16GB+512GB)
 FRI-G561,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5 (16GB+1TB)
 FRI-H56,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#R5 (16GB+512GB)
+FRG-X,computer,honor,荣耀,,,荣耀笔记本 X14 2025,#
 FMI-76,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2024,#R7 (16GB+512GB)
 FMI-721,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2024,#R7 (32GB+1TB)
 FRB-X,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2025,#
@@ -1839,8 +1840,11 @@ BRN-H76,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#R7 (16GB+512GB)
 BRN-G56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+512GB)
 BRN-G561,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+1TB)
 BRN-H56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#R5 (16GB+512GB)
+BRG-585,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i5 (8GB+512GB)
 BRG-565,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i5 (16GB+512GB)
 BRG-561,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i5 (16GB+1TB)
+BRG-765,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i7 (16GB+512GB)
+BRG-761,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i7 (16GB+1TB)
 BRI-76,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (16GB+512GB)
 BRI-721,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (32GB+1TB)
 BRB-X,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2025,#
@@ -3480,7 +3484,7 @@ TB520FU,pad,lenovo,联想,,lapis,YOGA Pad Pro AI 元启版,#
 SP101FU,pad,lenovo,联想,,,YOGA Paper 墨水平板,#
 Lenovo TB-9707F,pad,lenovo,联想,,p8,拯救者平板 Y700,#2022
 TB320FC,pad,lenovo,联想,,asphalt,拯救者平板 Y700 2023,#
-TB321FU,pad,lenovo,联想,,,拯救者平板 Y700 2025,#
+TB321FU,pad,lenovo,联想,,kirby,拯救者平板 Y700 2025,#
 TB570FU,pad,lenovo,联想,,inception,拯救者平板 Y900,#
 TB570ZU,pad,lenovo,联想,,inception,拯救者平板 Y900,#
 Lenovo TB-J616F,pad,lenovo,联想,,p11_plus,联想天骄平板电脑,#
