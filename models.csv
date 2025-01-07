@@ -6477,11 +6477,14 @@ SM-S156V,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#TracFone
 SM-A156W,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Canada
 SM-A156M,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Latin America
 SM-A1560,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#HK & TW
+SM-A165F,mob,samsung,Samsung,,a16,Galaxy A16,#Global
+SM-A165N,mob,samsung,Samsung,,a16,Galaxy A16,#South Korea
 SM-A166E,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Global (Exynos)
 SM-A166B,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#EU
 SM-A166U,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#US Carrier
 SM-A166U1,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#US Unlocked
 SM-S166V,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#TracFone
+SM-A166W,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Canada
 SM-A166M,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Latin America
 SM-A1660,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#HK & TW
 SM-A166P,mob,samsung,Samsung,,a16xm,Galaxy A16 5G,#Global (Mediatek)
@@ -6721,7 +6724,6 @@ SM-M136B,mob,samsung,Samsung,,a13x,Galaxy M13 5G,#
 SM-M145F,mob,samsung,Samsung,,a05s,Galaxy M14,#
 SM-M146B,mob,samsung,Samsung,,m14x,Galaxy M14 5G,#
 SM-M156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,#Global
-SM-E156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,#India
 SM-M205N,mob,samsung,Samsung,,m20,Galaxy M20,#South Korea
 SM-M205F,mob,samsung,Samsung,,m20lte,Galaxy M20,#Global
 SM-M205FN,mob,samsung,Samsung,,m20lte,Galaxy M20,#EU
