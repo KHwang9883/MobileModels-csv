@@ -4486,7 +4486,8 @@ XT2335-3,mob,motorola,Motorola,,penang,moto g53,#
 XT2323-3,mob,motorola,Motorola,,lynkco,moto razr 40,#
 XT2321-2,mob,motorola,Motorola,,zeekr,moto razr 40 Ultra,#
 XT2343-3,mob,motorola,Motorola,,cancunf,moto g54,#
-XT2363-4,mob,motorola,Motorola,,fogos,moto g34,#
+XT2363-4,mob,motorola,Motorola,,fogos,moto g34|moto g34s,#
+XT2363-4,mob,motorola,Motorola,,fogos,moto g34|moto g34s,1#
 XT2401-2,mob,motorola,Motorola,,ctwo,moto X50 Ultra,#
 XT2409-5,mob,motorola,Motorola,,vienna,moto S50,#
 XT2427-4,mob,motorola,Motorola,,malmo,moto S50 Neo,#
