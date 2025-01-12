@@ -8052,6 +8052,10 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#5G 日本版 (KDDI)
 24040RA98R,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,#5G 日本版
 2406ERN9CC,mob,xiaomi,小米,N19,breeze,Redmi Note 13R,#
 2311FRAFDC,mob,xiaomi,小米,N17A,gold,Redmi Note 13R Pro,#
+24117RN76G,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#国际版
+24117RN76E,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#国际版
+24117RN76L,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#拉美版
+24117RN76O,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#国际版 (NFC)
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国行版
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#印度版
 24094RAD4G,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国际版
@@ -8801,6 +8805,10 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#Japan (KDDI)
 24040RA98R,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,#Japan
 2406ERN9CC,mob,xiaomi,Xiaomi,N19,breeze,Redmi Note 13R,#China
 2311FRAFDC,mob,xiaomi,Xiaomi,N17A,gold,Redmi Note 13R Pro,#China
+24117RN76G,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Global
+24117RN76E,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Global
+24117RN76L,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Latin America
+24117RN76O,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Global (NFC)
 24094RAD4G,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#Global
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#India
 24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#China
