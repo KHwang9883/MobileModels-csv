@@ -8090,8 +8090,8 @@ M2001J11E,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,#变焦版
 M2006J10C,mob,xiaomi,小米,J10,cezanne,Redmi K30 至尊纪念版,#
 M2007J3SC,mob,xiaomi,小米,J3S,apollo,Redmi K30S 至尊纪念版,#
 M2012K11AC,mob,xiaomi,小米,K11A,alioth,Redmi K40,#
-M2012K11C,mob,xiaomi,小米,K11,haydn,Redmi K40 Pro|Redmi K40 Pro+,#
-M2012K11C,mob,xiaomi,小米,K11,haydn,Redmi K40 Pro|Redmi K40 Pro+,1#
+M2012K11C,mob,xiaomi,小米,K11,haydn,Redmi K40 Pro,#
+M2012K11C,mob,xiaomi,小米,K11,haydn,Redmi K40 Pro+,#
 M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,#
 22021211RC,mob,xiaomi,小米,L11R,munch,Redmi K40S,#
 22041211AC,mob,xiaomi,小米,L11A,rubens,Redmi K50,#
@@ -8813,12 +8813,12 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#Japan (KDDI)
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#India
 24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#China
 24116RACCG,mob,xiaomi,Xiaomi,O6,obsidian,Redmi Note 14 Pro,#Global
-24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro,#5G Global
-24090RA29I,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro,#5G India
-24090RA29C,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro,#5G China
-24115RA8EG,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+,#5G Global
-24115RA8EI,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+,#5G India
-24115RA8EC,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+,#5G China
+24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,#Global
+24090RA29I,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,#India
+24090RA29C,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,#China
+24115RA8EG,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,#Global
+24115RA8EI,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,#India
+24115RA8EC,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,#China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,#China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,#China
@@ -8843,8 +8843,8 @@ M2001J11E,mob,xiaomi,Xiaomi,J11,lmi,Redmi K30 Pro Zoom Edition,#China
 M2006J10C,mob,xiaomi,Xiaomi,J10,cezanne,Redmi K30 Ultra,#China
 M2007J3SC,mob,xiaomi,Xiaomi,J3S,apollo,Redmi K30S Ultra,#China
 M2012K11AC,mob,xiaomi,Xiaomi,K11A,alioth,Redmi K40,#China
-M2012K11C,mob,xiaomi,Xiaomi,K11,haydn,Redmi K40 Pro|Redmi K40 Pro+,#China
-M2012K11C,mob,xiaomi,Xiaomi,K11,haydn,Redmi K40 Pro|Redmi K40 Pro+,1#China
+M2012K11C,mob,xiaomi,Xiaomi,K11,haydn,Redmi K40 Pro,#China
+M2012K11C,mob,xiaomi,Xiaomi,K11,haydn,Redmi K40 Pro+,#China
 M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,#China
 22021211RC,mob,xiaomi,Xiaomi,L11R,munch,Redmi K40S,#China
 22041211AC,mob,xiaomi,Xiaomi,L11A,rubens,Redmi K50,#China
