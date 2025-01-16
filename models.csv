@@ -1464,8 +1464,8 @@ REP-AN00,mob,honor,荣耀,,RheaP,荣耀 90 Pro,#
 MAG-AN00,mob,honor,荣耀,,MiaGT,荣耀 90 GT,#
 MAA-AN00,mob,honor,荣耀,,Mia,荣耀 100,#
 MAA-AN10,mob,honor,荣耀,,MiaP,荣耀 100 Pro,#
-ELI-AN00,mob,honor,荣耀,,,荣耀 200,#
-ELP-AN00,mob,honor,荣耀,,,荣耀 200 Pro,#
+ELI-AN00,mob,honor,荣耀,,Ellie,荣耀 200,#
+ELP-AN00,mob,honor,荣耀,,EllieP,荣耀 200 Pro,#
 AMM-AN00,mob,honor,荣耀,,,荣耀 300,#
 AMP-AN00,mob,honor,荣耀,,,荣耀 300 Pro,#
 AMP-AN10,mob,honor,荣耀,,,荣耀 300 Ultra,#
@@ -2026,8 +2026,8 @@ CRT-NX1,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
 CRT-NX3,mob,honor,HONOR,,Cartier,HONOR 90 Lite,#
 CLK-NX1,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
 CLK-NX3,mob,honor,HONOR,,Clark,HONOR 90 Smart,#
-ELI-NX9,mob,honor,HONOR,,,HONOR 200,#
-ELP-NX9,mob,honor,HONOR,,,HONOR 200 Pro,#
+ELI-NX9,mob,honor,HONOR,,Ellie,HONOR 200,#
+ELP-NX9,mob,honor,HONOR,,EllieP,HONOR 200 Pro,#
 LLY-NX1,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 LLY-NX3,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 ALT-NX1,mob,honor,HONOR,,Alita,HONOR 200 Smart,#
@@ -2358,7 +2358,7 @@ ADA-AL00U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#
 ADA-AL10U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,#星耀版
 PSD-AL00,mob,huawei,华为,,Poseidon,HUAWEI nova Flip,#
 BLK-AL80,mob,huawei,华为,,Blake,HUAWEI nova 13,#
-MIS-AL00,mob,huawei,华为,,,HUAWEI nova 13 Pro,#
+MIS-AL00,mob,huawei,华为,,MillaS,HUAWEI nova 13 Pro,#
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,#移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,#联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,#电信版
@@ -2530,8 +2530,8 @@ PCE-AL40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#典藏版 �
 MRO-W00,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版
 MRO-W10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版 (16GB+1TB)
 MRO-AL10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#全网通版 (16GB+1TB)
-WEB-W00,pad,huawei,华为,,,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版
-WEB-W10,pad,huawei,华为,,,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版 (16GB+1TB)
+WEB-W00,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版
+WEB-W10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版 (16GB+1TB)
 DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
 DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 全网通版
 BKY-W00,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,#12 英寸 Wi-Fi 版 (8GB+256GB)
@@ -3239,7 +3239,7 @@ CTR-L81,mob,huawei,HUAWEI,,Cartier,HUAWEI nova 12i,#
 BNE-LX1,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,#
 BNE-LX3,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,#
 BLK-LX9,mob,huawei,HUAWEI,,Blake,HUAWEI nova 13,#
-MIS-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 13 Pro,#
+MIS-LX9,mob,huawei,HUAWEI,,MillaS,HUAWEI nova 13 Pro,#
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,#
 EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
 EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
@@ -3368,7 +3368,7 @@ DBR-W19,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,#PaperMatte Edition W
 TGR-W09,pad,huawei,HUAWEI,,Tagore,"HUAWEI MatePad 11.5"" S",#Wi-Fi
 DBY2-W09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,#Wi-Fi
 DBY2-L09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,#LTE
-BKY-W09,pad,huawei,HUAWEI,,,HUAWEI MatePad 12 X,#Wi-Fi
+BKY-W09,pad,huawei,HUAWEI,,Banksy,HUAWEI MatePad 12 X,#Wi-Fi
 MRX-W09,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 Wi-Fi
 MRX-W29,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 Wi-Fi
 MRX-AL09,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,#10.8 LTE
