@@ -4732,7 +4732,13 @@ CPH2611,mob,oneplus,一加,,aston,OnePlus Ace 3|OnePlus 12R,1#北美版 / 原神
 PJF110,mob,oneplus,一加,,audi,OnePlus Ace 3V,#国行版
 PJX110,mob,oneplus,一加,,corvette,OnePlus Ace 3 Pro,#国行版
 PJZ110,mob,oneplus,一加,,dodge,OnePlus 13,#国行版
-PKG110,mob,oneplus,一加,,giulia,OnePlus Ace 5,#国行版
+CPH2649,mob,oneplus,一加,,dodge,OnePlus 13,#印度版
+CPH2653,mob,oneplus,一加,,dodge,OnePlus 13,#欧洲版 / 国际版
+CPH2655,mob,oneplus,一加,,dodge,OnePlus 13,#北美版
+PKG110,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,#国行版
+CPH2645,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#欧洲版 / 国际版
+CPH2647,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#北美版
+CPH2691,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#印度版
 PKR110,mob,oneplus,一加,,hummer,OnePlus Ace 5 Pro,#国行版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版 / 国际版
@@ -4891,7 +4897,13 @@ CPH2611,mob,oneplus,OnePlus,,aston,OnePlus Ace 3|OnePlus 12R,1#North America / G
 PJF110,mob,oneplus,OnePlus,,audi,OnePlus Ace 3V,#China
 PJX110,mob,oneplus,OnePlus,,corvette,OnePlus Ace 3 Pro,#China
 PJZ110,mob,oneplus,OnePlus,,dodge,OnePlus 13,#China
-PKG110,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5,#China
+CPH2649,mob,oneplus,OnePlus,,dodge,OnePlus 13,#India
+CPH2653,mob,oneplus,OnePlus,,dodge,OnePlus 13,#Europe / Global
+CPH2655,mob,oneplus,OnePlus,,dodge,OnePlus 13,#North America
+PKG110,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,#China
+CPH2645,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#Europe / Global
+CPH2647,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#North America
+CPH2691,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#India
 PKR110,mob,oneplus,OnePlus,,hummer,OnePlus Ace 5 Pro,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#Europe / Global
@@ -5250,7 +5262,8 @@ CPH2637,mob,oppo,OPPO,,,OPPO Reno12 F|OPPO Reno12 FS,#5G
 CPH2637,mob,oppo,OPPO,,,OPPO Reno12 F|OPPO Reno12 FS,1#5G
 CPH2689,mob,oppo,OPPO,,,OPPO Reno13,#5G
 CPH2697,mob,oppo,OPPO,,,OPPO Reno13 Pro,#5G
-CPH2701,mob,oppo,OPPO,,,OPPO Reno13 F,#5G
+CPH2701,mob,oppo,OPPO,,,OPPO Reno13 F,#
+CPH2699,mob,oppo,OPPO,,,OPPO Reno13 F,#5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,#
 CPH1821,mob,oppo,OPPO,,,OPPO F7,#
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,#
@@ -5300,7 +5313,6 @@ CPH2641,mob,oppo,OPPO,,,OPPO A3x,#
 CPH2681,mob,oppo,OPPO,,,OPPO A3x,#5G
 CPH2639,mob,oppo,OPPO,,,OPPO A3 Pro,#5G
 CPH2665,mob,oppo,OPPO,,,OPPO A3 Pro,#5G
-CPH2667,mob,oppo,OPPO,,,OPPO A3 Pro,#5G
 CPH1809,mob,oppo,OPPO,,,OPPO A5,#
 CPH1909,mob,oppo,OPPO,,,OPPO A5s,#
 CPH1909RU,mob,oppo,OPPO,,,OPPO A5s,#
@@ -5310,6 +5322,8 @@ CPH1920,mob,oppo,OPPO,,,OPPO AX5s,#
 CPH1931,mob,oppo,OPPO,,,OPPO A5 2020,#
 CPH1933,mob,oppo,OPPO,,,OPPO A5 2020,#
 CPH1943,mob,oppo,OPPO,,,OPPO A5 2020,#
+CPH2711,mob,oppo,OPPO,,,OPPO A5 Pro,#
+CPH2695,mob,oppo,OPPO,,,OPPO A5 Pro,#5G
 CPH1901,mob,oppo,OPPO,,,OPPO A7,#
 CPH1905,mob,oppo,OPPO,,,OPPO A7,#
 CPH1903,mob,oppo,OPPO,,,OPPO AX7,#
@@ -5584,6 +5598,8 @@ RMX5000,mob,realme,realme,,,13+ 5G,#
 RMX3990,mob,realme,realme,,,13 Pro 5G,#
 RMX3921,mob,realme,realme,,,13 Pro+ 5G,#
 RMX3940,mob,realme,realme,,,14x 5G,#
+RMX5056,mob,realme,realme,,,14 Pro 5G,#
+RMX5051,mob,realme,realme,,,14 Pro+ 5G,#
 RMX1901,mob,realme,realme,,,X,#
 RMX1921,mob,realme,realme,,,XT,#Global
 RMX1922,mob,realme,realme,,,XT,#India
@@ -5672,11 +5688,13 @@ RMX3939,mob,realme,realme,,,C63,#
 RMX3950,mob,realme,realme,,,C63,#5G
 RMX3910,mob,realme,realme,,,C65,#
 RMX3997,mob,realme,realme,,,C65,#5G
+RMX3939,mob,realme,realme,,,C65s,#
 RMX3890,mob,realme,realme,,,C67,#
 RMX3782,mob,realme,realme,,,C67,#5G
 RMX3941,mob,realme,realme,,,C75,#
 RMX3834,mob,realme,realme,,,Note 50,#
 RMX3933,mob,realme,realme,,,Note 60,#
+RMX3938,mob,realme,realme,,,Note 60x,#
 RMX1831,mob,realme,realme,,,U1,#
 RMX1833,mob,realme,realme,,,U1,#
 RMX3870,mob,realme,realme,,,P1,#5G
@@ -5726,6 +5744,7 @@ RMP2107,pad,realme,realme,,,Pad X,#5G
 RMP2108,pad,realme,realme,,,Pad X,#Wi-Fi
 RMP2204,pad,realme,realme,,,Pad 2,#LTE
 RMP2205,pad,realme,realme,,,Pad 2,#Wi-Fi
+RMP2402,pad,realme,realme,,,Pad 2 Lite,#
 GT-I9000,mob,samsung,三星,,,Galaxy S,#公开版
 GT-I9008,mob,samsung,三星,,,Galaxy S,#移动定制版
 GT-I9008L,mob,samsung,三星,,,Galaxy S,#移动定制版
