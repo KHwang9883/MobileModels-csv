@@ -2877,9 +2877,16 @@ HDB5256H,tv,huawei,华为,,,华为智慧屏 S5,#55
 HDB5266H,tv,huawei,华为,,,华为智慧屏 S5,#65
 HDB5276H,tv,huawei,华为,,,华为智慧屏 S5,#75
 HDB5286H,tv,huawei,华为,,,华为智慧屏 S5,#85
+HDB525G6,tv,huawei,华为,,,华为智慧屏 S5 New,#55
+HDB526G6,tv,huawei,华为,,,华为智慧屏 S5 New,#65
+HDB527G6,tv,huawei,华为,,,华为智慧屏 S5 New,#75
+HD85KUNM,tv,huawei,华为,,,华为智慧屏 S5 New,#85
 HD65AJMN,tv,huawei,华为,,,华为智慧屏 S5 Pro,#65
 HD75AJMN,tv,huawei,华为,,,华为智慧屏 S5 Pro,#75
 HD86AJMN,tv,huawei,华为,,,华为智慧屏 S5 Pro,#86
+HD65WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,#65
+HD75WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,#75
+HD86WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,#86
 HD55DESA,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 (2GB+16GB)
 HD55DESZ,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 畅连通话版 1080P (2GB+16GB)
 HD55DESY,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 畅连通话版 1080P 金属底座 (2GB+16GB)
@@ -2909,6 +2916,9 @@ HD75KUNA,tv,huawei,华为,,,华为 Vision 智慧屏 SE3,#75
 HD6XQINA,tv,huawei,华为,,,华为 Vision 智慧屏 4,#65
 HD7XQINA,tv,huawei,华为,,,华为 Vision 智慧屏 4,#75
 HD8XQINA,tv,huawei,华为,,,华为 Vision 智慧屏 4,#86
+HD65ARIN,tv,huawei,华为,,,华为 Vision 智慧屏 4 New,#65
+HD75ARIN,tv,huawei,华为,,,华为 Vision 智慧屏 4 New,#75
+HD86ARIN,tv,huawei,华为,,,华为 Vision 智慧屏 4 New,#86
 HD55KUNL,tv,huawei,华为,,,华为 Vision 智慧屏 4 SE,#55
 HD65KUNL,tv,huawei,华为,,,华为 Vision 智慧屏 4 SE,#65
 HD75KUNL,tv,huawei,华为,,,华为 Vision 智慧屏 4 SE,#75
