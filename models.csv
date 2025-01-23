@@ -7065,6 +7065,8 @@ V2361GA,mob,vivo,vivo,,PD2361,Y200 GT,#5G
 V2353DA,mob,vivo,vivo,,PD2353,Y200t,#5G
 V2435A,mob,vivo,vivo,,PD2435,Y300,#5G
 V2410A,mob,vivo,vivo,,PD2410,Y300 Pro,#5G
+V2444A,mob,vivo,vivo,,PD2444,Y300i,#
+V2445EA,mob,vivo,vivo,,PD2445D,Y300t,#
 V2115A,mob,vivo,vivo,,PD2115,T1,#
 V2123A,mob,vivo,vivo,,PD2123,T1x,#
 V2188A,mob,vivo,vivo,,PD2188,T2x,#
@@ -7158,6 +7160,7 @@ V2352A,mob,vivo,vivo,,PD2352,iQOO Z9 Turbo,#
 V2352GA,mob,vivo,vivo,,PD2352G,iQOO Z9 Turbo 长续航版,#
 V2417A,mob,vivo,vivo,,PD2417,iQOO Z9 Turbo+,#
 V2353A,mob,vivo,vivo,,PD2353,iQOO Z9x,#
+V2445A,mob,vivo,vivo,,PD2445,iQOO Z10x,#
 V2023A,mob,vivo,vivo,,PD2023,iQOO U1,#
 V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,#
 V2061A,mob,vivo,vivo,,PD2061,iQOO U3,#5G
