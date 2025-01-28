@@ -5825,6 +5825,10 @@ SM-S7110,mob,samsung,三星,,r11q,Galaxy S23 FE,#
 SM-S9210,mob,samsung,三星,,e1q,Galaxy S24,#
 SM-S9260,mob,samsung,三星,,e2q,Galaxy S24+,#
 SM-S9280,mob,samsung,三星,,e3q,Galaxy S24 Ultra,#
+SM-S9310,mob,samsung,三星,,pa1q,Galaxy S25,#
+SM-S9360,mob,samsung,三星,,pa2q,Galaxy S25+,#
+SM-S9370,mob,samsung,三星,,,Galaxy S25 Edge,#
+SM-S9380,mob,samsung,三星,,pa3q,Galaxy S25 Ultra,#
 GT-I9220,mob,samsung,三星,,,Galaxy Note,#公开版
 GT-I9228,mob,samsung,三星,,,Galaxy Note,#移动定制版
 SCH-I889,mob,samsung,三星,,,Galaxy Note,#电信定制版
@@ -6249,6 +6253,32 @@ SM-S721W,mob,samsung,Samsung,,r12s,Galaxy S24 FE,#Canada
 SM-S7210,mob,samsung,Samsung,,r12s,Galaxy S24 FE,#HK & TW
 SCG30,mob,samsung,Samsung,,r12s,Galaxy S24 FE,#Japan (au)
 SM-S721N,mob,samsung,Samsung,,r12s,Galaxy S24 FE,#South Korea
+SM-S931B,mob,samsung,Samsung,,pa1q,Galaxy S25,#Global
+SM-S931U,mob,samsung,Samsung,,pa1q,Galaxy S25,#US Carrier
+SM-S931U1,mob,samsung,Samsung,,pa1q,Galaxy S25,#US Unlocked
+SM-S931W,mob,samsung,Samsung,,pa1q,Galaxy S25,#Canada
+SM-S9310,mob,samsung,Samsung,,pa1q,Galaxy S25,#China
+SM-S931N,mob,samsung,Samsung,,pa1q,Galaxy S25,#South Korea
+SM-S931Q,mob,samsung,Samsung,,pa1q,Galaxy S25,#Japan (SIM Free)
+SM-S931Z,mob,samsung,Samsung,,pa1q,Galaxy S25,#Japan (SoftBank)
+SCG31,mob,samsung,Samsung,,pa1q,Galaxy S25,#Japan (au)
+SC-51F,mob,samsung,Samsung,,pa1q,Galaxy S25,#Japan (NTT Docomo)
+SM-S936B,mob,samsung,Samsung,,pa2q,Galaxy S25+,#Global
+SM-S936U,mob,samsung,Samsung,,pa2q,Galaxy S25+,#US Carrier
+SM-S936U1,mob,samsung,Samsung,,pa2q,Galaxy S25+,#US Unlocked
+SM-S936W,mob,samsung,Samsung,,pa2q,Galaxy S25+,#Canada
+SM-S9360,mob,samsung,Samsung,,pa2q,Galaxy S25+,#China
+SM-S936N,mob,samsung,Samsung,,pa2q,Galaxy S25+,#South Korea
+SM-S938B,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#Global
+SM-S938U,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#US Carrier
+SM-S938U1,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#US Unlocked
+SM-S938W,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#Canada
+SM-S9380,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#China
+SM-S938N,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#South Korea
+SM-S938Q,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#Japan (SIM Free)
+SM-S938Z,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#Japan (SoftBank)
+SCG32,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#Japan (au)
+SC-52F,mob,samsung,Samsung,,pa3q,Galaxy S25 Ultra,#Japan (NTT Docomo)
 SM-N960F,mob,samsung,Samsung,,crownlte,Galaxy Note9,#Global
 SM-N960U,mob,samsung,Samsung,,crownqltesq,Galaxy Note9,#US Carrier
 SM-N960U1,mob,samsung,Samsung,,crownqlteue,Galaxy Note9,#US Unlocked
@@ -6757,7 +6787,7 @@ SM-M135M,mob,samsung,Samsung,,m13,Galaxy M13,#Latin America
 SM-M136B,mob,samsung,Samsung,,a13x,Galaxy M13 5G,#
 SM-M145F,mob,samsung,Samsung,,a05s,Galaxy M14,#
 SM-M146B,mob,samsung,Samsung,,m14x,Galaxy M14 5G,#
-SM-M156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,#Global
+SM-M156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,#
 SM-M205N,mob,samsung,Samsung,,m20,Galaxy M20,#South Korea
 SM-M205F,mob,samsung,Samsung,,m20lte,Galaxy M20,#Global
 SM-M205FN,mob,samsung,Samsung,,m20lte,Galaxy M20,#EU
