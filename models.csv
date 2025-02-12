@@ -2072,8 +2072,8 @@ WDY-LX3,mob,honor,HONOR,,Woody,HONOR X6a,#
 WDY-LX3,mob,honor,HONOR,,Woody,HONOR X6a,#Plus
 JDY-LX1,mob,honor,HONOR,,Judy,HONOR X6b,#
 JDY-LX2,mob,honor,HONOR,,Judy,HONOR X6b,#
-JDY-LX3,mob,honor,HONOR,,Judy,HONOR X6b,#
-JDY-LX3P,mob,honor,HONOR,,Judy,HONOR X6b,#Plus
+JDY-LX3P,mob,honor,HONOR,,Judy,HONOR X6b,#
+JDY-LX3,mob,honor,HONOR,,Judy,HONOR X6b,#Plus
 ALT-NX3,mob,honor,HONOR,,Alita,HONOR X6b 5G,#
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,#
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,#
@@ -4104,16 +4104,16 @@ L65M5-ES,tv,mitv,小米,,,小米全面屏电视 Pro,#E65S
 L75M5-ES,tv,mitv,小米,,,小米全面屏电视 Pro,#E75S
 L55M5-AB,tv,mitv,小米,,,小米全面屏电视 Pro,小米电视 55 英寸 全面屏 PRO
 L65M5-4,tv,mitv,小米,,,小米全面屏电视 Pro,小米电视 65 英寸 全面屏 PRO
-L32M7-EA,tv,mitv,小米,,,小米电视 EA,#32 2022 款
-L40M7-EA,tv,mitv,小米,,,小米电视 EA,#40 2022 款
-L43M7-EA,tv,mitv,小米,,,小米电视 EA,#43 2022 款
-L50M7-EA,tv,mitv,小米,,,小米电视 EA,#50 2022 款
-L55M7-EA,tv,mitv,小米,,,小米电视 EA,#55 2022 款
-L58M7-EA,tv,mitv,小米,,,小米电视 EA,#58 2022 款
-L60M7-EA,tv,mitv,小米,,,小米电视 EA,#60 2022 款
-L65M7-EA,tv,mitv,小米,,,小米电视 EA,#65 2022 款
-L70M7-EA,tv,mitv,小米,,,小米电视 EA,#70 2022 款
-L75M7-EA,tv,mitv,小米,,,小米电视 EA,#75 2022 款
+L32M7-EA,tv,mitv,小米,,,小米电视 EA,#32 2022
+L40M7-EA,tv,mitv,小米,,,小米电视 EA,#40 2022
+L43M7-EA,tv,mitv,小米,,,小米电视 EA,#43 2022
+L50M7-EA,tv,mitv,小米,,,小米电视 EA,#50 2022
+L55M7-EA,tv,mitv,小米,,,小米电视 EA,#55 2022
+L58M7-EA,tv,mitv,小米,,,小米电视 EA,#58 2022
+L60M7-EA,tv,mitv,小米,,,小米电视 EA,#60 2022
+L65M7-EA,tv,mitv,小米,,,小米电视 EA,#65 2022
+L70M7-EA,tv,mitv,小米,,,小米电视 EA,#70 2022
+L75M7-EA,tv,mitv,小米,,,小米电视 EA,#75 2022
 L32MA-E,tv,mitv,小米,,,小米电视 EA,#32 (2023)
 L43MA-E,tv,mitv,小米,,,小米电视 EA,#43 (2023)
 L50MA-EA,tv,mitv,小米,,,小米电视 EA,#50 (2023)
@@ -4128,12 +4128,12 @@ L65MA-EP,tv,mitv,小米,,,小米电视 EA Pro,#65 高刷版
 L75M9-EP,tv,mitv,小米,,,小米电视 EA Pro,#75
 L75MA-EP,tv,mitv,小米,,,小米电视 EA Pro,#75 高刷版
 L86M9-EP,tv,mitv,小米,,,小米电视 EA Pro,#86
-L43M7-ES,tv,mitv,小米,,,小米电视 ES,#43 2022 款
-L50M7-ES,tv,mitv,小米,,,小米电视 ES,#50 2022 款
-L55M7-ES,tv,mitv,小米,,,小米电视 ES,#55 2022 款
-L65M7-ES,tv,mitv,小米,,,小米电视 ES,#65 2022 款
-L70M7-ES,tv,mitv,小米,,,小米电视 ES,#70 2022 款
-L75M7-ES,tv,mitv,小米,,,小米电视 ES,#75 2022 款
+L43M7-ES,tv,mitv,小米,,,小米电视 ES,#43 2022
+L50M7-ES,tv,mitv,小米,,,小米电视 ES,#50 2022
+L55M7-ES,tv,mitv,小米,,,小米电视 ES,#55 2022
+L65M7-ES,tv,mitv,小米,,,小米电视 ES,#65 2022
+L70M7-ES,tv,mitv,小米,,,小米电视 ES,#70 2022
+L75M7-ES,tv,mitv,小米,,,小米电视 ES,#75 2022
 L55M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#55
 L65M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#65
 L75M9-SP,tv,mitv,小米,,,小米电视 ES Pro,#75
@@ -4166,10 +4166,10 @@ L65MA-SM,tv,mitv,小米,,,小米电视 S Pro,#65 Mini LED
 L75MA-SM,tv,mitv,小米,,,小米电视 S Pro,#75 Mini LED
 L85MA-SM,tv,mitv,小米,,,小米电视 S Pro,#85 Mini LED
 L100MA-SP,tv,mitv,小米,,,小米电视 S Pro,#100
-L65MB-SP,tv,mitv,小米,,,小米电视 S Pro 2025 款,#65 Mini LED 2025 款
-L75MB-SP,tv,mitv,小米,,,小米电视 S Pro 2025 款,#75 Mini LED 2025 款
-L85MB-SP,tv,mitv,小米,,,小米电视 S Pro 2025 款,#85 Mini LED 2025 款
-L100MB-SP,tv,mitv,小米,,,小米电视 S Pro 2025 款,#100 Mini LED 2025 款
+L65MB-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2025,#65 Mini LED 2025
+L75MB-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2025,#75 Mini LED 2025
+L85MB-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2025,#85 Mini LED 2025
+L100MB-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2025,#100 Mini LED 2025
 L65M5-BH,tv,mitv,小米,,,小米壁画电视,#65 英寸
 L75M5-BH,tv,mitv,小米,,,小米壁画电视,#75 英寸
 L55M6-TM,tv,mitv,小米,,,小米透明电视,#55 英寸
@@ -4187,65 +4187,70 @@ L43R6-A,tv,mitv,小米,,,Redmi 智能电视 A,#43 (2020)
 L50R6-A,tv,mitv,小米,,,Redmi 智能电视 A,#50 (2020)
 L55R6-A,tv,mitv,小米,,,Redmi 智能电视 A,#55 (2020)
 L65R6-A,tv,mitv,小米,,,Redmi 智能电视 A,#65 (2020)
-L32R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#32 2022 款
-L43R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#43 2022 款
-L50R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#50 2022 款
-L55R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#55 2022 款
-L58R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#58 2022 款
-L65R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#65 2022 款
-L70R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#70 2022 款
-L75R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022 款,#75 2022 款
-L32RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#32 2024 款
-L43RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#43 2024 款
-L50RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#50 2024 款
-L55RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#55 2024 款
-L65RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#65 2024 款
-L70RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#70 2024 款
-L75MA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024 款,#75 2024 款
-L32RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#32 2025 款
-L43RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#43 2025 款
-L50RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#50 2025 款
-L55RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#55 2025 款
-L65RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#65 2025 款
-L70RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#70 2025 款
-L75MA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025 款,#75 2025 款
+L32R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022,#32 2022
+L43R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022,#43 2022
+L50R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022,#50 2022
+L55R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022,#55 2022
+L58R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022,#58 2022
+L65R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022,#65 2022
+L70R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022,#70 2022
+L75R8-A,tv,mitv,小米,,,Redmi 智能电视 A 2022,#75 2022
+L32RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024,#32 2024
+L43RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024,#43 2024
+L50RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024,#50 2024
+L55RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024,#55 2024
+L65RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024,#65 2024
+L70RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024,#70 2024
+L75MA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2024,#75 2024
+L32RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#32 2025
+L43RA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#43 2025
+L50RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#50 2025
+L55RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#55 2025
+L65RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#65 2025
+L70RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#70 2025
+L75MA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#75 2025
 L43RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#43
 L50RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#50 节能版
 L55RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#55 节能版
 L65RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#65 节能版
 L70RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#70 节能版
 L75RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#75 节能版
+L43RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#43 2025 节能版
+L50RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#50 2025 节能版
+L55RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#55 2025 节能版
+L65RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#65 2025 节能版
+L75RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#75 2025 节能版
 L50M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#50 (2020)
 L55M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#55 (2020)
 L65M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#65 (2020)
-L50R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#50 2022 款
-L55R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#55 2022 款
-L65R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#65 2022 款
-L75R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#75 2022 款
-L85RA-RX,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#85
-L86R9-X,tv,mitv,小米,,,Redmi 智能电视 X 2022 款,#86
+L50R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022,#50 2022
+L55R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022,#55 2022
+L65R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022,#65 2022
+L75R8-X,tv,mitv,小米,,,Redmi 智能电视 X 2022,#75 2022
+L85RA-RX,tv,mitv,小米,,,Redmi 智能电视 X 2022,#85
+L86R9-X,tv,mitv,小米,,,Redmi 智能电视 X 2022,#86
 L55RA-XT,tv,mitv,小米,,,Redmi 智能电视 XT,#55T
 L65RA-XT,tv,mitv,小米,,,Redmi 智能电视 XT,#65T
 L75RA-XT,tv,mitv,小米,,,Redmi 智能电视 XT,#75T
 L55R9-XT,tv,mitv,小米,,,Redmi AI 智能电视 X,#55
 L65R9-XT,tv,mitv,小米,,,Redmi AI 智能电视 X,#65
 L75R9-XT,tv,mitv,小米,,,Redmi AI 智能电视 X,#75
-L55MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#55 2024 款
-L65MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#65 2024 款
-L75MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024 款,#75 2024 款
-L55RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025 款,#55 2025 款
-L65RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025 款,#65 2025 款
-L75RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025 款,#75 2025 款
-L85RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025 款,#85 2025 款
+L55MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024,#55 2024
+L65MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024,#65 2024
+L75MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024,#75 2024
+L55RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,#55 2025
+L65RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,#65 2025
+L75RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,#75 2025
+L85RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,#85 2025
 L65R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#65
 L75R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#75
 L85RA-RX,tv,mitv,小米,,,Redmi 智能电视 MAX,#85 英寸
-L85RB-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#85 2025 款
+L85RB-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#85 2025
 L86R6-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#86 英寸
 L90R9-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#90 英寸
 L98M6-RK,tv,mitv,小米,,,Redmi 智能电视 MAX,#98 英寸
 L100R8-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#100 英寸
-L100RA-MAX,tv,mitv,小米,N36,,Redmi 智能电视 MAX 100,#2025 款
+L100RA-MAX,tv,mitv,小米,N36,,Redmi 智能电视 MAX 100,#2025
 MDZ-18-DA,tv_hub,mitv,小米,,,小米电视主机,#
 MDZ-19-DA,tv_hub,mitv,小米,,,小米电视主机,小米家庭影院
 MDZ-05-AA,tv_hub,mitv,小米,,,小米盒子,#
