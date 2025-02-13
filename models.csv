@@ -5133,12 +5133,14 @@ PJU110,mob,oppo,OPPO,,,OPPO A1i|OPPO A2m,#
 PJU110,mob,oppo,OPPO,,,OPPO A1i|OPPO A2m,1#
 PJS110,mob,oppo,OPPO,,,OPPO A2x,#
 PJG110,mob,oppo,OPPO,,givenchy,OPPO A2 Pro,#
-PKA110,mob,oppo,OPPO,,,OPPO A3,#5G (2024)
+PKA110,mob,oppo,OPPO,,,OPPO A3|OPPO A3i Plus,#5G (2024)
+PKA110,mob,oppo,OPPO,,,OPPO A3|OPPO A3i Plus,1#
 PKD110,mob,oppo,OPPO,,,OPPO A3 活力版,#
 PKD120,mob,oppo,OPPO,,,OPPO A3m,#
 PKD130,mob,oppo,OPPO,,,OPPO A3x,#
 PKL110,mob,oppo,OPPO,,,OPPO A3i,#
 PJY110,mob,oppo,OPPO,,,OPPO A3 Pro,#
+PKQ110,mob,oppo,OPPO,,,OPPO A5,#5G (2025)
 PKP110,mob,oppo,OPPO,,alpha,OPPO A5 Pro,#
 PBCM30,mob,oppo,OPPO,,,OPPO K1,#
 PCGM00,mob,oppo,OPPO,,,OPPO K3,#全网通版
@@ -7520,8 +7522,8 @@ M2346B1,band,xiaomi,小米,N66,,小米手环 9,#NFC 版 / 陶瓷特别版
 M2401B1,band,xiaomi,小米,N67,,小米手环 9 Pro,#
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,#
 M2320W1,watch,xiaomi,小米,,axolotlaxie,Xiaomi Watch 2,#
-M2234W1,watch,xiaomi,小米,,axolotl,Xiaomi Watch 2 Pro,#蓝牙版
-M2233W1,watch,xiaomi,小米,,axolotlte,Xiaomi Watch 2 Pro,#LTE
+M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,#蓝牙版
+M2233W1,watch,xiaomi,小米,M61,axolotlte,Xiaomi Watch 2 Pro,#LTE
 REDMIWT02,watch,xiaomi,小米,,,Mi Watch Lite,#国际版
 XMWT06,watch,xiaomi,小米,,,小米手表 Color,#
 XMWTCL01,watch,xiaomi,小米,,,小米手表 Color,#运动版 国行版
@@ -7539,7 +7541,7 @@ M2311W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,#eSIM 版 国行版
 M2323W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,#蓝牙版 国际版
 M2425W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,#蓝牙版
 M2424W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,#eSIM 版
-M2312W1,watch,xiaomi,小米,,,Xiaomi Watch S4 Sport,#eSIM 版
+M2312W1,watch,xiaomi,小米,N62S,,Xiaomi Watch S4 Sport,#eSIM 版
 M2230W1,watch,xiaomi,小米,,,小米腕部心电血压记录仪,#Xiaomi Watch H1
 M2412W1,watch,xiaomi,小米,,,小米腕部血压记录仪,#Xiaomi Watch H1 E
 HMSH01GE,band,xiaomi,小米,,,Redmi 手环,#
@@ -7549,9 +7551,9 @@ M2434B1,band,xiaomi,小米,N69,,Redmi 手环 3,#
 REDMIWT01,watch,xiaomi,小米,,,Redmi Watch,#
 M2102W1,watch,xiaomi,小米,,,Redmi Watch 2,#
 M2109W1,watch,xiaomi,小米,,,Redmi Watch 2 Lite,#国际版
-M2215W1,watch,xiaomi,小米,,,Redmi Watch 3,#国行版
-M2216W1,watch,xiaomi,小米,,,Redmi Watch 3,#国际版
-M2309W1,watch,xiaomi,小米,,,Redmi Watch 3 青春版,#
+M2215W1,watch,xiaomi,小米,M65,,Redmi Watch 3,#国行版
+M2216W1,watch,xiaomi,小米,M65,,Redmi Watch 3,#国际版
+M2309W1,watch,xiaomi,小米,M65A,,Redmi Watch 3 青春版,#
 M2247W1,watch,xiaomi,小米,,,Redmi Watch 3 Lite,#国际版
 M2235W1,watch,xiaomi,小米,M65A,,Redmi Watch 3 Active,#国际版
 M2314W1,watch,xiaomi,小米,N65,,Redmi Watch 4,#国行版
@@ -7560,34 +7562,40 @@ M2427W1,watch,xiaomi,小米,O65,,REDMI Watch 5,#蓝牙版
 M2428W1,watch,xiaomi,小米,O65,,REDMI Watch 5,#eSIM 版
 M2351W1,watch,xiaomi,小米,,,Redmi Watch 5 Active,#印度版
 M2131W1,watch,xiaomi,小米,,,POCO Watch,#
-M2111E1,watch,xiaomi,小米,,,Xiaomi 真无线降噪耳机 3,#
-M2103E1,watch,xiaomi,小米,,,Xiaomi 真无线降噪耳机 3 Pro,#
-M2115E1,watch,xiaomi,小米,,,Xiaomi Buds 3T Pro,#国际版
+M2111E1,watch,xiaomi,小米,K75,,Xiaomi 真无线降噪耳机 3,#
+M2103E1,watch,xiaomi,小米,K73,,Xiaomi 真无线降噪耳机 3 Pro,#
+M2115E1,watch,xiaomi,小米,K73A,,Xiaomi Buds 3T Pro,#国际版
 M2301E1,watch,xiaomi,小米,,,Xiaomi Air3 SE,#
-M2224E1,watch,xiaomi,小米,,,Xiaomi Buds 4,#
+M2224E1,watch,xiaomi,小米,M75A,,Xiaomi Buds 4,#
 M2126E1,watch,xiaomi,小米,L71,,Xiaomi Buds 4 Pro,#
-M2319E1,watch,xiaomi,小米,,,Xiaomi 开放式耳机,#
-M2419E1,watch,xiaomi,小米,,,小米 Air4 SE,#
-M2341E1,watch,xiaomi,小米,,,Xiaomi Buds 5,#
+M2319E1,watch,xiaomi,小米,N74A,,Xiaomi 开放式耳机,#
+M2419E1,watch,xiaomi,小米,N79,,小米 Air4 SE,#
+M2341E1,watch,xiaomi,小米,N75,,Xiaomi Buds 5,#
+TWSEJ01ZM,watch,xiaomi,小米,K76,,Redmi AirDots 3 Pro,#
 M2104E1,watch,xiaomi,小米,,,Redmi Buds 3,#
-M2110E1,watch,xiaomi,小米,,,Redmi Buds 3 青春版,#
-M2133E1,watch,xiaomi,小米,,,Redmi Buds 3 Lite,#国际版
+M2110E1,watch,xiaomi,小米,K79,,Redmi Buds 3 青春版,#
+M2133E1,watch,xiaomi,小米,K79,,Redmi Buds 3 Lite,#国际版
 M2137E1,watch,xiaomi,小米,L77,,Redmi Buds 4,#
 M2132E1,watch,xiaomi,小米,L76,,Redmi Buds 4 Pro,#
-M2231E1,watch,xiaomi,小米,,,Redmi Buds 4 青春版,#
-M2310E1,watch,xiaomi,小米,,,Redmi Buds 4 活力版,#
-M2232E1,watch,xiaomi,小米,,,Redmi Buds 4 Active,#国际版
+M2310E1,watch,xiaomi,小米,M79A,,Redmi Buds 4 活力版,#
+M2232E1,watch,xiaomi,小米,M79A,,Redmi Buds 4 Active,#国际版
+M2231E1,watch,xiaomi,小米,M79B,,Redmi Buds 4 青春版,#
+M2236E1,watch,xiaomi,小米,M79B,,Redmi Buds 4 Lite,#国际版
 M2222E1,watch,xiaomi,小米,,,Redmi Buds Essential,#国际版
 M2316E1,watch,xiaomi,小米,N77,,Redmi Buds 5,#
 M2317E1,watch,xiaomi,小米,N76,,Redmi Buds 5 Pro,#
-M2318E1,watch,xiaomi,小米,N76,,Redmi Buds 5 Pro,#电竞版
+M2318E1,watch,xiaomi,小米,N76G,,Redmi Buds 5 Pro 电竞版,#
 M2429E1,watch,xiaomi,小米,O77,,Redmi Buds 6,#
-M2403E1,watch,xiaomi,小米,,,Redmi Buds 6S,#
+M2403E1,watch,xiaomi,小米,N79S,,Redmi Buds 6S,#
 M2430E1,watch,xiaomi,小米,O76,,REDMI Buds 6 Pro,#
-M2431E1,watch,xiaomi,小米,O76,,REDMI Buds 6 Pro,#电竞版
+M2431E1,watch,xiaomi,小米,O76G,,REDMI Buds 6 Pro 电竞版,#
 M2344E1,watch,xiaomi,小米,N79,,Redmi Buds 6 活力版,#
 M2349E1,watch,xiaomi,小米,N79A,,Redmi Buds 6 青春版,#
-M2411E1,watch,xiaomi,小米,,,REDMI Buds SE,#
+M2420E1,watch,xiaomi,小米,N79B,,Redmi Buds 6 Play,#国际版
+M2411E1,watch,xiaomi,小米,N79B,,REDMI Buds SE,#
+TWSEJ01ZM,watch,xiaomi,小米,K76,,POCO Buds Pro Genshin Impact Edition,#国际版
+M2237E1,pod,xiaomi,小米,,,POCO Pods,#印度版
+M2350E1,pod,xiaomi,小米,,,POCO Buds X1,#印度版
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,#联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,#电信版
 MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,#青春版
@@ -8168,7 +8176,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#5G 日本版 (KDDI)
 2406ERN9CC,mob,xiaomi,小米,N19,breeze,Redmi Note 13R,#
 2311FRAFDC,mob,xiaomi,小米,N17A,gold,Redmi Note 13R Pro,#
 24117RN76G,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#国际版
-24117RN76E,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#国际版
+24117RN76E,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#欧洲版
 24117RN76L,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#拉美版
 24117RN76O,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,#国际版 (NFC)
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国行版
@@ -8921,7 +8929,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#Japan (KDDI)
 2406ERN9CC,mob,xiaomi,Xiaomi,N19,breeze,Redmi Note 13R,#China
 2311FRAFDC,mob,xiaomi,Xiaomi,N17A,gold,Redmi Note 13R Pro,#China
 24117RN76G,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Global
-24117RN76E,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Global
+24117RN76E,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Europe
 24117RN76L,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Latin America
 24117RN76O,mob,xiaomi,Xiaomi,O7,tanzanite,Redmi Note 14,#Global (NFC)
 24094RAD4G,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#Global
