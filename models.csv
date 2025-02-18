@@ -5014,6 +5014,8 @@ PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
 PHN110,mob,oppo,OPPO,,xueying,OPPO Find N3,#
 PHN110,mob,oppo,OPPO,,xueying,OPPO Find N3,#典藏版
 PHT110,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,#
+PKH110,mob,oppo,OPPO,,,OPPO Find N5,#
+PKH120,mob,oppo,OPPO,,,OPPO Find N5,#卫星通信版
 PCAM00,mob,oppo,OPPO,,,OPPO Reno,#全网通版
 PCAT00,mob,oppo,OPPO,,,OPPO Reno,#移动版
 PCCM00,mob,oppo,OPPO,,,OPPO Reno 10 倍变焦版,#全网通版
@@ -5200,8 +5202,8 @@ OWW211,watch,oppo,OPPO,,,OPPO Watch 3,#Pro
 OWW213,watch,oppo,OPPO,,,OPPO Watch 3,#SE
 OWW221,watch,oppo,OPPO,,comet,OPPO Watch 4 Pro,#
 OWW231,watch,oppo,OPPO,,star,OPPO Watch X,#
+OWW251,watch,oppo,OPPO,,xinghe,OPPO Watch X2,#
 OWW242,watch,oppo,OPPO,,xingchen,OPPO Watch,#
-OWW251,watch,oppo,OPPO,,xinghe,OPPO Watch,#
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,#
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,#
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,#
@@ -5222,6 +5224,7 @@ CPH2439,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
 CPH2437,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
 CPH2499,mob,oppo,OPPO,,hedwig,OPPO Find N3,#
 CPH2519,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,#
+CPH2671,mob,oppo,OPPO,,,OPPO Find N5,#
 CPH1917,mob,oppo,OPPO,,,OPPO Reno,#
 CPH1921,mob,oppo,OPPO,,,OPPO Reno 5G,#
 CPH1919,mob,oppo,OPPO,,,OPPO Reno 10x Zoom,#
@@ -5503,6 +5506,7 @@ RMX3852,mob,realme,realme,,,真我 GT Neo6,#
 RMX3850,mob,realme,realme,,,真我 GT Neo6 SE,#
 RMX5060,mob,realme,realme,,,真我 Neo7,#
 RMX5080,mob,realme,realme,,,真我 Neo7 SE,#
+RMX5071,mob,realme,realme,,,真我 Neo7X,#
 RMX1971,mob,realme,realme,,,真我 Q,#
 RMX2117,mob,realme,realme,,,真我 Q2,#5G
 RMX2173,mob,realme,realme,,,真我 Q2 Pro,#5G
@@ -6500,6 +6504,9 @@ SM-A057G,mob,samsung,Samsung,,a05s,Galaxy A05s,#EU
 SM-A057M,mob,samsung,Samsung,,a05s,Galaxy A05s,#Latin America
 SM-A065F,mob,samsung,Samsung,,a06,Galaxy A06,#Global
 SM-A065M,mob,samsung,Samsung,,a06,Galaxy A06,#Latin America
+SM-A066E,mob,samsung,Samsung,,a06x,Galaxy A06 5G,#Global
+SM-A066B,mob,samsung,Samsung,,a06x,Galaxy A06 5G,#Global
+SM-A066M,mob,samsung,Samsung,,a06x,Galaxy A06 5G,#Latin America
 SM-A105F,mob,samsung,Samsung,,a10,Galaxy A10,#Global
 SM-A015FN,mob,samsung,Samsung,,a10,Galaxy A10,#Global
 SM-A015G,mob,samsung,Samsung,,a10,Galaxy A10,#Global
@@ -6567,6 +6574,7 @@ SM-A156W,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Canada
 SM-A156M,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#Latin America
 SM-A1560,mob,samsung,Samsung,,a15x,Galaxy A15 5G,#HK & TW
 SM-A165F,mob,samsung,Samsung,,a16,Galaxy A16,#Global
+SM-A165M,mob,samsung,Samsung,,a16,Galaxy A16,#Latin America
 SM-A165N,mob,samsung,Samsung,,a16,Galaxy A16,#South Korea
 SM-A166E,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Global (Exynos)
 SM-A166B,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#EU
@@ -6677,6 +6685,14 @@ SM-S356V,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#TracFone
 SM-A356W,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#Canada
 SM-A3560,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#HK & TW
 SM-A356N,mob,samsung,Samsung,,a35x,Galaxy A35 5G,#South Korea
+SM-A366E,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,#Global
+SM-A366B,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,#EU
+SM-A366U,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,#US Carrier
+SM-A366U1,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,#US Unlocked
+SM-S366V,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,#TracFone
+SM-A366W,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,#Canada
+SM-A3660,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,#HK & TW
+SM-A366N,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,#South Korea
 SM-A405FN,mob,samsung,Samsung,,a40,Galaxy A40,#Global
 SM-A405FM,mob,samsung,Samsung,,a40,Galaxy A40,#Russia
 SM-A405S,mob,samsung,Samsung,,a40,Galaxy A40,#South Korea (SK Telecom)
@@ -6755,6 +6771,9 @@ SM-A556B,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#EU
 SM-A5560,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#China
 SCG27,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#Japan (au)
 SC-53E,mob,samsung,Samsung,,a55x,Galaxy A55 5G,#Japan (NTT Docomo)
+SM-A566E,mob,samsung,Samsung,,a56x,Galaxy A56 5G,#Global
+SM-A566B,mob,samsung,Samsung,,a56x,Galaxy A56 5G,#EU
+SM-A5660,mob,samsung,Samsung,,a56x,Galaxy A56 5G,#China
 SM-A606F,mob,samsung,Samsung,,a60q,Galaxy A60,#Global
 SM-A6060,mob,samsung,Samsung,,a60q,Galaxy A60,#China mainland
 SM-A606Y,mob,samsung,Samsung,,a60q,Galaxy A60,#TW
@@ -6796,6 +6815,7 @@ SM-M022M,mob,samsung,Samsung,,a02,Galaxy M02,#Latin America
 SM-M025F,mob,samsung,Samsung,,a02q,Galaxy M02s,#
 SM-M045F,mob,samsung,Samsung,,m04,Galaxy M04,#
 SM-M055F,mob,samsung,Samsung,,a05m,Galaxy M05,#
+SM-M066B,mob,samsung,Samsung,,a06x,Galaxy M06 5G,#
 SM-M105G,mob,samsung,Samsung,,m10lte,Galaxy M10,#Global
 SM-M105F,mob,samsung,Samsung,,m10lte,Galaxy M10,#India
 SM-M105M,mob,samsung,Samsung,,m10lte,Galaxy M10,#Latin America
@@ -6854,11 +6874,13 @@ SM-M625F,mob,samsung,Samsung,,m62,Galaxy M62,#
 SM-E025F,mob,samsung,Samsung,,a02q,Galaxy F02s,#
 SM-E045F,mob,samsung,Samsung,,m04,Galaxy F04,#
 SM-E055F,mob,samsung,Samsung,,a05m,Galaxy F05,#
+SM-E066B,mob,samsung,Samsung,,a06x,Galaxy F06 5G,#
 SM-F127G,mob,samsung,Samsung,,f12,Galaxy F12,#
 SM-E135F,mob,samsung,Samsung,,m13,Galaxy F13,#
 SM-E145F,mob,samsung,Samsung,,a05s,Galaxy F14,#
 SM-E146B,mob,samsung,Samsung,,m14x,Galaxy F14 5G,#
 SM-E156B,mob,samsung,Samsung,,m15x,Galaxy F15 5G,#
+SM-E166P,mob,samsung,Samsung,,m16xm,Galaxy F16 5G,#
 SM-E225F,mob,samsung,Samsung,,f22,Galaxy F22,#
 SM-E236B,mob,samsung,Samsung,,m23xq,Galaxy F23 5G,#
 SM-E346B,mob,samsung,Samsung,,m34x,Galaxy F34 5G,#
@@ -7530,6 +7552,7 @@ M2333B1,band,xiaomi,小米,M67,,小米手环 8 Pro,#国际版
 M2345B1,band,xiaomi,小米,N66,,小米手环 9,#
 M2346B1,band,xiaomi,小米,N66,,小米手环 9,#NFC 版 / 陶瓷特别版
 M2401B1,band,xiaomi,小米,N67,,小米手环 9 Pro,#
+M2435B1,band,xiaomi,小米,N69,,小米手环 9 Active,#国际版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,#
 M2320W1,watch,xiaomi,小米,,axolotlaxie,Xiaomi Watch 2,#
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,#蓝牙版
@@ -7571,6 +7594,7 @@ M2315W1,watch,xiaomi,小米,N65,,Redmi Watch 4,#国际版
 M2427W1,watch,xiaomi,小米,O65,,REDMI Watch 5,#蓝牙版
 M2428W1,watch,xiaomi,小米,O65,,REDMI Watch 5,#eSIM 版
 M2351W1,watch,xiaomi,小米,,,Redmi Watch 5 Active,#印度版
+M2352W1,watch,xiaomi,小米,,,Redmi Watch 5 Lite,#印度版
 M2131W1,watch,xiaomi,小米,,,POCO Watch,#
 M2111E1,watch,xiaomi,小米,K75,,Xiaomi 真无线降噪耳机 3,#
 M2103E1,watch,xiaomi,小米,K73,,Xiaomi 真无线降噪耳机 3 Pro,#
