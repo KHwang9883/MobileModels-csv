@@ -3110,6 +3110,7 @@ PAL-LX9,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,#
 PAL-L29,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,#
 ALT-L29,mob,huawei,HUAWEI,,Alta,HUAWEI Mate X3,#
 ICL-LX9,mob,huawei,HUAWEI,,,HUAWEI Mate X6,#
+GRL-LX9,mob,huawei,HUAWEI,,Greenland,HUAWEI Mate XT ULTIMATE DESIGN,#
 P6-U06,mob,huawei,HUAWEI,,,HUAWEI Ascend P6,#Single SIM
 P7-L10,mob,huawei,HUAWEI,,Sophia,HUAWEI Ascend P7,#
 P7-L11,mob,huawei,HUAWEI,,Sophia,HUAWEI Ascend P7,#
@@ -3405,6 +3406,7 @@ WGR-W09,pad,huawei,HUAWEI,,Wagner,HUAWEI MatePad Pro 12.6 2021,#Wi-Fi
 WGR-W19,pad,huawei,HUAWEI,,Wagner,HUAWEI MatePad Pro 12.6 2021,#Wi-Fi
 WGRR-W09,pad,huawei,HUAWEI,,WagnerR,HUAWEI MatePad Pro 12.6 2022,#Wi-Fi
 PCE-W29,pad,huawei,HUAWEI,,Poincare,HUAWEI MatePad Pro 13.2,#Wi-Fi
+WEB-W09,pad,huawei,HUAWEI,,Weber,HUAWEI MatePad Pro 13.2 2025,#Wi-Fi
 MRO-W09,pad,huawei,HUAWEI,,,HUAWEI MatePad Pro 12.2,#
 HMW-W09,pad,huawei,HUAWEI,,Hemingway,HUAWEI MatePad Paper,#Wi-Fi
 BGO-L03,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,#LTE
@@ -5741,6 +5743,8 @@ RMX3870,mob,realme,realme,,,P1,#5G
 RMX3844,mob,realme,realme,,coffee-a,P1 Pro,#5G
 RMX5004,mob,realme,realme,,,P1 Speed,#5G
 RMX3987,mob,realme,realme,,,P2 Pro,#5G
+RMX3944,mob,realme,realme,,,P3x,#5G
+RMX5032,mob,realme,realme,,,P3 Pro,#5G
 RMX2002,mob,realme,realme,,nemo,Narzo,#Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,#India
 RMX2020,mob,realme,realme,,,Narzo 10A,#India
