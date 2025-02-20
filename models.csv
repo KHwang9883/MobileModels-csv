@@ -1126,9 +1126,127 @@ ASUS_AI2205_A,mob,asus,华硕,,AI2205,ROG Phone 7,#游戏手机 7
 ASUS_AI2205_B,mob,asus,华硕,,AI2205,ROG Phone 7,#游戏手机 7 Pro
 ASUS_AI2401_A,mob,asus,华硕,,AI2401,ROG Phone 8,#游戏手机 8
 ASUS_AI2401_A,mob,asus,华硕,,AI2401,ROG Phone 8,#游戏手机 8 Pro
-ASUSAI2501A,mob,asus,华硕,,AI2401,ROG Phone 9,#游戏手机 9
-ASUSAI2501A,mob,asus,华硕,,AI2401,ROG Phone 9,#游戏手机 9 Pro
+ASUSAI2501A,mob,asus,华硕,,AI2501,ROG Phone 9,#游戏手机 9
+ASUSAI2501A,mob,asus,华硕,,AI2501,ROG Phone 9,#游戏手机 9 Pro
 ASUS_I007D,mob,asus,华硕,,,Smartphone for Snapdragon Insiders,#
+ASUS_T00I,mob,asus,Asus,,A400CG,Asus Zenfone 4,ZenFone 4 (A400CG)
+ASUS_T00Q,mob,asus,Asus,,A450CG,Asus Zenfone 4,ZenFone 4 (A450CG)
+ASUS_T00F,mob,asus,Asus,,A500CG,Asus Zenfone 5,ZenFone 5 (A500CG)
+ASUS_T00J,mob,asus,Asus,,A501CG,Asus Zenfone 5,ZenFone 5 (A501CG)
+ASUS_T00K,mob,asus,Asus,,A502CG,Asus Zenfone 5,ZenFone 5 (A502CG)
+ASUS_T00P,mob,asus,Asus,,A500KL,Asus Zenfone 5,ZenFone 5 (A500KL)
+ASUS_T00G,mob,asus,Asus,,A600CG,Asus Zenfone 6,ZenFone 6 (A600CG)
+ASUS_T002,mob,asus,Asus,,A601CG,Asus Zenfone 6,ZenFone 6 (A601CG)
+ASUS_Z007,mob,asus,Asus,,ZC451CG,Asus Zenfone C,ZenFone C (ZC451CG)
+ASUS_Z00D,mob,asus,Asus,,ZE500CL,Asus Zenfone 2,ZenFone 2 (ZE500CL)
+ASUS_Z008(D),mob,asus,Asus,,ZE550ML,Asus Zenfone 2,ZenFone 2 (ZE550ML)
+ASUS_Z00A,mob,asus,Asus,,ZE551ML,Asus Zenfone 2,ZenFone 2 (ZE551ML)
+ASUS_Z00AD,mob,asus,Asus,,ZE551ML,Asus ZenFone 2 Deluxe,ZenFone 2 Deluxe (ZE551ML)
+ASUS_Z00VD,mob,asus,Asus,,ZC500TG,Asus Zenfone Go,ZenFone Go (ZC500TG)
+ASUS_Z00E(D),mob,asus,Asus,,ZE500KL,Asus Zenfone 2 Laser,ZenFone 2 Laser (ZE500KL)
+ASUS_Z00L(D),mob,asus,Asus,,ZE550KL,Asus Zenfone 2 Laser,ZenFone 2 Laser (ZE550KL)
+ASUS_Z011(D),mob,asus,Asus,,ZE601KL,Asus Zenfone 2 Laser,ZenFone 2 Laser (ZE601KL)
+ASUS_Z00M(D),mob,asus,Asus,,ZE600KL,Asus Zenfone 2 Laser,ZenFone 2 Laser (ZE600KL)
+ASUS_Z00U(D),mob,asus,Asus,,ZD551KL,Asus Zenfone Selfie,ZenFone Selfie (ZD551KL)
+ASUS_Z00XS,mob,asus,Asus,,ZX551ML,Asus Zenfone Zoom,ZenFone Zoom (ZX551ML)
+ASUS_Z017(D),mob,asus,Asus,,ZE520KL,Asus Zenfone 3,ZenFone 3 (ZE520KL)
+ASUS_Z012(D),mob,asus,Asus,,ZE552KL,Asus Zenfone 3,ZenFone 3 (ZE552KL)
+ASUS_Z016(D),mob,asus,Asus,,ZS570KL,Asus Zenfone 3 Deluxe,ZenFone 3 Deluxe (ZS570KL)
+ASUS_Z01FD,mob,asus,Asus,,ZS550KL,Asus Zenfone 3 Deluxe 5.5,ZenFone 3 Deluxe 5.5 (ZS550KL)
+ASUS_Z01B(D),mob,asus,Asus,,ZC551KL,Asus Zenfone 3 Laser,ZenFone 3 Laser (ZC551KL)
+ASUS_X008(D),mob,asus,Asus,,ZC520TL,Asus Zenfone 3 Max,ZenFone 3 Max (ZC520TL)
+ASUS_X00DD,mob,asus,Asus,,ZC553KL,Asus Zenfone 3 Max,ZenFone 3 Max (ZC553KL)
+ASUS_A001,mob,asus,Asus,,ZU680KL,Asus Zenfone 3 Ultra,ZenFone 3 Ultra (ZU680KL)
+ASUS_Z01HDA,mob,asus,Asus,,ZE553KL,Asus Zenfone 3 Zoom,ZenFone 3 Zoom (ZE553KL)
+ASUS_X00GD,mob,asus,Asus,,ZC521TL,Asus Zenfone 3s Max,ZenFone 3s Max (ZC521TL)
+ASUS_X009D,mob,asus,Asus,,ZB450KL,Asus Zenfone Go,ZenFone Go (ZB450KL)
+ASUS_X00AD,mob,asus,Asus,,ZB500KL,Asus Zenfone Go,ZenFone Go (ZB500KL)
+ASUS_X007D,mob,asus,Asus,,ZB552KL,Asus Zenfone Go,ZenFone Go (ZB552KL)
+ASUS_X00BD,mob,asus,Asus,,ZB500KG,Asus Zenfone Go,ZenFone Go (ZB500KG)
+ASUS_L001,mob,asus,Asus,,ZB690KG,Asus Zenfone Go 6.9,ZenFone Go 6.9 (ZB690KG)
+ASUS_A007,mob,asus,Asus,,ZB501KL,Asus Zenfone Live,ZenFone Live (ZB501KL)
+ASUS_A002,mob,asus,Asus,,ZS571KL,Asus Zenfone AR,ZenFone AR (ZS571KL)
+ASUS_Z01KD,mob,asus,Asus,,ZE554KL,Asus Zenfone 4,ZenFone 4 (ZE554KL)
+ASUS_Z01GD,mob,asus,Asus,,ZS551KL,Asus Zenfone 4 Pro,ZenFone 4 Pro (ZS551KL)
+ASUS_X00LD,mob,asus,Asus,,ZD553KL,Asus Zenfone 4 Selfie,ZenFone 4 Selfie (ZD553KL)
+ASUS_Z01MD,mob,asus,Asus,,ZD552KL,Asus Zenfone 4 Selfie Pro,ZenFone 4 Selfie Pro (ZD552KL)
+ASUS_X00ID,mob,asus,Asus,,ZC554KL,Asus Zenfone 4 Max,ZenFone 4 Max (ZC554KL)
+ASUS_X00HD,mob,asus,Asus,,ZC520KL,Asus Zenfone 4 Max,ZenFone 4 Max (ZC520KL)
+ASUS_X018D,mob,asus,Asus,,ZB570TL,Asus Zenfone Max Plus (M1),ZenFone Max Plus (ZB570TL)
+ASUS_X00TD,mob,asus,Asus,,ZB60*KL,Asus Zenfone Max Pro (M1),ZenFone Max Pro (M1) (ZB601KL)
+ASUS_X00TD,mob,asus,Asus,,ZB60*KL,Asus Zenfone Max Pro (M1),ZenFone Max Pro (M1) (ZB602KL)
+ASUS_X00PD,mob,asus,Asus,,ZB55*KL,Asus Zenfone Max (M1),ZenFone Max (M1) (ZB555KL)
+ASUS_X00PD,mob,asus,Asus,,ZB55*KL,Asus Zenfone Max (M1),ZenFone Max (M1) (ZB556KL)
+ASUS_X00RD,mob,asus,Asus,,ZA550KL,Asus Zenfone Live L1,ZenFone Live L1 (ZA550KL)
+ASUS_X017DA,mob,asus,Asus,,ZC600KL,Asus Zenfone 5Q,ZenFone 5Q (ZC600KL)
+ASUS_X00QD,mob,asus,Asus,,ZE620KL,Asus Zenfone 5,ZenFone 5 (ZE620KL)
+ASUS_Z01RD,mob,asus,Asus,,ZS620KL,Asus Zenfone 5Z,ZenFone 5Z (ZS620KL)
+ASUS_X01AD,mob,asus,Asus,,ZB633KL,Asus Zenfone Max (M2),ZenFone Max (M2) (ZB633KL)
+ASUS_X01BDA,mob,asus,Asus,,ZB631KL,Asus Zenfone Max Pro (M2),ZenFone Max Pro (M2) (ZB631KL)
+ASUS_Z01QD,mob,asus,Asus,,ZS600KL,ROG Phone,#
+ASUS_I01WD,mob,asus,Asus,,ZS630KL,Asus Zenfone 6,ZenFone 6
+ASUS_I001DA,mob,asus,Asus,,ZS660KL,ROG Phone II,#2
+ASUS_I001DB,mob,asus,Asus,,ZS660KL,ROG Phone II,#2
+ASUS_I002D,mob,asus,Asus,,ZS670KS,Asus Zenfone 7,ZenFone 7
+ASUS_I002D,mob,asus,Asus,,ZS671KS,Asus Zenfone 7 Pro,ZenFone 7 Pro
+ASUS_I003DD,mob,asus,Asus,,ZS661KS,ROG Phone 3,#
+ASUS_I006D,mob,asus,Asus,,ZS590KS,Asus Zenfone 8,ZenFone 8
+ASUS_I004D,mob,asus,Asus,,ZS672KS,Asus Zenfone 8 Flip,ZenFone 8 Flip
+ASUS_I005DA,mob,asus,Asus,,ZS673KS,ROG Phone 5,#
+ASUS_I005DB,mob,asus,Asus,,ZS673KS,ROG Phone 5,#Pro
+ASUS_I005DA,mob,asus,Asus,,ZS676KS,ROG Phone 5s,#
+ASUS_I005DB,mob,asus,Asus,,ZS676KS,ROG Phone 5s,#Pro
+ASUS_I007D,mob,asus,Asus,,,Smartphone for Snapdragon Insiders,#
+ASUS_AI2202,mob,asus,Asus,,AI2202,Asus Zenfone 9,ZenFone 9
+ASUS_AI2201_C,mob,asus,Asus,,AI2201,ROG Phone 6,#
+ASUS_AI2201_D,mob,asus,Asus,,AI2201,ROG Phone 6,#Pro
+ASUS_AI2201_E,mob,asus,Asus,,AI2201,ROG Phone 6,#
+ASUS_AI2201_F,mob,asus,Asus,,AI2201,ROG Phone 6,#
+ASUS_AI2203_C,mob,asus,Asus,,AI2203,ROG Phone 6D,#
+ASUS_AI2203_D,mob,asus,Asus,,AI2203,ROG Phone 6D,#Ultimate
+ASUS_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10
+JP_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Japan)
+EU_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Europe)
+WW_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Worldwide)
+ASUS_AI2205_C,mob,asus,Asus,,AI2205,ROG Phone 7,#
+ASUS_AI2205_D,mob,asus,Asus,,AI2205,ROG Phone 7,#Ultimate
+ASUS_AI2401_H,mob,asus,Asus,,AI2401,Asus Zenfone 11 Ultra,ZenFone 11 Ultra
+ASUS_AI2401_A,mob,asus,Asus,,AI2401,ROG Phone 8,#
+ASUS_AI2401_A,mob,asus,Asus,,AI2401,ROG Phone 8,#Pro (CN)
+ASUS_AI2401_C,mob,asus,Asus,,AI2401,ROG Phone 8,#
+ASUS_AI2401_C,mob,asus,Asus,,AI2401,ROG Phone 8,#Pro (WW)
+ASUS_AI2401_C,mob,asus,Asus,,AI2401,ROG Phone 8,TW
+ASUS_AI2401_C,mob,asus,Asus,,AI2401,ROG Phone 8,JP
+ASUS_AI2401_C,mob,asus,Asus,,AI2401,ROG Phone 8,HK)
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,#
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,#Pro (ID)
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,VN
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,BR
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,IN
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,JP
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,TW
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,HK
+ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,WW)
+ASUS_AI2401_E,mob,asus,Asus,,AI2401,ROG Phone 8,#
+ASUS_AI2401_E,mob,asus,Asus,,AI2401,ROG Phone 8,#Pro (US)
+ASUSAI2501H,mob,asus,Asus,,AI2501_H,Asus Zenfone 12 Ultra,ZenFone 12 Ultra
+ASUSAI2501A,mob,asus,Asus,,AI2501,ROG Phone 9,#
+ASUSAI2501A,mob,asus,Asus,,AI2501,ROG Phone 9,#Pro (CN)
+ASUSAI2501B,mob,asus,Asus,,AI2501,ROG Phone 9,#
+ASUSAI2501B,mob,asus,Asus,,AI2501,ROG Phone 9,#Pro (WW)
+ASUSAI2501B,mob,asus,Asus,,AI2501,ROG Phone 9,JP
+ASUSAI2501B,mob,asus,Asus,,AI2501,ROG Phone 9,TW
+ASUSAI2501B,mob,asus,Asus,,AI2501,ROG Phone 9,HK
+ASUSAI2501B,mob,asus,Asus,,AI2501,ROG Phone 9,EU)
+ASUSAI2501C,mob,asus,Asus,,AI2501,ROG Phone 9,#
+ASUSAI2501C,mob,asus,Asus,,AI2501,ROG Phone 9,#Pro (WW)
+ASUSAI2501C,mob,asus,Asus,,AI2501,ROG Phone 9,JP
+ASUSAI2501C,mob,asus,Asus,,AI2501,ROG Phone 9,TW
+ASUSAI2501C,mob,asus,Asus,,AI2501,ROG Phone 9,HK
+ASUSAI2501C,mob,asus,Asus,,AI2501,ROG Phone 9,ID)
+ASUSAI2501D,mob,asus,Asus,,AI2501,ROG Phone 9,#
+ASUSAI2501D,mob,asus,Asus,,AI2501,ROG Phone 9,#Pro (US)
+ASUS_AI2401_N,mob,asus,Asus,,AI2401,ROG Phone 9 FE,#
 SKR-A0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#全网通版
 SKR-H0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#国际版
 AWM-A0,mob,blackshark,黑鲨,,bullhead,黑鲨游戏手机 Helo,#
