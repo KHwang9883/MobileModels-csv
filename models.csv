@@ -223,6 +223,10 @@ A3084,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,#美国
 A3295,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,"#加拿大, 日本, 墨西哥, 部分中东国家"
 A3297,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,#中国大陆 & 港澳
 A3296,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,#其他国家和地区
+A3212,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,#美国
+A3408,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,"#加拿大, 墨西哥, 部分中东国家"
+A3410,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,#中国大陆
+A3409,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,#其他国家和地区
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,#无线局域网
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,#无线局域网 + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,#无线局域网
@@ -649,6 +653,10 @@ A3084,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,#United States
 A3295,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,"#Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
 A3297,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,"#China mainland, Hong Kong, Macao"
 A3296,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,#Rest of the world
+A3212,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,#United States
+A3408,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,"#Bahrain, Canada, Iraq, Guam, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3410,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,#China mainland
+A3409,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,#Rest of the world
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,#Wi-Fi
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,#Wi-Fi + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,#Wi-Fi
@@ -961,6 +969,7 @@ A3288,mob,apple,Apple,D47AP,"iPhone17,3",iPhone 16,#
 A3291,mob,apple,Apple,D48AP,"iPhone17,4",iPhone 16 Plus,#
 A3294,mob,apple,Apple,D93AP,"iPhone17,1",iPhone 16 Pro,#
 A3297,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,#
+A3410,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,#
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,#无线局域网
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,#无线局域网 + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,#无线局域网
