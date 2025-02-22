@@ -7486,6 +7486,7 @@ V2338,mob,vivo,vivo,,,T3x,#5G
 V2404,mob,vivo,vivo,,,T3 Pro,#5G
 V2356,mob,vivo,vivo,,,T3 Lite,#5G
 V2426,mob,vivo,vivo,,,T3 Ultra,#5G
+V2437,mob,vivo,vivo,,,T4x,#5G
 vivo 1929,mob,vivo,vivo,,,Y1s,#
 vivo 2015,mob,vivo,vivo,,,Y1s,#
 vivo 2015_21,mob,vivo,vivo,,,Y1s,#
@@ -7574,6 +7575,7 @@ V2346,mob,vivo,vivo,,,Y28s,#5G
 V2351,mob,vivo,vivo,,,Y28s,#5G
 V2407,mob,vivo,vivo,,,Y28e,#5G
 V2420,mob,vivo,vivo,,,Y29,#5G
+V2446,mob,vivo,vivo,,,Y29s,#5G
 V2160,mob,vivo,vivo,,,Y30,#5G
 V2036,mob,vivo,vivo,,,Y31,#
 V2036_21,mob,vivo,vivo,,,Y31,#
@@ -7586,6 +7588,7 @@ V2247,mob,vivo,vivo,,,Y36,#
 V2324,mob,vivo,vivo,,,Y36,#
 V2248,mob,vivo,vivo,,,Y36,#5G
 V2343,mob,vivo,vivo,,,Y38,#5G
+V2436,mob,vivo,vivo,,,Y39,#5G
 V2444,mob,vivo,vivo,,,Y39,#5G
 V2024,mob,vivo,vivo,,,Y51,#
 V2030,mob,vivo,vivo,,,Y51,#
@@ -7633,10 +7636,11 @@ I2212,mob,vivo,vivo,,,iQOO 11,#
 I2220,mob,vivo,vivo,,,iQOO 12,#
 I2401,mob,vivo,vivo,,,iQOO 13,#
 I2202,mob,vivo,vivo,,,iQOO Neo6,#
-I2214,mob,vivo,vivo,,,iQOO Neo7,#5G
-I2217,mob,vivo,vivo,,,iQOO Neo7 Pro,#5G
+I2214,mob,vivo,vivo,,,iQOO Neo7,#
+I2217,mob,vivo,vivo,,,iQOO Neo7 Pro,#
 I2303,mob,vivo,vivo,,,iQOO Neo9,#
 I2304,mob,vivo,vivo,,,iQOO Neo9 Pro,#
+I2221,mob,vivo,vivo,,,iQOO Neo10R,#
 I2011,mob,vivo,vivo,,,iQOO Z3,#5G
 I2018,mob,vivo,vivo,,,iQOO Z5,#
 I2127,mob,vivo,vivo,,,iQOO Z6,#
@@ -7656,6 +7660,7 @@ I2219,mob,vivo,vivo,,,iQOO Z9x,#5G
 I2306,mob,vivo,vivo,,,iQOO Z9 Lite,#5G
 I2403,mob,vivo,vivo,,,iQOO Z9s,#5G
 I2305,mob,vivo,vivo,,,iQOO Z9s Pro,#5G
+I2404,mob,vivo,vivo,,,iQOO Z10x,#5G
 XMSH01HM,band,xiaomi,小米,,,小米手环,#
 XMSH02HM,band,xiaomi,小米,,,小米手环,#光感版
 XMSH03HM,band,xiaomi,小米,,,小米手环,#光感版
