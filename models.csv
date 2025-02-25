@@ -1192,34 +1192,34 @@ ASUS_X00QD,mob,asus,Asus,,ZE620KL,Asus Zenfone 5,ZenFone 5 (ZE620KL)
 ASUS_Z01RD,mob,asus,Asus,,ZS620KL,Asus Zenfone 5Z,ZenFone 5Z (ZS620KL)
 ASUS_X01AD,mob,asus,Asus,,ZB633KL,Asus Zenfone Max (M2),ZenFone Max (M2) (ZB633KL)
 ASUS_X01BDA,mob,asus,Asus,,ZB631KL,Asus Zenfone Max Pro (M2),ZenFone Max Pro (M2) (ZB631KL)
-ASUS_Z01QD,mob,asus,Asus,,ZS600KL,ROG Phone,#
 ASUS_I01WD,mob,asus,Asus,,ZS630KL,Asus Zenfone 6,ZenFone 6
-ASUS_I001DA,mob,asus,Asus,,ZS660KL,ROG Phone II,#2
-ASUS_I001DB,mob,asus,Asus,,ZS660KL,ROG Phone II,#2
 ASUS_I002D,mob,asus,Asus,,ZS670KS,Asus Zenfone 7,ZenFone 7
 ASUS_I002D,mob,asus,Asus,,ZS671KS,Asus Zenfone 7 Pro,ZenFone 7 Pro
-ASUS_I003DD,mob,asus,Asus,,ZS661KS,ROG Phone 3,#
 ASUS_I006D,mob,asus,Asus,,ZS590KS,Asus Zenfone 8,ZenFone 8
 ASUS_I004D,mob,asus,Asus,,ZS672KS,Asus Zenfone 8 Flip,ZenFone 8 Flip
+ASUS_AI2202,mob,asus,Asus,,AI2202,Asus Zenfone 9,ZenFone 9
+ASUS_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10
+JP_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Japan)
+EU_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Europe)
+WW_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Worldwide)
+ASUS_AI2401_H,mob,asus,Asus,,AI2401,Asus Zenfone 11 Ultra,ZenFone 11 Ultra
+ASUSAI2501H,mob,asus,Asus,,AI2501_H,Asus Zenfone 12 Ultra,ZenFone 12 Ultra
+ASUS_Z01QD,mob,asus,Asus,,ZS600KL,ROG Phone,#
+ASUS_I001DA,mob,asus,Asus,,ZS660KL,ROG Phone II,#2
+ASUS_I001DB,mob,asus,Asus,,ZS660KL,ROG Phone II,#2
+ASUS_I003DD,mob,asus,Asus,,ZS661KS,ROG Phone 3,#
 ASUS_I005DA,mob,asus,Asus,,ZS673KS,ROG Phone 5,#
 ASUS_I005DB,mob,asus,Asus,,ZS673KS,ROG Phone 5,#Pro
 ASUS_I005DA,mob,asus,Asus,,ZS676KS,ROG Phone 5s,#
 ASUS_I005DB,mob,asus,Asus,,ZS676KS,ROG Phone 5s,#Pro
-ASUS_I007D,mob,asus,Asus,,,Smartphone for Snapdragon Insiders,#
-ASUS_AI2202,mob,asus,Asus,,AI2202,Asus Zenfone 9,ZenFone 9
 ASUS_AI2201_C,mob,asus,Asus,,AI2201,ROG Phone 6,#
 ASUS_AI2201_D,mob,asus,Asus,,AI2201,ROG Phone 6,#Pro
 ASUS_AI2201_E,mob,asus,Asus,,AI2201,ROG Phone 6,#
 ASUS_AI2201_F,mob,asus,Asus,,AI2201,ROG Phone 6,#
 ASUS_AI2203_C,mob,asus,Asus,,AI2203,ROG Phone 6D,#
 ASUS_AI2203_D,mob,asus,Asus,,AI2203,ROG Phone 6D,#Ultimate
-ASUS_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10
-JP_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Japan)
-EU_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Europe)
-WW_AI2302,mob,asus,Asus,,AI2302,Asus Zenfone 10,ZenFone 10 (Worldwide)
 ASUS_AI2205_C,mob,asus,Asus,,AI2205,ROG Phone 7,#
 ASUS_AI2205_D,mob,asus,Asus,,AI2205,ROG Phone 7,#Ultimate
-ASUS_AI2401_H,mob,asus,Asus,,AI2401,Asus Zenfone 11 Ultra,ZenFone 11 Ultra
 ASUS_AI2401_A,mob,asus,Asus,,AI2401,ROG Phone 8,#
 ASUS_AI2401_A,mob,asus,Asus,,AI2401,ROG Phone 8,#Pro (CN)
 ASUS_AI2401_C,mob,asus,Asus,,AI2401,ROG Phone 8,#
@@ -1238,7 +1238,6 @@ ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,HK
 ASUS_AI2401_D,mob,asus,Asus,,AI2401,ROG Phone 8,WW)
 ASUS_AI2401_E,mob,asus,Asus,,AI2401,ROG Phone 8,#
 ASUS_AI2401_E,mob,asus,Asus,,AI2401,ROG Phone 8,#Pro (US)
-ASUSAI2501H,mob,asus,Asus,,AI2501_H,Asus Zenfone 12 Ultra,ZenFone 12 Ultra
 ASUSAI2501A,mob,asus,Asus,,AI2501,ROG Phone 9,#
 ASUSAI2501A,mob,asus,Asus,,AI2501,ROG Phone 9,#Pro (CN)
 ASUSAI2501B,mob,asus,Asus,,AI2501,ROG Phone 9,#
@@ -1256,6 +1255,7 @@ ASUSAI2501C,mob,asus,Asus,,AI2501,ROG Phone 9,ID)
 ASUSAI2501D,mob,asus,Asus,,AI2501,ROG Phone 9,#
 ASUSAI2501D,mob,asus,Asus,,AI2501,ROG Phone 9,#Pro (US)
 ASUS_AI2401_N,mob,asus,Asus,,AI2401,ROG Phone 9 FE,#
+ASUS_I007D,device,asus,Asus,,,Smartphone for Snapdragon Insiders,#
 SKR-A0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#全网通版
 SKR-H0,mob,blackshark,黑鲨,,shark,黑鲨游戏手机,#国际版
 AWM-A0,mob,blackshark,黑鲨,,bullhead,黑鲨游戏手机 Helo,#
@@ -5635,7 +5635,7 @@ RMX3852,mob,realme,realme,,,真我 GT Neo6,#
 RMX3850,mob,realme,realme,,,真我 GT Neo6 SE,#
 RMX5060,mob,realme,realme,,,真我 Neo7,#
 RMX5080,mob,realme,realme,,,真我 Neo7 SE,#
-RMX5071,mob,realme,realme,,,真我 Neo7X,#
+RMX5071,mob,realme,realme,,,真我 Neo7x,#
 RMX1971,mob,realme,realme,,,真我 Q,#
 RMX2117,mob,realme,realme,,,真我 Q2,#5G
 RMX2173,mob,realme,realme,,,真我 Q2 Pro,#5G
