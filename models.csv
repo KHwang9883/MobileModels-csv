@@ -6965,6 +6965,7 @@ SM-M136B,mob,samsung,Samsung,,a13x,Galaxy M13 5G,#
 SM-M145F,mob,samsung,Samsung,,a05s,Galaxy M14,#
 SM-M146B,mob,samsung,Samsung,,m14x,Galaxy M14 5G,#
 SM-M156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,#
+SM-M166P,mob,samsung,Samsung,,m16xm,Galaxy M16 5G,#
 SM-M205N,mob,samsung,Samsung,,m20,Galaxy M20,#South Korea
 SM-M205F,mob,samsung,Samsung,,m20lte,Galaxy M20,#Global
 SM-M205FN,mob,samsung,Samsung,,m20lte,Galaxy M20,#EU
@@ -7746,6 +7747,8 @@ M2126E1,watch,xiaomi,小米,L71,,Xiaomi Buds 4 Pro,#
 M2319E1,watch,xiaomi,小米,N74A,,Xiaomi 开放式耳机,#
 M2419E1,watch,xiaomi,小米,N79,,小米 Air4 SE,#
 M2341E1,watch,xiaomi,小米,N75,,Xiaomi Buds 5,#
+M2437E1,watch,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,#蓝牙版
+M2438E1,watch,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,#Wi-Fi 版
 TWSEJ01ZM,watch,xiaomi,小米,K76,,Redmi AirDots 3 Pro,#
 M2104E1,watch,xiaomi,小米,,,Redmi Buds 3,#
 M2110E1,watch,xiaomi,小米,K79,,Redmi Buds 3 青春版,#
@@ -7862,8 +7865,8 @@ M2101K9AI,mob,xiaomi,小米,K9A,courbet,小米 11 Lite,#4G 印度版
 2109119DG,mob,xiaomi,小米,K9D,lisa,Xiaomi 11 青春活力版|Xiaomi 11 Lite 5G NE,1#国际版
 2109119DI,mob,xiaomi,小米,K9D,lisa,Xiaomi 11 青春活力版|Xiaomi 11 Lite 5G NE,1#NE 5G 印度版
 M2012K11G,mob,xiaomi,小米,K11,haydn,小米 11i,#国际版
-M2012K11AI,mob,xiaomi,小米,K11A,aliothin,小米 11X,#印度版
-M2012K11I,mob,xiaomi,小米,K11,haydnin,小米 11X Pro,#印度版
+M2012K11AI,mob,xiaomi,小米,K11A,alioth,小米 11X,#印度版
+M2012K11I,mob,xiaomi,小米,K11,haydn,小米 11X Pro,#印度版
 21081111RG,mob,xiaomi,小米,K11R,agate,Xiaomi 11T,#国际版
 2107113SG,mob,xiaomi,小米,K3S,vili,Xiaomi 11T Pro,#国际版
 2107113SI,mob,xiaomi,小米,K3S,vili,Xiaomi 11T Pro,#印度版
@@ -7918,6 +7921,10 @@ A402XM,mob,xiaomi,小米,N12,rothko,Xiaomi 14T Pro,#日本版 (SoftBank)
 24129PN74G,mob,xiaomi,小米,O3,dada,Xiaomi 15,#国际版
 24129PN74I,mob,xiaomi,小米,O3,dada,Xiaomi 15,#印度版
 2410DPN6CC,mob,xiaomi,小米,O2,haotian,Xiaomi 15 Pro,#
+25019PNF3C,mob,xiaomi,小米,O1,xuanyuan,Xiaomi 15 Ultra,#国行版
+25010PN30C,mob,xiaomi,小米,O1,xuanyuan,Xiaomi 15 Ultra,#双卫星版 国行版
+25010PN30G,mob,xiaomi,小米,O1,xuanyuan,Xiaomi 15 Ultra,#国际版
+25010PN30I,mob,xiaomi,小米,O1,xuanyuan,Xiaomi 15 Ultra,#印度版
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,#双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,#全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,#移动合约版
@@ -8634,8 +8641,8 @@ M2101K9AI,mob,xiaomi,Xiaomi,K9A,courbet,Mi 11 Lite,#4G India
 2109119DI,mob,xiaomi,Xiaomi,K9D,lisa,Xiaomi 11 Lite 5G NE / Mi 11 LE,#NE 5G India
 2107119DC,mob,xiaomi,Xiaomi,K9D,lisa,Xiaomi 11 Lite 5G NE / Mi 11 LE,Mi 11 LE China
 M2012K11G,mob,xiaomi,Xiaomi,K11,haydn,Mi 11i,#Global
-M2012K11AI,mob,xiaomi,Xiaomi,K11A,aliothin,Mi 11X,#India
-M2012K11I,mob,xiaomi,Xiaomi,K11,haydnin,Mi 11X Pro,#India
+M2012K11AI,mob,xiaomi,Xiaomi,K11A,alioth,Mi 11X,#India
+M2012K11I,mob,xiaomi,Xiaomi,K11,haydn,Mi 11X Pro,#India
 21081111RG,mob,xiaomi,Xiaomi,K11R,agate,Xiaomi 11T,#Global
 2107113SG,mob,xiaomi,Xiaomi,K3S,vili,Xiaomi 11T Pro,#Global
 2107113SI,mob,xiaomi,Xiaomi,K3S,vili,Xiaomi 11T Pro,#India
@@ -8690,6 +8697,10 @@ A402XM,mob,xiaomi,Xiaomi,N12,rothko,Xiaomi 14T Pro,#Japan (SoftBank)
 24129PN74I,mob,xiaomi,Xiaomi,O3,dada,Xiaomi 15,#India
 24129PN74C,mob,xiaomi,Xiaomi,O3,dada,Xiaomi 15,#China
 2410DPN6CC,mob,xiaomi,Xiaomi,O2,haotian,Xiaomi 15 Pro,#China
+25010PN30G,mob,xiaomi,Xiaomi,O1,xuanyuan,Xiaomi 15 Ultra,#Global
+25010PN30I,mob,xiaomi,Xiaomi,O1,xuanyuan,Xiaomi 15 Ultra,#India
+25019PNF3C,mob,xiaomi,Xiaomi,O1,xuanyuan,Xiaomi 15 Ultra,#China (Tiantong satellite)
+25010PN30C,mob,xiaomi,Xiaomi,O1,xuanyuan,Xiaomi 15 Ultra,#China (Tiantong & Beidou satellites)
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China (Dual-network)
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,#China (Full-network)
