@@ -2326,6 +2326,7 @@ ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro+,#
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师,#
 CLS-AL00,mob,huawei,华为,,Celestial,HUAWEI Mate 70,#
 PLR-AL00,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,#
+PLR-AL50,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,#优享版
 PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,#
 PLU-AL10,mob,huawei,华为,,ULTIMATE DESIGN,HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师,#
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,#
@@ -4349,17 +4350,19 @@ L55RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#55 2025
 L65RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#65 2025
 L70RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#70 2025
 L75MA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#75 2025
+L32RA-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#32 2025 节能版 (一级能效)
+L43RA-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#43 2025 节能版 (一级能效)
 L43RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#43
-L50RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#50 节能版
-L55RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#55 节能版
-L65RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#65 节能版
-L70RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#70 节能版
-L75RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#75 节能版
-L43RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#43 2025 节能版
-L50RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#50 2025 节能版
-L55RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#55 2025 节能版
-L65RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#65 2025 节能版
-L75RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#75 2025 节能版
+L50RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#50 节能版 (二级能效)
+L55RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#55 节能版 (二级能效)
+L65RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#65 节能版 (二级能效)
+L70RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#70 节能版 (二级能效)
+L75RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#75 节能版 (二级能效)
+L43RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#43 2025 节能版 (二级能效)
+L50RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#50 2025 节能版 (二级能效)
+L55RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#55 2025 节能版 (二级能效)
+L65RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#65 2025 节能版 (二级能效)
+L75RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#75 2025 节能版 (一级能效)
 L50M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#50 (2020)
 L55M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#55 (2020)
 L65M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,#65 (2020)
@@ -4390,6 +4393,8 @@ L86R6-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#86 英寸
 L90R9-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#90 英寸
 L98M6-RK,tv,mitv,小米,,,Redmi 智能电视 MAX,#98 英寸
 L100R8-MAX,tv,mitv,小米,,,Redmi 智能电视 MAX,#100 英寸
+L85RB-MAXE,tv,mitv,小米,,,Redmi 电视 MAX,#85 2025 节能版 (一级能效)
+L100RA-MAXE,tv,mitv,小米,,,Redmi 电视 MAX,#100 2025 节能版 (一级能效)
 L100RA-MAX,tv,mitv,小米,N36,,Redmi 智能电视 MAX 100,#2025
 MDZ-18-DA,tv_hub,mitv,小米,,,小米电视主机,#
 MDZ-19-DA,tv_hub,mitv,小米,,,小米电视主机,小米家庭影院
@@ -4732,6 +4737,8 @@ NX612J,mob,nubia,努比亚,,,V18,#
 NX651J,mob,nubia,努比亚,,,Play,#
 NX724J,mob,nubia,努比亚,,,Flip,#5G
 NX724J,mob,nubia,努比亚,,,Flip,#5G S
+NX732J,mob,nubia,努比亚,,,Flip 2,#国行版
+A404ZT,mob,nubia,努比亚,,,Flip 2,#SoftBank
 NX302J,mob,nubia,努比亚,,,小牛,#
 NX513J,mob,nubia,努比亚,,,My 布拉格,#全网通版
 NX513H,mob,nubia,努比亚,,,My 布拉格,#双 4G 版
@@ -4759,8 +4766,10 @@ Z2350,mob,nubia,努比亚,,,V60 Design,#
 Z2459,mob,nubia,努比亚,,,V70,#
 Z2458,mob,nubia,努比亚,,,V70 Design,#
 Z2467,mob,nubia,努比亚,,,V70 Max,#
+A403ZT,mob,nubia,努比亚,,,S,#5G SoftBank
 LPD-20W,pad,nubia,努比亚,,,Pad 3D,#
 NP02J,pad,nubia,努比亚,,,Pad 3D II,#
+K99J,pad,nubia,努比亚,,,Pad SE,#
 NX609J,mob,nubia,努比亚,,,红魔电竞游戏手机,#
 NX619J,mob,nubia,努比亚,,,红魔 Mars 电竞手机,#
 NX629J,mob,nubia,努比亚,,,红魔 3,#
@@ -7469,8 +7478,10 @@ V2342,mob,vivo,vivo,,,V40 SE,#
 V2337,mob,vivo,vivo,,,V40 SE,#5G
 V2418,mob,vivo,vivo,,,V40 SE,#80W
 V2427,mob,vivo,vivo,,,V50,#
+V2448,mob,vivo,vivo,,,V50,#
+V2451,mob,vivo,vivo,,,V50,#
 V2428,mob,vivo,vivo,,,V50e,#
-V2440,mob,vivo,vivo,,,V50 Lite,#
+V2440,mob,vivo,vivo,,,Jovi V50 Lite,#
 vivo 1907,mob,vivo,vivo,,,S1,#
 V1937,mob,vivo,vivo,,,S1 Prime,#
 vivo 1920,mob,vivo,vivo,,,S1 Pro,#
@@ -7515,6 +7526,8 @@ V2332,mob,vivo,vivo,,,Y03,#
 V2406,mob,vivo,vivo,,,Y03,#
 V2344,mob,vivo,vivo,,,Y03t,#
 V2409,mob,vivo,vivo,,,Y03t,#
+V2430,mob,vivo,vivo,,,Y04,#
+V2438,mob,vivo,vivo,,,Y04,#
 V2028,mob,vivo,vivo,,,Y11s,#
 vivo 1904,mob,vivo,vivo,,,Y12,#
 V2026,mob,vivo,vivo,,,Y12A,#
@@ -7546,6 +7559,8 @@ V2350,mob,vivo,vivo,,,Y18e,#
 V2414,mob,vivo,vivo,,,Y18i,#
 vivo 1915,mob,vivo,vivo,,,Y19,#
 V2419,mob,vivo,vivo,,,Y19s,#
+V2423,mob,vivo,vivo,,,Y19s,#
+V2431,mob,vivo,vivo,,,Y19e,#
 V2027,mob,vivo,vivo,,,Y20,#
 V2037,mob,vivo,vivo,,,Y20G,#
 V2032,mob,vivo,vivo,,,Y20i,#
@@ -7580,6 +7595,8 @@ V2315,mob,vivo,vivo,,,Y28,#5G
 V2346,mob,vivo,vivo,,,Y28s,#5G
 V2351,mob,vivo,vivo,,,Y28s,#5G
 V2407,mob,vivo,vivo,,,Y28e,#5G
+V2434,mob,vivo,vivo,,,Y29,#
+V2435,mob,vivo,vivo,,,Y29,#
 V2420,mob,vivo,vivo,,,Y29,#5G
 V2446,mob,vivo,vivo,,,Y29s,#5G
 V2160,mob,vivo,vivo,,,Y30,#5G
@@ -7595,7 +7612,9 @@ V2324,mob,vivo,vivo,,,Y36,#
 V2248,mob,vivo,vivo,,,Y36,#5G
 V2343,mob,vivo,vivo,,,Y38,#5G
 V2436,mob,vivo,vivo,,,Y39,#5G
-V2444,mob,vivo,vivo,,,Y39,#5G
+V2443,mob,vivo,vivo,,,Y39,#5G
+V2447,mob,vivo,vivo,,,Y39,#5G
+V2444,mob,vivo,vivo,,,Jovi Y39,#5G
 V2024,mob,vivo,vivo,,,Y51,#
 V2030,mob,vivo,vivo,,,Y51,#
 V2035,mob,vivo,vivo,,,Y51,#
