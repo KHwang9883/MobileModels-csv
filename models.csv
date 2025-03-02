@@ -1782,31 +1782,31 @@ S8-701u,pad,honor,荣耀,,,荣耀平板,#3G 版
 T1-821w,pad,honor,荣耀,,,荣耀平板,#优享版
 T1-823L,pad,honor,荣耀,,,荣耀平板,#LTE 版
 JDN-W09,pad,honor,荣耀,,Jordan,荣耀平板 2,#Wi-Fi 版
-JDN-AL00,pad,honor,荣耀,,Jordan,荣耀平板 2,#全网通版
+JDN-AL00,pad,honor,荣耀,,Jordan,荣耀平板 2,#LTE 版
 AGS2-W09HN,pad,honor,荣耀,,Agassi2,荣耀平板 5,#10.1 英寸 Wi-Fi 版
-AGS2-AL00HN,pad,honor,荣耀,,Agassi2,荣耀平板 5,#10.1 英寸 全网通版
+AGS2-AL00HN,pad,honor,荣耀,,Agassi2,荣耀平板 5,#10.1 英寸 LTE 版
 JDN2-W09HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,#8 英寸 Wi-Fi 版
-JDN2-AL00HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,#8 英寸 全网通版
-JDN-AL50HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,#8 英寸 全网通版
+JDN2-AL00HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,#8 英寸 LTE 版
+JDN-AL50HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,#8 英寸 LTE 版
 KRJ-W09,pad,honor,荣耀,,Karajan,荣耀平板 V6,#10.4 英寸 Wi-Fi 版 (华为终端)
 KRJ-AN00,pad,honor,荣耀,,Karajan,荣耀平板 V6,#10.4 英寸 5G 版 (华为终端)
 KJR-W09,pad,honor,荣耀,,KarajanR,荣耀平板 V6,#10.4 英寸 Wi-Fi 版 (荣耀终端)
 AGS3-W09HN,pad,honor,荣耀,,Agassi3,荣耀平板 6,#10.1 英寸 Wi-Fi 版
-AGS3-AL09HN,pad,honor,荣耀,,Agassi3,荣耀平板 6,#10.1 英寸 全网通版
+AGS3-AL09HN,pad,honor,荣耀,,Agassi3,荣耀平板 6,#10.1 英寸 LTE 版
 AGR-W09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,#9.7 英寸 Wi-Fi 版
-AGR-AL09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,#9.7 英寸 全网通版
+AGR-AL09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,#9.7 英寸 LTE 版
 KRJ2-W09,pad,honor,荣耀,,Karajan2,荣耀平板 V7,#10.4 英寸 Wi-Fi 版
 KRJ2-AN00,pad,honor,荣耀,,Karajan2,荣耀平板 V7,#10.4 英寸 5G 版
 BRT-W09,pad,honor,荣耀,,Britten,荣耀平板 V7 Pro,#11 英寸 Wi-Fi 版
 BRT-AN09,pad,honor,荣耀,,Britten,荣耀平板 V7 Pro,#11 英寸 5G 版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 7,#10.1 英寸 Wi-Fi 版
-AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 7,#10.1 英寸 全网通版
+AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 7,#10.1 英寸 LTE 版
 KOB2-W09HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,#8 英寸 Wi-Fi 版
-KOB2-AL00HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,#8 英寸 全网通版
+KOB2-AL00HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,#8 英寸 LTE 版
 AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,#9.7 英寸 Wi-Fi 版
-AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,#9.7 英寸 全网通版
+AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,#9.7 英寸 LTE 版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,#10.1 英寸 Wi-Fi 版
-AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,#10.1 英寸 全网通版
+AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,#10.1 英寸 LTE 版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 X8,#10.1 英寸 Wi-Fi 版
 ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,#11.5 英寸 Wi-Fi 版
 ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 Z6,#11.5 英寸 Wi-Fi 版
@@ -1823,14 +1823,14 @@ HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,#12.1 英寸 5G 版
 ROD2-W09,pad,honor,荣耀,,Rolland2,荣耀平板 MagicPad 2,#12.3 英寸 Wi-Fi 版
 ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,#12.3 英寸 Wi-Fi 版
 NDL-W09,pad,honor,荣耀,,,荣耀平板 X9,#11 英寸 Wi-Fi 版
-NDL-AL00,pad,honor,荣耀,,,荣耀平板 X9,#11 英寸 全网通版
+NDL-AL00,pad,honor,荣耀,,,荣耀平板 X9,#11 英寸 LTE 版
 ROL-W00,pad,honor,荣耀,,,荣耀平板 V9,#11.5 英寸 Wi-Fi 版
 ROL-W10,pad,honor,荣耀,,,荣耀平板 V9,#柔光版 11.5 英寸 Wi-Fi 版
 ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,#11.5 英寸 Wi-Fi 版
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 Wi-Fi 版
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 LTE 版
 HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,#8 英寸 Wi-Fi 版
-HDL-AL09,pad,honor,荣耀,,Handel,荣耀 Waterplay,#8 英寸 全网通版
+HDL-AL09,pad,honor,荣耀,,Handel,荣耀 Waterplay,#8 英寸 LTE 版
 7D-501u,pad,honor,荣耀,,,荣耀 X1,#3G 版
 7D-503L,pad,honor,荣耀,,,荣耀 X1,#4G 版
 7D-503LT,pad,honor,荣耀,,,荣耀 X1,#移动 4G 版
@@ -2619,134 +2619,135 @@ FDR-A03L,pad,huawei,华为,,,华为揽阅 M2 青春版,#10.1 英寸 LTE 版
 BTV-W09,pad,huawei,华为,,Beethoven,华为平板 M3,#Wi-Fi 版
 BTV-DL09,pad,huawei,华为,,Beethoven,华为平板 M3,#LTE 版
 CPN-W09,pad,huawei,华为,,Chopin,华为平板 M3 青春版,#8.0 英寸 Wi-Fi 版
-CPN-AL00,pad,huawei,华为,,Chopin,华为平板 M3 青春版,#8.0 英寸 全网通版
+CPN-AL00,pad,huawei,华为,,Chopin,华为平板 M3 青春版,#8.0 英寸 LTE 版
 BAH-W09,pad,huawei,华为,,Bach,华为平板 M3 青春版,#10.1 英寸 Wi-Fi 版
-BAH-AL00,pad,huawei,华为,,Bach,华为平板 M3 青春版,#10.1 英寸 全网通版
+BAH-AL00,pad,huawei,华为,,Bach,华为平板 M3 青春版,#10.1 英寸 LTE 版
 SHT-W09,pad,huawei,华为,,Schubert,华为平板 M5,#8.4 英寸 Wi-Fi 版
-SHT-AL09,pad,huawei,华为,,Schubert,华为平板 M5,#8.4 英寸 全网通版
+SHT-AL09,pad,huawei,华为,,Schubert,华为平板 M5,#8.4 英寸 LTE 版
 CMR-W09,pad,huawei,华为,,Cameron,华为平板 M5,#10.8 英寸 Wi-Fi 版
-CMR-AL09,pad,huawei,华为,,Cameron,华为平板 M5,#10.8 英寸 全网通版
+CMR-AL09,pad,huawei,华为,,Cameron,华为平板 M5,#10.8 英寸 LTE 版
 CMR-W19,pad,huawei,华为,,Cameron,华为平板 M5,#Pro Wi-Fi 版
-CMR-AL19,pad,huawei,华为,,Cameron,华为平板 M5,#Pro 全网通版
+CMR-AL19,pad,huawei,华为,,Cameron,华为平板 M5,#Pro LTE 版
 BAH2-W09,pad,huawei,华为,,Bach2,华为平板 M5 青春版,#10.1 英寸 Wi-Fi 版
-BAH2-AL10,pad,huawei,华为,,Bach2,华为平板 M5 青春版,#10.1 英寸 全网通版
+BAH2-AL10,pad,huawei,华为,,Bach2,华为平板 M5 青春版,#10.1 英寸 LTE 版
 JDN2-W09,pad,huawei,华为,,Jordan2,华为平板 M5 青春版,#8 英寸 Wi-Fi 版
-JDN2-AL00,pad,huawei,华为,,Jordan2,华为平板 M5 青春版,#8 英寸 全网通版
-JDN2-AL50,pad,huawei,华为,,Jordan2,华为平板 M5 青春版,#8 英寸 全网通版
+JDN2-AL00,pad,huawei,华为,,Jordan2,华为平板 M5 青春版,#8 英寸 LTE 版
+JDN2-AL50,pad,huawei,华为,,Jordan2,华为平板 M5 青春版,#8 英寸 LTE 版
 VRD-W09,pad,huawei,华为,,Verdi,华为平板 M6,#8.4 英寸 Wi-Fi 版
-VRD-AL09,pad,huawei,华为,,Verdi,华为平板 M6,#8.4 英寸 全网通版
+VRD-AL09,pad,huawei,华为,,Verdi,华为平板 M6,#8.4 英寸 LTE 版
 VRD-W10,pad,huawei,华为,,Verdi,华为平板 M6,#高能版 8.4 英寸 Wi-Fi 版
-VRD-AL10,pad,huawei,华为,,Verdi,华为平板 M6,#高能版 8.4 英寸 全网通版
+VRD-AL10,pad,huawei,华为,,Verdi,华为平板 M6,#高能版 8.4 英寸 LTE 版
 SCM-W09,pad,huawei,华为,,Schumann,华为平板 M6,#10.8 英寸 Wi-Fi 版
-SCM-AL09,pad,huawei,华为,,Schumann,华为平板 M6,#10.8 英寸 全网通版
+SCM-AL09,pad,huawei,华为,,Schumann,华为平板 M6,#10.8 英寸 LTE 版
 MRX-W09,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)
 MRX-W29,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB)
-MRX-AL09,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 4G 全网通版 (6GB+128GB/8GB+256GB)
+MRX-AL09,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 LTE 版 (6GB+128GB/8GB+256GB)
 MRX-W19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (8GB+256GB)
 MRX-W39,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 Wi-Fi 版 (8GB+256GB)
-MRX-AL19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 4G 全网通版 (8GB+512GB)
-MRX-AN19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 5G 全网通版
+MRX-AL19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 LTE 版 (8GB+512GB)
+MRX-AN19,pad,huawei,华为,,Marx,HUAWEI MatePad Pro,#10.8 英寸 5G 版
 MRR-W29,pad,huawei,华为,,MarxR,HUAWEI MatePad Pro 10.8 英寸,#2021 Wi-Fi 版
 MRR-W39,pad,huawei,华为,,MarxR,HUAWEI MatePad Pro 10.8 英寸,#2021 Wi-Fi 版
 GOT-W29,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11 英寸,#Wi-Fi 版
 GOT-W09,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11 英寸,#性能版 Wi-Fi 版
-GOT-AL09,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11 英寸,#性能版 全网通版
-GOT-AL19,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11 英寸,#性能版 全网通版 (12GB+512GB)
+GOT-AL09,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11 英寸,#性能版 LTE 版
+GOT-AL19,pad,huawei,华为,,Goethe,HUAWEI MatePad Pro 11 英寸,#性能版 LTE 版 (12GB+512GB)
 XYAO-W00,pad,huawei,华为,,Xiaoyao,HUAWEI MatePad Pro 11 英寸,#2024 Wi-Fi 版
 WGR-W09,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6 英寸,#2021 Wi-Fi 版
 WGR-W19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6 英寸,#2021 Wi-Fi 版
-WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6 英寸,#2021 5G 全网通版
+WGR-AN19,pad,huawei,华为,,Wagner,HUAWEI MatePad Pro 12.6 英寸,#2021 5G 版
 WGRR-W09,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6 英寸,#2022 Wi-Fi 版
 WGRR-W19,pad,huawei,华为,,WagnerR,HUAWEI MatePad Pro 12.6 英寸,#2022 Wi-Fi 版
 PCE-W30,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#Wi-Fi 版
 PCE-W40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#Wi-Fi 版 (16GB+1TB)
-PCE-AL30,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#全网通版
-PCE-AL40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#典藏版 全网通版
+PCE-AL30,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#SIM 卡版
+PCE-AL40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#典藏版 SIM 卡版
 MRO-W00,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版
 MRO-W10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版 (16GB+1TB)
-MRO-AL10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#全网通版 (16GB+1TB)
+MRO-AL10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#SIM 卡版 (16GB+1TB)
 WEB-W00,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版
 WEB-W10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版 (16GB+1TB)
+WEB-AL00,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 典藏版 SIM 卡版
 DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
-DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 全网通版
+DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 LTE 版
 BKY-W00,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,#12 英寸 Wi-Fi 版 (8GB+256GB)
 BKY-W10,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,#12 英寸 Wi-Fi 版 (12GB+256GB)
 BKY-W20,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,#12 英寸 柔光版 Wi-Fi 版
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 810)
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 Wi-Fi 版 (麒麟 820)
-BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 全网通版 (麒麟 810)
-BAH3-AN10,pad,huawei,华为,,Bach3,HUAWEI MatePad,#5G 10.4 英寸 全网通版 (麒麟 820)
+BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,#10.4 英寸 LTE 版 (麒麟 810)
+BAH3-AN10,pad,huawei,华为,,Bach3,HUAWEI MatePad,#5G 10.4 英寸 (麒麟 820)
 SCMR-W09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8 英寸,#Wi-Fi 版
-SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8 英寸,#全网通版
+SCMR-AL09,pad,huawei,华为,,SchumannR,HUAWEI MatePad 10.8 英寸,#LTE 版
 BAH4-W09,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W29,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W39,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 Wi-Fi 版 (麒麟 710A)
 BAH4-W19,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 Wi-Fi 版 (骁龙 778G 4G)
-BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 全网通版 (骁龙 778G 4G)
+BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad,#10.4 英寸 2022 悦动版 LTE 版 (骁龙 778G 4G)
 DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11 英寸,#Wi-Fi 版
 DBR-W00,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,#Wi-Fi 版
 DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,#柔光版 Wi-Fi 版
 BTK-W00,pad,huawei,华为,,Bartok,HUAWEI MatePad,#11.5 英寸 2023 Wi-Fi 版
-BTK-AL00,pad,huawei,华为,,Bartok,HUAWEI MatePad,#11.5 英寸 2023 全网通版
+BTK-AL00,pad,huawei,华为,,Bartok,HUAWEI MatePad,#11.5 英寸 2023 LTE 版
 BTKR-W00,pad,huawei,华为,,BartokR,HUAWEI MatePad 11.5,#英寸 2024 Wi-Fi 版
 TGR-W00,pad,huawei,华为,,Tagore,"HUAWEI MatePad 11.5"" S",#Wi-Fi 版
 TGR-W10,pad,huawei,华为,,Tagore,"HUAWEI MatePad 11.5"" S",#柔光版 Wi-Fi 版
 DMG-W00,pad,huawei,华为,,Domingo,"HUAWEI MatePad 11.5"" S",#灵动款 Wi-Fi 版
 AGS2-W09,pad,huawei,华为,,Agassi2,华为畅享平板,#10.1 英寸 Wi-Fi 版
-AGS2-AL00,pad,huawei,华为,,Agassi2,华为畅享平板,#10.1 英寸 全网通版
+AGS2-AL00,pad,huawei,华为,,Agassi2,华为畅享平板,#10.1 英寸 LTE 版
 AGS3-W00D,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 Wi-Fi 版 (4GB+64GB)
 AGS3-W00E,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 Wi-Fi 版 (4GB+128GB)
 AGS3K-W00,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 Wi-Fi 版
 AGS3K-W10,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 Wi-Fi 版
-AGS3-AL00,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 全网通版
-AGS3K-AL00,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 全网通版
+AGS3-AL00,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 LTE 版
+AGS3K-AL00,pad,huawei,华为,,Agassi3,华为畅享平板 2,#10.1 英寸 LTE 版
 AGS3K-W20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 Wi-Fi 版
-AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 全网通版
+AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,#10.1 英寸 LTE 版
 AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4 英寸,#Wi-Fi 版
-AGS5-AL00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4 英寸,#全网通版
+AGS5-AL00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4 英寸,#LTE 版
 AGS6-W00,pad,huawei,华为,,Agassi6,HUAWEI MatePad SE 11 英寸,#Wi-Fi 版
 AGS6-W10,pad,huawei,华为,,Agassi6,HUAWEI MatePad SE 11 英寸,#活力版 11 英寸 Wi-Fi 版
 HMW-W09,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#10.3 英寸 Wi-Fi 版
-HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#典藏版 10.3 英寸 全网通版
+HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,#典藏版 10.3 英寸 LTE 版
 BZK-W00,pad,huawei,华为,,Kobe,华为平板 C3,#(华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
 BZK-L00,pad,huawei,华为,,Kobe,华为平板 C3,#(华为平板 T3 行业专享版) 8 英寸 LTE 版
 BZA-W00,pad,huawei,华为,,Agassi,华为平板 C3,#(华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版
 BZA-L00,pad,huawei,华为,,Agassi,华为平板 C3,#(华为平板 T3 行业专享版) 9.6 英寸 LTE 版
 BZD-W00,pad,huawei,华为,,,华为平板 C3 2020,#8 英寸 2020 Wi-Fi 版
-BZD-AL00,pad,huawei,华为,,,华为平板 C3 2020,#8 英寸 2020 全网通版
-BZD-AL10,pad,huawei,华为,,,华为平板 C3 2020,#8 英寸 2020 全网通版
+BZD-AL00,pad,huawei,华为,,,华为平板 C3 2020,#8 英寸 2020 LTE 版
+BZD-AL10,pad,huawei,华为,,,华为平板 C3 2020,#8 英寸 2020 LTE 版
 BZC-W00,pad,huawei,华为,,,华为平板 C3 2020,#9.7 英寸 2020 Wi-Fi 版
-BZC-AL00,pad,huawei,华为,,,华为平板 C3 2020,#9.7 英寸 2020 全网通版
+BZC-AL00,pad,huawei,华为,,,华为平板 C3 2020,#9.7 英寸 2020 LTE 版
 BZH-W00,pad,huawei,华为,,,华为平板 C3 2022,#9.7 英寸 2022 Wi-Fi 版
 BZH-W30,pad,huawei,华为,,,华为平板 C3 2022,#9.7 英寸 2022 Wi-Fi 版
 BXE3-W00,pad,huawei,华为,,,华为擎云 C3,#10.4 英寸 Wi-Fi 版
 BVE3-W00,pad,huawei,华为,,,华为擎云 C3,#10.4 英寸 Wi-Fi 版
 BXN3-W00,pad,huawei,华为,,,华为擎云 C3,#10.4 英寸 Wi-Fi 版
 MON-W19,pad,huawei,华为,,,华为平板 C5,#8 英寸 Wi-Fi 版
-MON-AL19,pad,huawei,华为,,,华为平板 C5,#8 英寸 全网通版
+MON-AL19,pad,huawei,华为,,,华为平板 C5,#8 英寸 LTE 版
 BZT-W09,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 Wi-Fi 版
-BZT-AL00,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 全网通标配版
-BZT-AL10,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 全网通高配版
-BZW-AL00,pad,huawei,华为,,,华为平板 C5 2020,#8 英寸 2020 全网通版 (4GB+32GB)
-BZW-AL10,pad,huawei,华为,,,华为平板 C5 2020,#8 英寸 2020 全网通版 (4GB+64GB)
+BZT-AL00,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 LTE 标配版
+BZT-AL10,pad,huawei,华为,,,华为平板 C5,#10.1 英寸 LTE 高配版
+BZW-AL00,pad,huawei,华为,,,华为平板 C5 2020,#8 英寸 2020 LTE 版 (4GB+32GB)
+BZW-AL10,pad,huawei,华为,,,华为平板 C5 2020,#8 英寸 2020 LTE 版 (4GB+64GB)
 BZT3-W09,pad,huawei,华为,,,华为平板 C5 2020,#10.4 英寸 2020 Wi-Fi 版
-BZT3-AL00,pad,huawei,华为,,,华为平板 C5 2020,#10.4 英寸 2020 全网通版
+BZT3-AL00,pad,huawei,华为,,,华为平板 C5 2020,#10.4 英寸 2020 LTE 版
 BZT3-W59,pad,huawei,华为,,,华为平板 C5 2021,#10.4 英寸 2021 Wi-Fi 版
 BZT3-W69,pad,huawei,华为,,,华为平板 C5 2021,#10.4 英寸 2021 Wi-Fi 版
 BZT4-W19,pad,huawei,华为,,,华为平板 C5 2022,#10.4 英寸 2022 Wi-Fi 版
-BZT4-AL10,pad,huawei,华为,,,华为平板 C5 2022,#10.4 英寸 2022 全网通版
+BZT4-AL10,pad,huawei,华为,,,华为平板 C5 2022,#10.4 英寸 2022 LTE 版
 KOB2KZ-W09,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,#8 英寸 Wi-Fi 版
-KOB2KZ-AL00,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,#8 英寸 全网通版
+KOB2KZ-AL00,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,#8 英寸 LTE 版
 BTKZ-W00,pad,huawei,华为,,BartokZ,华为擎云 C5 (第 2 代),#11.5 英寸 Wi-Fi 版
-BTKZ-AL00,pad,huawei,华为,,BartokZ,华为擎云 C5 (第 2 代),#11.5 英寸 全网通版
+BTKZ-AL00,pad,huawei,华为,,BartokZ,华为擎云 C5 (第 2 代),#11.5 英寸 LTE 版
 BJS5-W00,pad,huawei,华为,,,华为擎云 C5 (第 3 代),#11.5 英寸 Wi-Fi 版
 BZI-W00,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 Wi-Fi 版
 BZI-W20,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 Wi-Fi 版
-BZI-AL00,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 全网通版
-BZI-AL20,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 全网通版
+BZI-AL00,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 LTE 版
+BZI-AL20,pad,huawei,华为,,,华为平板 C5e,#10.1 英寸 2022 LTE 版
 AGS5Z-W09,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 Wi-Fi 版
 AGS5Z-W19,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 Wi-Fi 版
-AGS5Z-AL00,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 全网通版
+AGS5Z-AL00,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,#10.4 英寸 LTE 版
 BZF5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),#11 英寸 Wi-Fi 版
 BLF5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),#11 英寸 Wi-Fi 版
 BZH5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),#11 英寸 Wi-Fi 版
@@ -2906,8 +2907,8 @@ DRC-W56,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2022,#i5 (16GB+512GB)
 DRC-W76,computer,huawei,华为,,Dirac,HUAWEI MateBook E 2022,#i7 (16GB+512GB)
 DRR-W56,computer,huawei,华为,,DiracR,HUAWEI MateBook E 2023,#i5
 DRR-W76,computer,huawei,华为,,DiracR,HUAWEI MateBook E 2023,#i7
-GK-G58,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (8GB+256GB)
-GK-G56,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#全网通 (16GB+512GB)
+GK-G58,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#LTE (8GB+256GB)
+GK-G56,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#LTE (16GB+512GB)
 GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#性能版 Wi-Fi
 GK-W76,computer,huawei,华为,,Gaokun,HUAWEI MateBook E Go,#2023 Wi-Fi
 NBZ-WBH9,computer,huawei,华为,,NobelBZ,HUAWEI MateBook B3-410,#i5 (8GB+256GB)
@@ -7481,6 +7482,8 @@ V2427,mob,vivo,vivo,,,V50,#
 V2448,mob,vivo,vivo,,,V50,#
 V2451,mob,vivo,vivo,,,V50,#
 V2428,mob,vivo,vivo,,,V50e,#
+V2441,mob,vivo,vivo,,,V50 Lite,#
+V2453,mob,vivo,vivo,,,V50 Lite,#
 V2440,mob,vivo,vivo,,,Jovi V50 Lite,#
 vivo 1907,mob,vivo,vivo,,,S1,#
 V1937,mob,vivo,vivo,,,S1 Prime,#
