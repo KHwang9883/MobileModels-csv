@@ -104,11 +104,11 @@ A2097,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#GSM
 A2098,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#日本
 A2100,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#中国大陆
 A2099,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#中国移动
-A2104,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,#中国大陆 & 港澳
-A2103,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,#中国移动
 A1921,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,#北美
 A2101,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,#GSM
 A2102,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,#日本
+A2104,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,#中国大陆 & 港澳
+A2103,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,#中国移动
 A1984,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,#北美
 A2105,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,#GSM
 A2106,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,#日本
@@ -259,6 +259,9 @@ A2696,pad,apple,Apple,J271AP,"iPad13,18",iPad (第 10 代),#无线局域网
 A2757,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),#(无线局域网 + 蜂窝网络) (eSIM)
 A2777,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),#(无线局域网 + 蜂窝网络) (中国大陆)
 A3162,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),"#(无线局域网 + 蜂窝网络) (eSIM, 中国大陆)"
+A3354,pad,apple,Apple,J481AP,"iPad15,7",iPad (A16),#无线局域网
+A3355,pad,apple,Apple,J482AP,"iPad15,8",iPad (A16),#无线局域网 + 蜂窝网络
+A3356,pad,apple,Apple,J482AP,"iPad15,8",iPad (A16),#(无线局域网 + 蜂窝网络) (中国大陆)
 A1474,pad,apple,Apple,J71AP,"iPad4,1",iPad Air,#无线局域网
 A1475,pad,apple,Apple,J72AP,"iPad4,2",iPad Air,#无线局域网 + 蜂窝网络
 A1476,pad,apple,Apple,J73AP,"iPad4,3",iPad Air,#(无线局域网 + 蜂窝网络) (TD-LTE)
@@ -281,6 +284,12 @@ A2904,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11 英寸, M2)",#(无线局�
 A2898,pad,apple,Apple,J537AP,"iPad14,10","iPad Air (13 英寸, M2)",#无线局域网
 A2899,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13 英寸, M2)",#无线局域网 + 蜂窝网络
 A2900,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13 英寸, M2)",#(无线局域网 + 蜂窝网络) (中国大陆)
+A3266,pad,apple,Apple,J607AP,"iPad15,3","iPad Air (11 英寸, M3)",#无线局域网
+A3267,pad,apple,Apple,J608AP,"iPad15,4","iPad Air (11 英寸, M3)",#无线局域网 + 蜂窝网络
+A3270,pad,apple,Apple,J608AP,"iPad15,4","iPad Air (11 英寸, M3)",#(无线局域网 + 蜂窝网络) (中国大陆)
+A3268,pad,apple,Apple,J637AP,"iPad15,5","iPad Air (13 英寸, M3)",#无线局域网
+A3269,pad,apple,Apple,J638AP,"iPad15,6","iPad Air (13 英寸, M3)",#无线局域网 + 蜂窝网络
+A3271,pad,apple,Apple,J638AP,"iPad15,6","iPad Air (13 英寸, M3)",#(无线局域网 + 蜂窝网络) (中国大陆)
 A1584,pad,apple,Apple,J98aAP,"iPad6,7",iPad Pro (12.9 英寸),#无线局域网
 A1652,pad,apple,Apple,J99aAP,"iPad6,8",iPad Pro (12.9 英寸),#无线局域网 + 蜂窝网络
 A1673,pad,apple,Apple,J127AP,"iPad6,3",iPad Pro (9.7 英寸),#无线局域网
@@ -534,11 +543,11 @@ A2097,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#GSM
 A2098,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#Japan
 A2100,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#China mainland
 A2099,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#China Mobile
-A2104,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,"#China mainland, Hong Kong, Macao"
-A2103,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,#China Mobile
 A1921,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,#North America
 A2101,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,#GSM
 A2102,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,#Japan
+A2104,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,"#China mainland, Hong Kong, Macao"
+A2103,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,#China Mobile
 A1984,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,#North America
 A2105,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,#GSM
 A2106,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,#Japan
@@ -689,6 +698,9 @@ A2696,pad,apple,Apple,J271AP,"iPad13,18",iPad (10th generation),#Wi-Fi
 A2757,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),#Wi-Fi + Cellular
 A2777,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),#Wi-Fi + Cellular (China mainland)
 A3162,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),"#Wi-Fi + Cellular (eSIM, China mainland)"
+A3354,pad,apple,Apple,J481AP,"iPad15,7",iPad (A16),#Wi-Fi
+A3355,pad,apple,Apple,J482AP,"iPad15,8",iPad (A16),#Wi-Fi + Cellular
+A3356,pad,apple,Apple,J482AP,"iPad15,8",iPad (A16),#Wi-Fi + Cellular (China mainland)
 A1474,pad,apple,Apple,J71AP,"iPad4,1",iPad Air,#Wi-Fi
 A1475,pad,apple,Apple,J72AP,"iPad4,2",iPad Air,#Wi-Fi + Cellular
 A1476,pad,apple,Apple,J73AP,"iPad4,3",iPad Air,#Wi-Fi + Cellular (TD-LTE)
@@ -711,6 +723,12 @@ A2904,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11-inch, M2)",#Wi-Fi + Cellul
 A2898,pad,apple,Apple,J537AP,"iPad14,10","iPad Air (13-inch, M2)",#Wi-Fi
 A2899,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13-inch, M2)",#Wi-Fi + Cellular
 A2900,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13-inch, M2)",#Wi-Fi + Cellular (China mainland)
+A3266,pad,apple,Apple,J607AP,"iPad15,3","iPad Air (11-inch, M3)",#Wi-Fi
+A3267,pad,apple,Apple,J608AP,"iPad15,4","iPad Air (11-inch, M3)",#Wi-Fi + Cellular
+A3270,pad,apple,Apple,J608AP,"iPad15,4","iPad Air (11-inch, M3)",#Wi-Fi + Cellular (China mainland)
+A3268,pad,apple,Apple,J637AP,"iPad15,5","iPad Air (13-inch, M3)",#Wi-Fi
+A3269,pad,apple,Apple,J638AP,"iPad15,6","iPad Air (13-inch, M3)",#Wi-Fi + Cellular
+A3271,pad,apple,Apple,J638AP,"iPad15,6","iPad Air (13-inch, M3)",#Wi-Fi + Cellular (China mainland)
 A1584,pad,apple,Apple,J98aAP,"iPad6,7",iPad Pro (12.9-inch),#Wi-Fi
 A1652,pad,apple,Apple,J99aAP,"iPad6,8",iPad Pro (12.9-inch),#Wi-Fi + Cellular
 A1673,pad,apple,Apple,J127AP,"iPad6,3",iPad Pro (9.7-inch),#Wi-Fi
@@ -936,7 +954,7 @@ A1865,mob,apple,Apple,D22AP,"iPhone10,3",iPhone X,#
 A1903,mob,apple,Apple,D22AP,"iPhone10,3",iPhone X,#中国移动
 A2100,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#
 A2099,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,#中国移动
-A2104,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,#
+A2104,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,#
 A2103,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,#中国移动
 A2108,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,#
 A2107,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,#中国移动
@@ -993,6 +1011,8 @@ A2605,pad,apple,Apple,J182AP,"iPad12,2",iPad (第 9 代),#无线局域网 + 蜂�
 A2696,pad,apple,Apple,J271AP,"iPad13,18",iPad (第 10 代),#无线局域网
 A2777,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),#无线局域网 + 蜂窝网络
 A3162,pad,apple,Apple,J272AP,"iPad13,19",iPad (第 10 代),#(无线局域网 + 蜂窝网络) (eSIM)
+A3354,pad,apple,Apple,J481AP,"iPad15,7",iPad (A16),#无线局域网
+A3356,pad,apple,Apple,J482AP,"iPad15,8",iPad (A16),#无线局域网 + 蜂窝网络
 A1474,pad,apple,Apple,J71AP,"iPad4,1",iPad Air,#无线局域网
 A1475,pad,apple,Apple,J72AP,"iPad4,2",iPad Air,#无线局域网 + 蜂窝网络
 A1476,pad,apple,Apple,J73AP,"iPad4,3",iPad Air,#(无线局域网 + 蜂窝网络) (TD-LTE)
@@ -1008,6 +1028,10 @@ A2902,pad,apple,Apple,J507AP,"iPad14,8","iPad Air (11 英寸, M2)",#无线局域
 A2904,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11 英寸, M2)",#无线局域网 + 蜂窝网络
 A2898,pad,apple,Apple,J537AP,"iPad14,10","iPad Air (13 英寸, M2)",#无线局域网
 A2900,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13 英寸, M2)",#无线局域网 + 蜂窝网络
+A3266,pad,apple,Apple,J607AP,"iPad15,3","iPad Air (11 英寸, M3)",#无线局域网
+A3270,pad,apple,Apple,J608AP,"iPad15,4","iPad Air (11 英寸, M3)",#无线局域网 + 蜂窝网络
+A3268,pad,apple,Apple,J637AP,"iPad15,5","iPad Air (13 英寸, M3)",#无线局域网
+A3271,pad,apple,Apple,J638AP,"iPad15,6","iPad Air (13 英寸, M3)",#无线局域网 + 蜂窝网络
 A1584,pad,apple,Apple,J98aAP,"iPad6,7",iPad Pro (12.9 英寸),#无线局域网
 A1652,pad,apple,Apple,J99aAP,"iPad6,8",iPad Pro (12.9 英寸),#无线局域网 + 蜂窝网络
 A1673,pad,apple,Apple,J127AP,"iPad6,3",iPad Pro (9.7 英寸),#无线局域网
@@ -4739,6 +4763,8 @@ A065,mob,nothing,Nothing,,Pong,Nothing Phone (2),#Global
 AIN065,mob,nothing,Nothing,,Pong,Nothing Phone (2),#India
 A142,mob,nothing,Nothing,,Pacman,Nothing Phone (2a),#
 A142P,mob,nothing,Nothing,,PacmanPro,Nothing Phone (2a) Plus,#
+A059,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a),#
+A059P,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a) Plus,#
 A015,mob,nothing,Nothing,,Tetris,CMF Phone 1,#
 NX501,mob,nubia,努比亚,,,Z5,#
 NX401,mob,nubia,努比亚,,,Z5 mini,#
