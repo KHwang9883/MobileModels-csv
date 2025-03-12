@@ -5858,6 +5858,7 @@ RMX5000,mob,realme,realme,,,13+ 5G,#
 RMX3990,mob,realme,realme,,,13 Pro 5G|14 Pro Lite 5G,#
 RMX3990,mob,realme,realme,,,13 Pro 5G|14 Pro Lite 5G,1#
 RMX3921,mob,realme,realme,,,13 Pro+ 5G,#
+RMX5070,mob,realme,realme,,,14 5G,#
 RMX3940,mob,realme,realme,,,14x 5G,#
 RMX5056,mob,realme,realme,,,14 Pro 5G,#
 RMX5051,mob,realme,realme,,,14 Pro+ 5G,#
@@ -5962,8 +5963,10 @@ RMX3870,mob,realme,realme,,,P1,#5G
 RMX3844,mob,realme,realme,,coffee-a,P1 Pro,#5G
 RMX5004,mob,realme,realme,,,P1 Speed,#5G
 RMX3987,mob,realme,realme,,,P2 Pro,#5G
+RMX5070,mob,realme,realme,,,P3,#5G
 RMX3944,mob,realme,realme,,,P3x,#5G
 RMX5032,mob,realme,realme,,,P3 Pro,#5G
+RMX5030,mob,realme,realme,,,P3 Ultra,#5G
 RMX2002,mob,realme,realme,,nemo,Narzo,#Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,#India
 RMX2020,mob,realme,realme,,,Narzo 10A,#India
@@ -5999,6 +6002,7 @@ RMX3869,mob,realme,realme,,,NARZO 70,#5G
 RMX3868,mob,realme,realme,,,NARZO 70 Pro,#5G
 RMX3998,mob,realme,realme,,,NARZO 70x,#5G
 RMX5003,mob,realme,realme,,,NARZO 70 Turbo,#5G
+RMX3944,mob,realme,realme,,,NARZO 80x,#5G
 RMP2102,pad,realme,realme,,,Pad,#LTE
 RMP2103,pad,realme,realme,,,Pad,#Wi-Fi
 RMP2105,pad,realme,realme,,,Pad mini,#LTE
@@ -6765,7 +6769,7 @@ SM-A135U,mob,samsung,Samsung,,a13,Galaxy A13,#US Carrier
 SM-A135U1,mob,samsung,Samsung,,a13,Galaxy A13,#US Unlocked
 SM-A135M,mob,samsung,Samsung,,a13,Galaxy A13,#Latin America
 SM-A135N,mob,samsung,Samsung,,a13,Galaxy A13,#South Korea
-SM-A137F,mob,samsung,Samsung,,a13ve,Galaxy A13,#Global (Mediatek)
+SM-A137F,mob,samsung,Samsung,,a13ve,Galaxy A13,#Global (MediaTek)
 SM-A136B,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#Global
 SM-A136U,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#US Carrier
 SM-A136U1,mob,samsung,Samsung,,a13x,Galaxy A13 5G,#US Unlocked
@@ -6776,11 +6780,11 @@ SM-A145F,mob,samsung,Samsung,,a14,Galaxy A14,#Global (Exynos)
 SM-A145FB,mob,samsung,Samsung,,a14,Galaxy A14,#Global (Exynos)
 SM-A145M,mob,samsung,Samsung,,a14,Galaxy A14,#Latin America
 SM-A145MB,mob,samsung,Samsung,,a14,Galaxy A14,#Latin America
-SM-A145P,mob,samsung,Samsung,,a14m,Galaxy A14,#MEA (Mediatek)
-SM-A145R,mob,samsung,Samsung,,a14m,Galaxy A14,#EU (Mediatek)
+SM-A145P,mob,samsung,Samsung,,a14m,Galaxy A14,#MEA (MediaTek)
+SM-A145R,mob,samsung,Samsung,,a14m,Galaxy A14,#EU (MediaTek)
 SM-A146B,mob,samsung,Samsung,,a14x,Galaxy A14 5G,#Global (Exynos)
 SM-A146M,mob,samsung,Samsung,,a14x,Galaxy A14 5G,#Latin America
-SM-A146P,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#Global (Mediatek)
+SM-A146P,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#Global (MediaTek)
 SM-A146U,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#US Carrier
 SM-A146U1,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#US Unlocked
 SM-S146VL,mob,samsung,Samsung,,a14xm,Galaxy A14 5G,#TracFone
@@ -6807,7 +6811,7 @@ SM-S166V,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#TracFone
 SM-A166W,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Canada
 SM-A166M,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#Latin America
 SM-A1660,mob,samsung,Samsung,,a16x,Galaxy A16 5G,#HK & TW
-SM-A166P,mob,samsung,Samsung,,a16xm,Galaxy A16 5G,#Global (Mediatek)
+SM-A166P,mob,samsung,Samsung,,a16xm,Galaxy A16 5G,#Global (MediaTek)
 SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,#Global
 SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,#India
 SM-A205F,mob,samsung,Samsung,,a20,Galaxy A20,#Global
@@ -6865,6 +6869,12 @@ SM-A256U1,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#US Unlocked
 SM-S256VL,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#TracFone
 SM-A2560,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#HK
 SM-A256N,mob,samsung,Samsung,,a25x,Galaxy A25 5G,#South Korea
+SM-A253Q,mob,samsung,Samsung,,a25ex,Galaxy A25 5G,#Japan (SIM Free)
+SM-A253Z,mob,samsung,Samsung,,a25ex,Galaxy A25 5G,#Japan (SoftBank)
+SM-A266B,mob,samsung,Samsung,,a26x,Galaxy A26 5G,#Global
+SM-A266U,mob,samsung,Samsung,,a26x,Galaxy A26 5G,#US Carrier
+SM-A266U1,mob,samsung,Samsung,,a26x,Galaxy A26 5G,#US Unlocked
+SM-S266V,mob,samsung,Samsung,,a26x,Galaxy A26 5G,#TracFone
 SM-A305F,mob,samsung,Samsung,,a30,Galaxy A30,#Global
 SM-A305FN,mob,samsung,Samsung,,a30,Galaxy A30,#EU
 SM-A305G,mob,samsung,Samsung,,a30,Galaxy A30,#Latin America
@@ -8264,12 +8274,13 @@ A401XM,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,#日本版 (SoftBank)
 22120RN86I,mob,xiaomi,小米,C3T,earth,Redmi 12C,#印度版
 2212ARNC4L,mob,xiaomi,小米,C3TL,earth,Redmi 12C,#拉美版 / 日本版
 22126RN91Y,mob,xiaomi,小米,C3TN,earth,Redmi 12C,#国际版 (NFC)
-2404ARN45A,mob,xiaomi,小米,N19A,moon,Redmi 13,#国际版
-2404ARN45I,mob,xiaomi,小米,N19A,moon,Redmi 13,#印度版
+2404ARN45A,mob,xiaomi,小米,N19A,moon,Redmi 13|Redmi 13X,#国际版
+2404ARN45A,mob,xiaomi,小米,N19A,moon,Redmi 13|Redmi 13X,1#国际版
+2404ARN45I,mob,xiaomi,小米,N19A,moon,Redmi 13|Redmi 13X,#印度版
 24049RN28L,mob,xiaomi,小米,N19L,moon,Redmi 13,#拉美版
 24040RN64Y,mob,xiaomi,小米,N19E,moon,Redmi 13,#国际版 (NFC)
 2406ERN9CI,mob,xiaomi,小米,N19,breeze,Redmi 13 5G,#印度版
-23106RN0DA,mob,xiaomi,小米,C3U,gale,Redmi 13C,#国际版
+23106RN0DA,mob,xiaomi,小米,C3UA,gale,Redmi 13C,#国际版
 2311DRN14I,mob,xiaomi,小米,C3U,gale,Redmi 13C,#印度版
 23100RN82L,mob,xiaomi,小米,C3UL,gale,Redmi 13C,#拉美版
 23108RN04Y,mob,xiaomi,小米,C3UN,gale,Redmi 13C,#国际版 (NFC)
@@ -8468,6 +8479,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,#5G 日本版 (KDDI)
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国行版
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#印度版
 24094RAD4G,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,#国际版
+2502FRA65G,mob,xiaomi,小米,N6R,emerald,Redmi Note 14S,#国际版
 24116RACCG,mob,xiaomi,小米,O6,obsidian,Redmi Note 14 Pro,#国际版
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,#国行版
 24090RA29G,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,#5G 国际版
@@ -9020,12 +9032,13 @@ A401XM,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,#Japan (SoftBank)
 22120RN86C,mob,xiaomi,Xiaomi,C3T,earth,Redmi 12C,#China
 2212ARNC4L,mob,xiaomi,Xiaomi,C3TL,earth,Redmi 12C,#Latin America / Japan
 22126RN91Y,mob,xiaomi,Xiaomi,C3TN,earth,Redmi 12C,#Global (NFC)
-2404ARN45A,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13,#Global
-2404ARN45I,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13,#India
+2404ARN45A,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13|Redmi 13X,#Global
+2404ARN45A,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13|Redmi 13X,1#Global
+2404ARN45I,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13|Redmi 13X,#India
 24049RN28L,mob,xiaomi,Xiaomi,N19L,moon,Redmi 13,#Latin America
 24040RN64Y,mob,xiaomi,Xiaomi,N19E,moon,Redmi 13,#Global (NFC)
 2406ERN9CI,mob,xiaomi,Xiaomi,N19,breeze,Redmi 13 5G,#India
-23106RN0DA,mob,xiaomi,Xiaomi,C3U,gale,Redmi 13C,#Global
+23106RN0DA,mob,xiaomi,Xiaomi,C3UA,gale,Redmi 13C,#Global
 2311DRN14I,mob,xiaomi,Xiaomi,C3U,gale,Redmi 13C,#India
 23100RN82L,mob,xiaomi,Xiaomi,C3UL,gale,Redmi 13C,#Latin America
 23108RN04Y,mob,xiaomi,Xiaomi,C3UN,gale,Redmi 13C,#Global (NFC)
@@ -9225,6 +9238,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,#Japan (KDDI)
 24094RAD4G,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#Global
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#India
 24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,#China
+2502FRA65G,mob,xiaomi,Xiaomi,N6R,emerald,Redmi Note 14S,#Global
 24116RACCG,mob,xiaomi,Xiaomi,O6,obsidian,Redmi Note 14 Pro,#Global
 24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,#Global
 24090RA29I,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,#India
