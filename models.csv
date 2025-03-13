@@ -2353,6 +2353,7 @@ ALN-AL80,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,#
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro+,#
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师,#
 CLS-AL00,mob,huawei,华为,,Celestial,HUAWEI Mate 70,#
+CLS-AL30,mob,huawei,华为,,Celestial,HUAWEI Mate 70,#
 PLR-AL00,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,#
 PLR-AL50,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,#优享版
 PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,#
@@ -2632,7 +2633,7 @@ FGD-AL00,mob,huawei,华为,,Garfield,华为畅享 70,#
 CTR-AL20,mob,huawei,华为,,Cartier,华为畅享 70 Pro,#
 MGA-AL40,mob,huawei,华为,,Mega,华为畅享 70z,#
 GFY-AL00,mob,huawei,华为,,Goofy,华为畅享 70S,#
-BRE-AL80,mob,huawei,华为,,,华为畅享 70X,#
+BRE-AL80,mob,huawei,华为,,Bruce+,华为畅享 70X,#
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,#3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,#LTE 版
