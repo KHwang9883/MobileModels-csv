@@ -1481,6 +1481,9 @@ GZC4K,mob,google,Google,,komodo,Pixel 9 Pro XL,#Global
 GQ57S,mob,google,Google,,komodo,Pixel 9 Pro XL,#Japan
 GGH2X,mob,google,Google,,comet,Pixel 9 Pro Fold,#Global
 GC15S,mob,google,Google,,comet,Pixel 9 Pro Fold,#Japan
+GXQ96,mob,google,Google,,tegu,Pixel 9a,#US
+GTF7P,mob,google,Google,,tegu,Pixel 9a,#Global
+G3Y12,mob,google,Google,,tegu,Pixel 9a,#Japan
 C1502W,mob,google,Google,,dragon,Pixel C,#
 GTU8P,pad,google,Google,,tangorpro,Pixel Tablet,#
 GQF4C,watch,google,Google,,r11btwifi,Pixel Watch,#Bluetooth & Wi-Fi
@@ -3264,6 +3267,7 @@ NOH-NX9,mob,huawei,HUAWEI,,Noah,HUAWEI Mate 40 Pro,#5G Dual SIM
 CET-LX9,mob,huawei,HUAWEI,,Cetus,HUAWEI Mate 50,#
 DCO-LX9,mob,huawei,HUAWEI,,Draco,HUAWEI Mate 50 Pro,#
 ALN-LX9,mob,huawei,HUAWEI,,Allen,HUAWEI Mate 60 Pro,#
+PLR-L29,mob,huawei,HUAWEI,,Pillar,HUAWEI Mate 70 Pro,#
 TAH-N29m,mob,huawei,HUAWEI,,Tahiti,HUAWEI Mate Xs,#Dual SIM
 PAL-LX9,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,#
 PAL-L29,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,#
@@ -8599,6 +8603,10 @@ M2104K10I,mob,xiaomi,小米,K10,ares,POCO F3 GT,#印度版
 24069PC21G,mob,xiaomi,小米,N16T,peridot,POCO F6,#国际版
 24069PC21I,mob,xiaomi,小米,N16T,peridot,POCO F6,#印度版
 23113RKC6G,mob,xiaomi,小米,N11,vermeer,POCO F6 Pro,#国际版
+25053PC47G,mob,xiaomi,小米,O10U,onyx,POCO F7,#国际版
+25053PC47I,mob,xiaomi,小米,O10U,onyx,POCO F7,#印度版
+24117RK2CG,mob,xiaomi,小米,O11,zorn,POCO F7 Pro,#国际版
+24122RKC7G,mob,xiaomi,小米,O11U,miro,POCO F7 Ultra,#国际版
 M1912G7BI,mob,xiaomi,小米,G7B,phoenixin,POCO X2,#印度版
 M2007J20CI,mob,xiaomi,小米,J20C,surya,POCO X3,#印度版
 M2007J20CG,mob,xiaomi,小米,J20C,surya,POCO X3 NFC,#国际版
@@ -9342,6 +9350,10 @@ M2104K10I,mob,xiaomi,Xiaomi,K10,ares,POCO F3 GT,#India
 24069PC21G,mob,xiaomi,Xiaomi,N16T,peridot,POCO F6,#Global
 24069PC21I,mob,xiaomi,Xiaomi,N16T,peridot,POCO F6,#India
 23113RKC6G,mob,xiaomi,Xiaomi,N11,vermeer,POCO F6 Pro,#Global
+25053PC47G,mob,xiaomi,Xiaomi,O10U,onyx,POCO F7,#Global
+25053PC47I,mob,xiaomi,Xiaomi,O10U,onyx,POCO F7,#India
+24117RK2CG,mob,xiaomi,Xiaomi,O11,zorn,POCO F7 Pro,#Global
+24122RKC7G,mob,xiaomi,Xiaomi,O11U,miro,POCO F7 Ultra,#Global
 M1912G7BI,mob,xiaomi,Xiaomi,G7B,phoenixin,POCO X2,#India
 M2007J20CI,mob,xiaomi,Xiaomi,J20C,surya,POCO X3,#India
 M2007J20CG,mob,xiaomi,Xiaomi,J20C,surya,POCO X3 NFC,#Global
