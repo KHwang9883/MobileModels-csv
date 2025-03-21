@@ -2445,6 +2445,8 @@ HBN-AL00,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro,#
 HBN-AL10,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro+,#
 HBN-AL80,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro+,#
 HBP-AL00,mob,huawei,华为,,HepburnP,HUAWEI Pura 70 Ultra,#
+VDE-AL00,mob,huawei,华为,,Verde,HUAWEI Pura X,#
+VDE-AL10,mob,huawei,华为,,Verde,HUAWEI Pura X,#典藏版
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,#
 LEM-AL00,mob,huawei,华为,,Lem,HUAWEI Pocket 2,#
 HUAWEI CAZ-AL00,mob,huawei,华为,,Cannes,HUAWEI nova,#全网通标配版
@@ -3056,6 +3058,10 @@ HD86AJMN,tv,huawei,华为,,,华为智慧屏 S5 Pro,#86
 HD65WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,#65
 HD75WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,#75
 HD86WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,#86
+HD6XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,#65
+HD7XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,#75
+HD8XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,#85
+HD9XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,#98
 HD55DESA,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 (2GB+16GB)
 HD55DESZ,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 畅连通话版 1080P (2GB+16GB)
 HD55DESY,tv,huawei,华为,,,华为智慧屏 SE 系列,#55 畅连通话版 1080P 金属底座 (2GB+16GB)
@@ -3190,6 +3196,9 @@ ASK-B19,band,huawei,华为,,,华为手环 8,#标准版
 ASK-B29,band,huawei,华为,,,华为手环 8,#NFC 版
 KIM-B19,band,huawei,华为,,Kimi,华为手环 9,#标准版
 KIM-B29,band,huawei,华为,,Kimi,华为手环 9,#NFC 版
+NOR-B19,band,huawei,华为,,,华为手环 10,#标准版 (增强型聚合纤维表壳)
+NOR-B29,band,huawei,华为,,,华为手环 10,#标准版 (铝合金表壳)
+NOR-B39,band,huawei,华为,,,华为手环 10,#NFC 版
 GMN-BX9,band,huawei,华为,,Gemini,华为手环 B3,#
 GRU-B09,band,huawei,华为,,,华为手环 B3 青春版,#
 JNS-BX9,band,huawei,华为,,Janus,华为手环 B5,#
@@ -5556,6 +5565,8 @@ CPH2527,mob,oppo,OPPO,,,OPPO F23,#5G
 CPH2603,mob,oppo,OPPO,,,OPPO F25 Pro,#5G
 CPH2637,mob,oppo,OPPO,,,OPPO F27,#5G
 CPH2643,mob,oppo,OPPO,,,OPPO F27 Pro+,#5G
+CPH2721,mob,oppo,OPPO,,,OPPO F29,#5G
+CPH2705,mob,oppo,OPPO,,,OPPO F29 Pro,#5G
 CPH1835,mob,oppo,OPPO,,,OPPO R15,#
 CPH1831,mob,oppo,OPPO,,,OPPO R15 Pro,#
 CPH1833,mob,oppo,OPPO,,,OPPO R15 Pro,#
@@ -5586,6 +5597,7 @@ CPH1920,mob,oppo,OPPO,,,OPPO AX5s,#
 CPH1931,mob,oppo,OPPO,,,OPPO A5 2020,#
 CPH1933,mob,oppo,OPPO,,,OPPO A5 2020,#
 CPH1943,mob,oppo,OPPO,,,OPPO A5 2020,#
+CPH2773,mob,oppo,OPPO,,,OPPO A5i,#
 CPH2711,mob,oppo,OPPO,,,OPPO A5 Pro,#
 CPH2695,mob,oppo,OPPO,,,OPPO A5 Pro,#5G
 CPH1901,mob,oppo,OPPO,,,OPPO A7,#
@@ -5686,6 +5698,7 @@ OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,#
 OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi
 OPD2303,pad,oppo,OPPO,,,OPPO Pad Neo,#LTE
+OPD2406,pad,oppo,OPPO,,,OPPO Pad 3,#
 OPD2402,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,#
 OB19B1,band,oppo,OPPO,,,OPPO Band,#Style
 OBBE215,band,oppo,OPPO,,,OPPO Band 2,#Japan
