@@ -7255,6 +7255,8 @@ V2415A,mob,vivo,vivo,,PD2415,X200,#
 V2405A,mob,vivo,vivo,,PD2405,X200 Pro,#
 V2405DA,mob,vivo,vivo,,PD2405,X200 Pro,#卫星通信版
 V2419A,mob,vivo,vivo,,PD2419,X200 Pro mini,#
+V2454A,mob,vivo,vivo,,PD2454,X200 Ultra,#
+V2454DA,mob,vivo,vivo,,PD2454,X200 Ultra,#卫星通信版
 V1831A,mob,vivo,vivo,,PD1831,S1,#全网通版
 V1831T,mob,vivo,vivo,,PD1831,S1,#移动全网通版
 V1832A,mob,vivo,vivo,,PD1832,S1 Pro,#全网通版
@@ -7401,8 +7403,10 @@ V2361GA,mob,vivo,vivo,,PD2361,Y200 GT,#5G
 V2353DA,mob,vivo,vivo,,PD2353,Y200t,#5G
 V2435A,mob,vivo,vivo,,PD2435,Y300,#5G
 V2410A,mob,vivo,vivo,,PD2410,Y300 Pro,#5G
-V2444A,mob,vivo,vivo,,PD2444,Y300i,#
-V2445EA,mob,vivo,vivo,,PD2445D,Y300t,#
+V2456A,mob,vivo,vivo,,,Y300 Pro+,#5G
+V2444A,mob,vivo,vivo,,PD2444,Y300i,#5G
+V2445EA,mob,vivo,vivo,,PD2445D,Y300t,#5G
+V2452GA,mob,vivo,vivo,,PD2452,Y300 GT,#5G
 V2115A,mob,vivo,vivo,,PD2115,T1,#
 V2123A,mob,vivo,vivo,,PD2123,T1x,#
 V2188A,mob,vivo,vivo,,PD2188,T2x,#
@@ -7496,6 +7500,8 @@ V2352A,mob,vivo,vivo,,PD2352,iQOO Z9 Turbo,#
 V2352GA,mob,vivo,vivo,,PD2352G,iQOO Z9 Turbo 长续航版,#
 V2417A,mob,vivo,vivo,,PD2417,iQOO Z9 Turbo+,#
 V2353A,mob,vivo,vivo,,PD2353,iQOO Z9x,#
+V2452A,mob,vivo,vivo,,PD2452,iQOO Z10 Turbo,#
+V2453A,mob,vivo,vivo,,PD2453,iQOO Z10 Turbo Pro,#
 V2445A,mob,vivo,vivo,,PD2445,iQOO Z10x,#
 V2023A,mob,vivo,vivo,,PD2023,iQOO U1,#
 V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,#
@@ -7514,293 +7520,294 @@ iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
 iPA2453,pad,vivo,vivo,,DPD2345,iQOO Pad2,#
 iPA2475,pad,vivo,vivo,,DPD2329,iQOO Pad2 Pro,#
-vivo 1939,mob,vivo,vivo,,,X50,#
-vivo 2004,mob,vivo,vivo,,,X50,#
-vivo 2005,mob,vivo,vivo,,,X50,#
-vivo 2006,mob,vivo,vivo,,,X50 Pro,#
-V2006,mob,vivo,vivo,,,X50 Pro,#
-V1930,mob,vivo,vivo,,,X50e,#5G
-V2006,mob,vivo,vivo,,,X51,#5G
-V2045,mob,vivo,vivo,,,X60,#
-V2046,mob,vivo,vivo,,,X60 Pro,#
-V2047,mob,vivo,vivo,,,X60 Pro+,#
-V2104,mob,vivo,vivo,,,X70,#
-V2105,mob,vivo,vivo,,,X70 Pro,#
-V2114,mob,vivo,vivo,,,X70 Pro+,#
-V2144,mob,vivo,vivo,,,X80,#
-V2145,mob,vivo,vivo,,,X80 Pro,#
-V2208,mob,vivo,vivo,,,X80 Lite,#5G
-V2218,mob,vivo,vivo,,,X90,#
-V2219,mob,vivo,vivo,,,X90 Pro,#
-V2308,mob,vivo,vivo,,,X100,#
-V2309,mob,vivo,vivo,,,X100 Pro,#
-V2330,mob,vivo,vivo,,,X Fold3 Pro,#
-V2415,mob,vivo,vivo,,,X200,#
-V2413,mob,vivo,vivo,,,X200 Pro,#
-vivo 1819,mob,vivo,vivo,,,V15,#
-vivo 1920,mob,vivo,vivo,,,V17,#
-vivo 1907,mob,vivo,vivo,,,V17 Neo,#
-V2025,mob,vivo,vivo,,,V20,#
-vivo 2018,mob,vivo,vivo,,,V20 Pro,#
-V2022,mob,vivo,vivo,,,V20 SE,#
-V2023,mob,vivo,vivo,,,V20 SE,#
-V2040,mob,vivo,vivo,,,V20 2021,#
-V2108,mob,vivo,vivo,,,V21,#
-V2066,mob,vivo,vivo,,,V21,#
-V2050,mob,vivo,vivo,,,V21,#5G
-V2061,mob,vivo,vivo,,,V21e,#
-V2055,mob,vivo,vivo,,,V21e,#5G
-V2130,mob,vivo,vivo,,,V23,#5G
-V2132,mob,vivo,vivo,,,V23 Pro,#
-V2115,mob,vivo,vivo,,,V23e,#
-V2116,mob,vivo,vivo,,,V23e,#
-V2126,mob,vivo,vivo,,,V23e,#5G
-V2202,mob,vivo,vivo,,,V25,#
-V2228,mob,vivo,vivo,,,V25,#
-V2158,mob,vivo,vivo,,,V25 Pro,#
-V2201,mob,vivo,vivo,,,V25e,#
-V2209,mob,vivo,vivo,,,V25e,#
-V2242,mob,vivo,vivo,,,V25e,#
-V2231,mob,vivo,vivo,,,V27,#
-V2246,mob,vivo,vivo,,,V27,#
-V2230,mob,vivo,vivo,,,V27 Pro,#
-V2237,mob,vivo,vivo,,,V27e,#
-V2250,mob,vivo,vivo,,,V29,#
-V2251,mob,vivo,vivo,,,V29 Pro,#
-V2303,mob,vivo,vivo,,,V29e,#5G
-V2304,mob,vivo,vivo,,,V29e,#5G
-V2317,mob,vivo,vivo,,,V29e,#5G
-V2244,mob,vivo,vivo,,,V29 Lite,#5G
-V2318,mob,vivo,vivo,,,V30,#
-V2319,mob,vivo,vivo,,,V30 Pro,vivo Y30 Pro
-V2339,mob,vivo,vivo,,,V30e,#
-V2340,mob,vivo,vivo,,,V30e,#
-V2342,mob,vivo,vivo,,,V30 Lite,#
-V2314,mob,vivo,vivo,,,V30 Lite,#5G
-V2327,mob,vivo,vivo,,,V30 Lite,#5G
-V2327,mob,vivo,vivo,,,V30 SE,#
-V2349,mob,vivo,vivo,,,V30 SE,#
-V2348,mob,vivo,vivo,,,V40,#
-V2347,mob,vivo,vivo,,,V40 Pro,#
-V2403,mob,vivo,vivo,,,V40e,#
-V2341,mob,vivo,vivo,,,V40 Lite,#
-V2424,mob,vivo,vivo,,,V40 Lite,#
-V2417,mob,vivo,vivo,,,V40 Lite,#5G
-V2418,mob,vivo,vivo,,,V40 Lite,#5G
-V2342,mob,vivo,vivo,,,V40 SE,#
-V2337,mob,vivo,vivo,,,V40 SE,#5G
-V2418,mob,vivo,vivo,,,V40 SE,#80W
-V2427,mob,vivo,vivo,,,V50,#
-V2448,mob,vivo,vivo,,,V50,#
-V2451,mob,vivo,vivo,,,V50,#
+vivo 1939,mob,vivo,vivo,,PD2006F,X50,#
+vivo 2004,mob,vivo,vivo,,PD2006F,X50,#
+vivo 2005,mob,vivo,vivo,,PD2006F,X50,#
+vivo 2006,mob,vivo,vivo,,PD2005F,X50 Pro,#
+V2006,mob,vivo,vivo,,PD2005F,X50 Pro,#
+V1930,mob,vivo,vivo,,PD1968F,X50e,#5G
+V1937,mob,vivo,vivo,,PD1982F,X50 Lite,#
+V2006,mob,vivo,vivo,,PD2005F,X51,#5G
+V2045,mob,vivo,vivo,,PD2046F,X60,#
+V2046,mob,vivo,vivo,,PD2059F,X60 Pro,#
+V2047,mob,vivo,vivo,,PD2056F,X60 Pro+,#
+V2104,mob,vivo,vivo,,PD2133F,X70,#
+V2105,mob,vivo,vivo,,PD2135F,X70 Pro,#
+V2114,mob,vivo,vivo,,PD2145F,X70 Pro+,#
+V2144,mob,vivo,vivo,,PD2183F,X80,#
+V2145,mob,vivo,vivo,,PD2185F,X80 Pro,#
+V2208,mob,vivo,vivo,,PD2215F,X80 Lite,#5G
+V2218,mob,vivo,vivo,,PD2241F,X90,#
+V2219,mob,vivo,vivo,,PD2242F,X90 Pro,#
+V2308,mob,vivo,vivo,,PD2309F,X100,#
+V2309,mob,vivo,vivo,,PD2324F,X100 Pro,#
+V2330,mob,vivo,vivo,,PD2337F,X Fold3 Pro,#
+V2415,mob,vivo,vivo,,PD2415F,X200,#
+V2413,mob,vivo,vivo,,PD2405F,X200 Pro,#
+vivo 1819,mob,vivo,vivo,,PD1831F,V15,#
+vivo 1920,mob,vivo,vivo,,PD1948F,V17,#
+vivo 1907,mob,vivo,vivo,,PD1913F,V17 Neo,#
+V2025,mob,vivo,vivo,,PD2039F,V20,#
+vivo 2018,mob,vivo,vivo,,PD2020F,V20 Pro,#
+V2022,mob,vivo,vivo,,PD2038F,V20 SE,#
+V2023,mob,vivo,vivo,,PD2038F,V20 SE,#
+V2040,mob,vivo,vivo,,PD2067F,V20 2021,#
+V2050,mob,vivo,vivo,,PD2083F,V21,#5G
+V2066,mob,vivo,vivo,,PD2083F,V21,#5G
+V2108,mob,vivo,vivo,,PD2083F,V21,#5G
+V2061,mob,vivo,vivo,,PD2107F,V21e,#
+V2055,mob,vivo,vivo,,PD2102F,V21e 5G,#
+V2130,mob,vivo,vivo,,PD2167F,V23,#5G
+V2132,mob,vivo,vivo,,PD2163F,V23 Pro,#
+V2115,mob,vivo,vivo,,PD2150F,V23e,#
+V2116,mob,vivo,vivo,,PD2150F,V23e,#
+V2126,mob,vivo,vivo,,PD2159F,V23e 5G,#
+V2202,mob,vivo,vivo,,PD2215F,V25,#
+V2228,mob,vivo,vivo,,PD2215F,V25,#
+V2158,mob,vivo,vivo,,PD2204F,V25 Pro,#
+V2201,mob,vivo,vivo,,PD2214F,V25e,#
+V2209,mob,vivo,vivo,,PD2214F,V25e,#
+V2242,mob,vivo,vivo,,PD2214F,V25e,#
+V2231,mob,vivo,vivo,,PD2269F,V27,#
+V2246,mob,vivo,vivo,,PD2269F,V27,#
+V2230,mob,vivo,vivo,,PD2245F,V27 Pro,#
+V2237,mob,vivo,vivo,,PD2268F,V27e,#
+V2250,mob,vivo,vivo,,PD2283F,V29,#
+V2251,mob,vivo,vivo,,PD2284F,V29 Pro,#
+V2317,mob,vivo,vivo,,PD2313F,V29e 5G,#Global
+V2303,mob,vivo,vivo,,PD2325F,V29e 5G,#India
+V2244,mob,vivo,vivo,,PD2271F,V29 Lite,#5G
+V2318,mob,vivo,vivo,,PD2323F,V30,#
+V2319,mob,vivo,vivo,,PD2332F,V30 Pro,vivo Y30 Pro
+V2339,mob,vivo,vivo,,PD2343F,V30e,#
+V2340,mob,vivo,vivo,,PD2343F,V30e,#
+V2342,mob,vivo,vivo,,PD2358F,V30 Lite,#
+V2314,mob,vivo,vivo,,,V30 Lite 5G,#Global
+V2327,mob,vivo,vivo,,PD2341F,V30 Lite 5G,#ME
+V2349,mob,vivo,vivo,,PD2341F,V30 SE,#
+V2348,mob,vivo,vivo,,PD2363F,V40,#
+V2347,mob,vivo,vivo,,PD2362F,V40 Pro,#
+V2403,mob,vivo,vivo,,PD2406F,V40e,#
+V2424,mob,vivo,vivo,,,V40 Lite,#Indonesia
+V2340,mob,vivo,vivo,,PD2343F,V40 Lite 5G,#Global
+V2341,mob,vivo,vivo,,PD2343F,V40 Lite 5G,#Global
+V2417,mob,vivo,vivo,,,V40 Lite 5G,#Indonesia
+V2418,mob,vivo,vivo,,,V40 Lite 5G,#Indonesia
+V2342,mob,vivo,vivo,,PD2358F,V40 SE,#
+V2337,mob,vivo,vivo,,,V40 SE 5G,#
+V2418,mob,vivo,vivo,,,V40 SE 5G,#80W
+V2427,mob,vivo,vivo,,PD2437F,V50,#
+V2448,mob,vivo,vivo,,PD2437F,V50,#
+V2451,mob,vivo,vivo,,PD2437F,V50,#
+V2504,mob,vivo,vivo,,,V50 Pro,#
 V2428,mob,vivo,vivo,,,V50e,#
 V2441,mob,vivo,vivo,,,V50 Lite,#
-V2453,mob,vivo,vivo,,,V50 Lite,#
+V2453,mob,vivo,vivo,,,V50 Lite 5G,#
 V2440,mob,vivo,vivo,,,Jovi V50 Lite,#
-vivo 1907,mob,vivo,vivo,,,S1,#
-V1937,mob,vivo,vivo,,,S1 Prime,#
-vivo 1920,mob,vivo,vivo,,,S1 Pro,#
-vivo 1920_20,mob,vivo,vivo,,,S1 Pro,#
-V2153,mob,vivo,vivo,,,T1,#
-V2168,mob,vivo,vivo,,,T1,#
-V2141,mob,vivo,vivo,,,T1,#5G
-V2150,mob,vivo,vivo,,,T1,#5G
-V2157,mob,vivo,vivo,,,T1,#5G
-V2143,mob,vivo,vivo,,,T1x,#
-V2151,mob,vivo,vivo,,,T1 Pro,#5G
+vivo 1907,mob,vivo,vivo,,PD1913F,S1,#
+V1937,mob,vivo,vivo,,PD1982F,S1 Prime,#
+vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,#
+vivo 1920_20,mob,vivo,vivo,,PD1945F,S1 Pro,#
+V2153,mob,vivo,vivo,,PD2201F,T1,#
+V2168,mob,vivo,vivo,,PD2201F,T1,#
+V2141,mob,vivo,vivo,,PD2165F,T1 5G,#
+V2150,mob,vivo,vivo,,PD2165F,T1 5G,#
+V2157,mob,vivo,vivo,,PD2165F,T1 5G,#
+V2143,mob,vivo,vivo,,PD2142F,T1x,#
+V2151,mob,vivo,vivo,,PD2193F,T1 Pro 5G,#
 V2320,mob,vivo,vivo,,,T2,#
-V2240,mob,vivo,vivo,,,T2,#5G
-V2321,mob,vivo,vivo,,,T2 Pro,#5G
-V2253,mob,vivo,vivo,,,T2x,#5G
-V2312,mob,vivo,vivo,,,T2x,#5G
-V2334,mob,vivo,vivo,,,T3,#5G
-V2338,mob,vivo,vivo,,,T3x,#5G
-V2404,mob,vivo,vivo,,,T3 Pro,#5G
-V2356,mob,vivo,vivo,,,T3 Lite,#5G
-V2426,mob,vivo,vivo,,,T3 Ultra,#5G
-V2437,mob,vivo,vivo,,,T4x,#5G
-vivo 1929,mob,vivo,vivo,,,Y1s,#
-vivo 2015,mob,vivo,vivo,,,Y1s,#
-vivo 2015_21,mob,vivo,vivo,,,Y1s,#
-V2044,mob,vivo,vivo,,,Y3s,#
+V2240,mob,vivo,vivo,,PD2251F,T2 5G,#
+V2321,mob,vivo,vivo,,PD2285F,T2 Pro 5G,#
+V2253,mob,vivo,vivo,,PD2230F,T2x 5G,#
+V2312,mob,vivo,vivo,,PD2230F,T2x 5G,#
+V2334,mob,vivo,vivo,,PD2346F,T3 5G,#
+V2338,mob,vivo,vivo,,PD2353F,T3x 5G,#
+V2404,mob,vivo,vivo,,PD2404F,T3 Pro 5G,#
+V2356,mob,vivo,vivo,,PD2357F,T3 Lite 5G,#
+V2426,mob,vivo,vivo,,PD2362F,T3 Ultra 5G,#
+V2437,mob,vivo,vivo,,PD2445F,T4x 5G,#
+vivo 1929,mob,vivo,vivo,,PD2014F,Y1s,#
+vivo 2015,mob,vivo,vivo,,PD2014F,Y1s,#
+vivo 2015_21,mob,vivo,vivo,,PD2014F,Y1s,#
+V2044,mob,vivo,vivo,,PD2074F,Y3s,#
 vivo 1902,mob,vivo,vivo,,,Y5,#
-V2118,mob,vivo,vivo,,,Y01,#
+V2118,mob,vivo,vivo,,PD2140F,Y01,#
 V2166,mob,vivo,vivo,,,Y01A,#
 V2213,mob,vivo,vivo,,,Y02,#
 V2217,mob,vivo,vivo,,,Y02,#
 V2234_PK,mob,vivo,vivo,,,Y02,#
 V2236,mob,vivo,vivo,,,Y02,#
-V2234,mob,vivo,vivo,,,Y02A,#
+V2234,mob,vivo,vivo,,PD2336F,Y02A,#
 V2203,mob,vivo,vivo,,,Y02s,#
 V2221,mob,vivo,vivo,,,Y02s,#
 V2229,mob,vivo,vivo,,,Y02s,#
-V2252,mob,vivo,vivo,,,Y02t,#
-V2254,mob,vivo,vivo,,,Y02t,#
-V2325,mob,vivo,vivo,,,Y02t,#
-V2332,mob,vivo,vivo,,,Y03,#
-V2406,mob,vivo,vivo,,,Y03,#
+V2252,mob,vivo,vivo,,PD2336F,Y02t,#
+V2254,mob,vivo,vivo,,PD2336F,Y02t,#
+V2325,mob,vivo,vivo,,PD2336F,Y02t,#
+V2332,mob,vivo,vivo,,PD2327F,Y03,#
+V2406,mob,vivo,vivo,,PD2327F,Y03,#
 V2344,mob,vivo,vivo,,,Y03t,#
 V2409,mob,vivo,vivo,,,Y03t,#
-V2430,mob,vivo,vivo,,,Y04,#
-V2438,mob,vivo,vivo,,,Y04,#
-V2028,mob,vivo,vivo,,,Y11s,#
-vivo 1904,mob,vivo,vivo,,,Y12,#
-V2026,mob,vivo,vivo,,,Y12A,#
+V2430,mob,vivo,vivo,,PD2442F,Y04,#
+V2438,mob,vivo,vivo,,PD2442F,Y04,#
+V2028,mob,vivo,vivo,,PD2042F,Y11s,#
+vivo 1904,mob,vivo,vivo,,PD1901F,Y12,#
+V2026,mob,vivo,vivo,,PD2060F,Y12A,#
 V2048,mob,vivo,vivo,,,Y12D,#
-V2026,mob,vivo,vivo,,,Y12s,#
-V2026_21,mob,vivo,vivo,,,Y12s,#
-V2042,mob,vivo,vivo,,,Y12s,#
-vivo 1901,mob,vivo,vivo,,,Y15,#
+V2026,mob,vivo,vivo,,PD2060F,Y12s,#
+V2026_21,mob,vivo,vivo,,PD2060F,Y12s,#
+V2042,mob,vivo,vivo,,PD2036F,Y12s,#
+vivo 1901,mob,vivo,vivo,,PD1901F,Y15,#
 vivo 1901,mob,vivo,vivo,,,Y15 2020,#
 V2134,mob,vivo,vivo,,,Y15A,#
 V2147,mob,vivo,vivo,,,Y15C,#
 V2162,mob,vivo,vivo,,,Y15C,#
 V2212,mob,vivo,vivo,,,Y15C,#
-vivo 1901,mob,vivo,vivo,,,Y15s,#
-V2120,mob,vivo,vivo,,,Y15s,#
-V2125,mob,vivo,vivo,,,Y15s,#
-V2139,mob,vivo,vivo,,,Y15s,#
-V2204,mob,vivo,vivo,,,Y16,#
-V2214,mob,vivo,vivo,,,Y16,#
-V2305,mob,vivo,vivo,,,Y16,#
-vivo 1902,mob,vivo,vivo,,,Y17,#
-V2310,mob,vivo,vivo,,,Y17s,#
-V2331,mob,vivo,vivo,,,Y17s,#
-V2333,mob,vivo,vivo,,,Y18,#
-V2345,mob,vivo,vivo,,,Y18,#
+V2120,mob,vivo,vivo,,PD2140F,Y15s,#
+V2125,mob,vivo,vivo,,PD2140F,Y15s,#
+V2139,mob,vivo,vivo,,PD2140F,Y15s,#
+V2204,mob,vivo,vivo,,PD2216F,Y16,#
+V2214,mob,vivo,vivo,,PD2216F,Y16,#
+V2305,mob,vivo,vivo,,PD2216F,Y16,#
+vivo 1902,mob,vivo,vivo,,PD1901F,Y17,#
+V2310,mob,vivo,vivo,,PD2317F,Y17s,#
+V2331,mob,vivo,vivo,,PD2317F,Y17s,#
+V2333,mob,vivo,vivo,,PD2327F,Y18,#
+V2345,mob,vivo,vivo,,PD2327F,Y18,#
 V2410,mob,vivo,vivo,,,Y18s,#
-V2408,mob,vivo,vivo,,,Y18t,#
-V2350,mob,vivo,vivo,,,Y18e,#
-V2414,mob,vivo,vivo,,,Y18i,#
+V2408,mob,vivo,vivo,,PD2360F,Y18t,#
+V2350,mob,vivo,vivo,,PD2327F,Y18e,#
+V2414,mob,vivo,vivo,,PD2360F,Y18i,#
 vivo 1915,mob,vivo,vivo,,,Y19,#
 V2419,mob,vivo,vivo,,,Y19s,#
 V2423,mob,vivo,vivo,,,Y19s,#
-V2431,mob,vivo,vivo,,,Y19e,#
-V2027,mob,vivo,vivo,,,Y20,#
-V2037,mob,vivo,vivo,,,Y20G,#
-V2032,mob,vivo,vivo,,,Y20i,#
-V2029,mob,vivo,vivo,,,Y20s,#
-V2038,mob,vivo,vivo,,,Y20s,#G
-V2129,mob,vivo,vivo,,,Y20T,#
-V2043,mob,vivo,vivo,,,Y20 2021,#
-V2043_21,mob,vivo,vivo,,,Y20 2021,#
-V2065,mob,vivo,vivo,,,Y20G 2021,#
-V2026,mob,vivo,vivo,,,Y20i 2021,#
-V2111,mob,vivo,vivo,,,Y21,#
-V2149,mob,vivo,vivo,,,Y21A,#
-V2111-EG,mob,vivo,vivo,,,Y21A,#
-V2140,mob,vivo,vivo,,,Y21e,#
-V2152,mob,vivo,vivo,,,Y21G,#
-V2110,mob,vivo,vivo,,,Y21s,#
-V2136,mob,vivo,vivo,,,Y21s,#
-V2131,mob,vivo,vivo,,,Y21T,#
-V2135,mob,vivo,vivo,,,Y21T,#
-V2207,mob,vivo,vivo,,,Y22,#
-V2238,mob,vivo,vivo,,,Y22,#
-V2206,mob,vivo,vivo,,,Y22s,#
+V2431,mob,vivo,vivo,,PD2442F,Y19e,#
+V2027,mob,vivo,vivo,,PD2034F,Y20,#
+V2037,mob,vivo,vivo,,PD2066F,Y20G,#
+V2032,mob,vivo,vivo,,PD2034F,Y20i,#
+V2029,mob,vivo,vivo,,PD2034F,Y20s,#
+V2038,mob,vivo,vivo,,PD2066F,Y20s,#G
+V2129,mob,vivo,vivo,,PD2093F,Y20T,#
+V2043,mob,vivo,vivo,,PD2036F,Y20 2021,#
+V2043_21,mob,vivo,vivo,,PD2036F,Y20 2021,#
+V2065,mob,vivo,vivo,,PD2036F,Y20G 2021,#
+V2026,mob,vivo,vivo,,PD2036F,Y20i 2021,#
+V2111,mob,vivo,vivo,,PD2139F,Y21,#
+V2149,mob,vivo,vivo,,PD2139F,Y21A,#
+V2111-EG,mob,vivo,vivo,,PD2139F,Y21A,#
+V2140,mob,vivo,vivo,,PD2158F,Y21e,#
+V2152,mob,vivo,vivo,,PD2138F,Y21G,#
+V2110,mob,vivo,vivo,,PD2138F,Y21s,#
+V2136,mob,vivo,vivo,,PD2138F,Y21s,#
+V2131,mob,vivo,vivo,,PD2158F,Y21T,#
+V2135,mob,vivo,vivo,,PD2158F,Y21T,#
+V2207,mob,vivo,vivo,,PD2226F,Y22,#
+V2238,mob,vivo,vivo,,PD2226F,Y22,#
+V2206,mob,vivo,vivo,,PD2228F,Y22s,#
 V2313,mob,vivo,vivo,,,Y22t,#
-V2249,mob,vivo,vivo,,,Y27,#
-V2248,mob,vivo,vivo,,,Y27,#5G
-V2302,mob,vivo,vivo,,,Y27,#5G
-V2322,mob,vivo,vivo,,,Y27s,#
-V2335,mob,vivo,vivo,,,Y27s,#
+V2249,mob,vivo,vivo,,PD2281F,Y27,#
+V2248,mob,vivo,vivo,,PD2279F,Y27 5G,#
+V2302,mob,vivo,vivo,,PD2279F,Y27 5G,#
+V2322,mob,vivo,vivo,,PD2280F,Y27s,#
+V2335,mob,vivo,vivo,,PD2280F,Y27s,#
 V2352,mob,vivo,vivo,,,Y28,#
 V2353,mob,vivo,vivo,,,Y28,#
-V2315,mob,vivo,vivo,,,Y28,#5G
-V2346,mob,vivo,vivo,,,Y28s,#5G
-V2351,mob,vivo,vivo,,,Y28s,#5G
-V2407,mob,vivo,vivo,,,Y28e,#5G
+V2315,mob,vivo,vivo,,PD2318F,Y28 5G,#
+V2346,mob,vivo,vivo,,PD2357F,Y28s 5G,#
+V2351,mob,vivo,vivo,,PD2357F,Y28s 5G,#
+V2407,mob,vivo,vivo,,PD2357F,Y28e 5G,#
 V2434,mob,vivo,vivo,,,Y29,#
 V2435,mob,vivo,vivo,,,Y29,#
-V2420,mob,vivo,vivo,,,Y29,#5G
-V2446,mob,vivo,vivo,,,Y29s,#5G
-V2160,mob,vivo,vivo,,,Y30,#5G
-V2036,mob,vivo,vivo,,,Y31,#
-V2036_21,mob,vivo,vivo,,,Y31,#
-V2057,mob,vivo,vivo,,,Y33,#
-V2109-EG,mob,vivo,vivo,,,Y33A,#
-V2109,mob,vivo,vivo,,,Y33s,#
-V2146,mob,vivo,vivo,,,Y33T,#
-V2205,mob,vivo,vivo,,,Y35,#
-V2247,mob,vivo,vivo,,,Y36,#
-V2324,mob,vivo,vivo,,,Y36,#
-V2248,mob,vivo,vivo,,,Y36,#5G
-V2343,mob,vivo,vivo,,,Y38,#5G
-V2436,mob,vivo,vivo,,,Y39,#5G
-V2443,mob,vivo,vivo,,,Y39,#5G
-V2447,mob,vivo,vivo,,,Y39,#5G
-V2444,mob,vivo,vivo,,,Jovi Y39,#5G
-V2024,mob,vivo,vivo,,,Y51,#
-V2030,mob,vivo,vivo,,,Y51,#
-V2035,mob,vivo,vivo,,,Y51,#
-V2031,mob,vivo,vivo,,,Y51s,#
-V2031_21,mob,vivo,vivo,,,Y51s,#
-V2053,mob,vivo,vivo,,,Y52,#5G
-V2058,mob,vivo,vivo,,,Y53s,#
-V2154,mob,vivo,vivo,,,Y55,#
-V2127,mob,vivo,vivo,,,Y55,#5G
-V2225,mob,vivo,vivo,,,Y56,#5G
-V2311,mob,vivo,vivo,,,Y56,#5G
-V2355,mob,vivo,vivo,,,Y58,#5G
-V2443,mob,vivo,vivo,,,Y59,#5G
-V2041,mob,vivo,vivo,,,Y72,#
-V2060,mob,vivo,vivo,,,Y72,#5G
-V2059,mob,vivo,vivo,,,Y73,#
-V2059-EG,mob,vivo,vivo,,,Y73,#
-V2117,mob,vivo,vivo,,,Y75,#
-V2142,mob,vivo,vivo,,,Y75,#5G
-V2124,mob,vivo,vivo,,,Y76,#5G
-V2169,mob,vivo,vivo,,,Y77,#5G
-V2244,mob,vivo,vivo,,,Y78,#5G
-V2342,mob,vivo,vivo,,,Y100,#
-V2412,mob,vivo,vivo,,,Y100,#
-V2239,mob,vivo,vivo,,,Y100,#5G
-V2327,mob,vivo,vivo,,,Y100,#5G
-V2222,mob,vivo,vivo,,,Y100A,#5G
-V2307,mob,vivo,vivo,,,Y200,#5G
-V2303,mob,vivo,vivo,,,Y200 Pro,#5G
-V2401,mob,vivo,vivo,,,Y200 Pro,#5G
-V2336,mob,vivo,vivo,,,Y200e,#5G
-V2416,mob,vivo,vivo,,,Y300,#5G
-V2422,mob,vivo,vivo,,,Y300+,#5G
-V2402,mob,vivo,vivo,,,Y300 Pro,#5G
-I1927,mob,vivo,vivo,,,iQOO 3,#4G
-I1928,mob,vivo,vivo,,,iQOO 3,#5G
-I2009,mob,vivo,vivo,,,iQOO 7,#
-I2012,mob,vivo,vivo,,,iQOO 7,#
-I2017,mob,vivo,vivo,,,iQOO 9,#
-I2201,mob,vivo,vivo,,,iQOO 9T,#
-I2022,mob,vivo,vivo,,,iQOO 9 Pro,#
-I2019,mob,vivo,vivo,,,iQOO 9 SE,#
-I2212,mob,vivo,vivo,,,iQOO 11,#
-I2220,mob,vivo,vivo,,,iQOO 12,#
-I2401,mob,vivo,vivo,,,iQOO 13,#
-I2202,mob,vivo,vivo,,,iQOO Neo6,#
-I2214,mob,vivo,vivo,,,iQOO Neo7,#
-I2217,mob,vivo,vivo,,,iQOO Neo7 Pro,#
-I2303,mob,vivo,vivo,,,iQOO Neo9,#
-I2304,mob,vivo,vivo,,,iQOO Neo9 Pro,#
-I2221,mob,vivo,vivo,,,iQOO Neo10R,#
-I2011,mob,vivo,vivo,,,iQOO Z3,#5G
-I2018,mob,vivo,vivo,,,iQOO Z5,#
-I2127,mob,vivo,vivo,,,iQOO Z6,#
-I2203,mob,vivo,vivo,,,iQOO Z6,#
-I2206,mob,vivo,vivo,,,iQOO Z6,#
-I2126,mob,vivo,vivo,,,iQOO Z6 Pro,#
-I2208,mob,vivo,vivo,,,iQOO Z6 Lite,#5G
-I2205,mob,vivo,vivo,,,iQOO Z6 Pro SE,#
-I2207,mob,vivo,vivo,,,iQOO Z7,#5G
-I2213,mob,vivo,vivo,,,iQOO Z7,#5G
-I2223,mob,vivo,vivo,,,iQOO Z7s,#5G
-I2216,mob,vivo,vivo,,,iQOO Z7x,#5G
-I2301,mob,vivo,vivo,,,iQOO Z7 Pro,#5G
-I2218,mob,vivo,vivo,,,iQOO Z9,#5G
-I2302,mob,vivo,vivo,,,iQOO Z9,#5G
-I2219,mob,vivo,vivo,,,iQOO Z9x,#5G
-I2306,mob,vivo,vivo,,,iQOO Z9 Lite,#5G
-I2403,mob,vivo,vivo,,,iQOO Z9s,#5G
-I2305,mob,vivo,vivo,,,iQOO Z9s Pro,#5G
-I2404,mob,vivo,vivo,,,iQOO Z10x,#5G
+V2420,mob,vivo,vivo,,,Y29 5G,#
+V2446,mob,vivo,vivo,,,Y29s 5G,#
+V2160,mob,vivo,vivo,,PD2197F,Y30 5G,#
+V2036,mob,vivo,vivo,,PD2068F,Y31,#
+V2036_21,mob,vivo,vivo,,PD2068F,Y31,#
+V2057,mob,vivo,vivo,,PD2103F,Y33,#
+V2109-EG,mob,vivo,vivo,,PD2142F,Y33A,#
+V2109,mob,vivo,vivo,,PD2147F,Y33s,#
+V2146,mob,vivo,vivo,,PD2142F,Y33T,#
+V2205,mob,vivo,vivo,,PD2225F,Y35,#
+V2247,mob,vivo,vivo,,PD2280F,Y36,#
+V2324,mob,vivo,vivo,,PD2280F,Y36,#
+V2248,mob,vivo,vivo,,PD2279F,Y36 5G,#
+V2343,mob,vivo,vivo,,PD2343F,Y38 5G,#
+V2436,mob,vivo,vivo,,,Y39 5G,#
+V2443,mob,vivo,vivo,,,Y39 5G,#
+V2447,mob,vivo,vivo,,,Y39 5G,#
+V2444,mob,vivo,vivo,,,Jovi Y39 5G,#
+V2024,mob,vivo,vivo,,PD2044F,Y51,#
+V2030,mob,vivo,vivo,,PD2044F,Y51,#
+V2035,mob,vivo,vivo,,PD2044F,Y51,#
+V2031,mob,vivo,vivo,,PD2044F,Y51s,#
+V2031_21,mob,vivo,vivo,,PD2044F,Y51s,#
+V2053,mob,vivo,vivo,,PD2069F,Y52 5G,#
+V2058,mob,vivo,vivo,,PD2103F,Y53s,#
+V2154,mob,vivo,vivo,,PD2201F,Y55,#
+V2127,mob,vivo,vivo,,PD2166F,Y55 5G,#
+V2225,mob,vivo,vivo,,PD2230F,Y56 5G,#
+V2311,mob,vivo,vivo,,PD2230F,Y56 5G,#
+V2355,mob,vivo,vivo,,PD2354F,Y58 5G,#
+V2443,mob,vivo,vivo,,,Y59 5G,#
+V2041,mob,vivo,vivo,,PD2069F,Y72 5G,#Global
+V2060,mob,vivo,vivo,,PD2112F,Y72 5G,#India
+V2059,mob,vivo,vivo,,PD2078F,Y73,#
+V2059-EG,mob,vivo,vivo,,PD2078F,Y73,#
+V2117,mob,vivo,vivo,,PD2150F,Y75,#
+V2142,mob,vivo,vivo,,PD2166F,Y75 5G,#
+V2124,mob,vivo,vivo,,PD2156F,Y76 5G,#
+V2169,mob,vivo,vivo,,PD2224F,Y77 5G,#
+V2244,mob,vivo,vivo,,PD2271F,Y78 5G,#
+V2342,mob,vivo,vivo,,PD2358F,Y100,#
+V2412,mob,vivo,vivo,,PD2358F,Y100,#
+V2239,mob,vivo,vivo,,PD2257F,Y100 5G,#
+V2327,mob,vivo,vivo,,PD2257F,Y100 5G,#
+V2222,mob,vivo,vivo,,PD2251F,Y100A 5G,#
+V2424,mob,vivo,vivo,,,Y200,#
+V2425,mob,vivo,vivo,,,Y200,#
+V2307,mob,vivo,vivo,,PD2326F,Y200 5G,#
+V2303,mob,vivo,vivo,,PD2313F,Y200 Pro 5G,#
+V2401,mob,vivo,vivo,,PD2313F,Y200 Pro 5G,#
+V2336,mob,vivo,vivo,,PD2341F,Y200e 5G,#
+V2416,mob,vivo,vivo,,,Y300 5G,#
+V2422,mob,vivo,vivo,,,Y300+ 5G,#
+V2402,mob,vivo,vivo,,,Y300 Pro 5G,#
+I1927,mob,vivo,vivo,,PD1964F,iQOO 3,#4G
+I1928,mob,vivo,vivo,,PD1955F,iQOO 3,#5G
+I2009,mob,vivo,vivo,,PD2049F,iQOO 7,#Global
+I2012,mob,vivo,vivo,,PD2055F,iQOO 7,#India
+I2017,mob,vivo,vivo,,PD2136F,iQOO 9,#
+I2022,mob,vivo,vivo,,PD2172F,iQOO 9 Pro,#
+I2019,mob,vivo,vivo,,PD2154F,iQOO 9 SE,#
+I2201,mob,vivo,vivo,,PD2217F,iQOO 9T,#
+I2212,mob,vivo,vivo,,PD2243F,iQOO 11,#
+I2220,mob,vivo,vivo,,PD2307F,iQOO 12,#
+I2401,mob,vivo,vivo,,PD2408F,iQOO 13,#
+I2202,mob,vivo,vivo,,PD2199F,iQOO Neo6,#
+I2214,mob,vivo,vivo,,PD2238F,iQOO Neo7,#
+I2217,mob,vivo,vivo,,PD2232F,iQOO Neo7 Pro,#
+I2304,mob,vivo,vivo,,PD2338F,iQOO Neo9 Pro,#
+I2221,mob,vivo,vivo,,PD2352F,iQOO Neo10R,#
+I2011,mob,vivo,vivo,,PD2073F,iQOO Z3,#5G
+I2018,mob,vivo,vivo,,PD2148F,iQOO Z5,#
+I2127,mob,vivo,vivo,,PD2165F,iQOO Z6,#5G
+I2203,mob,vivo,vivo,,PD2201F,iQOO Z6,#44W
+I2206,mob,vivo,vivo,,PD2201F,iQOO Z6,#44W
+I2126,mob,vivo,vivo,,PD2193F,iQOO Z6 Pro,#5G
+I2208,mob,vivo,vivo,,PD2235F,iQOO Z6 Lite,#5G
+I2213,mob,vivo,vivo,,PD2270F,iQOO Z7,#5G Global
+I2207,mob,vivo,vivo,,PD2257F,iQOO Z7,#5G India
+I2223,mob,vivo,vivo,,PD2251F,iQOO Z7s,#5G
+I2216,mob,vivo,vivo,,PD2272F,iQOO Z7x,#5G
+I2301,mob,vivo,vivo,,PD2285F,iQOO Z7 Pro,#5G
+I2218,mob,vivo,vivo,,PD2346F,iQOO Z9,#5G
+I2302,mob,vivo,vivo,,PD2346F,iQOO Z9,#5G
+I2219,mob,vivo,vivo,,PD2353F,iQOO Z9x,#5G
+I2306,mob,vivo,vivo,,PD2357F,iQOO Z9 Lite,#5G
+I2403,mob,vivo,vivo,,PD2406F,iQOO Z9s,#5G
+I2305,mob,vivo,vivo,,PD2404F,iQOO Z9s Pro,#5G
+I2407,mob,vivo,vivo,,PD2456F,iQOO Z10,#5G
+I2404,mob,vivo,vivo,,PD2445F,iQOO Z10x,#5G
 XMSH01HM,band,xiaomi,小米,,,小米手环,#
 XMSH02HM,band,xiaomi,小米,,,小米手环,#光感版
 XMSH03HM,band,xiaomi,小米,,,小米手环,#光感版
