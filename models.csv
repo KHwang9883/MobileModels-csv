@@ -3669,7 +3669,7 @@ TB138FC,pad,lenovo,联想,,olivine,小新 Pad Pro 2022 骁龙版,#
 TB132FU,pad,lenovo,联想,,onyx,小新 Pad Pro 2022 迅鲲版,#
 TB371FC,pad,lenovo,联想,,spinel,小新 Pad Pro 12.7 骁龙版,#
 TB370FU,pad,lenovo,联想,,spruce,小新 Pad Pro 12.7 天玑版,#
-TB375FC,pad,lenovo,联想,,,小新 Pad Pro 12.7 2025,#
+TB375FC,pad,lenovo,联想,,peridot,小新 Pad Pro 12.7 2025,#
 TB351FU,pad,lenovo,联想,,calla,小新 Pad Studio,#
 TB372FC,pad,lenovo,联想,,spruce,小新学习平板,#12.7
 Lenovo YT3-850F,pad,lenovo,联想,,,YOGA Tab 3,#8” Wi-Fi 版
@@ -3741,6 +3741,8 @@ TB310XC,pad,lenovo,联想,,pine,联想昭阳 K9,#9 英寸 LTE 版
 TB330FU,pad,lenovo,联想,,barley,联想昭阳 K10,#10.95 英寸 Wi-Fi 版
 TB330XC,pad,lenovo,联想,,barley,联想昭阳 K10,#10.95 英寸 LTE 版
 TB360ZU,pad,lenovo,联想,,linden,联想昭阳 K10,#10.61 英寸 5G 版
+TB311FU,pad,lenovo,联想,,poplar,联想昭阳 K10c,#10.1 英寸 Wi-Fi 版
+TB311XC,pad,lenovo,联想,,poplar,联想昭阳 K10c,#10.1 英寸 LTE 版
 TB352FC,pad,lenovo,联想,,citrus,联想昭阳 K11,#11.5 英寸 Wi-Fi 版
 TB352XC,pad,lenovo,联想,,citrus,联想昭阳 K11,#11.5 英寸 LTE 版
 TB240FC,pad,lenovo,联想,,spruce,联想昭阳 K12,#12.7 英寸 Wi-Fi 版
@@ -5778,6 +5780,7 @@ RMX3952,mob,realme,realme,,,真我 13,#
 RMX5002,mob,realme,realme,,,真我 13 Pro,#
 RMX3989,mob,realme,realme,,,真我 13 Pro 至尊版,#
 RMX3920,mob,realme,realme,,,真我 13 Pro+,#
+RMX5075,mob,realme,realme,,,真我 14,#
 RMX5055,mob,realme,realme,,,真我 14 Pro,#
 RMX5050,mob,realme,realme,,,真我 14 Pro+,#
 RMX2200,mob,realme,realme,,,真我 V3,#5G 全网通版
@@ -5803,6 +5806,8 @@ RMX3781,mob,realme,realme,,,真我 V50s,#
 RMX3995,mob,realme,realme,,,真我 V60,#
 RMX3996,mob,realme,realme,,,真我 V60s,#
 RMX3953,mob,realme,realme,,,真我 V60 Pro,#
+RMX3946,mob,realme,realme,,,真我 V70,#
+RMX3948,mob,realme,realme,,,真我 V70s,#
 RMP2108,pad,realme,realme,,,真我平板 X,#
 CPH1859,mob,realme,realme,,,1,#
 CPH1861,mob,realme,realme,,,1,#
