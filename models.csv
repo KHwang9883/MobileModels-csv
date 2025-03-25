@@ -7404,11 +7404,12 @@ V2354A,mob,vivo,vivo,,PD2354,Y100+|Y200i|Y200+,#5G
 V2354A,mob,vivo,vivo,,PD2354,Y100+|Y200i|Y200+,1#5G
 V2354A,mob,vivo,vivo,,PD2354,Y100+|Y200i|Y200+,2#5G
 V2343A,mob,vivo,vivo,,PD2343,Y200,#5G
-V2361GA,mob,vivo,vivo,,PD2361,Y200 GT,#5G
+V2361GA,mob,vivo,vivo,,PD2361,Y200 GT|Y200 Pro 企业定制版,#5G
+V2361GA,mob,vivo,vivo,,PD2361,Y200 GT|Y200 Pro 企业定制版,1#
 V2353DA,mob,vivo,vivo,,PD2353,Y200t,#5G
 V2435A,mob,vivo,vivo,,PD2435,Y300,#5G
 V2410A,mob,vivo,vivo,,PD2410,Y300 Pro,#5G
-V2456A,mob,vivo,vivo,,,Y300 Pro+,#5G
+V2456A,mob,vivo,vivo,,PD2456,Y300 Pro+,#5G
 V2444A,mob,vivo,vivo,,PD2444,Y300i,#5G
 V2445EA,mob,vivo,vivo,,PD2445D,Y300t,#5G
 V2452GA,mob,vivo,vivo,,PD2452,Y300 GT,#5G
