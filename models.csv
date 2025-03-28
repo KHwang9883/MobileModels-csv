@@ -5246,6 +5246,10 @@ PHY120,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#卫星通信版
 PKB110,mob,oppo,OPPO,,yala,OPPO Find X8,#
 PKC110,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,#
 PKC130,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,#卫星通信版
+PKT110,mob,oppo,OPPO,,,OPPO Find X8s,#
+PLB110,mob,oppo,OPPO,,,OPPO Find X8s+,#
+PKJ110,mob,oppo,OPPO,,,OPPO Find X8 Ultra,#
+PKU110,mob,oppo,OPPO,,,OPPO Find X8 Ultra,#卫星通信版
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,#
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
@@ -5419,6 +5423,7 @@ OPD2201,pad,oppo,OPPO,,aries,OPPO Pad 2,#
 OPD2301,pad,oppo,OPPO,,bluey,OPPO Pad Air2,#
 OPD2405,pad,oppo,OPPO,,,OPPO Pad 3,#
 OPD2401,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,#
+OPD2409,pad,oppo,OPPO,,,OPPO Pad 4 Pro,#
 OB19B1,band,oppo,OPPO,,,OPPO Band,#标准版 / 名侦探柯南限定版
 OB19B3,band,oppo,OPPO,,,OPPO Band,#NFC 版
 OB19O0,band,oppo,OPPO,,,OPPO Band,#时尚版
