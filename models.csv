@@ -1803,7 +1803,8 @@ RKY-AN00,mob,honor,荣耀,,Rocky,荣耀畅玩 40 Plus,#5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50|荣耀畅玩 50m,#5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50|荣耀畅玩 50m,1#5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,#5G
-NIC-AN00,mob,honor,荣耀,,,荣耀畅玩 60,#5G
+NIC-AN00,mob,honor,荣耀,,,荣耀畅玩 60|荣耀畅玩 60m,#5G
+NIC-AN00,mob,honor,荣耀,,,荣耀畅玩 60|荣耀畅玩 60m,1#5G
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,#5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,#Wi-Fi 版
 S8-701u,pad,honor,荣耀,,,荣耀平板,#3G 版
@@ -2374,7 +2375,7 @@ PAL-AL00,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#
 PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,#
 ALT-AL00,mob,huawei,华为,,Alta,HUAWEI Mate X3,#
 ALT-AL10,mob,huawei,华为,,Alta,HUAWEI Mate X5,#
-GRL-AL10,mob,huawei,华为,,Greenland,HUAWEI Mate XT ULTIMATE DESIGN 非凡大师,#
+GRL-AL10,mob,huawei,华为,,Greenlan,HUAWEI Mate XT ULTIMATE DESIGN 非凡大师,#
 ICL-AL10,mob,huawei,华为,,Iceland,HUAWEI Mate X6,#
 ICL-AL20,mob,huawei,华为,,Iceland,HUAWEI Mate X6,#典藏版
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,#
@@ -2699,9 +2700,9 @@ PCE-W30,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#Wi-Fi 版
 PCE-W40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#Wi-Fi 版 (16GB+1TB)
 PCE-AL30,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#SIM 卡版
 PCE-AL40,pad,huawei,华为,,Poincare,HUAWEI MatePad Pro 13.2 英寸,#典藏版 SIM 卡版
-MRO-W00,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版
-MRO-W10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版 (16GB+1TB)
-MRO-AL10,pad,huawei,华为,,,HUAWEI MatePad Pro 12.2 英寸,#SIM 卡版 (16GB+1TB)
+MRO-W00,pad,huawei,华为,,Miro,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版
+MRO-W10,pad,huawei,华为,,Miro,HUAWEI MatePad Pro 12.2 英寸,#Wi-Fi 版 (16GB+1TB)
+MRO-AL10,pad,huawei,华为,,Miro,HUAWEI MatePad Pro 12.2 英寸,#SIM 卡版 (16GB+1TB)
 WEB-W00,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版
 WEB-W10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版 (16GB+1TB)
 WEB-AL00,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 典藏版 SIM 卡版
@@ -3285,7 +3286,7 @@ PAL-LX9,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,#
 PAL-L29,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,#
 ALT-L29,mob,huawei,HUAWEI,,Alta,HUAWEI Mate X3,#
 ICL-LX9,mob,huawei,HUAWEI,,Iceland,HUAWEI Mate X6,#
-GRL-LX9,mob,huawei,HUAWEI,,Greenland,HUAWEI Mate XT ULTIMATE DESIGN,#
+GRL-LX9,mob,huawei,HUAWEI,,Greenlan,HUAWEI Mate XT ULTIMATE DESIGN,#
 P6-U06,mob,huawei,HUAWEI,,,HUAWEI Ascend P6,#Single SIM
 P7-L10,mob,huawei,HUAWEI,,Sophia,HUAWEI Ascend P7,#
 P7-L11,mob,huawei,HUAWEI,,Sophia,HUAWEI Ascend P7,#
@@ -3582,7 +3583,7 @@ WGR-W19,pad,huawei,HUAWEI,,Wagner,HUAWEI MatePad Pro 12.6 2021,#Wi-Fi
 WGRR-W09,pad,huawei,HUAWEI,,WagnerR,HUAWEI MatePad Pro 12.6 2022,#Wi-Fi
 PCE-W29,pad,huawei,HUAWEI,,Poincare,HUAWEI MatePad Pro 13.2,#Wi-Fi
 WEB-W09,pad,huawei,HUAWEI,,Weber,HUAWEI MatePad Pro 13.2 2025,#Wi-Fi
-MRO-W09,pad,huawei,HUAWEI,,,HUAWEI MatePad Pro 12.2,#
+MRO-W09,pad,huawei,HUAWEI,,Miro,HUAWEI MatePad Pro 12.2,#
 HMW-W09,pad,huawei,HUAWEI,,Hemingway,HUAWEI MatePad Paper,#Wi-Fi
 BGO-L03,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,#LTE
 BGO-DL09,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,#LTE
