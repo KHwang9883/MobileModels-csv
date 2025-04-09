@@ -2643,6 +2643,8 @@ CTR-AL20,mob,huawei,华为,,Cartier,华为畅享 70 Pro,#
 MGA-AL40,mob,huawei,华为,,Mega,华为畅享 70z,#
 GFY-AL00,mob,huawei,华为,,Goofy,华为畅享 70S,#
 BRE-AL80,mob,huawei,华为,,Bruce+,华为畅享 70X,#
+BRE-AL00a,mob,huawei,华为,,Bruce,华为畅享 70X 活力版,#128GB
+BRE-AL00b,mob,huawei,华为,,Bruce,华为畅享 70X 活力版,#256GB/512GB
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,#Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,#3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,#LTE 版
@@ -3104,6 +3106,10 @@ HD75KUNL,tv,huawei,华为,,,华为 Vision 智慧屏 4 SE,#75
 HD85KUNL,tv,huawei,华为,,,华为 Vision 智慧屏 4 SE,#85
 HD75ARQD,tv,huawei,华为,,,华为 Vision 智慧屏 4 Pro,#75
 HD85ARQD,tv,huawei,华为,,,华为 Vision 智慧屏 4 Pro,#85
+HD6XAJMN,tv,huawei,华为,,,华为 Vision 智慧屏 5,#65
+HD7XAJMN,tv,huawei,华为,,,华为 Vision 智慧屏 5,#75
+HD8XAJMN,tv,huawei,华为,,,华为 Vision 智慧屏 5,#85
+HD9XAJMN,tv,huawei,华为,,,华为 Vision 智慧屏 5,#98
 HD55DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-500
 HD65DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-600
 HDB325A7,tv,huawei,华为,,,华为智慧屏 B 系列,#3 55
@@ -4401,7 +4407,9 @@ L70RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#70 2025
 L75MA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#75 2025
 L32RA-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#32 2025 节能版 (一级能效)
 L43RA-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#43 2025 节能版 (一级能效)
+L55RB-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#55 2025 节能版 (一级能效)
 L65RB-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#65 2025 节能版 (一级能效)
+L70RB-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#70 2025 节能版 (一级能效)
 L75MA-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#75 2025 节能版 (一级能效)
 L43RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#43
 L50RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#50 节能版 (二级能效)
@@ -4898,6 +4906,7 @@ NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,#
 NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,1#
 NX789J,mob,nubia,努比亚,,,红魔 10 Pro|红魔 10 Pro+,#
 NX789J,mob,nubia,努比亚,,,红魔 10 Pro|红魔 10 Pro+,1#
+NX779J,mob,nubia,努比亚,,,红魔 10 Air,#
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,#5G
 NP03J,pad,nubia,努比亚,,,红魔电竞平板 Pro,#
 NP02J,pad,nubia,努比亚,,,红魔平板 · 3D 探索版,#5G
@@ -5014,6 +5023,7 @@ CPH2645,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#欧洲版 / 国�
 CPH2647,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#北美版
 CPH2691,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#印度版
 PKR110,mob,oneplus,一加,,hummer,OnePlus Ace 5 Pro,#国行版
+PKX110,mob,oneplus,一加,,,OnePlus 13T,#国行版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
@@ -5179,6 +5189,7 @@ CPH2645,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#Europe / Global
 CPH2647,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#North America
 CPH2691,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#India
 PKR110,mob,oneplus,OnePlus,,hummer,OnePlus Ace 5 Pro,#China
+PKX110,mob,oneplus,OnePlus,,,OnePlus 13T,#China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
@@ -7534,6 +7545,8 @@ PA2373,pad,vivo,vivo,,DPD2221,Pad2,#
 PA2353,pad,vivo,vivo,,DPD2305,Pad Air,#
 PA2455,pad,vivo,vivo,,DPD2345,Pad3,#
 PA2473,pad,vivo,vivo,,DPD2329,Pad3 Pro,#
+PA2573,pad,vivo,vivo,,,Pad5 Pro,#
+PA2511,pad,vivo,vivo,,,Pad SE,#
 iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
 iPA2453,pad,vivo,vivo,,DPD2345,iQOO Pad2,#
@@ -7931,6 +7944,7 @@ M2344E1,watch,xiaomi,小米,N79,,Redmi Buds 6 活力版,#
 M2349E1,watch,xiaomi,小米,N79A,,Redmi Buds 6 青春版,#
 M2420E1,watch,xiaomi,小米,N79B,,Redmi Buds 6 Play,#国际版
 M2411E1,watch,xiaomi,小米,N79B,,REDMI Buds SE,#
+M2455E1,watch,xiaomi,小米,,,REDMI Buds 7S,#
 TWSEJ01ZM,watch,xiaomi,小米,K76,,POCO Buds Pro Genshin Impact Edition,#国际版
 M2237E1,pod,xiaomi,小米,,,POCO Pods,#印度版
 M2350E1,pod,xiaomi,小米,,,POCO Buds X1,#印度版
