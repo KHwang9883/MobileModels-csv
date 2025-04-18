@@ -3120,6 +3120,10 @@ HD6XAJMN,tv,huawei,华为,,,华为 Vision 智慧屏 5,#65
 HD7XAJMN,tv,huawei,华为,,,华为 Vision 智慧屏 5,#75
 HD8XAJMN,tv,huawei,华为,,,华为 Vision 智慧屏 5,#85
 HD9XAJMN,tv,huawei,华为,,,华为 Vision 智慧屏 5,#98
+HD55KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,#55
+HD65KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,#65
+HD75KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,#75
+HD85KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,#85
 HD55DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-500
 HD65DESB,tv,huawei,华为,,,华为智慧屏 B 系列,#3-600
 HDB325A7,tv,huawei,华为,,,华为智慧屏 B 系列,#3 55
@@ -5033,7 +5037,8 @@ CPH2645,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#欧洲版 / 国�
 CPH2647,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#北美版
 CPH2691,mob,oneplus,一加,,giulia,OnePlus Ace 5|OnePlus 13R,1#印度版
 PKR110,mob,oneplus,一加,,hummer,OnePlus Ace 5 Pro,#国行版
-PKX110,mob,oneplus,一加,,,OnePlus 13T,#国行版
+PKX110,mob,oneplus,一加,,pagani,OnePlus 13T,#国行版
+CPH2723,mob,oneplus,一加,,pagani,OnePlus 13T,#国际版
 AC2001,mob,oneplus,一加,,avicii,OnePlus Nord,#印度版
 AC2003,mob,oneplus,一加,,avicii,OnePlus Nord,#欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,OnePlus Nord 2,#印度版
@@ -5063,29 +5068,29 @@ BE2011,mob,oneplus,一加,,bengal,OnePlus Nord N100,#北美版
 BE2012,mob,oneplus,一加,,bengal,OnePlus Nord N100,#T-Mobile 版
 BE2013,mob,oneplus,一加,,bengal,OnePlus Nord N100,#国际版
 BE2015,mob,oneplus,一加,,bengal,OnePlus Nord N100,#Metro 版
-GN2200,mob,oneplus,一加,,,OnePlus Nord N20,#
-CPH2459,mob,oneplus,一加,,,OnePlus Nord N20,#
-CPH2469,mob,oneplus,一加,,,OnePlus Nord N20 SE,#
+GN2200,mob,oneplus,一加,,gunnar,OnePlus Nord N20,#
+CPH2459,mob,oneplus,一加,,gunnar,OnePlus Nord N20,#
+CPH2469,mob,oneplus,一加,,zhaoyun,OnePlus Nord N20 SE,#
 CPH2605,mob,oneplus,一加,,fanli,OnePlus Nord N30 SE,#欧洲版
 DE2117,mob,oneplus,一加,,dre9,OnePlus Nord N200,#北美版
 DE2118,mob,oneplus,一加,,dre8t,OnePlus Nord N200,#T-Mobile 版
-CPH2389,mob,oneplus,一加,,,OnePlus Nord N300,#
-CPH2551,pad,oneplus,一加,,xueying,OnePlus Open,#
-OPD2203,pad,oneplus,一加,,aries,OnePlus Pad,#国际
+CPH2389,mob,oneplus,一加,,hilda,OnePlus Nord N300,#
+CPH2551,pad,oneplus,一加,,hedwig,OnePlus Open,#
+OPD2203,pad,oneplus,一加,,aries-o,OnePlus Pad,#2023
 OPD2304,pad,oneplus,一加,,bluey,OnePlus Pad Go,#LTE
 OPD2305,pad,oneplus,一加,,bluey,OnePlus Pad Go,#Wi-Fi
-OPD2407,pad,oneplus,一加,,,OnePlus Pad,#国行
-OPD2404,pad,oneplus,一加,,caihong,OnePlus Pad 2|OnePlus Pad Pro,1#
-OPD2403,pad,oneplus,一加,,caihong,OnePlus Pad 2|OnePlus Pad Pro,#
+OPD2407,pad,oneplus,一加,,dunhuang,OnePlus Pad,#2024
+OPD2404,pad,oneplus,一加,,rainbow,OnePlus Pad 2|OnePlus Pad Pro,1#
+OPD2403,pad,oneplus,一加,,rainbow,OnePlus Pad 2|OnePlus Pad Pro,#
 W101IN,band,oneplus,一加,,audio,OnePlus Band,#印度版
 OPBBE221,watch,oneplus,一加,,newton,OnePlus Nord Watch,#
 W301CN,watch,oneplus,一加,,,OnePlus Watch,#国行版 / Cyberpunk 2077 限定版
 W501CN,watch,oneplus,一加,,,OnePlus Watch,#钴合金限定版 (国行)
-W301GB,watch,oneplus,一加,,,OnePlus Watch,#国际版 / 钴合金限定版 (国际)
+W301GB,watch,oneplus,一加,,,OnePlus Watch,#国际版 / 钴合金限定版 (国际) / 哈利波特限定版
 OPWW234,watch,oneplus,一加,,bagel,OnePlus Watch 2R|OnePlus Watch 2 (CN),#国行
 OPWWE234,watch,oneplus,一加,,bagel,OnePlus Watch 2R|OnePlus Watch 2 (CN),#
-OPWWE231,watch,oneplus,一加,,almond,OnePlus Watch 2,#
-OPWWE231,watch,oneplus,一加,,almond,OnePlus Watch 2,#国际版
+OPWWE231,watch,oneplus,一加,,almond,OnePlus Watch 2,#国际
+OPWWE251,watch,oneplus,一加,,,OnePlus Watch 3,#国际
 ONE A0001,mob,oneplus,OnePlus,,bacon,OnePlus One,#China / China Mobile / Global
 ONE A1001,mob,oneplus,OnePlus,,bacon,OnePlus One,#China Unicom
 ONE A2001,mob,oneplus,OnePlus,,oneplus2,OnePlus 2,#China
@@ -5199,7 +5204,8 @@ CPH2645,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#Europe / Global
 CPH2647,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#North America
 CPH2691,mob,oneplus,OnePlus,,giulia,OnePlus Ace 5|OnePlus 13R,1#India
 PKR110,mob,oneplus,OnePlus,,hummer,OnePlus Ace 5 Pro,#China
-PKX110,mob,oneplus,OnePlus,,,OnePlus 13T,#China
+PKX110,mob,oneplus,OnePlus,,pagani,OnePlus 13T,#China
+CPH2723,mob,oneplus,OnePlus,,pagani,OnePlus 13T,#Global
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,#Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,#India
@@ -5229,28 +5235,29 @@ BE2011,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#North America
 BE2012,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#T-Mobile
 BE2013,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#Global
 BE2015,mob,oneplus,OnePlus,,bengal,OnePlus Nord N100,#Metro
-GN2200,mob,oneplus,OnePlus,,,OnePlus Nord N20,#
-CPH2459,mob,oneplus,OnePlus,,,OnePlus Nord N20,#
-CPH2469,mob,oneplus,OnePlus,,,OnePlus Nord N20 SE,#20 SE
+GN2200,mob,oneplus,OnePlus,,gunnar,OnePlus Nord N20,#
+CPH2459,mob,oneplus,OnePlus,,gunnar,OnePlus Nord N20,#
+CPH2469,mob,oneplus,OnePlus,,zhaoyun,OnePlus Nord N20 SE,#20 SE
 CPH2605,mob,oneplus,OnePlus,,fanli,OnePlus Nord N30 SE,#Europe
 DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,#North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,#T-Mobile
-CPH2389,mob,oneplus,OnePlus,,,OnePlus Nord N300,#
-CPH2551,pad,oneplus,OnePlus,,xueying,OnePlus Open,#
-OPD2203,pad,oneplus,OnePlus,,aries,OnePlus Pad,#Global
+CPH2389,mob,oneplus,OnePlus,,hilda,OnePlus Nord N300,#
+CPH2551,pad,oneplus,OnePlus,,hedwig,OnePlus Open,#
+OPD2203,pad,oneplus,OnePlus,,aries-o,OnePlus Pad,#2023
 OPD2304,pad,oneplus,OnePlus,,bluey,OnePlus Pad Go,#LTE
 OPD2305,pad,oneplus,OnePlus,,bluey,OnePlus Pad Go,#Wi-Fi
-OPD2407,pad,oneplus,OnePlus,,,OnePlus Pad,#China
-OPD2404,pad,oneplus,OnePlus,,caihong,OnePlus Pad 2|OnePlus Pad Pro,1#
-OPD2403,pad,oneplus,OnePlus,,caihong,OnePlus Pad 2|OnePlus Pad Pro,#
+OPD2407,pad,oneplus,OnePlus,,dunhuang,OnePlus Pad,#2024
+OPD2404,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2|OnePlus Pad Pro,1#
+OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2|OnePlus Pad Pro,#
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,#India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,#
 W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,#China / Cyberpunk 2077 Limited Edition
 W501CN,watch,oneplus,OnePlus,,,OnePlus Watch,#Cobalt Limited Edition (China)
-W301GB,watch,oneplus,OnePlus,,,OnePlus Watch,#Global / Cobalt Limited Edition (Global)
-OPWW234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2R|OnePlus Watch 2 China,1#N
+W301GB,watch,oneplus,OnePlus,,,OnePlus Watch,#Global / Cobalt Limited Edition (Global) / Harry Potter Limited Edition
+OPWW234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2R|OnePlus Watch 2 China,1#
 OPWWE234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2R|OnePlus Watch 2 China,#
-OPWWE231,watch,oneplus,OnePlus,,almond,OnePlus Watch 2,#
+OPWWE231,watch,oneplus,OnePlus,,almond,OnePlus Watch 2,#Global
+OPWWE251,watch,oneplus,OnePlus,,,OnePlus Watch 3,#Global
 PAFM00,mob,oppo,OPPO,,,OPPO Find X,#标准版 全网通版
 PAFT00,mob,oppo,OPPO,,,OPPO Find X,#标准版 移动版
 PAHM00,mob,oppo,OPPO,,,OPPO Find X,#超级闪充版/兰博基尼版 全网通版
@@ -5266,24 +5273,24 @@ PFEM10,mob,oppo,OPPO,,baize,OPPO Find X5 Pro,#
 PFFM20,mob,oppo,OPPO,,diting,OPPO Find X5 Pro 天玑版,#
 PGFM10,mob,oppo,OPPO,,luna,OPPO Find X6,#
 PGEM10,mob,oppo,OPPO,,wukong,OPPO Find X6 Pro,#
-PHZ110,mob,oppo,OPPO,,nvwa,OPPO Find X7,#
+PHZ110,mob,oppo,OPPO,,nvwa-v,OPPO Find X7,#
 PHY110,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#
 PHY120,mob,oppo,OPPO,,pangu,OPPO Find X7 Ultra,#卫星通信版
 PKB110,mob,oppo,OPPO,,yala,OPPO Find X8,#
 PKC110,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,#
 PKC130,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,#卫星通信版
-PKT110,mob,oppo,OPPO,,,OPPO Find X8s,#
-PLB110,mob,oppo,OPPO,,,OPPO Find X8s+,#
-PKJ110,mob,oppo,OPPO,,,OPPO Find X8 Ultra,#
-PKU110,mob,oppo,OPPO,,,OPPO Find X8 Ultra,#卫星通信版
+PKT110,mob,oppo,OPPO,,koktokay,OPPO Find X8s,#
+PLB110,mob,oppo,OPPO,,slmh,OPPO Find X8s+,#
+PKJ110,mob,oppo,OPPO,,zhufeng,OPPO Find X8 Ultra,#
+PKU110,mob,oppo,OPPO,,zhufeng,OPPO Find X8 Ultra,#卫星通信版
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,#
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,#
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,#
 PHN110,mob,oppo,OPPO,,xueying,OPPO Find N3,#
 PHN110,mob,oppo,OPPO,,xueying,OPPO Find N3,#典藏版
 PHT110,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,#
-PKH110,mob,oppo,OPPO,,,OPPO Find N5,#
-PKH120,mob,oppo,OPPO,,,OPPO Find N5,#卫星通信版
+PKH110,mob,oppo,OPPO,,petrel,OPPO Find N5,#
+PKH120,mob,oppo,OPPO,,petrel,OPPO Find N5,#卫星通信版
 PCAM00,mob,oppo,OPPO,,,OPPO Reno,#全网通版
 PCAT00,mob,oppo,OPPO,,,OPPO Reno,#移动版
 PCCM00,mob,oppo,OPPO,,,OPPO Reno 10 倍变焦版,#全网通版
@@ -5443,13 +5450,14 @@ PHF110,mob,oppo,OPPO,,larry,OPPO K11x,#
 PJR110,mob,oppo,OPPO,,,OPPO K12,#
 PKS110,mob,oppo,OPPO,,,OPPO K12 Plus,#
 PJT110,mob,oppo,OPPO,,avatar-m,OPPO K12x,#
+PLD110,mob,oppo,OPPO,,,OPPO K12s,#
 OPD2101,pad,oppo,OPPO,,,OPPO Pad,#
 OPD2102,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2201,pad,oppo,OPPO,,aries,OPPO Pad 2,#
 OPD2301,pad,oppo,OPPO,,bluey,OPPO Pad Air2,#
-OPD2405,pad,oppo,OPPO,,,OPPO Pad 3,#
+OPD2405,pad,oppo,OPPO,,dunhuang,OPPO Pad 3,#
 OPD2401,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,#
-OPD2409,pad,oppo,OPPO,,,OPPO Pad 4 Pro,#
+OPD2409,pad,oppo,OPPO,,erhai,OPPO Pad 4 Pro,#
 OB19B1,band,oppo,OPPO,,,OPPO Band,#标准版 / 名侦探柯南限定版
 OB19B3,band,oppo,OPPO,,,OPPO Band,#NFC 版
 OB19O0,band,oppo,OPPO,,,OPPO Band,#时尚版
@@ -5467,9 +5475,9 @@ OWW202,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#42mm 蓝牙版
 OW20W1,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#46mm eSIM 版 / 李宁限定版
 OW20W2,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#42mm eSIM 版 / 名侦探柯南限定版
 OW20W3,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#46mm ECG
+OWW213,watch,oppo,OPPO,,maxwell,OPPO Watch 2,#SE
 OWW212,watch,oppo,OPPO,,,OPPO Watch 3,#
 OWW211,watch,oppo,OPPO,,,OPPO Watch 3,#Pro
-OWW213,watch,oppo,OPPO,,,OPPO Watch 3,#SE
 OWW221,watch,oppo,OPPO,,comet,OPPO Watch 4 Pro,#
 OWW231,watch,oppo,OPPO,,star,OPPO Watch X,#
 OWW251,watch,oppo,OPPO,,xinghe,OPPO Watch X2,#
@@ -5736,10 +5744,11 @@ OPD2402,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,#
 OB19B1,band,oppo,OPPO,,,OPPO Band,#Style
 OBBE215,band,oppo,OPPO,,,OPPO Band 2,#Japan
 OWWE201,watch,oppo,OPPO,,,OPPO Watch Free,#
-OW19W6,watch,oppo,OPPO,,beluga,OPPO Watch,#41mm Wi-Fi
-OW19W8,watch,oppo,OPPO,,belugaxl,OPPO Watch,#46mm Wi-Fi
-OW19W12,watch,oppo,OPPO,,orca,OPPO Watch,#46mm LTE
+OW19W6,watch,oppo,OPPO,,beluga,OPPO Watch (Wi-Fi),#41mm
+OW19W8,watch,oppo,OPPO,,belugaxl,OPPO Watch (Wi-Fi),#46mm
+OW19W12,watch,oppo,OPPO,,orca,OPPO Watch (LTE),#46mm LTE
 OWWE231,watch,oppo,OPPO,,star,OPPO Watch X,#
+OWWE251,watch,oppo,OPPO,,xinghe,OPPO Watch X2,#
 RMX1901,mob,realme,realme,,,真我 X,#
 RMX1851,mob,realme,realme,,,真我 X 青春版,#
 RMX1991,mob,realme,realme,,,真我 X2,#
