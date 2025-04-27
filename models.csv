@@ -1704,6 +1704,7 @@ BRP-AN00,mob,honor,荣耀,,BruceP,荣耀 X60 Pro,#
 BRP-AN80,mob,honor,荣耀,,BruceP,荣耀 X60 Pro,#卫星版
 LYN-AN00,mob,honor,荣耀,,,荣耀 X60i,#
 AGI-AN00,mob,honor,荣耀,,,荣耀 X60 GT,#
+ABR-AN00,mob,honor,荣耀,,,荣耀 X70i,#
 JMM-AL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通标配版
 JMM-AL10,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通高配版
 JMM-TL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#移动定制标配版
@@ -4421,6 +4422,7 @@ L70RB-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#70 2025
 L75MA-RA,tv,mitv,小米,,,Redmi 智能电视 A 2025,#75 2025
 L32RA-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#32 2025 节能版 (一级能效)
 L43RA-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#43 2025 节能版 (一级能效)
+L50RB-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#50 2025 节能版 (二级能效)
 L55RB-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#55 2025 节能版 (一级能效)
 L65RB-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#65 2025 节能版 (一级能效)
 L70RB-RAE,tv,mitv,小米,,,REDMI 电视 A 2025,#70 2025 节能版 (一级能效)
@@ -4430,7 +4432,7 @@ L50RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#50 节能版 (二级能效)
 L55RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#55 节能版 (二级能效)
 L65RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#65 节能版 (二级能效)
 L70RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#70 节能版 (二级能效)
-L75RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#75 节能版 (二级能效)
+L75RB-AP,tv,mitv,小米,,,Redmi 智能电视 A Pro,#75 节能版 (一级能效)
 L43RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#43 2025 节能版 (二级能效)
 L50RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#50 2025 节能版 (二级能效)
 L55RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,#55 2025 节能版 (二级能效)
@@ -4458,6 +4460,10 @@ L55RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,#55 2025
 L65RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,#65 2025
 L75RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,#75 2025
 L85RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,#85 2025
+L55RB-RXE,tv,mitv,小米,,,Redmi 电视 X 2025,#55 2025 节能版 (二级能效)
+L65RB-RXE,tv,mitv,小米,,,Redmi 电视 X 2025,#65 2025 节能版 (二级能效)
+L75RB-RXE,tv,mitv,小米,,,Redmi 电视 X 2025,#75 2025 节能版 (一级能效)
+L85RB-RXE,tv,mitv,小米,,,Redmi 电视 X 2025,#85 2025 节能版 (一级能效)
 L65R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#65
 L75R9-XP,tv,mitv,小米,,,Redmi 智能电视 X Pro,#75
 L85RA-RX,tv,mitv,小米,,,Redmi 智能电视 MAX,#85 英寸
@@ -4896,6 +4902,7 @@ A403ZT,mob,nubia,努比亚,,,S,#5G SoftBank
 LPD-20W,pad,nubia,努比亚,,,Pad 3D,#
 NP02J,pad,nubia,努比亚,,,Pad 3D II,#
 K99J,pad,nubia,努比亚,,,Pad SE,#
+NT01,pad,nubia,努比亚,,,Pad Pro,#
 NX609J,mob,nubia,努比亚,,,红魔电竞游戏手机,#
 NX619J,mob,nubia,努比亚,,,红魔 Mars 电竞手机,#
 NX629J,mob,nubia,努比亚,,,红魔 3,#
@@ -5735,6 +5742,7 @@ CPH1955,mob,oppo,OPPO,,,OPPO K3,#
 CPH2373,mob,oppo,OPPO,,,OPPO K10,#
 CPH2237,mob,oppo,OPPO,,,OPPO K10,#5G
 CPH2667,mob,oppo,OPPO,,,OPPO K12x,#5G
+CPH2729,mob,oppo,OPPO,,,OPPO K13,#5G
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,#
 OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi
@@ -5927,6 +5935,7 @@ RMX3990,mob,realme,realme,,,13 Pro 5G|14 Pro Lite 5G,1#
 RMX3921,mob,realme,realme,,,13 Pro+ 5G,#
 RMX5070,mob,realme,realme,,,14 5G,#
 RMX3940,mob,realme,realme,,,14x 5G,#
+RMX5079,mob,realme,realme,,,14T 5G,#
 RMX5056,mob,realme,realme,,,14 Pro 5G,#
 RMX5051,mob,realme,realme,,,14 Pro+ 5G,#
 RMX1901,mob,realme,realme,,,X,#
@@ -7576,7 +7585,7 @@ PA2353,pad,vivo,vivo,,DPD2305,Pad Air,#
 PA2455,pad,vivo,vivo,,DPD2345,Pad3,#
 PA2473,pad,vivo,vivo,,DPD2329,Pad3 Pro,#
 PA2573,pad,vivo,vivo,,,Pad5 Pro,#
-PA2511,pad,vivo,vivo,,,Pad SE,#
+PA2511,pad,vivo,vivo,,DPD2424,Pad SE,#
 iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
 iPA2453,pad,vivo,vivo,,DPD2345,iQOO Pad2,#
@@ -7948,6 +7957,7 @@ M2427W1,watch,xiaomi,小米,O65,,REDMI Watch 5,#蓝牙版
 M2428W1,watch,xiaomi,小米,O65,,REDMI Watch 5,#eSIM 版
 M2351W1,watch,xiaomi,小米,,,Redmi Watch 5 Active,#印度版
 M2352W1,watch,xiaomi,小米,,,Redmi Watch 5 Lite,#印度版
+M2460W1,watch,xiaomi,小米,,,Redmi Watch Move,#印度版
 M2131W1,watch,xiaomi,小米,,,POCO Watch,#
 M2111E1,watch,xiaomi,小米,K75,,Xiaomi 真无线降噪耳机 3,#
 M2103E1,watch,xiaomi,小米,K73,,Xiaomi 真无线降噪耳机 3 Pro,#
@@ -8375,7 +8385,7 @@ A401XM,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,#日本版 (SoftBank)
 22126RN91Y,mob,xiaomi,小米,C3TN,earth,Redmi 12C,#国际版 (NFC)
 2404ARN45A,mob,xiaomi,小米,N19A,moon,Redmi 13 / REDMI 13x,#国际版 / REDMI 13x 国际版
 2404ARN45I,mob,xiaomi,小米,N19A,moon,Redmi 13 / REDMI 13x,#印度版
-24049RN28L,mob,xiaomi,小米,N19L,moon,Redmi 13,#拉美版
+24049RN28L,mob,xiaomi,小米,N19L,moon,Redmi 13 / REDMI 13x,#拉美版 / REDMI 13x 拉美版
 24040RN64Y,mob,xiaomi,小米,N19E,moon,Redmi 13,#国际版 (NFC)
 2406ERN9CI,mob,xiaomi,小米,N19,breeze,Redmi 13 5G,#印度版
 23106RN0DA,mob,xiaomi,小米,C3UA,gale,Redmi 13C,#国际版
@@ -8590,6 +8600,7 @@ M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,#
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,#
 24069RA21C,mob,xiaomi,小米,N16T,peridot,Redmi Turbo 3,#
 24129RT7CC,mob,xiaomi,小米,O10S,rodin,REDMI Turbo 4,#
+25053RT47C,mob,xiaomi,小米,O10U,onyx,REDMI Turbo 4 Pro,#
 M1903F10A,mob,xiaomi,小米,F10,davinci,Redmi K20,#全网通版
 M1903F10C,mob,xiaomi,小米,F10,davinci,Redmi K20,#运营商全网通版
 M1903F10I,mob,xiaomi,小米,F10,davinciin,Redmi K20,#印度版
@@ -9146,7 +9157,7 @@ A401XM,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,#Japan (SoftBank)
 22126RN91Y,mob,xiaomi,Xiaomi,C3TN,earth,Redmi 12C,#Global (NFC)
 2404ARN45A,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13 / REDMI 13X,#Global / REDMI 13x Global
 2404ARN45I,mob,xiaomi,Xiaomi,N19A,moon,Redmi 13 / REDMI 13X,#India
-24049RN28L,mob,xiaomi,Xiaomi,N19L,moon,Redmi 13,#Latin America
+24049RN28L,mob,xiaomi,Xiaomi,N19L,moon,Redmi 13 / REDMI 13x,#Latin America / REDMI 13x Latin America
 24040RN64Y,mob,xiaomi,Xiaomi,N19E,moon,Redmi 13,#Global (NFC)
 2406ERN9CI,mob,xiaomi,Xiaomi,N19,breeze,Redmi 13 5G,#India
 23106RN0DA,mob,xiaomi,Xiaomi,C3UA,gale,Redmi 13C,#Global
@@ -9362,6 +9373,7 @@ M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,#China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,#China
 24069RA21C,mob,xiaomi,Xiaomi,N16T,peridot,Redmi Turbo 3,#China
 24129RT7CC,mob,xiaomi,Xiaomi,O10S,rodin,REDMI Turbo 4,#China
+25053RT47C,mob,xiaomi,Xiaomi,O10U,onyx,REDMI Turbo 4 Pro,#China
 M1903F10A,mob,xiaomi,Xiaomi,F10,davinci,Redmi K20,#China
 M1903F10C,mob,xiaomi,Xiaomi,F10,davinci,Redmi K20,#Chinese Carrier Version
 M1903F10I,mob,xiaomi,Xiaomi,F10,davinciin,Redmi K20,#India
@@ -9613,7 +9625,8 @@ MKY-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70|Hi 畅享 70m,#5G
 MKY-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70|Hi 畅享 70m,1#5G
 BAL-AN20,mob,zhixuan,华为智选,,,Hi 畅享 70 Pro,#5G
 JEY-AN00,mob,zhixuan,华为智选,,Jerry,Hi 畅享 70 Plus,#5G
-JLG-AN00,mob,zhixuan,华为智选,,,Hi 畅享 80S,#5G
+JLG-AN00,mob,zhixuan,华为智选,,,Hi 畅享 80|Hi 畅享 80S,#5G
+JLG-AN00,mob,zhixuan,华为智选,,,Hi 畅享 80|Hi 畅享 80S,1#5G
 BRO-W00,pad,zhixuan,华为智选,,,Hi MatePad,#
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,#
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,#
