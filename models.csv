@@ -3707,6 +3707,7 @@ Lenovo YT3-X90F,pad,lenovo,联想,,,YOGA Tab 3 PRO,#10” Wi-Fi 版
 Lenovo YT3-X90L,pad,lenovo,联想,,,YOGA Tab 3 PRO,#10” LTE 版
 Lenovo YT-K606F,pad,lenovo,联想,,bladex,YOGA Pad Pro,#
 TB520FU,pad,lenovo,联想,,lapis,YOGA Pad Pro AI 元启版,#
+TB571FU,pad,lenovo,联想,,,YOGA Pad Pro 14.5 AI 元启版,#
 SP101FU,pad,lenovo,联想,,,YOGA Paper 墨水平板,#
 Lenovo TB-9707F,pad,lenovo,联想,,p8,拯救者平板 Y700,#2022
 TB320FC,pad,lenovo,联想,,asphalt,拯救者平板 Y700 2023,#
@@ -4791,6 +4792,11 @@ XT2453-2,mob,motorola,Motorola,,aito,moto razr 50,#
 XT2451-4,mob,motorola,Motorola,,arcfox,moto razr 50 Ultra,#
 XT2435-3,mob,motorola,Motorola,,taipei,moto g55,#
 XT2437-4,mob,motorola,Motorola,,paros,moto g75,#
+XT2505-4,mob,motorola,Motorola,,scout,moto edge 60,#
+XT2503-3,mob,motorola,Motorola,,scout,moto edge 60s,#
+XT2507-5,mob,motorola,Motorola,,cybert,moto edge 60 Pro,#
+XT2553-2,mob,motorola,Motorola,,aito,moto razr 60,#
+XT2551-3,mob,motorola,Motorola,,leap,moto razr 60 Ultra,#
 TA-1000,mob,nokia,诺基亚,,plate,Nokia 6,#
 TA-1054,mob,nokia,诺基亚,,plate2,Nokia 6 (第二代),#
 TA-1041,mob,nokia,诺基亚,,charm,Nokia 7,#
@@ -7585,7 +7591,7 @@ PA2373,pad,vivo,vivo,,DPD2221,Pad2,#
 PA2353,pad,vivo,vivo,,DPD2305,Pad Air,#
 PA2455,pad,vivo,vivo,,DPD2345,Pad3,#
 PA2473,pad,vivo,vivo,,DPD2329,Pad3 Pro,#
-PA2573,pad,vivo,vivo,,,Pad5 Pro,#
+PA2573,pad,vivo,vivo,,DPD2429,Pad5 Pro,#
 PA2511,pad,vivo,vivo,,DPD2424,Pad SE,#
 iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
@@ -7798,7 +7804,7 @@ V2434,mob,vivo,vivo,,,Y29,#
 V2435,mob,vivo,vivo,,,Y29,#
 V2445,mob,vivo,vivo,,,Jovi Y29,#
 V2420,mob,vivo,vivo,,,Y29 5G,#
-V2446,mob,vivo,vivo,,,Y29s 5G,#
+V2446,mob,vivo,vivo,,PD2443F,Y29s 5G,#
 V2160,mob,vivo,vivo,,PD2197F,Y30 5G,#
 V2036,mob,vivo,vivo,,PD2068F,Y31,#
 V2036_21,mob,vivo,vivo,,PD2068F,Y31,#
