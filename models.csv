@@ -4822,6 +4822,7 @@ A142P,mob,nothing,Nothing,,PacmanPro,Nothing Phone (2a) Plus,#
 A059,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a),#
 A059P,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a) Plus,#
 A015,mob,nothing,Nothing,,Tetris,CMF Phone 1,#
+A001,mob,nothing,Nothing,,Galaga,CMF Phone 2 Pro,#
 NX501,mob,nubia,努比亚,,,Z5,#
 NX401,mob,nubia,努比亚,,,Z5 mini,#
 NX402,mob,nubia,努比亚,,,Z5 mini,#
@@ -5941,6 +5942,7 @@ RMX3990,mob,realme,realme,,,13 Pro 5G|14 Pro Lite 5G,1#
 RMX3921,mob,realme,realme,,,13 Pro+ 5G,#
 RMX5070,mob,realme,realme,,,14 5G,#
 RMX3940,mob,realme,realme,,,14x 5G,#
+RMX5078,mob,realme,realme,,,14T 5G,#
 RMX5079,mob,realme,realme,,,14T 5G,#
 RMX5056,mob,realme,realme,,,14 Pro 5G,#
 RMX5051,mob,realme,realme,,,14 Pro+ 5G,#
@@ -5973,6 +5975,8 @@ RMX3371,mob,realme,realme,,,GT NEO 3T,#
 RMX3709,mob,realme,realme,,senna-C,GT 3,#240W
 RMX3851,mob,realme,realme,,,GT 6,#
 RMX3853,mob,realme,realme,,,GT 6T,#
+RMX5061,mob,realme,realme,,,GT 7,#
+RMX5085,mob,realme,realme,,,GT 7T,#
 RMX5011,mob,realme,realme,,,GT 7 Pro,#
 RMX1805,mob,realme,realme,,,C1,#
 RMX1941,mob,realme,realme,,,C2,#
