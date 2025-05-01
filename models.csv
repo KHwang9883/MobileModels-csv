@@ -1965,6 +1965,7 @@ HYM-W76,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16 Pro,#2021 R7
 DRA-56,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 5 (16GB 内存)
 DRA-54,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 5 (24GB 内存)
 DRA-72,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 7 (32GB 内存)
+DRB-P,computer,honor,荣耀,,,荣耀 MagicBook Pro 16 2025,#
 FMB-P,computer,honor,荣耀,,,荣耀 MagicBook Pro 14,#
 HGE-W56,computer,honor,荣耀,,,荣耀 MagicBook V 14,#i5
 HGE-W76,computer,honor,荣耀,,,荣耀 MagicBook V 14,#i7
@@ -3682,6 +3683,7 @@ Lenovo TB-X804F,pad,lenovo,联想,,,小新平板 (2017),#10 英寸
 Lenovo TB-J606F,pad,lenovo,联想,,m11,小新 Pad,#
 TB128FU,pad,lenovo,联想,,oak,小新 Pad 2022,#
 TB331FC,pad,lenovo,联想,,Balsa,小新 Pad 2024,#
+TB335FC,pad,lenovo,联想,,,小新平板 11,#
 Lenovo TB-J607F,pad,lenovo,联想,,arnoz,小新 Pad Plus,#
 Lenovo TB-J607Z,pad,lenovo,联想,,arnoz,小新 Pad Plus,#5G
 TB350FU,pad,lenovo,联想,,tulip,小新 Pad Plus 2023,#
@@ -3712,6 +3714,7 @@ SP101FU,pad,lenovo,联想,,,YOGA Paper 墨水平板,#
 Lenovo TB-9707F,pad,lenovo,联想,,p8,拯救者平板 Y700,#2022
 TB320FC,pad,lenovo,联想,,asphalt,拯救者平板 Y700 2023,#
 TB321FU,pad,lenovo,联想,,kirby,拯救者平板 Y700 2025,#
+TB322FC,pad,lenovo,联想,,,拯救者平板 Y700 四代,#
 TB570FU,pad,lenovo,联想,,inception,拯救者平板 Y900,#
 TB570ZU,pad,lenovo,联想,,inception,拯救者平板 Y900,#
 Lenovo TB-J616F,pad,lenovo,联想,,p11_plus,联想天骄平板电脑,#
@@ -3764,6 +3767,8 @@ TB240FC,pad,lenovo,联想,,spruce,联想启天 K12,#12.7 英寸 Wi-Fi 版
 SP523FC,pad,lenovo,联想,,,联想启天 SmartPaper,#10.3 英寸 Wi-Fi 版
 TB310FU,pad,lenovo,联想,,pine,联想昭阳 K9,#9 英寸 Wi-Fi 版
 TB310XC,pad,lenovo,联想,,pine,联想昭阳 K9,#9 英寸 LTE 版
+TB305FU,pad,lenovo,联想,,clove,联想昭阳 K9,#8.7 英寸 Wi-Fi 版
+TB305XC,pad,lenovo,联想,,clove,联想昭阳 K9,#8.7 英寸 LTE 版
 TB330FU,pad,lenovo,联想,,barley,联想昭阳 K10,#10.95 英寸 Wi-Fi 版
 TB330XC,pad,lenovo,联想,,barley,联想昭阳 K10,#10.95 英寸 LTE 版
 TB360ZU,pad,lenovo,联想,,linden,联想昭阳 K10,#10.61 英寸 5G 版
@@ -3774,6 +3779,7 @@ TB352XC,pad,lenovo,联想,,citrus,联想昭阳 K11,#11.5 英寸 LTE 版
 TB240FC,pad,lenovo,联想,,spruce,联想昭阳 K12,#12.7 英寸 Wi-Fi 版
 TB373FU,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),#12.7 英寸 Wi-Fi 版
 TB373ZC,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),#12.7 英寸 5G 版
+TB-X802F,pad,lenovo,联想,,barley,联想昭阳 G11,#10.95 英寸 Wi-Fi 版
 Lenovo TB-J606F,pad,lenovo,联想,,m11,Lenovo Tab K11,#11 英寸 Wi-Fi 版
 Lenovo TB-J606N,pad,lenovo,联想,,m11,Lenovo Tab K11,#11 英寸 LTE 版
 TB610FU,pad,lenovo,联想,,gem,ThinkBook Plus Hybrid 2024,#平板
