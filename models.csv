@@ -1859,10 +1859,10 @@ ROD2-W09,pad,honor,荣耀,,Rolland2,荣耀平板 MagicPad 2,#12.3 英寸 Wi-Fi �
 ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,#12.3 英寸 Wi-Fi 版
 NDL-W09,pad,honor,荣耀,,,荣耀平板 X9,#11 英寸 Wi-Fi 版
 NDL-AL00,pad,honor,荣耀,,,荣耀平板 X9,#11 英寸 LTE 版
-ROL-W00,pad,honor,荣耀,,,荣耀平板 V9,#11.5 英寸 Wi-Fi 版
-ROL-W10,pad,honor,荣耀,,,荣耀平板 V9,#柔光版 11.5 英寸 Wi-Fi 版
+ROL-W00,pad,honor,荣耀,,Rowling,荣耀平板 V9,#11.5 英寸 Wi-Fi 版
+ROL-W10,pad,honor,荣耀,,Rowling,荣耀平板 V9,#柔光版 11.5 英寸 Wi-Fi 版
 ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,#11.5 英寸 Wi-Fi 版
-ROL-W60,pad,honor,荣耀,,,荣耀平板 GT,#11.5 英寸 Wi-Fi 版
+ROL-W60,pad,honor,荣耀,,Rowling,荣耀平板 GT,#11.5 英寸 Wi-Fi 版
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 Wi-Fi 版
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,#10.1 英寸 LTE 版
 HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,#8 英寸 Wi-Fi 版
@@ -2295,7 +2295,7 @@ NDL-L03,pad,honor,HONOR,,,HONOR Pad X8a,#LTE
 NDL-L09,pad,honor,HONOR,,,HONOR Pad X8a,#LTE
 HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#Wi-Fi
 HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#5G
-ROL-W009,pad,honor,HONOR,,,HONOR Pad V9,#
+ROL-W09,pad,honor,HONOR,,Rowling,HONOR Pad V9,#
 ELN-W09,pad,honor,HONOR,,Eileen,HONOR Pad X9,#Wi-Fi
 ELN-L03,pad,honor,HONOR,,Eileen,HONOR Pad X9,#LTE
 ELN-L09,pad,honor,HONOR,,Eileen,HONOR Pad X9,#LTE
@@ -3465,6 +3465,7 @@ BNE-LX1,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,#
 BNE-LX3,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,#
 BLK-LX9,mob,huawei,HUAWEI,,Blake,HUAWEI nova 13,#
 MIS-LX9,mob,huawei,HUAWEI,,MillaS,HUAWEI nova 13 Pro,#
+CTR-L91,mob,huawei,HUAWEI,,Cartier,HUAWEI nova 13i,#
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,#
 EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
 EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61|HUAWEI nova Y62|HUAWEI nova Y62 Plus,#
