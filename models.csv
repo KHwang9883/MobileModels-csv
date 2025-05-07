@@ -1525,11 +1525,11 @@ LRA-AN00,mob,honor,荣耀,,Lyra,荣耀 Magic V Flip,#
 FCP-AN10,mob,honor,荣耀,,FalconP,荣耀 Magic V3,#
 FCP-AN20,mob,honor,荣耀,,FalconP,荣耀 Magic V3,#双卫星版
 FLC-AN00,mob,honor,荣耀,,Falcon,荣耀 Magic Vs3,#
-PTP-AN00,mob,honor,荣耀,,,荣耀 Magic7,#
-PTP-AN60,mob,honor,荣耀,,,荣耀 Magic7,#16GB+1TB
-PTP-AN10,mob,honor,荣耀,,,荣耀 Magic7 Pro,#
-PTP-AN70,mob,honor,荣耀,,,荣耀 Magic7 Pro,#16GB+1TB
-PTP-AN20,mob,honor,荣耀,,,荣耀 Magic7 RSR 保时捷设计,#
+PTP-AN00,mob,honor,荣耀,,Philippe,荣耀 Magic7,#
+PTP-AN60,mob,honor,荣耀,,Philippe,荣耀 Magic7,#16GB+1TB
+PTP-AN10,mob,honor,荣耀,,Patek,荣耀 Magic7 Pro,#
+PTP-AN70,mob,honor,荣耀,,Patek,荣耀 Magic7 Pro,#16GB+1TB
+PTP-AN20,mob,honor,荣耀,,Patek,荣耀 Magic7 RSR 保时捷设计,#
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,#移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,#联通版
 H60-L03,mob,honor,荣耀,,Mogolia,荣耀 6,#移动定制版
@@ -1642,7 +1642,7 @@ YOK-AN10,mob,honor,荣耀,,York,荣耀 V40,#5G
 ALA-AN70,mob,honor,荣耀,,,荣耀 V40 轻奢版,#5G
 VCA-AN00,mob,honor,荣耀,,Victoria,荣耀 V Purse,#
 AMG-AN00,mob,honor,荣耀,,,荣耀 GT,#
-PPG-AN00,mob,honor,荣耀,,,荣耀 GT Pro,#
+PPG-AN00,mob,honor,荣耀,,PhilippeGT,荣耀 GT Pro,#
 G750-T00,mob,honor,荣耀,,,荣耀 3X,#双 3G 版
 G750-U00,mob,honor,荣耀,,,荣耀 3X,#联通版
 G750-T20,mob,honor,荣耀,,,荣耀 3X,#Pro
@@ -1704,7 +1704,7 @@ BRP-AN00,mob,honor,荣耀,,BruceP,荣耀 X60 Pro,#
 BRP-AN80,mob,honor,荣耀,,BruceP,荣耀 X60 Pro,#卫星版
 LYN-AN00,mob,honor,荣耀,,,荣耀 X60i,#
 AGI-AN00,mob,honor,荣耀,,,荣耀 X60 GT,#
-ABR-AN00,mob,honor,荣耀,,,荣耀 X70i,#
+ABR-AN00,mob,honor,荣耀,,Amber,荣耀 X70i,#
 JMM-AL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通标配版
 JMM-AL10,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#全网通高配版
 JMM-TL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,#移动定制标配版
@@ -1857,8 +1857,8 @@ ROD-W19,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,#柔光版 12.1 英寸 Wi-F
 HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,#12.1 英寸 5G 版
 ROD2-W09,pad,honor,荣耀,,Rolland2,荣耀平板 MagicPad 2,#12.3 英寸 Wi-Fi 版
 ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,#12.3 英寸 Wi-Fi 版
-NDL-W09,pad,honor,荣耀,,,荣耀平板 X9,#11 英寸 Wi-Fi 版
-NDL-AL00,pad,honor,荣耀,,,荣耀平板 X9,#11 英寸 LTE 版
+NDL-W09,pad,honor,荣耀,,Nadal,荣耀平板 X9,#11 英寸 Wi-Fi 版
+NDL-AL00,pad,honor,荣耀,,Nadal,荣耀平板 X9,#11 英寸 LTE 版
 ROL-W00,pad,honor,荣耀,,Rowling,荣耀平板 V9,#11.5 英寸 Wi-Fi 版
 ROL-W10,pad,honor,荣耀,,Rowling,荣耀平板 V9,#柔光版 11.5 英寸 Wi-Fi 版
 ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,#11.5 英寸 Wi-Fi 版
@@ -1917,14 +1917,14 @@ NIR-WAP9HNRP,computer,honor,荣耀,,NobelLR,荣耀 MagicBook 14 SE 2021,#R7
 NMH-WDQ9HN,computer,honor,荣耀,,NobelMH,荣耀 MagicBook 14 2021 锐龙版,#R5 (8GB+256GB/8GB+512GB)
 NMH-WFQ9HN,computer,honor,荣耀,,NobelMH,荣耀 MagicBook 14 2021 锐龙版,#R5 (16GB+512GB)
 NMH-WFP9HN,computer,honor,荣耀,,NobelMH,荣耀 MagicBook 14 2021 锐龙版,#R7
-GLO-F56,computer,honor,荣耀,,,荣耀 MagicBook 14 2022,#i5
-GLO-F76,computer,honor,荣耀,,,荣耀 MagicBook 14 2022,#i7
-GLO-N56,computer,honor,荣耀,,,荣耀 MagicBook 14 2022 锐龙版,#R5
-GLO-N76,computer,honor,荣耀,,,荣耀 MagicBook 14 2022 锐龙版,#R7
-GLO-G56,computer,honor,荣耀,,,荣耀 MagicBook 14 2023,#i5 (16GB+512GB)
-GLO-G561,computer,honor,荣耀,,,荣耀 MagicBook 14 2023,#i5 (16GB+1TB)
-GLO-G52,computer,honor,荣耀,,,荣耀 MagicBook 14 2023,#i5 (32GB+1TB)
-GLO-G561,computer,honor,荣耀,,,荣耀 MagicBook 14 Pro 2023,#i5 (16GB+1TB)
+GLO-F56,computer,honor,荣耀,,GalileoF,荣耀 MagicBook 14 2022,#i5
+GLO-F76,computer,honor,荣耀,,GalileoF,荣耀 MagicBook 14 2022,#i7
+GLO-N56,computer,honor,荣耀,,GalileoN,荣耀 MagicBook 14 2022 锐龙版,#R5
+GLO-N76,computer,honor,荣耀,,GalileoN,荣耀 MagicBook 14 2022 锐龙版,#R7
+GLO-G56,computer,honor,荣耀,,GalileoG,荣耀 MagicBook 14 2023,#i5 (16GB+512GB)
+GLO-G561,computer,honor,荣耀,,GalileoG,荣耀 MagicBook 14 2023,#i5 (16GB+1TB)
+GLO-G52,computer,honor,荣耀,,GalileoG,荣耀 MagicBook 14 2023,#i5 (32GB+1TB)
+GLO-G561,computer,honor,荣耀,,GalileoG,荣耀 MagicBook 14 Pro 2023,#i5 (16GB+1TB)
 Boh-WAH9HN,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i5
 Boh-WAH9HNP,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i5 (16GB+512GB)
 Boh-WAE9HN,computer,honor,荣耀,,BohrB,荣耀 MagicBook 15,#i7
@@ -1962,59 +1962,59 @@ HYLR-WFP9,computer,honor,荣耀,,HalleyLR,荣耀 MagicBook Pro 2020,#R7 (荣耀�
 HYM-W56,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16,#2021 R5
 HYM-W76,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16,#2021 R7
 HYM-W76,computer,honor,荣耀,,HalleyM,荣耀 MagicBook 16 Pro,#2021 R7
-DRA-56,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 5 (16GB 内存)
-DRA-54,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 5 (24GB 内存)
-DRA-72,computer,honor,荣耀,,,荣耀 MagicBook Pro 16,#Ultra 7 (32GB 内存)
-DRB-P,computer,honor,荣耀,,,荣耀 MagicBook Pro 16 2025,#
+DRA-56,computer,honor,荣耀,,DarwinA,荣耀 MagicBook Pro 16,#Ultra 5 (16GB 内存)
+DRA-54,computer,honor,荣耀,,DarwinA,荣耀 MagicBook Pro 16,#Ultra 5 (24GB 内存)
+DRA-72,computer,honor,荣耀,,DarwinA,荣耀 MagicBook Pro 16,#Ultra 7 (32GB 内存)
+DRB-P,computer,honor,荣耀,,DarwinB,荣耀 MagicBook Pro 16 2025,#
 FMB-P,computer,honor,荣耀,,,荣耀 MagicBook Pro 14,#
-HGE-W56,computer,honor,荣耀,,,荣耀 MagicBook V 14,#i5
-HGE-W76,computer,honor,荣耀,,,荣耀 MagicBook V 14,#i7
-HGF-W56,computer,honor,荣耀,,,荣耀 MagicBook V 14 2022,#i5
-HGF-W76,computer,honor,荣耀,,,荣耀 MagicBook V 14 2022,#i7
-MRA-561,computer,honor,荣耀,,,荣耀 MagicBook Art 14,#Ultra 5 (16GB+1TB)
-MRA-521,computer,honor,荣耀,,,荣耀 MagicBook Art 14,#Ultra 5 (32GB+1TB)
-MRA-721,computer,honor,荣耀,,,荣耀 MagicBook Art 14,#Ultra 7 (32GB+1TB)
-MRO-521,computer,honor,荣耀,,,荣耀 MagicBook Art 14,#骁龙 X Elite (32GB+1TB)
+HGE-W56,computer,honor,荣耀,,HiggsE,荣耀 MagicBook V 14,#i5
+HGE-W76,computer,honor,荣耀,,HiggsE,荣耀 MagicBook V 14,#i7
+HGF-W56,computer,honor,荣耀,,HiggsF,荣耀 MagicBook V 14 2022,#i5
+HGF-W76,computer,honor,荣耀,,HiggsF,荣耀 MagicBook V 14 2022,#i7
+MRA-561,computer,honor,荣耀,,MooreA,荣耀 MagicBook Art 14,#Ultra 5 (16GB+1TB)
+MRA-521,computer,honor,荣耀,,MooreA,荣耀 MagicBook Art 14,#Ultra 5 (32GB+1TB)
+MRA-721,computer,honor,荣耀,,MooreA,荣耀 MagicBook Art 14,#Ultra 7 (32GB+1TB)
+MRO-521,computer,honor,荣耀,,MooreO,荣耀 MagicBook Art 14,#骁龙 X Elite (32GB+1TB)
 NBR-WAI9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i3
 NBR-WAH9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,#i5
 NDR-WFH,computer,honor,荣耀,,NobelDR,荣耀 MagicBook X 14 2022,#i5 (11 代酷睿)
-FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2022,#i5 (12 代酷睿)
-FRI-F38,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i3 (8GB+256GB)
-FRI-F56,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+512GB)
-FRI-F561,computer,honor,荣耀,,,荣耀 MagicBook X 14 2023,#i5 (16GB+1TB)
-FRI-G56,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+512GB)
-FRI-G561,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+1TB)
-FRI-H76,computer,honor,荣耀,,,荣耀 MagicBook X 14 Pro 2023,#R7 (16GB+512GB)
-FRI-G56,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5 (16GB+512GB)
-FRI-G561,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#i5 (16GB+1TB)
-FRI-H56,computer,honor,荣耀,,,荣耀笔记本 X14 2024,#R5 (16GB+512GB)
-FRG-X,computer,honor,荣耀,,,荣耀笔记本 X14 2025,#
-GDG-X,computer,honor,荣耀,,,荣耀笔记本 X14 2025,#战斗版
-FMI-76,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2024,#R7 (16GB+512GB)
-FMI-721,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2024,#R7 (32GB+1TB)
-FRB-X,computer,honor,荣耀,,,荣耀笔记本 X14 Plus 2025,#
+FRI-F56,computer,honor,荣耀,,FermiF,荣耀 MagicBook X 14 2022,#i5 (12 代酷睿)
+FRI-F38,computer,honor,荣耀,,FermiF,荣耀 MagicBook X 14 2023,#i3 (8GB+256GB)
+FRI-F56,computer,honor,荣耀,,FermiF,荣耀 MagicBook X 14 2023,#i5 (16GB+512GB)
+FRI-F561,computer,honor,荣耀,,FermiF,荣耀 MagicBook X 14 2023,#i5 (16GB+1TB)
+FRI-G56,computer,honor,荣耀,,FermiG,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+512GB)
+FRI-G561,computer,honor,荣耀,,FermiG,荣耀 MagicBook X 14 Pro 2023,#i5 (16GB+1TB)
+FRI-H76,computer,honor,荣耀,,FermiH,荣耀 MagicBook X 14 Pro 2023,#R7 (16GB+512GB)
+FRI-G56,computer,honor,荣耀,,FermiG,荣耀笔记本 X14 2024,#i5 (16GB+512GB)
+FRI-G561,computer,honor,荣耀,,FermiG,荣耀笔记本 X14 2024,#i5 (16GB+1TB)
+FRI-H56,computer,honor,荣耀,,FermiH,荣耀笔记本 X14 2024,#R5 (16GB+512GB)
+FRG-X,computer,honor,荣耀,,FermiG,荣耀笔记本 X14 2025,#
+GDG-X,computer,honor,荣耀,,GodelG,荣耀笔记本 X14 2025 战斗版,#
+FMI-76,computer,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,#R7 (16GB+512GB)
+FMI-721,computer,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,#R7 (32GB+1TB)
+FRB-X,computer,honor,荣耀,,FermiB,荣耀笔记本 X14 Plus 2025,#
 BBR-WAI9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i3
 BBR-WAH9,computer,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,#i5
 BDR-WDH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (8GB+512GB)
 BDR-WFH,computer,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,#i5 (16GB+512GB)
-BRN-F56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2022,#i5
-BRN-F56,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+512GB)
-BRN-F561,computer,honor,荣耀,,,荣耀 MagicBook X 16 2023,#i5 (16GB+1TB)
-BRN-G56,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+512GB)
-BRN-G561,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+1TB)
-BRN-H76,computer,honor,荣耀,,,荣耀 MagicBook X 16 Pro 2023,#R7 (16GB+512GB)
-BRN-G56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+512GB)
-BRN-G561,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#i5 (16GB+1TB)
-BRN-H56,computer,honor,荣耀,,,荣耀笔记本 X16 2024,#R5 (16GB+512GB)
-BRG-585,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i5 (8GB+512GB)
-BRG-565,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i5 (16GB+512GB)
-BRG-561,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i5 (16GB+1TB)
-BRG-765,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i7 (16GB+512GB)
-BRG-761,computer,honor,荣耀,,,荣耀笔记本 X16 2025,#i7 (16GB+1TB)
-BRI-76,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (16GB+512GB)
-BRI-721,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2024,#R7 (32GB+1TB)
-BRB-X,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2025,#
-FRI-F56Z,computer,honor,荣耀,,,荣耀 MagicBook Z3 14 2023,#i5
+BRN-F56,computer,honor,荣耀,,BornF,荣耀 MagicBook X 16 2022,#i5
+BRN-F56,computer,honor,荣耀,,BornF,荣耀 MagicBook X 16 2023,#i5 (16GB+512GB)
+BRN-F561,computer,honor,荣耀,,BornF,荣耀 MagicBook X 16 2023,#i5 (16GB+1TB)
+BRN-G56,computer,honor,荣耀,,BornG,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+512GB)
+BRN-G561,computer,honor,荣耀,,BornG,荣耀 MagicBook X 16 Pro 2023,#i5 (16GB+1TB)
+BRN-H76,computer,honor,荣耀,,BornH,荣耀 MagicBook X 16 Pro 2023,#R7 (16GB+512GB)
+BRN-G56,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2024,#i5 (16GB+512GB)
+BRN-G561,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2024,#i5 (16GB+1TB)
+BRN-H56,computer,honor,荣耀,,BornH,荣耀笔记本 X16 2024,#R5 (16GB+512GB)
+BRG-585,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,#i5 (8GB+512GB)
+BRG-565,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,#i5 (16GB+512GB)
+BRG-561,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,#i5 (16GB+1TB)
+BRG-765,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,#i7 (16GB+512GB)
+BRG-761,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,#i7 (16GB+1TB)
+BRI-76,computer,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,#R7 (16GB+512GB)
+BRI-721,computer,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,#R7 (32GB+1TB)
+BRB-X,computer,honor,荣耀,,BornB,荣耀笔记本 X16 Plus 2025,#
+FRI-F56Z,computer,honor,荣耀,,FermiF,荣耀 MagicBook Z3 14 2023,#i5
 FRD-WDG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (8GB+512GB) (华为终端)
 FRD-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i5 (16GB+512GB) (华为终端)
 FRD-WFD9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,#i7 (16GB+512GB) (华为终端)
@@ -2049,8 +2049,8 @@ HN55BYRA,tv,honor,荣耀,,,荣耀智慧屏 Z3,#55 英寸
 TLS-B19,watch,honor,荣耀,,,荣耀手表魔法系列,#
 HBE-B19,watch,honor,荣耀,,,HONOR MagicWatch 2,#42mm (华为终端)
 HBE-B39,watch,honor,荣耀,,,HONOR MagicWatch 2,#42mm (荣耀终端)
-MNS-B19,watch,honor,荣耀,,,HONOR MagicWatch 2,#46mm (华为终端)
-MNS-B39,watch,honor,荣耀,,,HONOR MagicWatch 2,#46mm (荣耀终端)
+MNS-B19,watch,honor,荣耀,,Minos,HONOR MagicWatch 2,#46mm (华为终端)
+MNS-B39,watch,honor,荣耀,,Minos,HONOR MagicWatch 2,#46mm (荣耀终端)
 HES-B19,watch,honor,荣耀,,,荣耀手表 ES,#华为终端
 HES-B59,watch,honor,荣耀,,,荣耀手表 ES,#荣耀终端
 KAN-B19,watch,honor,荣耀,,,荣耀手表 GS Pro,#华为终端
@@ -2201,8 +2201,8 @@ LLY-NX1,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 LLY-NX3,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 ALT-NX1,mob,honor,HONOR,,Alita,HONOR 200 Smart,#
 ALT-NX3,mob,honor,HONOR,,Alita,HONOR 200 Smart,#
-ABR-NX1,mob,honor,HONOR,,,HONOR 400 Lite,#
-ABR-NX3,mob,honor,HONOR,,,HONOR 400 Lite,#
+ABR-NX1,mob,honor,HONOR,,Amber,HONOR 400 Lite,#
+ABR-NX3,mob,honor,HONOR,,Amber,HONOR 400 Lite,#
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,#
@@ -2219,8 +2219,8 @@ BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,#
 BVL-N59,mob,honor,HONOR,,Bvlgari,PORSCHE DESIGN HONOR Magic6 RSR,#
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
 ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,#
-PTP-N49,mob,honor,HONOR,,,HONOR Magic7 Pro,#
-PTP-N59,mob,honor,HONOR,,,PORSCHE DESIGN HONOR Magic7 RSR,#
+PTP-N49,mob,honor,HONOR,,Patek,HONOR Magic7 Pro,#
+PTP-N59,mob,honor,HONOR,,Patek,PORSCHE DESIGN HONOR Magic7 RSR,#
 BRP-NX1M,mob,honor,HONOR,,BruceP,HONOR Magic7 Lite,#
 BRP-NX3,mob,honor,HONOR,,BruceP,HONOR Magic7 Lite,#
 FCP-N49,mob,honor,HONOR,,FalconP,HONOR Magic V3,#
@@ -2273,9 +2273,9 @@ RBN-NX3,mob,honor,HONOR,,Robin,HONOR X8a 5G,#
 LLY-LX1,mob,honor,HONOR,,Lily,HONOR X8b,#
 LLY-LX2,mob,honor,HONOR,,Lily,HONOR X8b,#
 LLY-LX3,mob,honor,HONOR,,Lily,HONOR X8b,#
-ABR-LX1,mob,honor,HONOR,,,HONOR X8c,#
-ABR-LX2,mob,honor,HONOR,,,HONOR X8c,#
-ABR-LX3,mob,honor,HONOR,,,HONOR X8c,#
+ABR-LX1,mob,honor,HONOR,,Amber,HONOR X8c,#
+ABR-LX2,mob,honor,HONOR,,Amber,HONOR X8c,#
+ABR-LX3,mob,honor,HONOR,,Amber,HONOR X8c,#
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR X9,#
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR X9,#
 ANY-LX3,mob,honor,HONOR,,Andy,HONOR X9,#
@@ -2290,9 +2290,9 @@ HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,#
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,#LTE
 AGM-W09HN,pad,honor,HONOR,,AgassiRM,HONOR Pad X8 Lite,#
-NDL-W09,pad,honor,HONOR,,,HONOR Pad X8a,#Wi-Fi
-NDL-L03,pad,honor,HONOR,,,HONOR Pad X8a,#LTE
-NDL-L09,pad,honor,HONOR,,,HONOR Pad X8a,#LTE
+NDL-W09,pad,honor,HONOR,,Nadal,HONOR Pad X8a,#Wi-Fi
+NDL-L03,pad,honor,HONOR,,Nadal,HONOR Pad X8a,#LTE
+NDL-L09,pad,honor,HONOR,,Nadal,HONOR Pad X8a,#LTE
 HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#Wi-Fi
 HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#5G
 ROL-W09,pad,honor,HONOR,,Rowling,HONOR Pad V9,#
