@@ -3907,6 +3907,7 @@ M392Q,mob,meizu,魅族,,m2392,魅族 20 INFINITY 无界版,#
 M461Q,mob,meizu,魅族,,m2461,魅族 21,#公开版
 M461H,mob,meizu,魅族,,m2461,魅族 21,#国际版
 M481Q,mob,meizu,魅族,,m2481,魅族 21 PRO,#
+M481S,mob,meizu,魅族,,m2481,魅族 21 PRO,#Flyme 钛好用版
 M468Q,mob,meizu,魅族,,m2468,魅族 21 Note,#公开版
 M468H,mob,meizu,魅族,,m2468,魅族 21 Note,#国际版
 M431Q,mob,meizu,魅族,,m2431,魅族 Lucky 08,#公开版
@@ -4108,6 +4109,7 @@ M392Q,mob,meizu,MEIZU,,m2392,MEIZU 20 INFINITY,#
 M461Q,mob,meizu,MEIZU,,m2461,MEIZU 21,#China
 M461H,mob,meizu,MEIZU,,m2461,MEIZU 21,#Global
 M481Q,mob,meizu,MEIZU,,m2481,MEIZU 21 PRO,#
+M481S,mob,meizu,MEIZU,,m2481,MEIZU 21 PRO,#UWB
 M468Q,mob,meizu,MEIZU,,m2468,MEIZU 21 Note,#China
 M468H,mob,meizu,MEIZU,,m2468,MEIZU 21 Note,#Global
 M431Q,mob,meizu,MEIZU,,m2431,MEIZU Lucky 08,#
@@ -5157,6 +5159,7 @@ OPD2305,pad,oneplus,一加,,bluey,OnePlus Pad Go,#Wi-Fi
 OPD2407,pad,oneplus,一加,,dunhuang,OnePlus Pad,#2024
 OPD2404,pad,oneplus,一加,,rainbow,OnePlus Pad 2|OnePlus Pad Pro,1#
 OPD2403,pad,oneplus,一加,,rainbow,OnePlus Pad 2|OnePlus Pad Pro,#
+OPD2413,pad,oneplus,一加,,erhai,OnePlus Pad 2 Pro,#
 W101IN,band,oneplus,一加,,audio,OnePlus Band,#印度版
 OPBBE221,watch,oneplus,一加,,newton,OnePlus Nord Watch,#
 W301CN,watch,oneplus,一加,,,OnePlus Watch,#国行版 / Cyberpunk 2077 限定版
@@ -5324,6 +5327,7 @@ OPD2305,pad,oneplus,OnePlus,,bluey,OnePlus Pad Go,#Wi-Fi
 OPD2407,pad,oneplus,OnePlus,,dunhuang,OnePlus Pad,#2024
 OPD2404,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2|OnePlus Pad Pro,1#
 OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2|OnePlus Pad Pro,#
+OPD2413,pad,oneplus,OnePlus,,erhai,OnePlus Pad 2 Pro,#
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,#India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,#
 W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,#China / Cyberpunk 2077 Limited Edition
@@ -7671,6 +7675,8 @@ iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
 iPA2453,pad,vivo,vivo,,DPD2345,iQOO Pad2,#
 iPA2475,pad,vivo,vivo,,DPD2329,iQOO Pad2 Pro,#
+iPA2556,pad,vivo,vivo,,,iQOO Pad5,#
+iPA2575,pad,vivo,vivo,,DPD2429,iQOO Pad5 Pro,#
 vivo 1939,mob,vivo,vivo,,PD2006F,X50,#
 vivo 2004,mob,vivo,vivo,,PD2006F,X50,#
 vivo 2005,mob,vivo,vivo,,PD2006F,X50,#
