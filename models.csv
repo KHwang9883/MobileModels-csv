@@ -5827,6 +5827,7 @@ CPH2373,mob,oppo,OPPO,,,OPPO K10,#
 CPH2237,mob,oppo,OPPO,,,OPPO K10,#5G
 CPH2667,mob,oppo,OPPO,,,OPPO K12x,#5G
 CPH2729,mob,oppo,OPPO,,,OPPO K13,#5G
+CPH2753,mob,oppo,OPPO,,,OPPO K13x,#5G
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,#
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,#
 OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,#Wi-Fi
@@ -7864,10 +7865,12 @@ V2419,mob,vivo,vivo,,,Y19s,#
 V2423,mob,vivo,vivo,,,Y19s,#
 V2425,mob,vivo,vivo,,,Jovi Y19s,#
 V2454,mob,vivo,vivo,,,Jovi Y19s,#
+V2419,mob,vivo,vivo,,,Y19s Pro,#
 V2458,mob,vivo,vivo,,,Y19s Pro,#
 V2507,mob,vivo,vivo,,,Y19s Pro,#
 V2508,mob,vivo,vivo,,,Y19s Pro,#
 V2519,mob,vivo,vivo,,,Y19s Pro,#
+V2526,mob,vivo,vivo,,PD2443F,Y19s GT 5G,#
 V2431,mob,vivo,vivo,,PD2442F,Y19e,#
 V2027,mob,vivo,vivo,,PD2034F,Y20,#
 V2037,mob,vivo,vivo,,PD2066F,Y20G,#
@@ -7908,6 +7911,7 @@ V2435,mob,vivo,vivo,,,Y29,#
 V2445,mob,vivo,vivo,,,Jovi Y29,#
 V2420,mob,vivo,vivo,,,Y29 5G,#
 V2446,mob,vivo,vivo,,PD2443F,Y29s 5G,#
+V2527,mob,vivo,vivo,,PD2443F,Y29t 5G,#
 V2160,mob,vivo,vivo,,PD2197F,Y30 5G,#
 V2036,mob,vivo,vivo,,PD2068F,Y31,#
 V2036_21,mob,vivo,vivo,,PD2068F,Y31,#
