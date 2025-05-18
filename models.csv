@@ -4391,6 +4391,10 @@ L55MA-SPL,tv,mitv,小米,N32,,小米电视 S Mini LED,#55 Mini LED
 L65MA-SPL,tv,mitv,小米,N32,,小米电视 S Mini LED,#65 Mini LED
 L75MA-SPL,tv,mitv,小米,N32,,小米电视 S Mini LED,#75 Mini LED
 L85MA-SPL,tv,mitv,小米,N32,,小米电视 S Mini LED,#85 Mini LED
+L55MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#55 Mini LED 2025
+L65MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#65 Mini LED 2025
+L75MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#75 Mini LED 2025
+L85MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#85 Mini LED 2025
 L65MA-SM,tv,mitv,小米,,,小米电视 S Pro,#65 Mini LED
 L75MA-SM,tv,mitv,小米,,,小米电视 S Pro,#75 Mini LED
 L85MA-SM,tv,mitv,小米,,,小米电视 S Pro,#85 Mini LED
@@ -7691,6 +7695,7 @@ PA2455,pad,vivo,vivo,,DPD2345,Pad3,#
 PA2473,pad,vivo,vivo,,DPD2329,Pad3 Pro,#
 PA2553,pad,vivo,vivo,,,Pad5,#
 PA2573,pad,vivo,vivo,,DPD2429,Pad5 Pro,#
+PA2537,pad,vivo,vivo,,,Pad5e,#
 PA2511,pad,vivo,vivo,,DPD2424,Pad SE,#
 iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,#
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,#
@@ -7698,6 +7703,7 @@ iPA2453,pad,vivo,vivo,,DPD2345,iQOO Pad2,#
 iPA2475,pad,vivo,vivo,,DPD2329,iQOO Pad2 Pro,#
 iPA2556,pad,vivo,vivo,,,iQOO Pad5,#
 iPA2575,pad,vivo,vivo,,DPD2429,iQOO Pad5 Pro,#
+iPA2535,pad,vivo,vivo,,,iQOO Pad5e,#
 vivo 1939,mob,vivo,vivo,,PD2006F,X50,#
 vivo 2004,mob,vivo,vivo,,PD2006F,X50,#
 vivo 2005,mob,vivo,vivo,,PD2006F,X50,#
@@ -9764,7 +9770,8 @@ ZTE A2022H,mob,zte,中兴,,,中兴天机 A31 Pro,#5G
 ZTE A2022P,mob,zte,中兴,,,中兴天机 A31 Ultra,#5G
 ZTE A2023,mob,zte,中兴,,,中兴 Axon 40 Pro,#
 ZTE A2023P,mob,zte,中兴,,,中兴 Axon 40 Ultra,#
-ZTE A2024H,mob,zte,中兴,,,中兴 Axon 50 Ultra,#
+ZTE A2024H,mob,zte,中兴,,,中兴 Axon 50|中兴 Axon 50 Ultra,#
+ZTE A2024H,mob,zte,中兴,,,中兴 Axon 50|中兴 Axon 50 Ultra,1#
 ZTE A2025HL,mob,zte,中兴,,,中兴 Axon 60 Ultra,#
 ZTE A2025H,mob,zte,中兴,,,中兴 Axon 60 Ultra,#天通版
 ZTE A2023BH,mob,zte,中兴,,,中兴天机 A41,#
