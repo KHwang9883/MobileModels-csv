@@ -247,7 +247,7 @@ def _process_model_ver(line: str, mat: re.Match):
 
 def _process_line(line: str):
     global device_type
-    if line.startswith('-'):
+    if line.startswith(('-', '>')):
         return
     title_mat = _re_title.search(line)
     title_level = len(title_mat.group(0)) if title_mat else 0
