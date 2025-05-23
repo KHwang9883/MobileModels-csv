@@ -4420,6 +4420,7 @@ L55MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#55 Mini LED 2025
 L65MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#65 Mini LED 2025
 L75MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#75 Mini LED 2025
 L85MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#85 Mini LED 2025
+L98MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,#98 Mini LED 2025
 L65MA-SM,tv,mitv,小米,,,小米电视 S Pro,#65 Mini LED
 L75MA-SM,tv,mitv,小米,,,小米电视 S Pro,#75 Mini LED
 L85MA-SM,tv,mitv,小米,,,小米电视 S Pro,#85 Mini LED
@@ -5759,6 +5760,11 @@ CPH1920,mob,oppo,OPPO,,,OPPO AX5s,#
 CPH1931,mob,oppo,OPPO,,,OPPO A5 2020,#
 CPH1933,mob,oppo,OPPO,,,OPPO A5 2020,#
 CPH1943,mob,oppo,OPPO,,,OPPO A5 2020,#
+CPH2735,mob,oppo,OPPO,,,OPPO A5 5G,#
+CPH2751,mob,oppo,OPPO,,,OPPO A5 5G,#
+A502OP,mob,oppo,OPPO,,,OPPO A5 5G,#SoftBank
+CPH2727,mob,oppo,OPPO,,,OPPO A5|OPPO A5m,#2025
+CPH2727,mob,oppo,OPPO,,,OPPO A5|OPPO A5m,1#
 CPH2773,mob,oppo,OPPO,,,OPPO A5i,#
 CPH2711,mob,oppo,OPPO,,,OPPO A5 Pro,#
 CPH2695,mob,oppo,OPPO,,,OPPO A5 Pro,#5G
@@ -8100,6 +8106,7 @@ M2311W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,#eSIM 版 国行版
 M2323W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,#蓝牙版 国际版
 M2425W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,#蓝牙版
 M2424W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,#eSIM 版
+M2426W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,#eSIM 15 周年纪念版
 M2312W1,watch,xiaomi,小米,N62S,,Xiaomi Watch S4 Sport,#eSIM 版
 M2230W1,watch,xiaomi,小米,,,小米腕部心电血压记录仪,#Xiaomi Watch H1
 M2412W1,watch,xiaomi,小米,,,小米腕部血压记录仪,#Xiaomi Watch H1 E
@@ -9753,55 +9760,55 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,#China
 24074PCD2I,pad,xiaomi,Xiaomi,N83U,ruan,POCO Pad 5G,#India
 FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,#
 21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,#Bio-inspired Quadruped Robot
-VP001,,zhixuan,,,,优畅享 20 Plus,#5G
-VP002,,zhixuan,,,,优畅享 20,#5G
-VP003,,zhixuan,,,,优畅享 30e,#5G
-VP004,,zhixuan,,,,优畅享 30e,#5G 消息版
-VP003,,zhixuan,,,,优畅享 50,#5G
-VP005,,zhixuan,,,,优畅享 50 Plus,#5G
-TYH601M,,zhixuan,,,,麦芒 9,#5G
-TYH611M,,zhixuan,,,,麦芒 10 SE,#5G
-TYH612M,,zhixuan,,,,麦芒 10|麦芒 · 十年臻爱版,#5G
-TYH612M,,zhixuan,,,,麦芒 10|麦芒 · 十年臻爱版,1#
-TYH622M,,zhixuan,,,,麦芒 11,#5G
-TYH631M,,zhixuan,,,,麦芒 20,#5G
-TYH632M,,zhixuan,,,,麦芒 A20,#5G
-TYH641M,,zhixuan,,,,麦芒 30,#5G
-SP100,,zhixuan,,,,NZONE S7,#5G
-SP200,,zhixuan,,,,NZONE S7 Pro,#5G
-SP300,,zhixuan,,,,NZONE S7 Pro+,#5G
-SP210,,zhixuan,,,,NZONE 50 Pro,#5G
-SP210T,,zhixuan,,,,NZONE 50 Pro,#5G
-Hera-BD00,,zhixuan,,,,Hi nova 9,#5G
-Hebe-BD00,,zhixuan,,,,Hi nova 9 Pro,#5G
-FIO-BD00,,zhixuan,,,,Hi nova 9 SE,#5G
-FIO-TL00,,zhixuan,,,,Hi nova 9 SE,#5G
-MNT-BD00,,zhixuan,,,,Hi nova 9z,#5G
-ALH-BD00,,zhixuan,,,,Hi nova 10,#5G
-MGZ-BD00,,zhixuan,,,,Hi nova 10 Pro,#5G
-MRK-BD00,,zhixuan,,,,Hi nova 10 SE,#5G
-MIZ-BD00,,zhixuan,,,,Hi nova 11,#5G
-SUP-BD00,,zhixuan,,,,Hi nova 12 SE,#5G
-SPR-BD00,,zhixuan,,,,Hi nova 12z,#5G
-F810,,zhixuan,,,,雷鸟 FF1,#5G
-NAT-TN70,,zhixuan,,,,TD Tech N8 Pro,#
-TDT-MA01,,zhixuan,,,,TD Tech M40,#
-AVA-PA00,,zhixuan,,,,TD Tech P50,#
-LFT-AN00,,zhixuan,,,,WIKO 5G,#
-GAR-AN00,,zhixuan,,,,Hi 畅享 60,#5G
-GAR-AN60,,zhixuan,,,,Hi 畅享 60s,#5G
-LGN-AN00,,zhixuan,,,,Hi 畅享 60 Pro,#5G
-MKY-AN20,,zhixuan,,,,Hi 畅享 70|Hi 畅享 70m,#5G
-MKY-AN20,,zhixuan,,,,Hi 畅享 70|Hi 畅享 70m,1#5G
-BAL-AN20,,zhixuan,,,,Hi 畅享 70 Pro,#5G
-JEY-AN00,,zhixuan,,,Jerry,Hi 畅享 70 Plus,#5G
-JLG-AN00,,zhixuan,,,Jiaolong,Hi 畅享 80|Hi 畅享 80S,#5G
-JLG-AN00,,zhixuan,,,Jiaolong,Hi 畅享 80|Hi 畅享 80S,1#5G
-BRO-W00,pad,zhixuan,,,,Hi MatePad,#
-MASH-16,pad,zhixuan,,,,Hi MateBook 14,#16GB 内存
-MASH-32,pad,zhixuan,,,,Hi MateBook 14,#32GB 内存
-LYOI-16,pad,zhixuan,,,,Hi MateBook D 14,#
-NICEI-16,pad,zhixuan,,,,Hi MateBook D 16,#
+VP001,device,zhixuan,华为智选,,,优畅享 20 Plus,#5G
+VP002,device,zhixuan,华为智选,,,优畅享 20,#5G
+VP003,device,zhixuan,华为智选,,,优畅享 30e,#5G
+VP004,device,zhixuan,华为智选,,,优畅享 30e,#5G 消息版
+VP003,device,zhixuan,华为智选,,,优畅享 50,#5G
+VP005,device,zhixuan,华为智选,,,优畅享 50 Plus,#5G
+TYH601M,device,zhixuan,华为智选,,,麦芒 9,#5G
+TYH611M,device,zhixuan,华为智选,,,麦芒 10 SE,#5G
+TYH612M,device,zhixuan,华为智选,,,麦芒 10|麦芒 · 十年臻爱版,#5G
+TYH612M,device,zhixuan,华为智选,,,麦芒 10|麦芒 · 十年臻爱版,1#
+TYH622M,device,zhixuan,华为智选,,,麦芒 11,#5G
+TYH631M,device,zhixuan,华为智选,,,麦芒 20,#5G
+TYH632M,device,zhixuan,华为智选,,,麦芒 A20,#5G
+TYH641M,device,zhixuan,华为智选,,,麦芒 30,#5G
+SP100,device,zhixuan,华为智选,,,NZONE S7,#5G
+SP200,device,zhixuan,华为智选,,,NZONE S7 Pro,#5G
+SP300,device,zhixuan,华为智选,,,NZONE S7 Pro+,#5G
+SP210,device,zhixuan,华为智选,,,NZONE 50 Pro,#5G
+SP210T,device,zhixuan,华为智选,,,NZONE 50 Pro,#5G
+Hera-BD00,device,zhixuan,华为智选,,,Hi nova 9,#5G
+Hebe-BD00,device,zhixuan,华为智选,,,Hi nova 9 Pro,#5G
+FIO-BD00,device,zhixuan,华为智选,,,Hi nova 9 SE,#5G
+FIO-TL00,device,zhixuan,华为智选,,,Hi nova 9 SE,#5G
+MNT-BD00,device,zhixuan,华为智选,,,Hi nova 9z,#5G
+ALH-BD00,device,zhixuan,华为智选,,,Hi nova 10,#5G
+MGZ-BD00,device,zhixuan,华为智选,,,Hi nova 10 Pro,#5G
+MRK-BD00,device,zhixuan,华为智选,,,Hi nova 10 SE,#5G
+MIZ-BD00,device,zhixuan,华为智选,,,Hi nova 11,#5G
+SUP-BD00,device,zhixuan,华为智选,,,Hi nova 12 SE,#5G
+SPR-BD00,device,zhixuan,华为智选,,,Hi nova 12z,#5G
+F810,device,zhixuan,华为智选,,,雷鸟 FF1,#5G
+NAT-TN70,device,zhixuan,华为智选,,,TD Tech N8 Pro,#
+TDT-MA01,device,zhixuan,华为智选,,,TD Tech M40,#
+AVA-PA00,device,zhixuan,华为智选,,,TD Tech P50,#
+LFT-AN00,device,zhixuan,华为智选,,,WIKO 5G,#
+GAR-AN00,device,zhixuan,华为智选,,,Hi 畅享 60,#5G
+GAR-AN60,device,zhixuan,华为智选,,,Hi 畅享 60s,#5G
+LGN-AN00,device,zhixuan,华为智选,,,Hi 畅享 60 Pro,#5G
+MKY-AN20,device,zhixuan,华为智选,,,Hi 畅享 70|Hi 畅享 70m,#5G
+MKY-AN20,device,zhixuan,华为智选,,,Hi 畅享 70|Hi 畅享 70m,1#5G
+BAL-AN20,device,zhixuan,华为智选,,,Hi 畅享 70 Pro,#5G
+JEY-AN00,device,zhixuan,华为智选,,Jerry,Hi 畅享 70 Plus,#5G
+JLG-AN00,device,zhixuan,华为智选,,Jiaolong,Hi 畅享 80|Hi 畅享 80S,#5G
+JLG-AN00,device,zhixuan,华为智选,,Jiaolong,Hi 畅享 80|Hi 畅享 80S,1#5G
+BRO-W00,pad,zhixuan,华为智选,,,Hi MatePad,#
+MASH-16,pad,zhixuan,华为智选,,,Hi MateBook 14,#16GB 内存
+MASH-32,pad,zhixuan,华为智选,,,Hi MateBook 14,#32GB 内存
+LYOI-16,pad,zhixuan,华为智选,,,Hi MateBook D 14,#
+NICEI-16,pad,zhixuan,华为智选,,,Hi MateBook D 16,#
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,#
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,#
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,#
