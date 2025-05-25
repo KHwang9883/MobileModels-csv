@@ -2728,6 +2728,7 @@ MRO-AL10,pad,huawei,华为,,Miro,HUAWEI MatePad Pro 12.2 英寸,#SIM 卡版 (16G
 WEB-W00,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版
 WEB-W10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 Wi-Fi 版 (16GB+1TB)
 WEB-AL00,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 典藏版 SIM 卡版
+WEB-AL10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,#2025 SIM 卡版
 DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 Wi-Fi 版
 DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,#11.5 英寸 LTE 版
 BKY-W00,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,#12 英寸 Wi-Fi 版 (8GB+256GB)
@@ -9774,11 +9775,11 @@ TYH622M,device,zhixuan,华为智选,,,麦芒 11,#5G
 TYH631M,device,zhixuan,华为智选,,,麦芒 20,#5G
 TYH632M,device,zhixuan,华为智选,,,麦芒 A20,#5G
 TYH641M,device,zhixuan,华为智选,,,麦芒 30,#5G
-SP100,device,zhixuan,华为智选,,,NZONE S7,#5G
-SP200,device,zhixuan,华为智选,,,NZONE S7 Pro,#5G
-SP300,device,zhixuan,华为智选,,,NZONE S7 Pro+,#5G
-SP210,device,zhixuan,华为智选,,,NZONE 50 Pro,#5G
-SP210T,device,zhixuan,华为智选,,,NZONE 50 Pro,#5G
+SP100,device,zhixuan,华为智选,,Giant,NZONE S7,#5G
+SP200,device,zhixuan,华为智选,,Coco,NZONE S7 Pro,#5G
+SP300,device,zhixuan,华为智选,,Monica,NZONE S7 Pro+,#5G
+SP210,device,zhixuan,华为智选,,Ballon,NZONE 50 Pro,#5G
+SP210T,device,zhixuan,华为智选,,Ballon,NZONE 50 Pro,#5G
 Hera-BD00,device,zhixuan,华为智选,,,Hi nova 9,#5G
 Hebe-BD00,device,zhixuan,华为智选,,,Hi nova 9 Pro,#5G
 FIO-BD00,device,zhixuan,华为智选,,,Hi nova 9 SE,#5G
