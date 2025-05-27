@@ -5217,7 +5217,7 @@ OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,#
 W301CN,watch,oneplus,一加,,,一加手表,#国行版 / Cyberpunk 2077 限定版
 W501CN,watch,oneplus,一加,,,一加手表,#钴合金限定版 (国行)
 W301GB,watch,oneplus,一加,,,一加手表,#国际版 / 钴合金限定版 (国际) / 哈利波特限定版
-OPWW234,watch,oneplus,一加,,bagel,一加手表 2R,#国行版
+OPWW234,watch,oneplus,一加,,bagel,一加手表 2,#国行版
 OPWWE234,watch,oneplus,一加,,bagel,一加手表 2R,#国际版
 OPWWE231,watch,oneplus,一加,,almond,一加手表 2,#国际版
 OPWWE251,watch,oneplus,一加,,,一加手表 3,#国际版
@@ -8288,7 +8288,7 @@ M2101K9AG,mob,xiaomi,小米,K9A,courbet,小米 11 Lite,#4G 国际版
 M2101K9AI,mob,xiaomi,小米,K9A,courbet,小米 11 Lite,#4G 印度版
 2107119DC,mob,xiaomi,小米,K9D,lisa,Xiaomi 11 青春活力版,#国行版
 2109119DG,mob,xiaomi,小米,K9D,lisa,Xiaomi 11 Lite 5G NE,#国际版
-2109119DI,mob,xiaomi,小米,K9D,lisa,Xiaomi 11 Lite 5G NE,#NE 5G 印度版
+2109119DI,mob,xiaomi,小米,K9D,lisa,Xiaomi 11 Lite NE 5G,#印度版
 M2012K11G,mob,xiaomi,小米,K11,haydn,小米 11i,#国际版
 M2012K11AI,mob,xiaomi,小米,K11A,alioth,小米 11X,#印度版
 M2012K11I,mob,xiaomi,小米,K11,haydn,小米 11X Pro,#印度版
@@ -8478,7 +8478,7 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,#
 MAE136,mob,xiaomi,小米,A13,santoni,红米 4X,#全网通版
 MAT136,mob,xiaomi,小米,A13,santoni,红米 4X,#移动 4G+ 版
 MAG138,mob,xiaomi,小米,A13,santoni,红米 4X,#国际版
-MAI132,mob,xiaomi,小米,A13,santoni,红米 4X,#印度版
+MAI132,mob,xiaomi,小米,A13,santoni,红米 4,#印度版
 MDE1,mob,xiaomi,小米,D1,rosy,红米 5,#全网通版
 MDT1,mob,xiaomi,小米,D1,rosy,红米 5,#移动 4G+ 版
 MDG1,mob,xiaomi,小米,D1,rosy,红米 5,#国际版
@@ -8638,8 +8638,8 @@ A401XM,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,#日本版 (SoftBank)
 2016051,mob,xiaomi,小米,B6L,nikel,红米 Note 4,#移动版
 2016101,mob,xiaomi,小米,C6,mido,红米 Note 4X,#高通 全网通版
 2016130,mob,xiaomi,小米,C6,mido,红米 Note 4X,#高通 移动 4G+ 版
-2016100,mob,xiaomi,小米,C6,mido,红米 Note 4X,#国际版
-2016102,mob,xiaomi,小米,C6,mido,红米 Note 4X,#国际版
+2016100,mob,xiaomi,小米,C6,mido,红米 Note 4,#国际版
+2016102,mob,xiaomi,小米,C6,mido,红米 Note 4,#国际版
 2016100,mob,xiaomi,小米,C6,mido,红米 Note 4X,#高通 国际版
 2016102,mob,xiaomi,小米,C6,mido,红米 Note 4X,#高通 国际版
 MBE6A5,mob,xiaomi,小米,B6A,nikel,红米 Note 4X,#MTK 全网通版
@@ -9080,9 +9080,9 @@ M2101K9C,mob,xiaomi,Xiaomi,K9,renoir,Mi 11 Lite 5G,#China
 M2101K9R,mob,xiaomi,Xiaomi,K9,renoir,Mi 11 Lite 5G,#Japan
 M2101K9AG,mob,xiaomi,Xiaomi,K9A,courbet,Mi 11 Lite,#4G Global
 M2101K9AI,mob,xiaomi,Xiaomi,K9A,courbet,Mi 11 Lite,#4G India
-2109119DG,mob,xiaomi,Xiaomi,K9D,lisa,Xiaomi 11 Lite 5G NE / Mi 11 LE,#Global
-2109119DI,mob,xiaomi,Xiaomi,K9D,lisa,Xiaomi 11 Lite 5G NE / Mi 11 LE,#NE 5G India
-2107119DC,mob,xiaomi,Xiaomi,K9D,lisa,Xiaomi 11 Lite 5G NE / Mi 11 LE,Mi 11 LE China
+2109119DG,mob,xiaomi,Xiaomi,K9D,lisa,Xiaomi 11 Lite 5G NE,#Global
+2109119DI,mob,xiaomi,Xiaomi,K9D,lisa,Xiaomi 11 Lite NE 5G,#India
+2107119DC,mob,xiaomi,Xiaomi,K9D,lisa,Mi 11 LE,#China
 M2012K11G,mob,xiaomi,Xiaomi,K11,haydn,Mi 11i,#Global
 M2012K11AI,mob,xiaomi,Xiaomi,K11A,alioth,Mi 11X,#India
 M2012K11I,mob,xiaomi,Xiaomi,K11,haydn,Mi 11X Pro,#India
@@ -9250,7 +9250,7 @@ M1906F9SI,mob,xiaomi,Xiaomi,F9S,laurel_sprout,Mi A3,#India
 2016111,mob,xiaomi,Xiaomi,C3A,rolex,Redmi 4A,#China
 2016112,mob,xiaomi,Xiaomi,C3A,rolex,Redmi 4A,#China Mobile
 MAG138,mob,xiaomi,Xiaomi,A13,santoni,Redmi 4X,#Global
-MAI132,mob,xiaomi,Xiaomi,A13,santoni,Redmi 4X,#India
+MAI132,mob,xiaomi,Xiaomi,A13,santoni,Redmi 4,#India
 MAE136,mob,xiaomi,Xiaomi,A13,santoni,Redmi 4X,#China
 MAT136,mob,xiaomi,Xiaomi,A13,santoni,Redmi 4X,#China Mobile
 MDG1,mob,xiaomi,Xiaomi,D1,rosy,Redmi 5,#Global
