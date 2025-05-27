@@ -238,18 +238,28 @@ def _process_model_ver(line: str, mat: re.Match):
     ver_full = _strip_text(line[mat.end():])
     ver_full_names = _try_split_by_splash(ver_full)
     for full_name in ver_full_names:
-        # 找到最相关的 market name
-        best_idx = 0
-        min_len = float('inf')
+        # 1. 找所有能作为前缀的 market name
+        prefix_matches = []
         for i, mname in enumerate(devc_model_names):
-            try:
-                v = _get_ver_name_with_model(full_name, mname)
-                if len(v) < min_len:
-                    min_len = len(v)
-                    best_idx = i
-            except Exception:
-                continue
-        mname = devc_model_names[best_idx]
+            if full_name.replace(' ', '').lower().startswith(mname.replace(' ', '').lower()):
+                prefix_matches.append((i, len(mname.replace(' ', ''))))
+        if prefix_matches:
+            # 2. 选最长的
+            matched_idx = max(prefix_matches, key=lambda x: x[1])[0]
+        else:
+            # 3. 兜底用最短匹配法
+            best_idx = 0
+            min_len = float('inf')
+            for i, mname in enumerate(devc_model_names):
+                try:
+                    v = _get_ver_name_with_model(full_name, mname)
+                    if len(v) < min_len:
+                        min_len = len(v)
+                        best_idx = i
+                except Exception:
+                    continue
+            matched_idx = best_idx
+        mname = devc_model_names[matched_idx]
         ver_name = _get_ver_name_with_model(full_name, mname)
         for model in models:
             pd_rows.append((model, device_type, root_brand, root_brand_title, devc_code, devc_code_alias,
