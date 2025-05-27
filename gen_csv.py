@@ -220,13 +220,13 @@ def _get_ver_name(ver_full: str):
     return ver_item[1] if not ver_item[0] else f'{ver_item[0]}{ver_item[1]}'
 
 def _try_split_by_splash(type_name: str):
-    # 检查是否是/分割的多个版本。多个版本一般前几个单词相同
+    # 检查是否是/分割的多个版本。多个版本一般前几个单词相同（不区分大小写）
     ver_full_names = [vname.strip() for vname in type_name.split('/')]
     if len(ver_full_names) > 1:
         name1_arr = _re_non_word.split(ver_full_names[0])
         name2_arr = _re_non_word.split(ver_full_names[1])
-        if name1_arr[0] != name2_arr[0]:
-            # 首个单词不同，不认为是多个版本
+        if name1_arr[0].lower() != name2_arr[0].lower():
+            # 首个单词不同（不区分大小写），不认为是多个版本
             return [type_name]
     return ver_full_names
 
