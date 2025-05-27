@@ -2206,6 +2206,8 @@ LLY-NX1,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 LLY-NX3,mob,honor,HONOR,,Lily,HONOR 200 Lite,#
 ALT-NX1,mob,honor,HONOR,,Alita,HONOR 200 Smart,#
 ALT-NX3,mob,honor,HONOR,,Alita,HONOR 200 Smart,#
+DNY-NX9,mob,honor,HONOR,,,HONOR 400,#
+DNP-NX9,mob,honor,HONOR,,,HONOR 400 Pro,#
 ABR-NX1,mob,honor,HONOR,,Amber,HONOR 400 Lite,#
 ABR-NX3,mob,honor,HONOR,,Amber,HONOR 400 Lite,#
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,#
@@ -2300,12 +2302,15 @@ NDL-L03,pad,honor,HONOR,,Nadal,HONOR Pad X8a,#LTE
 NDL-L09,pad,honor,HONOR,,Nadal,HONOR Pad X8a,#LTE
 HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#Wi-Fi
 HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,#5G
-ROL-W09,pad,honor,HONOR,,Rowling,HONOR Pad V9,#
+ROL-W00,pad,honor,HONOR,,Rowling,HONOR Pad V9,#
 ELN-W09,pad,honor,HONOR,,Eileen,HONOR Pad X9,#Wi-Fi
 ELN-L03,pad,honor,HONOR,,Eileen,HONOR Pad X9,#LTE
 ELN-L09,pad,honor,HONOR,,Eileen,HONOR Pad X9,#LTE
 ELN2-W29,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,#Wi-Fi
+ELN2-L23,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,#LTE
+ELN2-L29,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,#LTE
 ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,#
+HEY3-W00,pad,honor,HONOR,,Hendry3,HONOR Pad 10,#Wi-Fi
 HUAWEI MT1-T00,mob,huawei,华为,,,华为 Ascend Mate,#移动版
 HUAWEI MT1-U06,mob,huawei,华为,,,华为 Ascend Mate,#联通版
 HUAWEI MT2-U071,mob,huawei,华为,,,华为 Ascend Mate 2,#联通 3G 版
@@ -3179,7 +3184,8 @@ GLL-AL09,watch,huawei,华为,,GalileoPro,HUAWEI WATCH 3 Pro new,#尊享款
 ARC-AL00,watch,huawei,华为,,Archi,HUAWEI WATCH 4,#
 MDS-AL00,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
 MDS-AL10,watch,huawei,华为,,Medes,HUAWEI WATCH 4 Pro,#
-SOC-AL00,watch,huawei,华为,,Socrates,HUAWEI WATCH 5,#
+SOC-AL00,watch,huawei,华为,,Socrates,HUAWEI WATCH 5,#42mm
+RTS-AL00,watch,huawei,华为,,,HUAWEI WATCH 5,#46mm
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,#非凡大师
 WDS-B19,watch,huawei,华为,,Woods,HUAWEI WATCH Ultimate,#非凡探索
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,#黄金款
@@ -4991,6 +4997,7 @@ NX301J,mob,nubia,努比亚,,,N5,#
 nubia 8150N,mob,nubia,努比亚,,,Neo,#5G
 Z2352N,mob,nubia,努比亚,,,Neo 2,#5G
 Z2461,mob,nubia,努比亚,,,Neo 3,#
+Z2464N,mob,nubia,努比亚,,,Neo 3,#5G
 Z2465N,mob,nubia,努比亚,,,Neo 3 GT,#5G
 Z2353,mob,nubia,努比亚,,,Music,#
 Z2460,mob,nubia,努比亚,,,Music 2,#
@@ -5034,9 +5041,12 @@ NX769J,mob,nubia,努比亚,,,红魔 9S Pro|红魔 9S Pro+,1#
 NX789J,mob,nubia,努比亚,,,红魔 10 Pro|红魔 10 Pro+,#
 NX789J,mob,nubia,努比亚,,,红魔 10 Pro|红魔 10 Pro+,1#
 NX779J,mob,nubia,努比亚,,,红魔 10 Air,#
+NX789J,mob,nubia,努比亚,,,红魔 10S Pro|红魔 10S Pro+,#
+NX789J,mob,nubia,努比亚,,,红魔 10S Pro|红魔 10S Pro+,1#
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,#5G
 NP03J,pad,nubia,努比亚,,,红魔电竞平板 Pro,#
 NP02J,pad,nubia,努比亚,,,红魔平板 · 3D 探索版,#5G
+NP05J,pad,nubia,努比亚,,,红魔电竞平板 3 Pro,#
 ONE A0001,mob,oneplus,一加,,bacon,一加手机,#全网通版 / 移动版 / 国际版
 ONE A1001,mob,oneplus,一加,,bacon,一加手机,#联通版
 ONE A2001,mob,oneplus,一加,,oneplus2,一加手机 2,#
