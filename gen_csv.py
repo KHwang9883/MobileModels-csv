@@ -332,6 +332,21 @@ if __name__ == '__main__':
         print(f'process: {name}')
         sync_brands(name)
     df = pd.DataFrame(pd_rows, columns=pd_cols)
+
+    # 新增：对 model_name 含斜杠且 ver_name 只有#的行进行拆分
+    new_rows = []
+    for row in df.itertuples(index=False, name=None):
+        row = list(row)
+        model_name, ver_name = row[6], row[7]
+        if '/' in str(model_name) and (ver_name == '#' or ver_name == ''):
+            # 拆分 model_name
+            for m in str(model_name).split('/'):
+                new_row = row.copy()
+                new_row[6] = m.strip()
+                new_rows.append(tuple(new_row))
+        else:
+            new_rows.append(tuple(row))
+    df = pd.DataFrame(new_rows, columns=pd_cols)
     df.to_csv('./models.csv', index=False, encoding='utf-8-sig')
     print('generate complete, out file: ./models.csv')
     
