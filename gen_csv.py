@@ -166,15 +166,15 @@ def _get_ver_name_with_model(ver_full: str, model_name: str):
         if ver_mat.start() < ver_start:
             continue
         if model_idx >= len(model_chars):
-            return '#' + _strip_text(ver_full[ver_mat.start():])
+            return _strip_text(ver_full[ver_mat.start():])
         ver_word = ver_mat.group()
         md_word = model_chars[model_idx]
         if ver_word.lower() == md_word.lower():
             model_idx += 1
             continue
         clean_ver = _strip_text(ver_full[ver_mat.start():])
-        return '#' + clean_ver
-    return '#'
+        return clean_ver
+    return ''
 
 
 def _strip_text(text: str):
@@ -333,12 +333,12 @@ if __name__ == '__main__':
         sync_brands(name)
     df = pd.DataFrame(pd_rows, columns=pd_cols)
 
-    # 新增：对 model_name 含斜杠且 ver_name 只有#的行进行拆分
+    # 新增：对 model_name 含斜杠且 ver_name 为空的行进行拆分
     new_rows = []
     for row in df.itertuples(index=False, name=None):
         row = list(row)
         model_name, ver_name = row[6], row[7]
-        if '/' in str(model_name) and (ver_name == '#' or ver_name == ''):
+        if '/' in str(model_name) and (not ver_name or str(ver_name).strip() == ''):
             # 拆分 model_name
             for m in str(model_name).split('/'):
                 new_row = row.copy()
