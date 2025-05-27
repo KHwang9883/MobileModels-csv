@@ -219,7 +219,6 @@ def _get_ver_name(ver_full: str):
     ver_item = sorted(ver_names, key=lambda x: len(x[1]))[0]
     return ver_item[1] if not ver_item[0] else f'{ver_item[0]}{ver_item[1]}'
 
-
 def _try_split_by_splash(type_name: str):
     # 检查是否是/分割的多个版本。多个版本一般前几个单词相同
     ver_full_names = [vname.strip() for vname in type_name.split('/')]
@@ -239,15 +238,27 @@ def _process_model_ver(line: str, mat: re.Match):
     ver_full = _strip_text(line[mat.end():])
     ver_full_names = _try_split_by_splash(ver_full)
     for full_name in ver_full_names:
-        ver_name = _get_ver_name(full_name)
+        # 找到最相关的 market name
+        best_idx = 0
+        min_len = float('inf')
+        for i, mname in enumerate(devc_model_names):
+            try:
+                v = _get_ver_name_with_model(full_name, mname)
+                if len(v) < min_len:
+                    min_len = len(v)
+                    best_idx = i
+            except Exception:
+                continue
+        mname = devc_model_names[best_idx]
+        ver_name = _get_ver_name_with_model(full_name, mname)
         for model in models:
             pd_rows.append((model, device_type, root_brand, root_brand_title, devc_code, devc_code_alias,
-                       '|'.join(devc_model_names), ver_name))
+                           mname, ver_name))
 
 
 def _process_line(line: str):
     global device_type
-    if line.startswith(('-', '>')):
+    if line.startswith(('-', '>', '~')):
         return
     title_mat = _re_title.search(line)
     title_level = len(title_mat.group(0)) if title_mat else 0
