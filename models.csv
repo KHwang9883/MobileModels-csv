@@ -6084,7 +6084,9 @@ RMX5074,mob,realme,realme,,,14T 5G,
 RMX5078,mob,realme,realme,,,14T 5G,
 RMX5079,mob,realme,realme,,,14T 5G,
 RMX5056,mob,realme,realme,,,14 Pro 5G,
+RMX5057,mob,realme,realme,,,14 Pro 5G,
 RMX5051,mob,realme,realme,,,14 Pro+ 5G,
+RMX5054,mob,realme,realme,,,14 Pro+ 5G,
 RMX1901,mob,realme,realme,,,X,
 RMX1921,mob,realme,realme,,,XT,Global
 RMX1922,mob,realme,realme,,,XT,India
@@ -6178,6 +6180,8 @@ RMX3997,mob,realme,realme,,,C65,5G
 RMX3939,mob,realme,realme,,,C65s,
 RMX3890,mob,realme,realme,,,C67,
 RMX3782,mob,realme,realme,,,C67,5G
+RMX5303,mob,realme,realme,,,C71,
+RMX3945,mob,realme,realme,,,C73,5G
 RMX3941,mob,realme,realme,,,C75,
 RMX3943,mob,realme,realme,,,C75,5G
 RMX5020,mob,realme,realme,,,C75x,
@@ -6194,6 +6198,7 @@ RMX5070,mob,realme,realme,,,P3,5G
 RMX3944,mob,realme,realme,,,P3x,5G
 RMX5032,mob,realme,realme,,,P3 Pro,5G
 RMX5030,mob,realme,realme,,,P3 Ultra,5G
+RMX5031,mob,realme,realme,,,P3 Ultra,5G
 RMX2002,mob,realme,realme,,nemo,Narzo,Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,India
 RMX2020,mob,realme,realme,,,Narzo 10A,India
