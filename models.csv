@@ -3707,7 +3707,7 @@ Lenovo TB-X804F,pad,lenovo,联想,,,小新平板 (2017),10 英寸
 Lenovo TB-J606F,pad,lenovo,联想,,m11,小新 Pad,
 TB128FU,pad,lenovo,联想,,oak,小新 Pad 2022,
 TB331FC,pad,lenovo,联想,,Balsa,小新 Pad 2024,
-TB335FC,pad,lenovo,联想,,,小新平板 11,
+TB335FC,pad,lenovo,联想,,sycamore,小新平板 11,
 Lenovo TB-J607F,pad,lenovo,联想,,arnoz,小新 Pad Plus,
 Lenovo TB-J607Z,pad,lenovo,联想,,arnoz,小新 Pad Plus,5G
 TB350FU,pad,lenovo,联想,,tulip,小新 Pad Plus 2023,
@@ -3738,7 +3738,7 @@ SP101FU,pad,lenovo,联想,,,YOGA Paper 墨水平板,
 Lenovo TB-9707F,pad,lenovo,联想,,p8,拯救者平板 Y700,2022
 TB320FC,pad,lenovo,联想,,asphalt,拯救者平板 Y700 2023,
 TB321FU,pad,lenovo,联想,,kirby,拯救者平板 Y700 2025,
-TB322FC,pad,lenovo,联想,,,拯救者平板 Y700 四代,
+TB322FC,pad,lenovo,联想,,elden,拯救者平板 Y700 四代,
 TB570FU,pad,lenovo,联想,,inception,拯救者平板 Y900,
 TB570ZU,pad,lenovo,联想,,inception,拯救者平板 Y900,
 Lenovo TB-J616F,pad,lenovo,联想,,p11_plus,联想天骄平板电脑,
@@ -3804,8 +3804,12 @@ TB240FC,pad,lenovo,联想,,spruce,联想昭阳 K12,12.7 英寸 Wi-Fi 版
 TB373FU,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),12.7 英寸 Wi-Fi 版
 TB373ZC,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),12.7 英寸 5G 版
 TB-X802F,pad,lenovo,联想,,barley,联想昭阳 G11,10.95 英寸 Wi-Fi 版
-Lenovo TB-J606F,pad,lenovo,联想,,m11,Lenovo Tab K11,11 英寸 Wi-Fi 版
-Lenovo TB-J606N,pad,lenovo,联想,,m11,Lenovo Tab K11,11 英寸 LTE 版
+TB-X903F,pad,lenovo,联想,,citrus,联想昭阳 G12,11.5 英寸 Wi-Fi 版
+TB352FC1,pad,lenovo,联想,,citrus,联想昭阳 P07,11.5 英寸 Wi-Fi 版
+TB352XC1,pad,lenovo,联想,,citrus,联想昭阳 P07,11.5 英寸 LTE 版
+Lenovo TB-J606F,pad,lenovo,联想,,m11,联想平板电脑 K11,11 英寸 Wi-Fi 版
+Lenovo TB-J606N,pad,lenovo,联想,,m11,联想平板电脑 K11,11 英寸 LTE 版
+QBH11,pad,lenovo,联想,,citrus,联想平板电脑 S11 Pro,11.5 英寸 Wi-Fi 版
 TB610FU,pad,lenovo,联想,,gem,ThinkBook Plus Hybrid 2024,平板
 Letv X600,mob,letv,乐视,,,乐 1,通用版
 Letv X608,mob,letv,乐视,,,乐 1,移动定制版
@@ -5590,12 +5594,12 @@ OPD2409,pad,oppo,OPPO,,erhai,OPPO Pad 4 Pro,
 OPD2417,pad,oppo,OPPO,,,OPPO Pad SE,
 OB19B1,band,oppo,OPPO,,,OPPO Band,运动版
 OB19O1,band,oppo,OPPO,,,OPPO Band,运动版
-OB19B1,band,oppo,OPPO,,,OPPO Band,运动版(国际版)
-OB19O3,band,oppo,OPPO,,,OPPO Band,运动版(国际版)
-OB19B1,band,oppo,OPPO,,,OPPO Band,活力板
-OB19O7,band,oppo,OPPO,,,OPPO Band,活力板
-OB19B3,band,oppo,OPPO,,,OPPO Band,时尚版(NFC 版)
-OB19O0,band,oppo,OPPO,,,OPPO Band,时尚版(NFC 版)
+OB19B1,band,oppo,OPPO,,,OPPO Band,运动版 (国际版)
+OB19O3,band,oppo,OPPO,,,OPPO Band,运动版 (国际版)
+OB19B1,band,oppo,OPPO,,,OPPO Band,活力版
+OB19O7,band,oppo,OPPO,,,OPPO Band,活力版
+OB19B3,band,oppo,OPPO,,,OPPO Band,时尚版 (NFC 版)
+OB19O0,band,oppo,OPPO,,,OPPO Band,时尚版 (NFC 版)
 OB19B3,band,oppo,OPPO,,,OPPO Band,EVA 限定版
 OB19O2,band,oppo,OPPO,,,OPPO Band,EVA 限定版
 OB19B3,band,oppo,OPPO,,,OPPO Band,名侦探柯南限定版
@@ -7752,7 +7756,7 @@ PA2373,pad,vivo,vivo,,DPD2221,Pad2,
 PA2353,pad,vivo,vivo,,DPD2305,Pad Air,
 PA2455,pad,vivo,vivo,,DPD2345,Pad3,
 PA2473,pad,vivo,vivo,,DPD2329,Pad3 Pro,
-PA2553,pad,vivo,vivo,,,Pad5,
+PA2553,pad,vivo,vivo,,DPD2437,Pad5,
 PA2573,pad,vivo,vivo,,DPD2429,Pad5 Pro,
 PA2535,pad,vivo,vivo,,DPD2345,Pad5e,
 PA2511,pad,vivo,vivo,,DPD2424,Pad SE,
@@ -7760,7 +7764,7 @@ iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,
 iPA2453,pad,vivo,vivo,,DPD2345,iQOO Pad2,
 iPA2475,pad,vivo,vivo,,DPD2329,iQOO Pad2 Pro,
-iPA2556,pad,vivo,vivo,,,iQOO Pad5,
+iPA2556,pad,vivo,vivo,,DPD2437,iQOO Pad5,
 iPA2575,pad,vivo,vivo,,DPD2429,iQOO Pad5 Pro,
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5e,
 WA2052,watch,vivo,vivo,,,WATCH,42mm
@@ -8120,8 +8124,8 @@ XMWT06,watch,xiaomi,小米,,,小米手表 Color,
 XMWTCL01,watch,xiaomi,小米,,,小米手表 Color,运动版 国行版
 XMWTCL02,watch,xiaomi,小米,,,小米手表 Color,运动版 国际版
 M2106W1,watch,xiaomi,小米,,,Xiaomi Watch Color 2,
-M2108W1,watch,xiaomi,小米,,,Xiaomi Watch S1,国行版
-M2112W1,watch,xiaomi,小米,,,Xiaomi Watch S1,国际版
+M2108W1,watch,xiaomi,小米,K62,,Xiaomi Watch S1,国行版
+M2112W1,watch,xiaomi,小米,K62,,Xiaomi Watch S1,国际版
 M2134W1,watch,xiaomi,小米,L61,,Xiaomi Watch S1 Pro,国行版
 M2135W1,watch,xiaomi,小米,L61,,Xiaomi Watch S1 Pro,国际版
 M2116W1,watch,xiaomi,小米,,,Xiaomi Watch S1 Active,国际版
@@ -8134,8 +8138,8 @@ M2425W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,蓝牙版
 M2424W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,eSIM 版
 M2426W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,eSIM 15 周年纪念版
 M2312W1,watch,xiaomi,小米,N62S,,Xiaomi Watch S4 Sport,eSIM 版
-M2230W1,watch,xiaomi,小米,,,小米腕部心电血压记录仪,Xiaomi Watch H1
-M2412W1,watch,xiaomi,小米,,,小米腕部血压记录仪,Xiaomi Watch H1 E
+M2230W1,watch,xiaomi,小米,N60,,小米腕部心电血压记录仪,Xiaomi Watch H1
+M2412W1,watch,xiaomi,小米,N60E,,小米腕部血压记录仪,Xiaomi Watch H1 E
 HMSH01GE,band,xiaomi,小米,,,Redmi 手环,
 M2101B1,band,xiaomi,小米,K67,,Redmi Smart Band Pro,国际版
 M2225B1,band,xiaomi,小米,M69B,,Redmi 手环 2,
