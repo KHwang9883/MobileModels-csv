@@ -7639,6 +7639,7 @@ V2361GA,mob,vivo,vivo,,PD2361,Y200 GT,5G
 V2361GA,mob,vivo,vivo,,PD2361,Y200 Pro 企业定制版,
 V2353DA,mob,vivo,vivo,,PD2353,Y200t,5G
 V2435A,mob,vivo,vivo,,PD2435,Y300,5G
+V2435A,mob,vivo,vivo,,PD2435,Y300c,5G
 V2410A,mob,vivo,vivo,,PD2410,Y300 Pro,5G
 V2456A,mob,vivo,vivo,,PD2456,Y300 Pro+,5G
 V2444A,mob,vivo,vivo,,PD2444,Y300i,5G
@@ -8434,6 +8435,7 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,
 24091RPADC,pad,xiaomi,小米,O81,muyu,Xiaomi Pad 7 Pro,国行版
 24091RPADG,pad,xiaomi,小米,O81,muyu,Xiaomi Pad 7 Pro,国际版
 25032RP42C,pad,xiaomi,小米,O80,jinghu,Xiaomi Pad 7 Ultra,
+25053RP5CC,pad,xiaomi,小米,O81A,violin,Xiaomi Pad 7S Pro 12.5,
 2013022,mob,xiaomi,小米,H2TD,wt93007,红米手机,移动版
 2013023,mob,xiaomi,小米,H2W,wt98007,红米手机,联通版
 2013029,mob,xiaomi,小米,H2A,armani,红米 1S,联通版
@@ -8901,6 +8903,14 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 24075RP89G,pad,xiaomi,小米,N85,flare,Redmi Pad SE 8.7,Wi-Fi 国际版
 24076RP19G,pad,xiaomi,小米,N85X,spark,Redmi Pad SE 8.7 4G,国际版
 24076RP19I,pad,xiaomi,小米,N85X,spark,Redmi Pad SE 8.7 4G,4G 印度版
+25040RP0AC,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,国行版
+25040RP0AG,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,国际版
+25040RP0AI,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,印度版
+25040RP0AE,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,欧洲版
+25040RP0AL,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,拉美版
+2505DRP06C,pad,xiaomi,小米,O84X,koto,REDMI Pad 2 4G,国行版
+2505DRP06G,pad,xiaomi,小米,O84X,koto,REDMI Pad 2 4G,国际版
+2505DRP06I,pad,xiaomi,小米,O84X,koto,REDMI Pad 2 4G,印度版
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,国际版
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,国际版
@@ -9772,6 +9782,7 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China
 24091RPADG,pad,xiaomi,Xiaomi,O81,muyu,Xiaomi Pad 7 Pro,Global
 24091RPADC,pad,xiaomi,Xiaomi,O81,muyu,Xiaomi Pad 7 Pro,China
 25032RP42C,pad,xiaomi,Xiaomi,O80,jinghu,Xiaomi Pad 7 Ultra,
+25053RP5CC,pad,xiaomi,Xiaomi,O81A,violin,Xiaomi Pad 7S Pro 12.5,China
 22081283G,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,Global
 22081283C,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,China
 23073RPBFG,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,Global
@@ -9788,6 +9799,14 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China
 24075RP89G,pad,xiaomi,Xiaomi,N85,flare,Redmi Pad SE 8.7,Wi-Fi Global
 24076RP19G,pad,xiaomi,Xiaomi,N85X,spark,Redmi Pad SE 8.7 4G,Global
 24076RP19I,pad,xiaomi,Xiaomi,N85X,spark,Redmi Pad SE 8.7 4G,4G India
+25040RP0AG,pad,xiaomi,Xiaomi,O84,taiko,Redmi Pad 2,Global
+25040RP0AI,pad,xiaomi,Xiaomi,O84,taiko,Redmi Pad 2,India
+25040RP0AE,pad,xiaomi,Xiaomi,O84,taiko,Redmi Pad 2,Europe
+25040RP0AL,pad,xiaomi,Xiaomi,O84,taiko,Redmi Pad 2,Latin America
+25040RP0AC,pad,xiaomi,Xiaomi,O84,taiko,Redmi Pad 2,China
+2505DRP06G,pad,xiaomi,Xiaomi,O84X,koto,Redmi Pad 2 4G,Global
+2505DRP06I,pad,xiaomi,Xiaomi,O84X,koto,Redmi Pad 2 4G,India
+2505DRP06C,pad,xiaomi,Xiaomi,O84X,koto,Redmi Pad 2 4G,China
 2405CPCFBG,pad,xiaomi,Xiaomi,N83P,dizi,POCO Pad,Wi-Fi Global
 24074PCD2I,pad,xiaomi,Xiaomi,N83U,ruan,POCO Pad 5G,India
 FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,
