@@ -2238,6 +2238,9 @@ JDY-LX2,mob,honor,HONOR,,Judy,HONOR X6b,
 JDY-LX3P,mob,honor,HONOR,,Judy,HONOR X6b,
 JDY-LX3,mob,honor,HONOR,,Judy,HONOR X6b,Plus
 ALT-NX3,mob,honor,HONOR,,Alita,HONOR X6b 5G,
+NIC-LX1,mob,honor,HONOR,,,HONOR X6c,
+NIC-LX2,mob,honor,HONOR,,,HONOR X6c,
+NIC-LX3,mob,honor,HONOR,,,HONOR X6c,
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,
 CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,
@@ -3092,6 +3095,10 @@ HD86AJMN,tv,huawei,华为,,,华为智慧屏 S5 Pro,86
 HD65WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,65
 HD75WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,75
 HD86WATN,tv,huawei,华为,,,华为智慧屏 S5 Pro New,86
+HD55KULX,tv,huawei,华为,,,华为智慧屏 S6,55
+HD65KULX,tv,huawei,华为,,,华为智慧屏 S6,65
+HD75KULX,tv,huawei,华为,,,华为智慧屏 S6,75
+HD85KULX,tv,huawei,华为,,,华为智慧屏 S6,85
 HD6XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,65
 HD7XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,75
 HD8XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,85
