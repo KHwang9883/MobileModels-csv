@@ -2458,6 +2458,9 @@ HBN-AL00,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro,
 HBN-AL10,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro+,
 HBN-AL80,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro+,
 HBP-AL00,mob,huawei,华为,,HepburnP,HUAWEI Pura 70 Ultra,
+LMR-AL00,mob,huawei,华为,,Lamarr,HUAWEI Pura 80 Pro,
+LMR-AL10,mob,huawei,华为,,Lamarr,HUAWEI Pura 80 Pro+,
+LMR-AL10,mob,huawei,华为,,Lamarr,HUAWEI Pura 80 Ultra,
 VDE-AL00,mob,huawei,华为,,Verde,HUAWEI Pura X,
 VDE-AL10,mob,huawei,华为,,Verde,HUAWEI Pura X,典藏版
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,
@@ -5220,7 +5223,7 @@ W301GB,watch,oneplus,一加,,,一加手表,国际版 / 钴合金限定版 (国�
 OPWW234,watch,oneplus,一加,,bagel,一加手表 2,国行版
 OPWWE234,watch,oneplus,一加,,bagel,一加手表 2R,国际版
 OPWWE231,watch,oneplus,一加,,almond,一加手表 2,国际版
-OPWWE251,watch,oneplus,一加,,,一加手表 3,国际版
+OPWWE251,watch,oneplus,一加,,chili,一加手表 3,国际版
 ONE A0001,mob,oneplus,OnePlus,,bacon,OnePlus One,China / China Mobile / Global
 ONE A1001,mob,oneplus,OnePlus,,bacon,OnePlus One,China Unicom
 ONE A2001,mob,oneplus,OnePlus,,oneplus2,OnePlus 2,China
@@ -5393,7 +5396,7 @@ W301GB,watch,oneplus,OnePlus,,,OnePlus Watch,Global / Cobalt Limited Edition (Gl
 OPWW234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2 China,
 OPWWE234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2R,
 OPWWE231,watch,oneplus,OnePlus,,almond,OnePlus Watch 2,Global
-OPWWE251,watch,oneplus,OnePlus,,,OnePlus Watch 3,Global
+OPWWE251,watch,oneplus,OnePlus,,chili,OnePlus Watch 3,Global
 PAFM00,mob,oppo,OPPO,,,OPPO Find X,标准版 全网通版
 PAFT00,mob,oppo,OPPO,,,OPPO Find X,标准版 移动版
 PAHM00,mob,oppo,OPPO,,,OPPO Find X,超级闪充版/兰博基尼版 全网通版
@@ -5623,14 +5626,14 @@ OWW202,watch,oppo,OPPO,,maxwell,OPPO Watch 2,42mm 蓝牙版
 OW20W1,watch,oppo,OPPO,,maxwell,OPPO Watch 2,46mm eSIM 版 / 李宁限定版
 OW20W2,watch,oppo,OPPO,,maxwell,OPPO Watch 2,42mm eSIM 版 / 名侦探柯南限定版
 OW20W3,watch,oppo,OPPO,,maxwell,OPPO Watch 2,46mm ECG
-OWW213,watch,oppo,OPPO,,maxwell,OPPO Watch SE,
-OWW212,watch,oppo,OPPO,,,OPPO Watch 3,
-OWW211,watch,oppo,OPPO,,,OPPO Watch 3,Pro
+OWW213,watch,oppo,OPPO,,oersted,OPPO Watch SE,
+OWW212,watch,oppo,OPPO,,oersted,OPPO Watch 3,
+OWW211,watch,oppo,OPPO,,oersted,OPPO Watch 3,Pro
 OWW221,watch,oppo,OPPO,,comet,OPPO Watch 4 Pro,
 OWW231,watch,oppo,OPPO,,star,OPPO Watch X,
 OWW235,watch,oppo,OPPO,,sport,OPPO Watch Sport,
 OWW242,watch,oppo,OPPO,,xingchen,OPPO Watch X2 Mini,
-OWW251,watch,oppo,OPPO,,xinghe,OPPO Watch X2,
+OWW251,watch,oppo,OPPO,,starriver,OPPO Watch X2,
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,
@@ -5904,13 +5907,13 @@ OPD2419,pad,oppo,OPPO,,,OPPO Pad SE,Wi-Fi
 OPD2420,pad,oppo,OPPO,,,OPPO Pad SE,LTE
 OB19B1,band,oppo,OPPO,,,OPPO Band,Style
 OB19O3,band,oppo,OPPO,,,OPPO Band,Style
-OBBE215,band,oppo,OPPO,,,OPPO Band 2,Japan
+OBBE215,band,oppo,OPPO,,heisenberg,OPPO Band 2,Japan
 OWWE201,watch,oppo,OPPO,,,OPPO Watch Free,
 OW19W6,watch,oppo,OPPO,,beluga,OPPO Watch (Wi-Fi),41mm
 OW19W8,watch,oppo,OPPO,,belugaxl,OPPO Watch (Wi-Fi),46mm
 OW19W12,watch,oppo,OPPO,,orca,OPPO Watch (LTE),46mm LTE
-OWWE231,watch,oppo,OPPO,,star,OPPO Watch X,
-OWWE251,watch,oppo,OPPO,,xinghe,OPPO Watch X2,
+OWWE231,watch,oppo,OPPO,,wuyi,OPPO Watch X,
+OWWE251,watch,oppo,OPPO,,starriver,OPPO Watch X2,
 RMX1901,mob,realme,realme,,,真我 X,
 RMX1851,mob,realme,realme,,,真我 X 青春版,
 RMX1991,mob,realme,realme,,,真我 X2,
