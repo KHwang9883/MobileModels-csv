@@ -5176,6 +5176,7 @@ CPH2399,mob,oneplus,一加,,karen,一加 Nord 2T,国际版
 CPH2401,mob,oneplus,一加,,karen,一加 Nord 2T,印度版
 CPH2661,mob,oneplus,一加,,avalon,一加 Nord 4,印度版
 CPH2663,mob,oneplus,一加,,avalon,一加 Nord 4,欧洲版 / 国际版
+CPH2707,mob,oneplus,一加,,lexus,一加 Nord 5,印度版
 CPH2709,mob,oneplus,一加,,lexus,一加 Nord 5,国际版
 EB2101,mob,oneplus,一加,,ebba,一加 Nord CE,印度版
 EB2103,mob,oneplus,一加,,ebba,一加 Nord CE,欧洲版 / 国际版
@@ -5190,7 +5191,8 @@ CPH2515,mob,oneplus,一加,,larry,一加 Nord N30,T-Mobile 版
 CPH2613,mob,oneplus,一加,,benz,一加 Nord CE 4,印度版
 CPH2619,mob,oneplus,一加,,camry,一加 Nord CE 4 Lite,印度版
 CPH2621,mob,oneplus,一加,,camry,一加 Nord CE 4 Lite,欧洲版 / 国际版
-CPH2717,mob,oneplus,一加,,honda,一加 Nord CE 5,
+CPH2717,mob,oneplus,一加,,honda,一加 Nord CE 5,印度版
+CPH2719,mob,oneplus,一加,,honda,一加 Nord CE 5,国际版
 BE2025,mob,oneplus,一加,,billie8,一加 Nord N10,Metro 版
 BE2026,mob,oneplus,一加,,billie8,一加 Nord N10,北美版
 BE2029,mob,oneplus,一加,,billie8,一加 Nord N10,欧洲版 / 国际版
@@ -5349,6 +5351,7 @@ CPH2399,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,Global
 CPH2401,mob,oneplus,OnePlus,,karen,OnePlus Nord 2T,India
 CPH2661,mob,oneplus,OnePlus,,avalon,OnePlus Nord 4,India
 CPH2663,mob,oneplus,OnePlus,,avalon,OnePlus Nord 4,Europe / Global
+CPH2707,mob,oneplus,OnePlus,,lexus,OnePlus Nord 5,India
 CPH2709,mob,oneplus,OnePlus,,lexus,OnePlus Nord 5,Global
 EB2101,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,India
 EB2103,mob,oneplus,OnePlus,,ebba,OnePlus Nord CE,Europe / Global
@@ -5363,7 +5366,8 @@ CPH2515,mob,oneplus,OnePlus,,larry,OnePlus Nord N30,T-Mobile
 CPH2613,mob,oneplus,OnePlus,,benz,OnePlus Nord CE 4,India
 CPH2619,mob,oneplus,OnePlus,,camry,OnePlus Nord CE 4 Lite,India
 CPH2621,mob,oneplus,OnePlus,,camry,OnePlus Nord CE 4 Lite,Europe / Global
-CPH2717,mob,oneplus,OnePlus,,honda,OnePlus Nord CE 5,
+CPH2717,mob,oneplus,OnePlus,,honda,OnePlus Nord CE 5,India
+CPH2719,mob,oneplus,OnePlus,,honda,OnePlus Nord CE 5,Global
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,Metro
 BE2026,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,North America
 BE2029,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,Europe / Global
@@ -6250,6 +6254,7 @@ RMX3998,mob,realme,realme,,,NARZO 70x,5G
 RMX5003,mob,realme,realme,,,NARZO 70 Turbo,5G
 RMX5033,mob,realme,realme,,,NARZO 80 Pro,5G
 RMX3944,mob,realme,realme,,,NARZO 80x,5G
+RMX3945,mob,realme,realme,,,NARZO 80 Lite,5G
 RMP2102,pad,realme,realme,,,Pad,LTE
 RMP2103,pad,realme,realme,,,Pad,Wi-Fi
 RMP2105,pad,realme,realme,,,Pad mini,LTE
@@ -7268,6 +7273,7 @@ SC-53E,mob,samsung,Samsung,,a55x,Galaxy A55 5G,Japan (NTT Docomo)
 SM-A566E,mob,samsung,Samsung,,a56x,Galaxy A56 5G,Global
 SM-A566B,mob,samsung,Samsung,,a56x,Galaxy A56 5G,EU
 SM-A5660,mob,samsung,Samsung,,a56x,Galaxy A56 5G,China
+SM-A566S,mob,samsung,Samsung,,a56x,Galaxy A56 5G,South Korea
 SM-A606F,mob,samsung,Samsung,,a60q,Galaxy A60,Global
 SM-A6060,mob,samsung,Samsung,,a60q,Galaxy A60,China mainland
 SM-A606Y,mob,samsung,Samsung,,a60q,Galaxy A60,TW
@@ -7354,6 +7360,7 @@ SM-M346B,mob,samsung,Samsung,,m34x,Galaxy M34 5G,India
 SM-M346B1,mob,samsung,Samsung,,m34x,Galaxy M34 5G,Southeast Asia
 SM-M346B2,mob,samsung,Samsung,,m34x,Galaxy M34 5G,Global
 SM-M356B,mob,samsung,Samsung,,m35x,Galaxy M35 5G,
+SM-M366B,mob,samsung,Samsung,,m36x,Galaxy M36 5G,
 SM-M405F,mob,samsung,Samsung,,m40,Galaxy M40,
 SM-M426B,mob,samsung,Samsung,,a42xq,Galaxy M42 5G,
 SM-M515F,mob,samsung,Samsung,,m51,Galaxy M51,
@@ -7380,6 +7387,7 @@ SM-E166P,mob,samsung,Samsung,,m16xm,Galaxy F16 5G,
 SM-E225F,mob,samsung,Samsung,,f22,Galaxy F22,
 SM-E236B,mob,samsung,Samsung,,m23xq,Galaxy F23 5G,
 SM-E346B,mob,samsung,Samsung,,m34x,Galaxy F34 5G,
+SM-E366B,mob,samsung,Samsung,,m36x,Galaxy F36 5G,
 SM-F415F,mob,samsung,Samsung,,f41,Galaxy F41,
 SM-E426B,mob,samsung,Samsung,,f42x,Galaxy F42 5G,
 SM-E5260,mob,samsung,Samsung,,f52x,Galaxy F52 5G,
