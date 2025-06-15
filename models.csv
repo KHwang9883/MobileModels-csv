@@ -3742,6 +3742,7 @@ Lenovo YT-X703L,pad,lenovo,联想,,,YOGA Tab 3 Plus,LTE 版
 Lenovo YT3-X90F,pad,lenovo,联想,,,YOGA Tab 3 PRO,10” Wi-Fi 版
 Lenovo YT3-X90L,pad,lenovo,联想,,,YOGA Tab 3 PRO,10” LTE 版
 Lenovo YT-K606F,pad,lenovo,联想,,bladex,YOGA Pad Pro,
+TB520FU,pad,lenovo,联想,,lapis,YOGA Pad Pro,12.7
 TB520FU,pad,lenovo,联想,,lapis,YOGA Pad Pro AI 元启版,
 TB571FU,pad,lenovo,联想,,titans,YOGA Pad Pro 14.5 AI 元启版,
 SP101FU,pad,lenovo,联想,,,YOGA Paper 墨水平板,
@@ -3810,15 +3811,18 @@ TB311FU,pad,lenovo,联想,,poplar,联想昭阳 K10c,10.1 英寸 Wi-Fi 版
 TB311XC,pad,lenovo,联想,,poplar,联想昭阳 K10c,10.1 英寸 LTE 版
 TB352FC,pad,lenovo,联想,,citrus,联想昭阳 K11,11.5 英寸 Wi-Fi 版
 TB352XC,pad,lenovo,联想,,citrus,联想昭阳 K11,11.5 英寸 LTE 版
+TB336FU,pad,lenovo,联想,,,联想昭阳 K11,11 英寸 Wi-Fi 版
+TB336ZC,pad,lenovo,联想,,,联想昭阳 K11,11 英寸 5G 版
+TB337FU,pad,lenovo,联想,,,联想昭阳 K11c,10.95 英寸 Wi-Fi 版
 TB240FC,pad,lenovo,联想,,spruce,联想昭阳 K12,12.7 英寸 Wi-Fi 版
 TB373FU,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),12.7 英寸 Wi-Fi 版
 TB373ZC,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),12.7 英寸 5G 版
 TB-X802F,pad,lenovo,联想,,barley,联想昭阳 G11,10.95 英寸 Wi-Fi 版
 TB-X903F,pad,lenovo,联想,,citrus,联想昭阳 G12,11.5 英寸 Wi-Fi 版
-TB352FC1,pad,lenovo,联想,,citrus,联想昭阳 P07,11.5 英寸 Wi-Fi 版
-TB352XC1,pad,lenovo,联想,,citrus,联想昭阳 P07,11.5 英寸 LTE 版
+TBY11,pad,lenovo,联想,,barley,联想昭阳 Y11,10.95 英寸 Wi-Fi 版
 Lenovo TB-J606F,pad,lenovo,联想,,m11,联想平板电脑 K11,11 英寸 Wi-Fi 版
 Lenovo TB-J606N,pad,lenovo,联想,,m11,联想平板电脑 K11,11 英寸 LTE 版
+QBH10,pad,lenovo,联想,,barley,联想平板电脑 S11,10.95 英寸 Wi-Fi 版
 QBH11,pad,lenovo,联想,,citrus,联想平板电脑 S11 Pro,11.5 英寸 Wi-Fi 版
 TB610FU,pad,lenovo,联想,,gem,ThinkBook Plus Hybrid 2024,平板
 Letv X600,mob,letv,乐视,,,乐 1,通用版
@@ -8368,6 +8372,9 @@ A402XM,mob,xiaomi,小米,N12,rothko,Xiaomi 14T Pro,日本版 (SoftBank)
 25010PN30G,mob,xiaomi,小米,O1,xuanyuan,Xiaomi 15 Ultra,国际版
 25010PN30I,mob,xiaomi,小米,O1,xuanyuan,Xiaomi 15 Ultra,印度版
 25042PN24C,mob,xiaomi,小米,O2S,dijun,Xiaomi 15S Pro,
+25069PTEBG,mob,xiaomi,小米,O12A,goya,Xiaomi 15T,国际版
+2506BPN68G,mob,xiaomi,小米,O12U,klimt,Xiaomi 15T Pro,国际版
+2506BPN68R,mob,xiaomi,小米,O12U,klimt,Xiaomi 15T Pro,日本版 (无锁)
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版
@@ -8402,6 +8409,8 @@ M2011J18C,mob,xiaomi,小米,J18,cetus,MIX FOLD 小米折叠屏手机,
 24072PX77C,mob,xiaomi,小米,N18,goku,Xiaomi MIX Fold 4,
 2405CPX3DC,mob,xiaomi,小米,N8,ruyi,Xiaomi MIX Flip,国行版
 2405CPX3DG,mob,xiaomi,小米,N8,ruyi,Xiaomi MIX Flip,国际版
+2505APX7BC,mob,xiaomi,小米,O8,bixi,Xiaomi MIX Flip 2,国行版
+2505APX7BG,mob,xiaomi,小米,O8,bixi,Xiaomi MIX Flip 2,国际版
 2016001,mob,xiaomi,小米,B3,hydrogen,小米 Max,标准版 全网通版
 2016002,mob,xiaomi,小米,B3,hydrogen,小米 Max,标准版 国际版
 2016007,mob,xiaomi,小米,B3_PRO,helium,小米 Max,高配版
@@ -8865,6 +8874,7 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
 24117RK2CC,mob,xiaomi,小米,O11,zorn,REDMI K80,
 24122RKC7C,mob,xiaomi,小米,O11U,miro,REDMI K80 Pro,
 24127RK2CC,mob,xiaomi,小米,O11U,miro,REDMI K80 Pro,冠军版
+25060RK16C,mob,xiaomi,小米,O12,dali,REDMI K80 至尊版,
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
@@ -8929,6 +8939,8 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 2505DRP06C,pad,xiaomi,小米,O84X,koto,REDMI Pad 2 4G,国行版
 2505DRP06G,pad,xiaomi,小米,O84X,koto,REDMI Pad 2 4G,国际版
 2505DRP06I,pad,xiaomi,小米,O84X,koto,REDMI Pad 2 4G,印度版
+2505DRP06E,pad,xiaomi,小米,O84X,koto,REDMI Pad 2 4G,欧洲版
+25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,国际版
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,国际版
@@ -9173,6 +9185,9 @@ A402XM,mob,xiaomi,Xiaomi,N12,rothko,Xiaomi 14T Pro,Japan (SoftBank)
 25019PNF3C,mob,xiaomi,Xiaomi,O1,xuanyuan,Xiaomi 15 Ultra,China (Tiantong satellite)
 25010PN30C,mob,xiaomi,Xiaomi,O1,xuanyuan,Xiaomi 15 Ultra,China (Tiantong & Beidou satellites)
 25042PN24C,mob,xiaomi,Xiaomi,O2S,dijun,Xiaomi 15S Pro,China
+25069PTEBG,mob,xiaomi,Xiaomi,O12A,goya,Xiaomi 15T,Global
+2506BPN68G,mob,xiaomi,Xiaomi,O12U,klimt,Xiaomi 15T Pro,Global
+2506BPN68R,mob,xiaomi,Xiaomi,O12U,klimt,Xiaomi 15T Pro,Japan (SIM Free)
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Dual-network)
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Full-network)
@@ -9210,6 +9225,8 @@ M2011J18C,mob,xiaomi,Xiaomi,J18,cetus,Mi MIX FOLD,China
 24072PX77C,mob,xiaomi,Xiaomi,N18,goku,Xiaomi MIX Fold 4,China
 2405CPX3DG,mob,xiaomi,Xiaomi,N8,ruyi,Xiaomi MIX Flip,Global
 2405CPX3DC,mob,xiaomi,Xiaomi,N8,ruyi,Xiaomi MIX Flip,China
+2505APX7BG,mob,xiaomi,Xiaomi,O8,bixi,Xiaomi MIX Flip 2,Global
+2505APX7BC,mob,xiaomi,Xiaomi,O8,bixi,Xiaomi MIX Flip 2,China
 2016002,mob,xiaomi,Xiaomi,B3,hydrogen,Mi Max,Global
 2016001,mob,xiaomi,Xiaomi,B3,hydrogen,Mi Max,China
 2016007,mob,xiaomi,Xiaomi,B3_PRO,helium,Mi Max Prime,
@@ -9649,6 +9666,7 @@ M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,China
 24117RK2CC,mob,xiaomi,Xiaomi,O11,zorn,REDMI K80,China
 24122RKC7C,mob,xiaomi,Xiaomi,O11U,miro,REDMI K80 Pro,China
 24127RK2CC,mob,xiaomi,Xiaomi,O11U,miro,REDMI K80 Pro,Automobili Lamborghini Squadra Corse China
+25060RK16C,mob,xiaomi,Xiaomi,O12,dali,REDMI K80 Ultra,China
 2016020,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,32GB
 2016021,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,64GB & 128GB
 M1803E6G,mob,xiaomi,Xiaomi,E6,ysl,Redmi S2,Global
@@ -9824,7 +9842,9 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China
 25040RP0AC,pad,xiaomi,Xiaomi,O84,taiko,Redmi Pad 2,China
 2505DRP06G,pad,xiaomi,Xiaomi,O84X,koto,Redmi Pad 2 4G,Global
 2505DRP06I,pad,xiaomi,Xiaomi,O84X,koto,Redmi Pad 2 4G,India
+2505DRP06E,pad,xiaomi,Xiaomi,O84X,koto,Redmi Pad 2 4G,Europe
 2505DRP06C,pad,xiaomi,Xiaomi,O84X,koto,Redmi Pad 2 4G,China
+25079RPDCC,pad,xiaomi,Xiaomi,O88,turner,REDMI K Pad,China
 2405CPCFBG,pad,xiaomi,Xiaomi,N83P,dizi,POCO Pad,Wi-Fi Global
 24074PCD2I,pad,xiaomi,Xiaomi,N83U,ruan,POCO Pad 5G,India
 FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,
