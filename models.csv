@@ -6089,26 +6089,27 @@ RMX3780,mob,realme,realme,,,11 5G,
 RMX3785,mob,realme,realme,,,11x 5G,
 RMX3771,mob,realme,realme,,,11 Pro 5G,
 RMX3741,mob,realme,realme,,,11 Pro+ 5G,
+RMX3871,mob,realme,realme,,,12,4G
 RMX3999,mob,realme,realme,,,12 5G,
 RMX3998,mob,realme,realme,,,12x 5G,
 RMX3867,mob,realme,realme,,,12+ 5G,
 RMX3842,mob,realme,realme,,coffee-a,12 Pro 5G,
 RMX3840,mob,realme,realme,,coffee,12 Pro+ 5G,
+RMX3871,mob,realme,realme,,,13,4G
 RMX3951,mob,realme,realme,,,13 5G,
 RMX5000,mob,realme,realme,,,13+ 5G,
 RMX3990,mob,realme,realme,,,13 Pro 5G,
 RMX3990,mob,realme,realme,,,14 Pro Lite 5G,
 RMX3921,mob,realme,realme,,,13 Pro+ 5G,
-RMX5070,mob,realme,realme,,,14 5G,
-RMX3940,mob,realme,realme,,,14x 5G,
-RMX3943,mob,realme,realme,,,14x 5G,
-RMX5074,mob,realme,realme,,,14T 5G,
-RMX5078,mob,realme,realme,,,14T 5G,
-RMX5079,mob,realme,realme,,,14T 5G,
-RMX5056,mob,realme,realme,,,14 Pro 5G,
-RMX5057,mob,realme,realme,,,14 Pro 5G,
-RMX5051,mob,realme,realme,,,14 Pro+ 5G,
-RMX5054,mob,realme,realme,,,14 Pro+ 5G,
+RMX5070,mob,realme,realme,,,14 5G,Global
+RMX3940,mob,realme,realme,,,14x 5G,India
+RMX3943,mob,realme,realme,,,14x 5G,Global
+RMX5074,mob,realme,realme,,,14T 5G,Global
+RMX5078,mob,realme,realme,,,14T 5G,India
+RMX5056,mob,realme,realme,,,14 Pro 5G,India
+RMX5057,mob,realme,realme,,,14 Pro 5G,Global
+RMX5051,mob,realme,realme,,,14 Pro+ 5G,India
+RMX5054,mob,realme,realme,,,14 Pro+ 5G,Global
 RMX1901,mob,realme,realme,,,X,
 RMX1921,mob,realme,realme,,,XT,Global
 RMX1922,mob,realme,realme,,,XT,India
@@ -6192,6 +6193,7 @@ RMX3765,mob,realme,realme,,,C51s,
 RMX3760,mob,realme,realme,,,C53,Global
 RMX3762,mob,realme,realme,,,C53,India
 RMX3710,mob,realme,realme,,,C55,
+RMX3834,mob,realme,realme,,,C60,
 RMX3939,mob,realme,realme,,,C61,Global
 RMX3930,mob,realme,realme,,,C61,Global
 RMX3933,mob,realme,realme,,,C61,India
@@ -6205,7 +6207,8 @@ RMX3782,mob,realme,realme,,,C67,5G
 RMX5303,mob,realme,realme,,,C71,
 RMX3945,mob,realme,realme,,,C73,5G
 RMX3941,mob,realme,realme,,,C75,
-RMX3943,mob,realme,realme,,,C75,5G
+RMX3943,mob,realme,realme,,,C75,5G India
+RMX3963,mob,realme,realme,,,C75,5G Global
 RMX5020,mob,realme,realme,,,C75x,
 RMX3834,mob,realme,realme,,,Note 50,
 RMX3933,mob,realme,realme,,,Note 60,
@@ -6217,6 +6220,7 @@ RMX3844,mob,realme,realme,,coffee-a,P1 Pro,5G
 RMX5004,mob,realme,realme,,,P1 Speed,5G
 RMX3987,mob,realme,realme,,,P2 Pro,5G
 RMX5070,mob,realme,realme,,,P3,5G
+RMX5079,mob,realme,realme,,,P3,5G
 RMX3944,mob,realme,realme,,,P3x,5G
 RMX5032,mob,realme,realme,,,P3 Pro,5G
 RMX5030,mob,realme,realme,,,P3 Ultra,5G
@@ -9974,6 +9978,7 @@ ZTE 7553N,mob,zte,中兴,,,中兴畅行 60 Plus,
 ZTE 7553N,mob,zte,中兴,,,中兴远航 61,
 ZTE 7561N,mob,zte,中兴,,,中兴远航 70,
 ZTE 7561N,mob,zte,中兴,,,中兴小鲜 60 臻情版,
+ZTE 7533N,mob,zte,中兴,,,中兴远航 3D,
 Z9101,mob,zte,中兴,,,中兴远航 3D,
 ZTE 9041N,mob,zte,中兴,,,中兴 V70,
 ZTE 9043N,mob,zte,中兴,,,中兴 V70 Pro,
