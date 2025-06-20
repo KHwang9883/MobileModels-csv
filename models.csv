@@ -4045,8 +4045,10 @@ M811Q,mob,meizu,魅族,,m1811,魅蓝 6T,公开版
 M811H,mob,meizu,魅族,,m1811,魅蓝 6T,魅族 M6T 国际版
 M2112,mob,meizu,魅族,,m2112,魅蓝 10,
 M2111,mob,meizu,魅族,,m2111,魅蓝 10s,
-M421Q,mob,meizu,魅族,,m2421,魅蓝 20,
+M421Q,mob,meizu,魅族,,m2421,魅蓝 20,0
+M421Q,mob,meizu,魅族,,m2421,魅蓝 20C,
 M421Q,mob,meizu,魅族,,m2421,魅族 M20,
+M416H,mob,meizu,魅族,,m2416,魅族 MBLU 21,
 M416L,mob,meizu,魅族,,m2416,魅族 MBLU 21,
 S685Q,mob,meizu,魅族,,s25,魅蓝 Max,公开版
 S685M,mob,meizu,魅族,,s25,魅蓝 Max,移动版
@@ -4250,6 +4252,7 @@ M2112,mob,meizu,MEIZU,,m2112,mblu 10,
 M2111,mob,meizu,MEIZU,,m2111,mblu 10s,
 M421Q,mob,meizu,MEIZU,,m2421,MEIZU M20,
 M421Q,mob,meizu,MEIZU,,m2421,MEIZU mblu 20,
+M416H,mob,meizu,MEIZU,,m2416,MEIZU MBLU 21,Global
 M416L,mob,meizu,MEIZU,,m2416,MEIZU MBLU 21,Global
 S685H,mob,meizu,MEIZU,,s25,MEIZU M3 Max,Global
 S685Q,mob,meizu,MEIZU,,s25,MEIZU M3 Max,China
@@ -5738,6 +5741,7 @@ CPH2689,mob,oppo,OPPO,,milkyway,OPPO Reno13,5G
 CPH2697,mob,oppo,OPPO,,milkyway,OPPO Reno13 Pro,5G
 CPH2701,mob,oppo,OPPO,,milkyway,OPPO Reno13 F,
 CPH2699,mob,oppo,OPPO,,milkyway,OPPO Reno13 F,5G
+CPH2699,mob,oppo,OPPO,,milkyway,OPPO Reno13 A,
 CPH2737,mob,oppo,OPPO,,zhuque,OPPO Reno14,
 CPH2739,mob,oppo,OPPO,,zhuque,OPPO Reno14 Pro,
 CPH2743,mob,oppo,OPPO,,zhuque,OPPO Reno14 F,5G
