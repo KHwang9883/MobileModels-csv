@@ -4522,6 +4522,9 @@ L75R9-XT,tv,mitv,小米,,,Redmi AI 智能电视 X,75
 L55MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024,55 2024
 L65MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024,65 2024
 L75MA-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2024,75 2024
+L55RB-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2025,55 2025
+L65RB-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2025,65 2025
+L75RB-XT,tv,mitv,小米,,,Redmi AI 智能电视 X 2025,75 2025
 L55RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,55 2025
 L65RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,65 2025
 L75RB-RX,tv,mitv,小米,,,Redmi 智能电视 X 2025,75 2025
@@ -8151,6 +8154,8 @@ M2346B1,band,xiaomi,小米,N66,,小米手环 9,NFC 版 / 陶瓷特别版
 M2401B1,band,xiaomi,小米,N67,,小米手环 9 Pro,国行版
 M2402B1,band,xiaomi,小米,N67,,小米手环 9 Pro,国际版
 M2435B1,band,xiaomi,小米,N69,,小米手环 9 Active,国际版
+M2457B1,band,xiaomi,小米,O66,,小米手环 10,
+M2456B1,band,xiaomi,小米,O66,,小米手环 10,NFC 版 / 陶瓷版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,
 M2320W1,watch,xiaomi,小米,,axolotlaxie,Xiaomi Watch 2,
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版
@@ -8174,8 +8179,10 @@ M2425W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,蓝牙版
 M2424W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,eSIM 版
 M2426W1,watch,xiaomi,小米,O62,,Xiaomi Watch S4,eSIM 15 周年纪念版
 M2312W1,watch,xiaomi,小米,N62S,,Xiaomi Watch S4 Sport,eSIM 版
+M2502W1,watch,xiaomi,小米,O63,,Xiaomi Watch S4 41mm,
 M2230W1,watch,xiaomi,小米,N60,,小米腕部心电血压记录仪,Xiaomi Watch H1
 M2412W1,watch,xiaomi,小米,N60E,,小米腕部血压记录仪,Xiaomi Watch H1 E
+M2442G1,watch,xiaomi,小米,O95,,Xiaomi AI Glasses,
 HMSH01GE,band,xiaomi,小米,,,Redmi 手环,
 M2101B1,band,xiaomi,小米,K67,,Redmi Smart Band Pro,国际版
 M2225B1,band,xiaomi,小米,M69B,,Redmi 手环 2,
@@ -8207,6 +8214,7 @@ M2419E1,watch,xiaomi,小米,N79,,小米 Air4 SE,
 M2341E1,watch,xiaomi,小米,N75,,Xiaomi Buds 5,
 M2437E1,watch,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,蓝牙版
 M2438E1,watch,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,Wi-Fi 版
+M2503E1,watch,xiaomi,小米,O74,,Xiaomi 开放式耳机 Pro,
 TWSEJ01ZM,watch,xiaomi,小米,K76,,Redmi AirDots 3 Pro,
 M2104E1,watch,xiaomi,小米,,,Redmi Buds 3,
 M2110E1,watch,xiaomi,小米,K79,,Redmi Buds 3 青春版,
@@ -9876,6 +9884,7 @@ TYH622M,device,zhixuan,华为智选,,,麦芒 11,5G
 TYH631M,device,zhixuan,华为智选,,,麦芒 20,5G
 TYH632M,device,zhixuan,华为智选,,,麦芒 A20,5G
 TYH641M,device,zhixuan,华为智选,,,麦芒 30,5G
+TYH651M-02,device,zhixuan,华为智选,,,麦芒 40,5G
 SP100,device,zhixuan,华为智选,,Giant,NZONE S7,5G
 SP200,device,zhixuan,华为智选,,Coco,NZONE S7 Pro,5G
 SP300,device,zhixuan,华为智选,,Monica,NZONE S7 Pro+,5G
