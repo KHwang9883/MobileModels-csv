@@ -1514,6 +1514,7 @@ PTP-AN60,mob,honor,荣耀,,Philippe,荣耀 Magic7,16GB+1TB
 PTP-AN10,mob,honor,荣耀,,Patek,荣耀 Magic7 Pro,
 PTP-AN70,mob,honor,荣耀,,Patek,荣耀 Magic7 Pro,16GB+1TB
 PTP-AN20,mob,honor,荣耀,,Patek,荣耀 Magic7 RSR 保时捷设计,
+MBH-AN10,mob,honor,荣耀,,Maybach,荣耀 Magic V5,
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,联通版
 H60-L03,mob,honor,荣耀,,Mogolia,荣耀 6,移动定制版
@@ -1795,8 +1796,8 @@ RKY-AN00,mob,honor,荣耀,,Rocky,荣耀畅玩 40 Plus,5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50,5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50m,5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,5G
-NIC-AN00,mob,honor,荣耀,,,荣耀畅玩 60,5G
-NIC-AN00,mob,honor,荣耀,,,荣耀畅玩 60m,5G
+NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60,5G
+NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60m,5G
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,Wi-Fi 版
 S8-701u,pad,honor,荣耀,,,荣耀平板,3G 版
@@ -1809,48 +1810,49 @@ AGS2-AL00HN,pad,honor,荣耀,,Agassi2,荣耀平板 5,10.1 英寸 LTE 版
 JDN2-W09HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,8 英寸 Wi-Fi 版
 JDN2-AL00HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,8 英寸 LTE 版
 JDN-AL50HN,pad,honor,荣耀,,Jordan2,荣耀平板 5,8 英寸 LTE 版
-KRJ-W09,pad,honor,荣耀,,Karajan,荣耀平板 V6,10.4 英寸 Wi-Fi 版 (华为终端)
-KRJ-AN00,pad,honor,荣耀,,Karajan,荣耀平板 V6,10.4 英寸 5G 版 (华为终端)
-KJR-W09,pad,honor,荣耀,,KarajanR,荣耀平板 V6,10.4 英寸 Wi-Fi 版 (荣耀终端)
 AGS3-W09HN,pad,honor,荣耀,,Agassi3,荣耀平板 6,10.1 英寸 Wi-Fi 版
 AGS3-AL09HN,pad,honor,荣耀,,Agassi3,荣耀平板 6,10.1 英寸 LTE 版
-AGR-W09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,9.7 英寸 Wi-Fi 版
-AGR-AL09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,9.7 英寸 LTE 版
-KRJ2-W09,pad,honor,荣耀,,Karajan2,荣耀平板 V7,10.4 英寸 Wi-Fi 版
-KRJ2-AN00,pad,honor,荣耀,,Karajan2,荣耀平板 V7,10.4 英寸 5G 版
-BRT-W09,pad,honor,荣耀,,Britten,荣耀平板 V7 Pro,11 英寸 Wi-Fi 版
-BRT-AN09,pad,honor,荣耀,,Britten,荣耀平板 V7 Pro,11 英寸 5G 版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 7,10.1 英寸 Wi-Fi 版
 AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 7,10.1 英寸 LTE 版
-KOB2-W09HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,8 英寸 Wi-Fi 版
-KOB2-AL00HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,8 英寸 LTE 版
-AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版
-AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版
-AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 Wi-Fi 版
-AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 LTE 版
-AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 X8,10.1 英寸 Wi-Fi 版
-ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,11.5 英寸 Wi-Fi 版
-ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 Z6,11.5 英寸 Wi-Fi 版
 HEY-W09,pad,honor,荣耀,,Hendry,荣耀平板 8,12 英寸 Wi-Fi 版
-BRT-W09,pad,honor,荣耀,,Britten,荣耀平板 V8,11 英寸 Wi-Fi 版
-ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 V8 Pro,12.1 英寸 Wi-Fi 版
-GDI-W09,pad,honor,荣耀,,Gaudi,荣耀平板 MagicPad,13 英寸 Wi-Fi 版
 HEY2-W09,pad,honor,荣耀,,Hendry2,荣耀平板 9,12.1 英寸 Wi-Fi 版
 HEY2-W19,pad,honor,荣耀,,Hendry2,荣耀平板 9,柔光版 12.1 英寸 Wi-Fi 版
 HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 9,12.1 英寸 5G 版
 ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,12.1 英寸 Wi-Fi 版
 ROD-W19,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,柔光版 12.1 英寸 Wi-Fi 版
-HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,12.1 英寸 5G 版
-ROD2-W09,pad,honor,荣耀,,Rolland2,荣耀平板 MagicPad 2,12.3 英寸 Wi-Fi 版
-ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,12.3 英寸 Wi-Fi 版
-NDL-W09,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 Wi-Fi 版
-NDL-AL00,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 LTE 版
-ROL-W00,pad,honor,荣耀,,Rowling,荣耀平板 V9,11.5 英寸 Wi-Fi 版
-ROL-W10,pad,honor,荣耀,,Rowling,荣耀平板 V9,柔光版 11.5 英寸 Wi-Fi 版
-ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版
-ROL-W60,pad,honor,荣耀,,Rowling,荣耀平板 GT,11.5 英寸 Wi-Fi 版
 HEY3-W00,pad,honor,荣耀,,Hendry3,荣耀平板 10,12.1 英寸 Wi-Fi 版
 HEY3-W10,pad,honor,荣耀,,Hendry3,荣耀平板 10,柔光版 12.1 英寸 Wi-Fi 版
+KRJ-W09,pad,honor,荣耀,,Karajan,荣耀平板 V6,10.4 英寸 Wi-Fi 版 (华为终端)
+KRJ-AN00,pad,honor,荣耀,,Karajan,荣耀平板 V6,10.4 英寸 5G 版 (华为终端)
+KJR-W09,pad,honor,荣耀,,KarajanR,荣耀平板 V6,10.4 英寸 Wi-Fi 版 (荣耀终端)
+KRJ2-W09,pad,honor,荣耀,,Karajan2,荣耀平板 V7,10.4 英寸 Wi-Fi 版
+KRJ2-AN00,pad,honor,荣耀,,Karajan2,荣耀平板 V7,10.4 英寸 5G 版
+BRT-W09,pad,honor,荣耀,,Britten,荣耀平板 V7 Pro,11 英寸 Wi-Fi 版
+BRT-AN09,pad,honor,荣耀,,Britten,荣耀平板 V7 Pro,11 英寸 5G 版
+BRT-W09,pad,honor,荣耀,,Britten,荣耀平板 V8,11 英寸 Wi-Fi 版
+ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 V8 Pro,12.1 英寸 Wi-Fi 版
+ROL-W00,pad,honor,荣耀,,Rowling,荣耀平板 V9,11.5 英寸 Wi-Fi 版
+ROL-W10,pad,honor,荣耀,,Rowling,荣耀平板 V9,柔光版 11.5 英寸 Wi-Fi 版
+GDI-W09,pad,honor,荣耀,,Gaudi,荣耀平板 MagicPad,13 英寸 Wi-Fi 版
+ROD2-W09,pad,honor,荣耀,,Rolland2,荣耀平板 MagicPad 2,12.3 英寸 Wi-Fi 版
+CGA-W00,pad,honor,荣耀,,Changan,荣耀平板 MagicPad 3,13.3 英寸 Wi-Fi 版
+ROL-W60,pad,honor,荣耀,,Rowling,荣耀平板 GT,11.5 英寸 Wi-Fi 版
+ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,12.3 英寸 Wi-Fi 版
+AGR-W09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,9.7 英寸 Wi-Fi 版
+AGR-AL09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,9.7 英寸 LTE 版
+KOB2-W09HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,8 英寸 Wi-Fi 版
+KOB2-AL00HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,8 英寸 LTE 版
+AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 X8,10.1 英寸 Wi-Fi 版
+ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,11.5 英寸 Wi-Fi 版
+NDL-W09,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 Wi-Fi 版
+NDL-AL00,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 LTE 版
+ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版
+AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版
+AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版
+AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 Wi-Fi 版
+AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 LTE 版
+ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 Z6,11.5 英寸 Wi-Fi 版
+HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,12.1 英寸 5G 版
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 Wi-Fi 版
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 LTE 版
 HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,8 英寸 Wi-Fi 版
@@ -1964,6 +1966,7 @@ MRA-561,computer,honor,荣耀,,MooreA,荣耀 MagicBook Art 14,Ultra 5 (16GB+1TB)
 MRA-521,computer,honor,荣耀,,MooreA,荣耀 MagicBook Art 14,Ultra 5 (32GB+1TB)
 MRA-721,computer,honor,荣耀,,MooreA,荣耀 MagicBook Art 14,Ultra 7 (32GB+1TB)
 MRO-521,computer,honor,荣耀,,MooreO,荣耀 MagicBook Art 14,骁龙 X Elite (32GB+1TB)
+MRB-A,computer,honor,荣耀,,MooreB,荣耀 MagicBook Art 14 2025,
 NBR-WAI9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,i3
 NBR-WAH9,computer,honor,荣耀,,NobelBR,荣耀 MagicBook X 14,i5
 NDR-WFH,computer,honor,荣耀,,NobelDR,荣耀 MagicBook X 14 2022,i5 (11 代酷睿)
@@ -2050,6 +2053,7 @@ TMA-L19,watch,honor,荣耀,,,荣耀手表 4,
 TUM-L19,watch,honor,荣耀,,,荣耀手表 4 Pro,
 MUS-B19,watch,honor,荣耀,,,荣耀手表 GS 4,
 STL-L19,watch,honor,荣耀,,,荣耀手表 5,
+TUR-L19,watch,honor,荣耀,,Tumir,荣耀手表 5 Ultra,
 IVY-B39,watch,honor,荣耀,,,荣耀手表 Fit,
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,标准版
 NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,NFC 版
@@ -2238,9 +2242,9 @@ JDY-LX2,mob,honor,HONOR,,Judy,HONOR X6b,
 JDY-LX3P,mob,honor,HONOR,,Judy,HONOR X6b,
 JDY-LX3,mob,honor,HONOR,,Judy,HONOR X6b,Plus
 ALT-NX3,mob,honor,HONOR,,Alita,HONOR X6b 5G,
-NIC-LX1,mob,honor,HONOR,,,HONOR X6c,
-NIC-LX2,mob,honor,HONOR,,,HONOR X6c,
-NIC-LX3,mob,honor,HONOR,,,HONOR X6c,
+NIC-LX1,mob,honor,HONOR,,Nick,HONOR X6c,
+NIC-LX2,mob,honor,HONOR,,Nick,HONOR X6c,
+NIC-LX3,mob,honor,HONOR,,Nick,HONOR X6c,
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,
 CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,
@@ -2281,6 +2285,7 @@ ALI-NX3P,mob,honor,HONOR,,Ali,HONOR X9b 5G,
 BRP-NX1,mob,honor,HONOR,,BruceP,HONOR X9c,
 BRC-NX1,mob,honor,HONOR,,Bruce,HONOR X9c Smart,
 GFY-LX3,mob,honor,HONOR,,Goofy,HONOR Play9A,
+NIC-LX3P,mob,honor,HONOR,,Nick,HONOR Play9C,
 HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,LTE
@@ -4940,6 +4945,7 @@ A065,mob,nothing,Nothing,,Pong,Nothing Phone (2),Global
 AIN065,mob,nothing,Nothing,,Pong,Nothing Phone (2),India
 A142,mob,nothing,Nothing,,Pacman,Nothing Phone (2a),
 A142P,mob,nothing,Nothing,,PacmanPro,Nothing Phone (2a) Plus,
+A024,mob,nothing,Nothing,,Metroid,Nothing Phone (3),
 A059,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a),
 A059P,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a) Plus,
 A015,mob,nothing,Nothing,,Tetris,CMF Phone 1,
