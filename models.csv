@@ -2463,9 +2463,10 @@ HBN-AL00,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro,
 HBN-AL10,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro+,
 HBN-AL80,mob,huawei,华为,,Hepburn,HUAWEI Pura 70 Pro+,
 HBP-AL00,mob,huawei,华为,,HepburnP,HUAWEI Pura 70 Ultra,
+HED-AL00,mob,huawei,华为,,Hedy,HUAWEI Pura 80,
 LMR-AL00,mob,huawei,华为,,Lamarr,HUAWEI Pura 80 Pro,
 LMR-AL10,mob,huawei,华为,,Lamarr,HUAWEI Pura 80 Pro+,
-LMR-AL10,mob,huawei,华为,,Lamarr,HUAWEI Pura 80 Ultra,
+LMR-AL10,mob,huawei,华为,,LamarrU,HUAWEI Pura 80 Ultra,
 VDE-AL00,mob,huawei,华为,,Verde,HUAWEI Pura X,
 VDE-AL10,mob,huawei,华为,,Verde,HUAWEI Pura X,典藏版
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,
@@ -3426,6 +3427,9 @@ MNA-LX9,mob,huawei,HUAWEI,,Mona,HUAWEI P60 Pro,
 ADY-LX9,mob,huawei,HUAWEI,,Audrey,HUAWEI Pura 70,
 HBN-LX9,mob,huawei,HUAWEI,,Hepburn,HUAWEI Pura 70 Pro,
 HBP-LX9,mob,huawei,HUAWEI,,HepburnP,HUAWEI Pura 70 Ultra,
+HED-LX9,mob,huawei,HUAWEI,,Hedy,HUAWEI Pura 80,
+LMR-LX9,mob,huawei,HUAWEI,,Lamarr,HUAWEI Pura 80 Pro,
+LMU-LX9,mob,huawei,HUAWEI,,LamarrU,HUAWEI Pura 80 Ultra,
 FIG-LA1,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
 FIG-LX1,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
 FIG-LX2,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
@@ -3630,6 +3634,7 @@ BTK-AL09,pad,huawei,HUAWEI,,Bartok,HUAWEI MatePad,11.5 LTE
 DBY-W09,pad,huawei,HUAWEI,,Debussy,HUAWEI MatePad 11,Wi-Fi
 DBR-W09,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,Wi-Fi
 DBR-W19,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,PaperMatte Edition Wi-Fi
+BTKR-W09,pad,huawei,HUAWEI,,BartokR,HUAWEI MatePad 11.5,2024 Wi-Fi
 TGR-W09,pad,huawei,HUAWEI,,Tagore,"HUAWEI MatePad 11.5"" S",Wi-Fi
 DBY2-W09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,Wi-Fi
 DBY2-L09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,LTE
@@ -9930,8 +9935,10 @@ SHR-AN00,device,zhixuan,华为智选,,,Hi 畅享 80 Pro,5G
 BRO-W00,pad,zhixuan,华为智选,,,Hi MatePad,
 MASH-16,pad,zhixuan,华为智选,,,Hi MateBook 14,16GB 内存
 MASH-32,pad,zhixuan,华为智选,,,Hi MateBook 14,32GB 内存
-LYOI-16,pad,zhixuan,华为智选,,,Hi MateBook D 14,
-NICEI-16,pad,zhixuan,华为智选,,,Hi MateBook D 16,
+LYOI-16,pad,zhixuan,华为智选,,,Hi MateBook D 14,16GB 内存
+LYOI-32,pad,zhixuan,华为智选,,,Hi MateBook D 14,32GB 内存
+NICEI-16,pad,zhixuan,华为智选,,,Hi MateBook D 16,16GB 内存
+NICEI-32,pad,zhixuan,华为智选,,,Hi MateBook D 16,32GB 内存
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,
