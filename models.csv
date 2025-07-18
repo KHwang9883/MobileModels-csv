@@ -7977,6 +7977,7 @@ V2426,mob,vivo,vivo,,PD2362F,T3 Ultra 5G,
 V2502,mob,vivo,vivo,,PD2456F,T4 5G,
 V2437,mob,vivo,vivo,,PD2445F,T4x 5G,
 V2509,mob,vivo,vivo,,PD2443F,T4 Lite 5G,
+V2518,mob,vivo,vivo,,,T4R 5G,
 V2504,mob,vivo,vivo,,PD2430F,T4 Ultra,
 vivo 1929,mob,vivo,vivo,,PD2014F,Y1s,
 vivo 2015,mob,vivo,vivo,,PD2014F,Y1s,
@@ -8173,6 +8174,7 @@ I2305,mob,vivo,vivo,,PD2404F,iQOO Z9s Pro,5G
 I2407,mob,vivo,vivo,,PD2456F,iQOO Z10,5G
 I2404,mob,vivo,vivo,,PD2445F,iQOO Z10x,5G
 I2409,mob,vivo,vivo,,PD2443F,iQOO Z10 Lite,5G
+I2410,mob,vivo,vivo,,,iQOO Z10R,5G
 XMSH01HM,band,xiaomi,小米,,,小米手环,
 XMSH02HM,band,xiaomi,小米,,,小米手环,光感版
 XMSH03HM,band,xiaomi,小米,,,小米手环,光感版
@@ -8212,14 +8214,14 @@ REDMIWT02,watch,xiaomi,小米,,,Mi Watch Lite,国际版
 XMWT06,watch,xiaomi,小米,,,小米手表 Color,
 XMWTCL01,watch,xiaomi,小米,,,小米手表 Color,运动版 国行版
 XMWTCL02,watch,xiaomi,小米,,,小米手表 Color,运动版 国际版
-M2106W1,watch,xiaomi,小米,,,Xiaomi Watch Color 2,
+M2106W1,watch,xiaomi,小米,K63,,Xiaomi Watch Color 2,
 M2108W1,watch,xiaomi,小米,K62,,Xiaomi Watch S1,国行版
 M2112W1,watch,xiaomi,小米,K62,,Xiaomi Watch S1,国际版
 M2134W1,watch,xiaomi,小米,L61,,Xiaomi Watch S1 Pro,国行版
 M2135W1,watch,xiaomi,小米,L61,,Xiaomi Watch S1 Pro,国际版
-M2116W1,watch,xiaomi,小米,,,Xiaomi Watch S1 Active,国际版
-M2206W1,watch,xiaomi,小米,,,Xiaomi Watch S2,42mm
-M2207W1,watch,xiaomi,小米,,,Xiaomi Watch S2,46mm
+M2116W1,watch,xiaomi,小米,K63,,Xiaomi Watch S1 Active,国际版
+M2206W1,watch,xiaomi,小米,M62,,Xiaomi Watch S2,42mm
+M2207W1,watch,xiaomi,小米,M62,,Xiaomi Watch S2,46mm
 M2313W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,蓝牙版 国行版
 M2311W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,eSIM 版 国行版
 M2323W1,watch,xiaomi,小米,N62,,Xiaomi Watch S3,蓝牙版 国际版
@@ -8236,25 +8238,24 @@ M2101B1,band,xiaomi,小米,K67,,Redmi Smart Band Pro,国际版
 M2225B1,band,xiaomi,小米,M69B,,Redmi 手环 2,
 M2434B1,band,xiaomi,小米,N69,,Redmi 手环 3,
 REDMIWT01,watch,xiaomi,小米,,,Redmi Watch,
-M2102W1,watch,xiaomi,小米,,,Redmi Watch 2,
-M2109W1,watch,xiaomi,小米,,,Redmi Watch 2 Lite,国际版
+M2102W1,watch,xiaomi,小米,K65,,Redmi Watch 2,
+M2109W1,watch,xiaomi,小米,K65B,,Redmi Watch 2 Lite,国际版
 M2215W1,watch,xiaomi,小米,M65,,Redmi Watch 3,国行版
 M2216W1,watch,xiaomi,小米,M65,,Redmi Watch 3,国际版
 M2309W1,watch,xiaomi,小米,M65A,,Redmi Watch 3 青春版,
-M2247W1,watch,xiaomi,小米,,,Redmi Watch 3 Lite,国际版
 M2235W1,watch,xiaomi,小米,M65A,,Redmi Watch 3 Active,国际版
 M2314W1,watch,xiaomi,小米,N65,,Redmi Watch 4,国行版
 M2315W1,watch,xiaomi,小米,N65,,Redmi Watch 4,国际版
 M2427W1,watch,xiaomi,小米,O65,,REDMI Watch 5,蓝牙版
 M2428W1,watch,xiaomi,小米,O65,,REDMI Watch 5,eSIM 版
-M2351W1,watch,xiaomi,小米,,,Redmi Watch 5 Active,印度版
-M2352W1,watch,xiaomi,小米,,,Redmi Watch 5 Lite,印度版
-M2460W1,watch,xiaomi,小米,,,Redmi Watch Move,印度版
-M2131W1,watch,xiaomi,小米,,,POCO Watch,
+M2351W1,watch,xiaomi,小米,N65A,,Redmi Watch 5 Active,印度版
+M2352W1,watch,xiaomi,小米,N65B,,Redmi Watch 5 Lite,印度版
+M2460W1,watch,xiaomi,小米,N65C,,Redmi Watch Move,印度版
+M2131W1,watch,xiaomi,小米,K65,,POCO Watch,
 M2111E1,watch,xiaomi,小米,K75,,Xiaomi 真无线降噪耳机 3,
 M2103E1,watch,xiaomi,小米,K73,,Xiaomi 真无线降噪耳机 3 Pro,
 M2115E1,watch,xiaomi,小米,K73A,,Xiaomi Buds 3T Pro,国际版
-M2301E1,watch,xiaomi,小米,,,Xiaomi Air3 SE,
+M2301E1,watch,xiaomi,小米,M79B,,Xiaomi Air3 SE,
 M2224E1,watch,xiaomi,小米,M75A,,Xiaomi Buds 4,
 M2126E1,watch,xiaomi,小米,L71,,Xiaomi Buds 4 Pro,
 M2319E1,watch,xiaomi,小米,N74A,,Xiaomi 开放式耳机,
@@ -8271,24 +8272,28 @@ M2137E1,watch,xiaomi,小米,L77,,Redmi Buds 4,
 M2132E1,watch,xiaomi,小米,L76,,Redmi Buds 4 Pro,
 M2310E1,watch,xiaomi,小米,M79A,,Redmi Buds 4 活力版,
 M2232E1,watch,xiaomi,小米,M79A,,Redmi Buds 4 Active,国际版
+M2232E1,watch,xiaomi,小米,M79A,,Redmi Buds 5A,印度版
 M2231E1,watch,xiaomi,小米,M79B,,Redmi Buds 4 青春版,
 M2236E1,watch,xiaomi,小米,M79B,,Redmi Buds 4 Lite,国际版
-M2222E1,watch,xiaomi,小米,,,Redmi Buds Essential,国际版
+M2222E1,watch,xiaomi,小米,M79,,Redmi Buds Essential,国际版
 M2316E1,watch,xiaomi,小米,N77,,Redmi Buds 5,
 M2317E1,watch,xiaomi,小米,N76,,Redmi Buds 5 Pro,
 M2318E1,watch,xiaomi,小米,N76G,,Redmi Buds 5 Pro 电竞版,
 M2429E1,watch,xiaomi,小米,O77,,Redmi Buds 6,
-M2403E1,watch,xiaomi,小米,N79S,,Redmi Buds 6S,
+M2403E1,watch,xiaomi,小米,N77S,,Redmi Buds 6S,
 M2430E1,watch,xiaomi,小米,O76,,REDMI Buds 6 Pro,
 M2431E1,watch,xiaomi,小米,O76G,,REDMI Buds 6 Pro 电竞版,
 M2344E1,watch,xiaomi,小米,N79,,Redmi Buds 6 活力版,
+M2344E1,watch,xiaomi,小米,N79,,Redmi Buds 6 Active,国际版
 M2349E1,watch,xiaomi,小米,N79A,,Redmi Buds 6 青春版,
+M2349E1,watch,xiaomi,小米,N79A,,Redmi Buds 6 Lite,国际版
+M2349E1,watch,xiaomi,小米,N79A,,Redmi Buds 5C,印度版
 M2420E1,watch,xiaomi,小米,N79B,,Redmi Buds 6 Play,国际版
 M2411E1,watch,xiaomi,小米,N79B,,REDMI Buds SE,
-M2455E1,watch,xiaomi,小米,,,REDMI Buds 7S,
+M2455E1,watch,xiaomi,小米,O77S,,REDMI Buds 7S,
 TWSEJ01ZM,watch,xiaomi,小米,K76,,POCO Buds Pro Genshin Impact Edition,国际版
-M2237E1,pod,xiaomi,小米,,,POCO Pods,印度版
-M2350E1,pod,xiaomi,小米,,,POCO Buds X1,印度版
+M2237E1,pod,xiaomi,小米,M79A,,POCO Pods,印度版
+M2350E1,pod,xiaomi,小米,N79A,,POCO Buds X1,印度版
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,电信版
 MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,青春版
