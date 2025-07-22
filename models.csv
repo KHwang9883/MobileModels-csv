@@ -3734,6 +3734,7 @@ Lenovo TB-J606F,pad,lenovo,联想,,m11,小新 Pad,
 TB128FU,pad,lenovo,联想,,oak,小新 Pad 2022,
 TB331FC,pad,lenovo,联想,,Balsa,小新 Pad 2024,
 TB335FC,pad,lenovo,联想,,sycamore,小新平板 11,
+TB365FC,pad,lenovo,联想,,,小新平板 12.1,
 Lenovo TB-J607F,pad,lenovo,联想,,arnoz,小新 Pad Plus,
 Lenovo TB-J607Z,pad,lenovo,联想,,arnoz,小新 Pad Plus,5G
 TB350FU,pad,lenovo,联想,,tulip,小新 Pad Plus 2023,
@@ -3747,6 +3748,7 @@ TB132FU,pad,lenovo,联想,,onyx,小新 Pad Pro 2022 迅鲲版,
 TB371FC,pad,lenovo,联想,,spinel,小新 Pad Pro 12.7 骁龙版,
 TB370FU,pad,lenovo,联想,,spruce,小新 Pad Pro 12.7 天玑版,
 TB375FC,pad,lenovo,联想,,peridot,小新 Pad Pro 12.7 2025,
+TB710FU,pad,lenovo,联想,,,小新平板 Pro GT,
 TB351FU,pad,lenovo,联想,,calla,小新 Pad Studio,
 TB372FC,pad,lenovo,联想,,spruce,小新学习平板,12.7
 Lenovo YT3-850F,pad,lenovo,联想,,,YOGA Tab 3,8” Wi-Fi 版
@@ -5625,7 +5627,8 @@ PJR110,mob,oppo,OPPO,,,OPPO K12,
 PKS110,mob,oppo,OPPO,,,OPPO K12 Plus,
 PJT110,mob,oppo,OPPO,,avatar-m,OPPO K12x,
 PLD110,mob,oppo,OPPO,,,OPPO K12s,
-PLM110,mob,oppo,OPPO,,knight,OPPO K13,
+PLM110,mob,oppo,OPPO,,knight,OPPO K13 Turbo,
+PLE110,mob,oppo,OPPO,,,OPPO K13 Turbo,Pro
 OPD2101,pad,oppo,OPPO,,,OPPO Pad,
 OPD2102,pad,oppo,OPPO,,,OPPO Pad Air,
 OPD2201,pad,oppo,OPPO,,aries,OPPO Pad 2,
@@ -6135,6 +6138,10 @@ RMX5056,mob,realme,realme,,,14 Pro 5G,India
 RMX5057,mob,realme,realme,,,14 Pro 5G,Global
 RMX5051,mob,realme,realme,,,14 Pro+ 5G,India
 RMX5054,mob,realme,realme,,,14 Pro+ 5G,Global
+RMX5106,mob,realme,realme,,,15 5G,
+RMX5101,mob,realme,realme,,,15 Pro 5G,
+RMX5111,mob,realme,realme,,,15T 5G,
+RMX5000,mob,realme,realme,,,15 Lite 5G,
 RMX1901,mob,realme,realme,,,X,
 RMX1921,mob,realme,realme,,,XT,Global
 RMX1922,mob,realme,realme,,,XT,India
@@ -6238,6 +6245,8 @@ RMX5020,mob,realme,realme,,,C75x,
 RMX3834,mob,realme,realme,,,Note 50,
 RMX3933,mob,realme,realme,,,Note 60,
 RMX3938,mob,realme,realme,,,Note 60x,
+RMX5313,mob,realme,realme,,,Note 70,
+RMX5313,mob,realme,realme,,,Note 70T,
 RMX1831,mob,realme,realme,,,U1,
 RMX1833,mob,realme,realme,,,U1,
 RMX3870,mob,realme,realme,,,P1,5G
