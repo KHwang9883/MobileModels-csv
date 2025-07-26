@@ -2290,23 +2290,25 @@ BRC-NX1,mob,honor,HONOR,,Bruce,HONOR X9c Smart,
 GFY-LX3,mob,honor,HONOR,,Goofy,HONOR Play9A,
 NIC-LX3P,mob,honor,HONOR,,Nick,HONOR Play9C,
 HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,
+HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,Wi-Fi
+HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,5G
+HEY3-W00,pad,honor,HONOR,,Hendry3,HONOR Pad 10,Wi-Fi
+ROL-W00,pad,honor,HONOR,,Rowling,HONOR Pad V9,
+ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,
+JMS-W09,pad,honor,HONOR,,,HONOR Pad X7,Wi-Fi
+JMS-L09,pad,honor,HONOR,,,HONOR Pad X7,LTE
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,Wi-Fi
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,LTE
 AGM-W09HN,pad,honor,HONOR,,AgassiRM,HONOR Pad X8 Lite,
 NDL-W09,pad,honor,HONOR,,Nadal,HONOR Pad X8a,Wi-Fi
 NDL-L03,pad,honor,HONOR,,Nadal,HONOR Pad X8a,LTE
 NDL-L09,pad,honor,HONOR,,Nadal,HONOR Pad X8a,LTE
-HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,Wi-Fi
-HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,5G
-ROL-W00,pad,honor,HONOR,,Rowling,HONOR Pad V9,
 ELN-W09,pad,honor,HONOR,,Eileen,HONOR Pad X9,Wi-Fi
 ELN-L03,pad,honor,HONOR,,Eileen,HONOR Pad X9,LTE
 ELN-L09,pad,honor,HONOR,,Eileen,HONOR Pad X9,LTE
 ELN2-W29,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,Wi-Fi
 ELN2-L23,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,LTE
 ELN2-L29,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,LTE
-ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,
-HEY3-W00,pad,honor,HONOR,,Hendry3,HONOR Pad 10,Wi-Fi
 HUAWEI MT1-T00,mob,huawei,华为,,,华为 Ascend Mate,移动版
 HUAWEI MT1-U06,mob,huawei,华为,,,华为 Ascend Mate,联通版
 HUAWEI MT2-U071,mob,huawei,华为,,,华为 Ascend Mate 2,联通 3G 版
