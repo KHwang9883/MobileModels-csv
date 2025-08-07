@@ -1512,7 +1512,7 @@ FLC-AN00,mob,honor,荣耀,,Falcon,荣耀 Magic Vs3,
 PTP-AN00,mob,honor,荣耀,,Philippe,荣耀 Magic7,
 PTP-AN60,mob,honor,荣耀,,Philippe,荣耀 Magic7,16GB+1TB
 PTP-AN10,mob,honor,荣耀,,Patek,荣耀 Magic7 Pro,
-PTP-AN70,mob,honor,荣耀,,Patek,荣耀 Magic7 Pro,16GB+1TB
+PTP-AN70,mob,honor,荣耀,,Patek,荣耀 Magic7 Pro,卫星通信版
 PTP-AN20,mob,honor,荣耀,,Patek,荣耀 Magic7 RSR 保时捷设计,
 MBH-AN10,mob,honor,荣耀,,Maybach,荣耀 Magic V5,
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,移动版
@@ -3740,7 +3740,8 @@ Lenovo TB-J606F,pad,lenovo,联想,,m11,小新 Pad,
 TB128FU,pad,lenovo,联想,,oak,小新 Pad 2022,
 TB331FC,pad,lenovo,联想,,Balsa,小新 Pad 2024,
 TB335FC,pad,lenovo,联想,,sycamore,小新平板 11,
-TB365FC,pad,lenovo,联想,,,小新平板 12.1,
+TB335ZC,pad,lenovo,联想,,sycamore,小新平板 11,5G
+TB365FC,pad,lenovo,联想,,cava,小新平板 12.1,
 Lenovo TB-J607F,pad,lenovo,联想,,arnoz,小新 Pad Plus,
 Lenovo TB-J607Z,pad,lenovo,联想,,arnoz,小新 Pad Plus,5G
 TB350FU,pad,lenovo,联想,,tulip,小新 Pad Plus 2023,
@@ -3754,7 +3755,7 @@ TB132FU,pad,lenovo,联想,,onyx,小新 Pad Pro 2022 迅鲲版,
 TB371FC,pad,lenovo,联想,,spinel,小新 Pad Pro 12.7 骁龙版,
 TB370FU,pad,lenovo,联想,,spruce,小新 Pad Pro 12.7 天玑版,
 TB375FC,pad,lenovo,联想,,peridot,小新 Pad Pro 12.7 2025,
-TB710FU,pad,lenovo,联想,,,小新平板 Pro GT,
+TB710FU,pad,lenovo,联想,,topaz,小新平板 Pro GT,
 TB351FU,pad,lenovo,联想,,calla,小新 Pad Studio,
 TB372FC,pad,lenovo,联想,,spruce,小新学习平板,12.7
 Lenovo YT3-850F,pad,lenovo,联想,,,YOGA Tab 3,8” Wi-Fi 版
@@ -3826,8 +3827,8 @@ TB240FC,pad,lenovo,联想,,spruce,联想启天 K12,12.7 英寸 Wi-Fi 版
 SP523FC,pad,lenovo,联想,,,联想启天 SmartPaper,10.3 英寸 Wi-Fi 版
 TB310FU,pad,lenovo,联想,,pine,联想昭阳 K9,9 英寸 Wi-Fi 版
 TB310XC,pad,lenovo,联想,,pine,联想昭阳 K9,9 英寸 LTE 版
-TB305FU,pad,lenovo,联想,,clove,联想昭阳 K9,8.7 英寸 Wi-Fi 版
-TB305XC,pad,lenovo,联想,,clove,联想昭阳 K9,8.7 英寸 LTE 版
+TB305FU,pad,lenovo,联想,,clove,联想昭阳 K9 (二代),8.7 英寸 Wi-Fi 版
+TB305XC,pad,lenovo,联想,,clove,联想昭阳 K9 (二代),8.7 英寸 LTE 版
 TB330FU,pad,lenovo,联想,,barley,联想昭阳 K10,10.95 英寸 Wi-Fi 版
 TB330XC,pad,lenovo,联想,,barley,联想昭阳 K10,10.95 英寸 LTE 版
 TB360ZU,pad,lenovo,联想,,linden,联想昭阳 K10,10.61 英寸 5G 版
@@ -3835,12 +3836,14 @@ TB311FU,pad,lenovo,联想,,poplar,联想昭阳 K10c,10.1 英寸 Wi-Fi 版
 TB311XC,pad,lenovo,联想,,poplar,联想昭阳 K10c,10.1 英寸 LTE 版
 TB352FC,pad,lenovo,联想,,citrus,联想昭阳 K11,11.5 英寸 Wi-Fi 版
 TB352XC,pad,lenovo,联想,,citrus,联想昭阳 K11,11.5 英寸 LTE 版
-TB336FU,pad,lenovo,联想,,,联想昭阳 K11,11 英寸 Wi-Fi 版
-TB336ZC,pad,lenovo,联想,,,联想昭阳 K11,11 英寸 5G 版
-TB337FU,pad,lenovo,联想,,,联想昭阳 K11c,10.95 英寸 Wi-Fi 版
+TB336FU,pad,lenovo,联想,,sycamore,联想昭阳 K11 (二代),11 英寸 Wi-Fi 版
+TB336ZC,pad,lenovo,联想,,sycamore,联想昭阳 K11 (二代),11 英寸 5G 版
+TB337FU,pad,lenovo,联想,,barley,联想昭阳 K11c,10.95 英寸 Wi-Fi 版
 TB240FC,pad,lenovo,联想,,spruce,联想昭阳 K12,12.7 英寸 Wi-Fi 版
 TB373FU,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),12.7 英寸 Wi-Fi 版
 TB373ZC,pad,lenovo,联想,,peridot,联想昭阳 K12 (二代),12.7 英寸 5G 版
+TB361FU,pad,lenovo,联想,,cava,联想昭阳 K12c,12.1 英寸 Wi-Fi 版
+TB361ZU,pad,lenovo,联想,,cava,联想昭阳 K12c,12.1 英寸 5G 版
 TB-X802F,pad,lenovo,联想,,barley,联想昭阳 G11,10.95 英寸 Wi-Fi 版
 TB-X903F,pad,lenovo,联想,,citrus,联想昭阳 G12,11.5 英寸 Wi-Fi 版
 TBY11,pad,lenovo,联想,,barley,联想昭阳 Y11,10.95 英寸 Wi-Fi 版
@@ -7843,6 +7846,7 @@ V2417A,mob,vivo,vivo,,PD2417,iQOO Z9 Turbo+,
 V2353A,mob,vivo,vivo,,PD2353,iQOO Z9x,
 V2452A,mob,vivo,vivo,,PD2452,iQOO Z10 Turbo,
 V2453A,mob,vivo,vivo,,PD2453,iQOO Z10 Turbo Pro,
+V2507A,mob,vivo,vivo,,PD2507,iQOO Z10 Turbo+,
 V2445A,mob,vivo,vivo,,PD2445,iQOO Z10x,
 V2023A,mob,vivo,vivo,,PD2023,iQOO U1,
 V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,
@@ -8154,10 +8158,11 @@ V2336,mob,vivo,vivo,,PD2341F,Y200e 5G,
 V2416,mob,vivo,vivo,,PD2418F,Y300 5G,
 V2422,mob,vivo,vivo,,,Y300+ 5G,
 V2402,mob,vivo,vivo,,,Y300 Pro 5G,
+V2455,mob,vivo,vivo,,,Y400,
 V2506,mob,vivo,vivo,,,Y400 5G,
 V2439,mob,vivo,vivo,,,Y400 Pro 5G,
 I1927,mob,vivo,vivo,,PD1964F,iQOO 3,4G
-I1928,mob,vivo,vivo,,PD1955F,iQOO 3,5G
+I1928,mob,vivo,vivo,,PD1955F,iQOO 3 5G,
 I2009,mob,vivo,vivo,,PD2049F,iQOO 7,Global
 I2012,mob,vivo,vivo,,PD2055F,iQOO 7,India
 I2017,mob,vivo,vivo,,PD2136F,iQOO 9,
@@ -8172,29 +8177,31 @@ I2214,mob,vivo,vivo,,PD2238F,iQOO Neo7,
 I2217,mob,vivo,vivo,,PD2232F,iQOO Neo7 Pro,
 I2304,mob,vivo,vivo,,PD2338F,iQOO Neo9 Pro,
 I2405,mob,vivo,vivo,,PD2453F,iQOO Neo 10,
+I2408,mob,vivo,vivo,,PD2453F,iQOO Neo 10,
 I2221,mob,vivo,vivo,,PD2352F,iQOO Neo 10R,
-I2011,mob,vivo,vivo,,PD2073F,iQOO Z3,5G
+I2011,mob,vivo,vivo,,PD2073F,iQOO Z3 5G,
 I2018,mob,vivo,vivo,,PD2148F,iQOO Z5,
-I2127,mob,vivo,vivo,,PD2165F,iQOO Z6,5G
+I2127,mob,vivo,vivo,,PD2165F,iQOO Z6 5G,
 I2203,mob,vivo,vivo,,PD2201F,iQOO Z6,44W
 I2206,mob,vivo,vivo,,PD2201F,iQOO Z6,44W
-I2126,mob,vivo,vivo,,PD2193F,iQOO Z6 Pro,5G
-I2208,mob,vivo,vivo,,PD2235F,iQOO Z6 Lite,5G
-I2213,mob,vivo,vivo,,PD2270F,iQOO Z7,5G Global
-I2207,mob,vivo,vivo,,PD2257F,iQOO Z7,5G India
-I2223,mob,vivo,vivo,,PD2251F,iQOO Z7s,5G
-I2216,mob,vivo,vivo,,PD2272F,iQOO Z7x,5G
-I2301,mob,vivo,vivo,,PD2285F,iQOO Z7 Pro,5G
-I2218,mob,vivo,vivo,,PD2346F,iQOO Z9,5G
-I2302,mob,vivo,vivo,,PD2346F,iQOO Z9,5G
-I2219,mob,vivo,vivo,,PD2353F,iQOO Z9x,5G
-I2306,mob,vivo,vivo,,PD2357F,iQOO Z9 Lite,5G
-I2403,mob,vivo,vivo,,PD2406F,iQOO Z9s,5G
-I2305,mob,vivo,vivo,,PD2404F,iQOO Z9s Pro,5G
-I2407,mob,vivo,vivo,,PD2456F,iQOO Z10,5G
-I2404,mob,vivo,vivo,,PD2445F,iQOO Z10x,5G
-I2409,mob,vivo,vivo,,PD2443F,iQOO Z10 Lite,5G
-I2410,mob,vivo,vivo,,,iQOO Z10R,5G
+I2126,mob,vivo,vivo,,PD2193F,iQOO Z6 Pro 5G,
+I2208,mob,vivo,vivo,,PD2235F,iQOO Z6 Lite 5G,
+I2213,mob,vivo,vivo,,PD2270F,iQOO Z7 5G,Global
+I2207,mob,vivo,vivo,,PD2257F,iQOO Z7 5G,India
+I2223,mob,vivo,vivo,,PD2251F,iQOO Z7s 5G,
+I2216,mob,vivo,vivo,,PD2272F,iQOO Z7x 5G,
+I2301,mob,vivo,vivo,,PD2285F,iQOO Z7 Pro 5G,
+I2218,mob,vivo,vivo,,PD2346F,iQOO Z9 5G,
+I2302,mob,vivo,vivo,,PD2346F,iQOO Z9 5G,
+I2219,mob,vivo,vivo,,PD2353F,iQOO Z9x 5G,
+I2306,mob,vivo,vivo,,PD2357F,iQOO Z9 Lite 5G,
+I2403,mob,vivo,vivo,,PD2406F,iQOO Z9s 5G,
+I2305,mob,vivo,vivo,,PD2404F,iQOO Z9s Pro 5G,
+I2407,mob,vivo,vivo,,PD2456F,iQOO Z10 5G,
+I2404,mob,vivo,vivo,,PD2445F,iQOO Z10x 5G,
+I2409,mob,vivo,vivo,,PD2443F,iQOO Z10 Lite 5G,
+I2502,mob,vivo,vivo,,,iQOO Z10 Lite,
+I2410,mob,vivo,vivo,,,iQOO Z10R 5G,
 XMSH01HM,band,xiaomi,小米,,,小米手环,
 XMSH02HM,band,xiaomi,小米,,,小米手环,光感版
 XMSH03HM,band,xiaomi,小米,,,小米手环,光感版
@@ -10070,6 +10077,8 @@ ZTE 7551N,mob,zte,中兴,,,中兴 V80,
 ZTE 7552N,mob,zte,中兴,,,中兴畅行 60,
 ZTE 7553N,mob,zte,中兴,,,中兴畅行 60 Plus,
 ZTE 7553N,mob,zte,中兴,,,中兴远航 61,
+ZTE 7661N,mob,zte,中兴,,,中兴畅行 60 Ultra,
+ZTE 7561N,mob,zte,中兴,,,中兴远航 60 Plus,
 ZTE 7561N,mob,zte,中兴,,,中兴远航 70,
 ZTE 7561N,mob,zte,中兴,,,中兴小鲜 60 臻情版,
 ZTE 7533N,mob,zte,中兴,,,中兴远航 3D,
