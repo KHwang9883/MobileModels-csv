@@ -6965,6 +6965,8 @@ SM-F9660,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,China
 SM-F966N,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,South Korea
 SM-F966Q,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (SIM Free)
 SM-F966Z,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (SoftBank)
+SCG34,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (au)
+SC-56F,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (NTT Docomo)
 SM-F700F,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,Global
 SM-F700U,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,US Carrier
 SM-F700U1,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,US Unlocked
@@ -7022,6 +7024,8 @@ SM-F7660,mob,samsung,Samsung,,b7s,Galaxy Z Flip7,China
 SM-F766N,mob,samsung,Samsung,,b7s,Galaxy Z Flip7,South Korea
 SM-F766Q,mob,samsung,Samsung,,b7s,Galaxy Z Flip7,Japan (SIM Free)
 SM-F766Z,mob,samsung,Samsung,,b7s,Galaxy Z Flip7,Japan (SoftBank)
+SCG35,mob,samsung,Samsung,,b7s,Galaxy Z Flip7,Japan (au)
+SC-55F,mob,samsung,Samsung,,b7s,Galaxy Z Flip7,Japan (NTT Docomo)
 SM-F761B,mob,samsung,Samsung,,b7r,Galaxy Z Flip7 FE,Global
 SM-F761U,mob,samsung,Samsung,,b7r,Galaxy Z Flip7 FE,US Carrier
 SM-F761U1,mob,samsung,Samsung,,b7r,Galaxy Z Flip7 FE,US Unlocked
@@ -7080,6 +7084,8 @@ SM-A065M,mob,samsung,Samsung,,a06,Galaxy A06,Latin America
 SM-A066E,mob,samsung,Samsung,,a06x,Galaxy A06 5G,Global
 SM-A066B,mob,samsung,Samsung,,a06x,Galaxy A06 5G,Global
 SM-A066M,mob,samsung,Samsung,,a06x,Galaxy A06 5G,Latin America
+SM-A075F,mob,samsung,Samsung,,a07,Galaxy A07,Global
+SM-A075M,mob,samsung,Samsung,,a07,Galaxy A07,Latin America
 SM-A105F,mob,samsung,Samsung,,a10,Galaxy A10,Global
 SM-A015FN,mob,samsung,Samsung,,a10,Galaxy A10,Global
 SM-A015G,mob,samsung,Samsung,,a10,Galaxy A10,Global
@@ -7158,6 +7164,8 @@ SM-A166W,mob,samsung,Samsung,,a16x,Galaxy A16 5G,Canada
 SM-A166M,mob,samsung,Samsung,,a16x,Galaxy A16 5G,Latin America
 SM-A1660,mob,samsung,Samsung,,a16x,Galaxy A16 5G,HK & TW
 SM-A166P,mob,samsung,Samsung,,a16xm,Galaxy A16 5G,Global (MediaTek)
+SM-A176B,mob,samsung,Samsung,,a17x,Galaxy A17 5G,Global
+SM-A1760,mob,samsung,Samsung,,a17x,Galaxy A17 5G,HK & TW
 SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,Global
 SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,India
 SM-A205F,mob,samsung,Samsung,,a20,Galaxy A20,Global
@@ -7399,6 +7407,7 @@ SM-M025F,mob,samsung,Samsung,,a02q,Galaxy M02s,
 SM-M045F,mob,samsung,Samsung,,m04,Galaxy M04,
 SM-M055F,mob,samsung,Samsung,,a05m,Galaxy M05,
 SM-M066B,mob,samsung,Samsung,,a06x,Galaxy M06 5G,
+SM-M075F,mob,samsung,Samsung,,a07,Galaxy M07,
 SM-M105G,mob,samsung,Samsung,,m10lte,Galaxy M10,Global
 SM-M105F,mob,samsung,Samsung,,m10lte,Galaxy M10,India
 SM-M105M,mob,samsung,Samsung,,m10lte,Galaxy M10,Latin America
@@ -7417,6 +7426,7 @@ SM-M145F,mob,samsung,Samsung,,a05s,Galaxy M14,
 SM-M146B,mob,samsung,Samsung,,m14x,Galaxy M14 5G,
 SM-M156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,
 SM-M166P,mob,samsung,Samsung,,m16xm,Galaxy M16 5G,
+SM-M176B,mob,samsung,Samsung,,a17x,Galaxy M17 5G,
 SM-M205N,mob,samsung,Samsung,,m20,Galaxy M20,South Korea
 SM-M205F,mob,samsung,Samsung,,m20lte,Galaxy M20,Global
 SM-M205FN,mob,samsung,Samsung,,m20lte,Galaxy M20,EU
@@ -7461,12 +7471,14 @@ SM-E025F,mob,samsung,Samsung,,a02q,Galaxy F02s,
 SM-E045F,mob,samsung,Samsung,,m04,Galaxy F04,
 SM-E055F,mob,samsung,Samsung,,a05m,Galaxy F05,
 SM-E066B,mob,samsung,Samsung,,a06x,Galaxy F06 5G,
+SM-E075F,mob,samsung,Samsung,,a07,Galaxy F07,
 SM-F127G,mob,samsung,Samsung,,f12,Galaxy F12,
 SM-E135F,mob,samsung,Samsung,,m13,Galaxy F13,
 SM-E145F,mob,samsung,Samsung,,a05s,Galaxy F14,
 SM-E146B,mob,samsung,Samsung,,m14x,Galaxy F14 5G,
 SM-E156B,mob,samsung,Samsung,,m15x,Galaxy F15 5G,
 SM-E166P,mob,samsung,Samsung,,m16xm,Galaxy F16 5G,
+SM-E176B,mob,samsung,Samsung,,a17x,Galaxy F17 5G,
 SM-E225F,mob,samsung,Samsung,,f22,Galaxy F22,
 SM-E236B,mob,samsung,Samsung,,m23xq,Galaxy F23 5G,
 SM-E346B,mob,samsung,Samsung,,m34x,Galaxy F34 5G,
