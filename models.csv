@@ -5616,6 +5616,7 @@ PKD120,mob,oppo,OPPO,,,OPPO A3m,
 PKD130,mob,oppo,OPPO,,,OPPO A3x,
 PKL110,mob,oppo,OPPO,,,OPPO A3i,
 PJY110,mob,oppo,OPPO,,,OPPO A3 Pro,
+PJY110,mob,oppo,OPPO,,,OPPO A5 Plus,
 PKQ110,mob,oppo,OPPO,,,OPPO A5,5G (2025)
 PKV110,mob,oppo,OPPO,,,OPPO A5 活力版,
 PKW110,mob,oppo,OPPO,,,OPPO A5x,
@@ -6040,6 +6041,9 @@ RMX3920,mob,realme,realme,,,真我 13 Pro+,
 RMX5075,mob,realme,realme,,,真我 14,
 RMX5055,mob,realme,realme,,,真我 14 Pro,
 RMX5050,mob,realme,realme,,,真我 14 Pro+,
+RMX5105,mob,realme,realme,,,真我 15,
+RMX5100,mob,realme,realme,,,真我 15 Pro,
+RMX5112,mob,realme,realme,,,真我 15T,
 RMX2200,mob,realme,realme,,,真我 V3,5G 全网通版
 RMX2201,mob,realme,realme,,,真我 V3,5G 运营商定制版
 RMX2111,mob,realme,realme,,,真我 V5,5G 全网通版
@@ -8310,6 +8314,8 @@ M2341E1,watch,xiaomi,小米,N75,,Xiaomi Buds 5,
 M2437E1,watch,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,蓝牙版
 M2438E1,watch,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,Wi-Fi 版
 M2503E1,watch,xiaomi,小米,O74,,Xiaomi 开放式耳机 Pro,
+GCDEJ01LS,watch,xiaomi,小米,,,Xiaomi 骨传导耳机,
+M2447E1,watch,xiaomi,小米,,,Xiaomi 骨传导耳机 2,
 TWSEJ01ZM,watch,xiaomi,小米,K76,,Redmi AirDots 3 Pro,
 M2104E1,watch,xiaomi,小米,,,Redmi Buds 3,
 M2110E1,watch,xiaomi,小米,K79,,Redmi Buds 3 青春版,
