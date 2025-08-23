@@ -8769,6 +8769,10 @@ A401XM,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,日本版 (SoftBank)
 2411DRN47R,mob,xiaomi,小米,C3F,flame,Redmi 14C 5G,日本版
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,国行版
 2411DRN47I,mob,xiaomi,小米,C3F,flame,Redmi 14C 5G,印度版
+25062RN2DA,mob,xiaomi,小米,O19A,creek,Redmi 15,国际版
+25062RN2DY,mob,xiaomi,小米,O19A,creek,Redmi 15,国际版 (NFC)
+25062RN2DE,mob,xiaomi,小米,O19A,creek,Redmi 15,欧洲版
+25062RN2DL,mob,xiaomi,小米,O19A,creek,Redmi 15,拉美版
 25057RN09G,mob,xiaomi,小米,O19,spring,Redmi 15 5G,国际版
 25057RN09E,mob,xiaomi,小米,O19,spring,Redmi 15 5G,欧洲版
 25057RN09I,mob,xiaomi,小米,O19,spring,Redmi 15 5G,印度版
@@ -8975,6 +8979,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 2510ERA8BG,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,5G 国际版
 2510ERA8BI,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,5G 印度版
 25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版
+25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
@@ -9578,6 +9583,10 @@ A401XM,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,Japan (SoftBank)
 2411DRN47R,mob,xiaomi,Xiaomi,C3F,flame,Redmi 14C 5G,Japan
 2411DRN47C,mob,xiaomi,Xiaomi,C3F,flame,Redmi 14R 5G,China
 2411DRN47I,mob,xiaomi,Xiaomi,C3F,flame,Redmi 14C 5G,India
+25062RN2DA,mob,xiaomi,Xiaomi,O19A,creek,Redmi 15,Global
+25062RN2DY,mob,xiaomi,Xiaomi,O19A,creek,Redmi 15,Global (NFC)
+25062RN2DE,mob,xiaomi,Xiaomi,O19A,creek,Redmi 15,Europe
+25062RN2DL,mob,xiaomi,Xiaomi,O19A,creek,Redmi 15,Latin America
 25057RN09G,mob,xiaomi,Xiaomi,O19,spring,Redmi 15 5G,Global
 25057RN09E,mob,xiaomi,Xiaomi,O19,spring,Redmi 15 5G,Europe
 25057RN09I,mob,xiaomi,Xiaomi,O19,spring,Redmi 15 5G,India
@@ -9785,6 +9794,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 2510ERA8BI,mob,xiaomi,Xiaomi,P16U,flourite,Redmi Note 15 Pro+,5G India
 2510ERA8BC,mob,xiaomi,Xiaomi,P16U,flourite,Redmi Note 15 Pro+,5G China
 25104RADAC,mob,xiaomi,Xiaomi,P16US,flourite,REDMI Note 15 Pro+,5G Satellite China
+25057RA09C,mob,xiaomi,Xiaomi,O19,spring,REDMI Note 15R,China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,China
