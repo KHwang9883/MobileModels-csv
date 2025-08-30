@@ -8778,6 +8778,10 @@ A401XM,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,日本版 (SoftBank)
 25057RN09G,mob,xiaomi,小米,O19,spring,Redmi 15 5G,国际版
 25057RN09E,mob,xiaomi,小米,O19,spring,Redmi 15 5G,欧洲版
 25057RN09I,mob,xiaomi,小米,O19,spring,Redmi 15 5G,印度版
+25078RA3EA,mob,xiaomi,小米,P15A,dew,Redmi 15C,国际版
+25078RA3EY,mob,xiaomi,小米,P15A,dew,Redmi 15C,国际版 (NFC)
+25078RA3EE,mob,xiaomi,小米,P15A,dew,Redmi 15C,欧洲版
+25078RA3EL,mob,xiaomi,小米,P15A,dew,Redmi 15C,拉美版
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
@@ -9184,6 +9188,8 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 2410FPCC5G,mob,xiaomi,小米,C3NP,lake,POCO C75,国际版
 2410FPCC5I,mob,xiaomi,小米,C3NP,lake,POCO C75,印度版
 24116PCC1I,mob,xiaomi,小米,C3F2,warm,POCO C75 5G,印度版
+25078PC3EG,mob,xiaomi,小米,P15A,dew,POCO C85,国际版
+25078PC3EE,mob,xiaomi,小米,P15A,dew,POCO C85,欧洲版
 2405CPCFBG,pad,xiaomi,小米,N83P,dizi,POCO Pad,Wi-Fi 国际版
 24074PCD2I,pad,xiaomi,小米,N83U,ruan,POCO Pad 5G,印度版
 FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
@@ -9592,6 +9598,10 @@ A401XM,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,Japan (SoftBank)
 25057RN09G,mob,xiaomi,Xiaomi,O19,spring,Redmi 15 5G,Global
 25057RN09E,mob,xiaomi,Xiaomi,O19,spring,Redmi 15 5G,Europe
 25057RN09I,mob,xiaomi,Xiaomi,O19,spring,Redmi 15 5G,India
+25078RA3EA,mob,xiaomi,Xiaomi,P15A,dew,Redmi 15C,Global
+25078RA3EY,mob,xiaomi,Xiaomi,P15A,dew,Redmi 15C,Global (NFC)
+25078RA3EE,mob,xiaomi,Xiaomi,P15A,dew,Redmi 15C,Europe
+25078RA3EL,mob,xiaomi,Xiaomi,P15A,dew,Redmi 15C,Latin America
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (1GB RAM)
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (2GB RAM)
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,TD-SCDMA (1GB RAM)
@@ -9973,6 +9983,8 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 2410FPCC5G,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,Global
 2410FPCC5I,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,India
 24116PCC1I,mob,xiaomi,Xiaomi,C3F2,warm,POCO C75 5G,India
+25078PC3EG,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Global
+25078PC3EE,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Europe
 A0101,pad,xiaomi,Xiaomi,X6,mocha,Mi Pad,
 2015716,pad,xiaomi,Xiaomi,A3,latte,Mi Pad 2,
 MCE91,pad,xiaomi,Xiaomi,C9,cappu,Mi Pad 3,
