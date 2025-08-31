@@ -1469,6 +1469,17 @@ GC15S,mob,google,Google,,comet,Pixel 9 Pro Fold,Japan
 GXQ96,mob,google,Google,,tegu,Pixel 9a,US
 GTF7P,mob,google,Google,,tegu,Pixel 9a,Global
 G3Y12,mob,google,Google,,tegu,Pixel 9a,Japan
+GLBW0,mob,google,Google,,frankel,Pixel 10,"US, mmWave"
+GK2MP,mob,google,Google,,frankel,Pixel 10,Global
+GL066,mob,google,Google,,frankel,Pixel 10,Japan
+G4QUR,mob,google,Google,,blazer,Pixel 10 Pro,"US, mmWave"
+GEHN3,mob,google,Google,,blazer,Pixel 10 Pro,Global
+GN4F5,mob,google,Google,,blazer,Pixel 10 Pro,Japan
+GUL82,mob,google,Google,,mustang,Pixel 10 Pro XL,"US, mmWave"
+G45RY,mob,google,Google,,mustang,Pixel 10 Pro XL,Global
+GYPW4,mob,google,Google,,mustang,Pixel 10 Pro XL,Japan
+GU0NP,mob,google,Google,,rango,Pixel 10 Pro Fold,Global
+GM66V,mob,google,Google,,rango,Pixel 10 Pro Fold,Japan
 C1502W,mob,google,Google,,dragon,Pixel C,
 GTU8P,pad,google,Google,,tangorpro,Pixel Tablet,
 GQF4C,watch,google,Google,,r11btwifi,Pixel Watch,Bluetooth & Wi-Fi
@@ -9194,6 +9205,7 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 24074PCD2I,pad,xiaomi,小米,N83U,ruan,POCO Pad 5G,印度版
 FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
 21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,
+2503CVPC6C,pad,xiaomi,小米,P802,konghou,Xiaomi YU7 后排移动控制屏,
 MI-ONE PLUS,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,WCDMA
 MI-ONE C1,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,CDMA
 MI-ONE,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,Lite
@@ -10039,6 +10051,7 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China
 24074PCD2I,pad,xiaomi,Xiaomi,N83U,ruan,POCO Pad 5G,India
 FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,
 21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,Bio-inspired Quadruped Robot
+2503CVPC6C,mob,xiaomi,Xiaomi,P802,konghou,Xiaomi YU7 Back Row Mobile Control Screen,
 VP001,device,zhixuan,华为智选,,,优畅享 20 Plus,5G
 VP002,device,zhixuan,华为智选,,,优畅享 20,5G
 VP003,device,zhixuan,华为智选,,,优畅享 30e,5G
