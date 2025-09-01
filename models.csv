@@ -1815,6 +1815,7 @@ NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60m,5G
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,5G
 LOG-AN00,mob,honor,荣耀,,,荣耀畅玩 70 Plus,5G
+LOG-AN00,mob,honor,荣耀,,,荣耀畅玩 70m Plus,5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,Wi-Fi 版
 S8-701u,pad,honor,荣耀,,,荣耀平板,3G 版
 T1-821w,pad,honor,荣耀,,,荣耀平板,优享版
@@ -2280,6 +2281,10 @@ ALT-LX1,mob,honor,HONOR,,Alita,HONOR X7c,
 ALT-LX2,mob,honor,HONOR,,Alita,HONOR X7c,
 ALT-LX3,mob,honor,HONOR,,Alita,HONOR X7c,
 ALT-NX1,mob,honor,HONOR,,Alita,HONOR X7c 5G,
+LGN-LX1,mob,honor,HONOR,,,HONOR X7d,
+LGN-LX2,mob,honor,HONOR,,,HONOR X7d,
+LGN-LX3,mob,honor,HONOR,,,HONOR X7d,
+LGN-NX1,mob,honor,HONOR,,,HONOR X7d 5G,
 TFY-LX1,mob,honor,HONOR,,Tiffany,HONOR X8,
 TFY-LX2,mob,honor,HONOR,,Tiffany,HONOR X8,
 TFY-LX3,mob,honor,HONOR,,Tiffany,HONOR X8,
