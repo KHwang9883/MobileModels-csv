@@ -5640,6 +5640,8 @@ PKQ110,mob,oppo,OPPO,,,OPPO A5,5G (2025)
 PKV110,mob,oppo,OPPO,,,OPPO A5 活力版,
 PKW110,mob,oppo,OPPO,,,OPPO A5x,
 PKP110,mob,oppo,OPPO,,alpha,OPPO A5 Pro,
+PLL110,mob,oppo,OPPO,,,OPPO A6 GT,
+PLL110,mob,oppo,OPPO,,,OPPO A6 Max,
 PBCM30,mob,oppo,OPPO,,,OPPO K1,
 PCGM00,mob,oppo,OPPO,,,OPPO K3,全网通版
 PCGT00,mob,oppo,OPPO,,,OPPO K3,移动版
@@ -5868,9 +5870,13 @@ CPH2751,mob,oppo,OPPO,,,OPPO A5 5G,
 A502OP,mob,oppo,OPPO,,,OPPO A5 5G,SoftBank
 CPH2727,mob,oppo,OPPO,,,OPPO A5,2025
 CPH2727,mob,oppo,OPPO,,,OPPO A5m,
-CPH2773,mob,oppo,OPPO,,,OPPO A5i,
 CPH2711,mob,oppo,OPPO,,,OPPO A5 Pro,
 CPH2695,mob,oppo,OPPO,,,OPPO A5 Pro,5G
+CPH2773,mob,oppo,OPPO,,,OPPO A5i,
+CPH2755,mob,oppo,OPPO,,,OPPO A5i Pro,
+CPH2821,mob,oppo,OPPO,,,OPPO A5i Pro,5G
+CPH2725,mob,oppo,OPPO,,,OPPO A5x,
+CPH2733,mob,oppo,OPPO,,,OPPO A5x,5G
 CPH1901,mob,oppo,OPPO,,,OPPO A7,
 CPH1905,mob,oppo,OPPO,,,OPPO A7,
 CPH1903,mob,oppo,OPPO,,,OPPO AX7,
@@ -5967,6 +5973,8 @@ CPH2237,mob,oppo,OPPO,,,OPPO K10,5G
 CPH2667,mob,oppo,OPPO,,,OPPO K12x,5G
 CPH2729,mob,oppo,OPPO,,,OPPO K13,5G
 CPH2753,mob,oppo,OPPO,,,OPPO K13x,5G
+CPH2761,mob,oppo,OPPO,,knight,OPPO K13 Turbo,5G
+CPH2731,mob,oppo,OPPO,,,OPPO K13 Turbo Pro,5G
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,
 OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,Wi-Fi
