@@ -3562,6 +3562,7 @@ MGA-LX9,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y71,
 MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y71,
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y71,
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y72,
+MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y73,
 GFY-LX1,mob,huawei,HUAWEI,,Goofy,HUAWEI nova Y72S,
 CTR-LX1,mob,huawei,HUAWEI,,Cartier,HUAWEI nova Y90,
 CTR-LX2,mob,huawei,HUAWEI,,Cartier,HUAWEI nova Y90,
@@ -3668,8 +3669,9 @@ DBY-W09,pad,huawei,HUAWEI,,Debussy,HUAWEI MatePad 11,Wi-Fi
 DBR-W09,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,Wi-Fi
 DBR-W19,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,PaperMatte Edition Wi-Fi
 BTKR-W09,pad,huawei,HUAWEI,,BartokR,HUAWEI MatePad 11.5,2024 Wi-Fi
-TGR-W09,pad,huawei,HUAWEI,,Tagore,"HUAWEI MatePad 11.5"" S",Wi-Fi
-SLG-W09,pad,huawei,HUAWEI,,Salinger,HUAWEI MatePad 11.5,2025 Wi-Fi
+TGR-W09,pad,huawei,HUAWEI,,Tagore,HUAWEI MatePad 11.5 S,Wi-Fi
+TXZ-W09,pad,huawei,HUAWEI,,Taoxingzhi,HUAWEI MatePad 11.5,2025 Wi-Fi
+SLG-W09,pad,huawei,HUAWEI,,Salinger,HUAWEI MatePad 11.5 S,2025 Wi-Fi
 DBY2-W09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,Wi-Fi
 DBY2-L09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,LTE
 BKY-W09,pad,huawei,HUAWEI,,Banksy,HUAWEI MatePad 12 X,Wi-Fi
@@ -5801,10 +5803,12 @@ CPH2689,mob,oppo,OPPO,,milkyway,OPPO Reno13,5G
 CPH2697,mob,oppo,OPPO,,milkyway,OPPO Reno13 Pro,5G
 CPH2701,mob,oppo,OPPO,,milkyway,OPPO Reno13 F,
 CPH2699,mob,oppo,OPPO,,milkyway,OPPO Reno13 F,5G
+CPH2699,mob,oppo,OPPO,,milkyway,OPPO Reno13 FS,5G
 CPH2699,mob,oppo,OPPO,,milkyway,OPPO Reno13 A,
 CPH2737,mob,oppo,OPPO,,zhuque,OPPO Reno14,
 CPH2739,mob,oppo,OPPO,,zhuque,OPPO Reno14 Pro,
 CPH2743,mob,oppo,OPPO,,zhuque,OPPO Reno14 F,5G
+CPH2743,mob,oppo,OPPO,,zhuque,OPPO Reno14 FS,5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,
 CPH1821,mob,oppo,OPPO,,,OPPO F7,
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,
