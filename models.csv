@@ -2397,14 +2397,14 @@ BRA-AL00,mob,huawei,华为,,Barry,HUAWEI Mate 60,
 ALN-AL00,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,
 ALN-AL80,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro,
 ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 Pro+,
-ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师,
+ALN-AL10,mob,huawei,华为,,Allen,HUAWEI Mate 60 RS 非凡大师,
 CLS-AL00,mob,huawei,华为,,Celestial,HUAWEI Mate 70,
 CLS-AL30,mob,huawei,华为,,Celestial,HUAWEI Mate 70,
 PLR-AL00,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,
 PLR-AL30,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,
 PLR-AL50,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,优享版
 PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,
-PLU-AL10,mob,huawei,华为,,ULTIMATE DESIGN,HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师,
+PLU-AL10,mob,huawei,华为,,PillarU,HUAWEI Mate 70 RS 非凡大师,
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,5G
@@ -2415,9 +2415,10 @@ PAL-AL00,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,
 PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,
 ALT-AL00,mob,huawei,华为,,Alta,HUAWEI Mate X3,
 ALT-AL10,mob,huawei,华为,,Alta,HUAWEI Mate X5,
-GRL-AL10,mob,huawei,华为,,Greenlan,HUAWEI Mate XT ULTIMATE DESIGN 非凡大师,
+GRL-AL10,mob,huawei,华为,,Greenlan,HUAWEI Mate XT 非凡大师,
 ICL-AL10,mob,huawei,华为,,Iceland,HUAWEI Mate X6,
 ICL-AL20,mob,huawei,华为,,Iceland,HUAWEI Mate X6,典藏版
+GRL-AL20,mob,huawei,华为,,Greenlan,HUAWEI Mate XTs 非凡大师,
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,XL
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,S
@@ -2759,15 +2760,15 @@ WEB-W10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,2025 Wi-Fi 版 (
 WEB-AL00,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,2025 典藏版 SIM 卡版
 WEB-AL10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,2025 SIM 卡版
 MRDI-W00,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 版
-MRDI-W10,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 柔光版 Wi-Fi 版
-MRDI-W20,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 柔光版 Wi-Fi 版 (16GB+1TB)
+MRDI-W10,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版
+MRDI-W20,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版 (16GB+1TB)
 DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,11.5 英寸 Wi-Fi 版
 DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,11.5 英寸 LTE 版
 BKY-W00,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 版 (8GB+256GB)
 BKY-W10,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 版 (12GB+256GB)
-BKY-W20,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 柔光版 Wi-Fi 版
+BKY-W20,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 柔光版
 LRT-W20,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 版
-LRT-W30,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 柔光版 Wi-Fi 版
+LRT-W30,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 柔光版
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,10.4 英寸 Wi-Fi 版 (麒麟 810)
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,10.4 英寸 Wi-Fi 版 (麒麟 820)
 BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,10.4 英寸 LTE 版 (麒麟 810)
@@ -2781,15 +2782,17 @@ BAH4-W19,pad,huawei,华为,,Bach4,HUAWEI MatePad,10.4 英寸 2022 悦动版 Wi-F
 BAH4-AL10,pad,huawei,华为,,Bach4,HUAWEI MatePad,10.4 英寸 2022 悦动版 LTE 版 (骁龙 778G 4G)
 DBY-W09,pad,huawei,华为,,Debussy,HUAWEI MatePad 11 英寸,Wi-Fi 版
 DBR-W00,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,Wi-Fi 版
-DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,柔光版 Wi-Fi 版
+DBR-W10,pad,huawei,华为,,DebussyR,HUAWEI MatePad 11 英寸 2023,Wi-Fi 柔光版
 BTK-W00,pad,huawei,华为,,Bartok,HUAWEI MatePad,11.5 英寸 2023 Wi-Fi 版
 BTK-AL00,pad,huawei,华为,,Bartok,HUAWEI MatePad,11.5 英寸 2023 LTE 版
 BTKR-W00,pad,huawei,华为,,BartokR,HUAWEI MatePad 11.5,英寸 2024 Wi-Fi 版
 TGR-W00,pad,huawei,华为,,Tagore,HUAWEI MatePad 11.5 S,Wi-Fi 版
-TGR-W10,pad,huawei,华为,,Tagore,HUAWEI MatePad 11.5 S,柔光版 Wi-Fi 版
+TGR-W10,pad,huawei,华为,,Tagore,HUAWEI MatePad 11.5 S,Wi-Fi 柔光版
 DMG-W00,pad,huawei,华为,,Domingo,HUAWEI MatePad 11.5 S,灵动款 Wi-Fi 版
 SLG-W10,pad,huawei,华为,,Salinger,HUAWEI MatePad 11.5 S 2025,Wi-Fi 版
 SLG-W50,pad,huawei,华为,,Salinger,HUAWEI MatePad 11.5 S 2025,灵动款 Wi-Fi 版
+MLR-AL00,pad,huawei,华为,,Mclaren,HUAWEI MatePad Mini,悦读版 8.8 英寸
+MLR-AL10,pad,huawei,华为,,Mclaren,HUAWEI MatePad Mini,8.8 英寸
 AGS2-W09,pad,huawei,华为,,Agassi2,华为畅享平板,10.1 英寸 Wi-Fi 版
 AGS2-AL00,pad,huawei,华为,,Agassi2,华为畅享平板,10.1 英寸 LTE 版
 AGS3-W00D,pad,huawei,华为,,Agassi3,华为畅享平板 2,10.1 英寸 Wi-Fi 版 (4GB+64GB)
@@ -2883,7 +2886,7 @@ VGHH-16,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,16GB
 VGHH-32,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,32GB 内存
 HAD-W24,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,24GB 内存
 HAD-W32,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,32GB 内存
-HPR-W72,computer,huawei,华为,,Hooper,HUAWEI MateBook Fold ULTIMATE DESIGN 非凡大师,32GB 内存
+HPR-W72,computer,huawei,华为,,Hooper,HUAWEI MateBook Fold 非凡大师,32GB 内存
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5 Linux 版
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i7
@@ -3108,6 +3111,13 @@ HD85ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,85
 HD98ARKA,tv,huawei,华为,,,华为智慧屏 V5 Pro,98
 HDC0ARIA,tv,huawei,华为,,,华为智慧屏 V5 Max,110
 PLAT-760,tv,huawei,华为,,Plato,华为智慧屏 X 系列,65
+HD65EDIH,tv,huawei,华为,,,华为智慧屏 MateTV,65 英寸
+HD75EDIH,tv,huawei,华为,,,华为智慧屏 MateTV,75 英寸
+HD8XEDIH,tv,huawei,华为,,,华为智慧屏 MateTV,85 英寸
+HD98EDIH,tv,huawei,华为,,,华为智慧屏 MateTV,98 英寸
+HD75EDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,75 英寸
+HD8XEDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,85 英寸
+HD98EDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,98 英寸
 HD55KANB,tv,huawei,华为,,Kant,华为智慧屏 S 系列,55 60Hz (3GB+16GB)
 HD55KANC,tv,huawei,华为,,Kant,华为智慧屏 S 系列,55 60Hz (3GB+32GB)
 HD55KANS,tv,huawei,华为,,Kant,华为智慧屏 S 系列,Pro 55 120Hz (3GB+16GB)
@@ -3192,6 +3202,9 @@ HD55KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,55
 HD65KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,65
 HD75KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,75
 HD85KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,85
+HD65NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,65
+HD75NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,75
+HD85NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,85
 HD55DESB,tv,huawei,华为,,,华为智慧屏 B 系列,3-500
 HD65DESB,tv,huawei,华为,,,华为智慧屏 B 系列,3-600
 HDB325A7,tv,huawei,华为,,,华为智慧屏 B 系列,3 55
@@ -5644,6 +5657,7 @@ PKW110,mob,oppo,OPPO,,,OPPO A5x,
 PKP110,mob,oppo,OPPO,,alpha,OPPO A5 Pro,
 PLL110,mob,oppo,OPPO,,,OPPO A6 GT,
 PLL110,mob,oppo,OPPO,,,OPPO A6 Max,
+PLN110,mob,oppo,OPPO,,,OPPO A6 Pro,
 PBCM30,mob,oppo,OPPO,,,OPPO K1,
 PCGM00,mob,oppo,OPPO,,,OPPO K3,全网通版
 PCGT00,mob,oppo,OPPO,,,OPPO K3,移动版
@@ -5665,6 +5679,7 @@ PJR110,mob,oppo,OPPO,,,OPPO K12,
 PKS110,mob,oppo,OPPO,,,OPPO K12 Plus,
 PJT110,mob,oppo,OPPO,,avatar-m,OPPO K12x,
 PLD110,mob,oppo,OPPO,,,OPPO K12s,
+PLL110,mob,oppo,OPPO,,,OPPO K13s,
 PLM110,mob,oppo,OPPO,,knight,OPPO K13 Turbo,
 PLE110,mob,oppo,OPPO,,,OPPO K13 Turbo,Pro
 OPD2101,pad,oppo,OPPO,,,OPPO Pad,
@@ -6618,6 +6633,10 @@ SM-X520,mob,samsung,三星,,gts10fewifi,Galaxy Tab S10 FE,WLAN
 SM-X526C,mob,samsung,三星,,gts10fe,Galaxy Tab S10 FE,5G
 SM-X620,mob,samsung,三星,,gts10fepwifi,Galaxy Tab S10 FE+,WLAN
 SM-X626C,mob,samsung,三星,,gts10fep,Galaxy Tab S10 FE+,5G
+SM-X730,mob,samsung,三星,,gts11wifi,Galaxy Tab S11,WLAN
+SM-X736C,mob,samsung,三星,,gts11,Galaxy Tab S11,5G
+SM-X930,mob,samsung,三星,,gts11uwifi,Galaxy Tab S11 Ultra,WLAN
+SM-X936C,mob,samsung,三星,,gts11u,Galaxy Tab S11 Ultra,5G
 SM-T350,mob,samsung,三星,,gt58wifichn,Galaxy Tab A 8.0,WLAN
 SM-T355C,mob,samsung,三星,,gt58ltechn,Galaxy Tab A 8.0,LTE
 SM-T550,mob,samsung,三星,,gt510wifichn,Galaxy Tab A 8.0,9.7 WLAN
@@ -6899,6 +6918,11 @@ SM-S937U1,mob,samsung,Samsung,,psq,Galaxy S25 Edge,US Unlocked
 SM-S937W,mob,samsung,Samsung,,psq,Galaxy S25 Edge,Canada
 SM-S9370,mob,samsung,Samsung,,psq,Galaxy S25 Edge,China
 SM-S937N,mob,samsung,Samsung,,psq,Galaxy S25 Edge,South Korea
+SM-S731B,mob,samsung,Samsung,,r13s,Galaxy S25 FE,Global
+SM-S731U,mob,samsung,Samsung,,r13s,Galaxy S25 FE,US Carrier
+SM-S731U1,mob,samsung,Samsung,,r13s,Galaxy S25 FE,US Unlocked
+SM-S731W,mob,samsung,Samsung,,r13s,Galaxy S25 FE,Canada
+SM-S731N,mob,samsung,Samsung,,r13s,Galaxy S25 FE,South Korea
 SM-N960F,mob,samsung,Samsung,,crownlte,Galaxy Note9,Global
 SM-N960U,mob,samsung,Samsung,,crownqltesq,Galaxy Note9,US Carrier
 SM-N960U1,mob,samsung,Samsung,,crownqlteue,Galaxy Note9,US Unlocked
