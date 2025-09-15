@@ -227,6 +227,22 @@ A3212,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,美国
 A3408,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,"加拿大, 墨西哥, 部分中东国家"
 A3410,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,中国大陆
 A3409,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,其他国家和地区
+A3258,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,美国
+A3519,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,"加拿大, 日本, 墨西哥, 部分中东国家"
+A3521,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,中国大陆
+A3520,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,其他国家和地区
+A3260,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,"北美, 部分中东国家"
+A3518,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,中国大陆
+A3516,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,日本
+A3517,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,其他国家和地区
+A3256,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,美国
+A3522,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,"加拿大, 日本, 墨西哥, 部分中东国家"
+A3524,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,中国大陆
+A3523,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,其他国家和地区
+A3257,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,美国
+A3525,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,"加拿大, 日本, 墨西哥, 部分中东国家"
+A3527,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,中国大陆
+A3526,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,其他国家和地区
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,无线局域网
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,无线局域网 + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,无线局域网
@@ -404,12 +420,6 @@ A2094,watch,apple,Apple,N146sAP,"Watch5,3",Apple Watch Series 5,(GPS + 蜂窝网
 A2156,watch,apple,Apple,N146sAP,"Watch5,3",Apple Watch Series 5,"(GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
 A2095,watch,apple,Apple,N146bAP,"Watch5,4",Apple Watch Series 5,(GPS + 蜂窝网络) (44 毫米表壳) (北美)
 A2157,watch,apple,Apple,N146bAP,"Watch5,4",Apple Watch Series 5,"(GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
-A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40 毫米表壳)
-A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44 毫米表壳)
-A2353,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + 蜂窝网络) (40 毫米表壳) (北美)
-A2355,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,"(GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
-A2354,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,(GPS + 蜂窝网络) (44 毫米表壳) (北美)
-A2356,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,"(GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
 A2291,watch,apple,Apple,N157sAP,"Watch6,1",Apple Watch Series 6,(GPS) (40 毫米表壳)
 A2292,watch,apple,Apple,N157bAP,"Watch6,2",Apple Watch Series 6,(GPS) (44 毫米表壳)
 A2293,watch,apple,Apple,N158sAP,"Watch6,3",Apple Watch Series 6,(GPS + 蜂窝网络) (40 毫米表壳) (北美)
@@ -422,14 +432,6 @@ A2475,watch,apple,Apple,N188sAP,"Watch6,8",Apple Watch Series 7,(GPS + 蜂窝网
 A2476,watch,apple,Apple,N188sAP,"Watch6,8",Apple Watch Series 7,"(GPS + 蜂窝网络) (41 毫米表壳) (欧亚, 中国大陆)"
 A2477,watch,apple,Apple,N188bAP,"Watch6,9",Apple Watch Series 7,(GPS + 蜂窝网络) (45 毫米表壳) (北美)
 A2478,watch,apple,Apple,N188bAP,"Watch6,9",Apple Watch Series 7,"(GPS + 蜂窝网络) (45 毫米表壳) (欧亚, 中国大陆)"
-A2722,watch,apple,Apple,N143sAP,"Watch6,10",Apple Watch SE (第二代),(GPS) (40 毫米表壳)
-A2723,watch,apple,Apple,N143bAP,"Watch6,11",Apple Watch SE (第二代),(GPS) (44 毫米表壳)
-A2726,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE (第二代),(GPS + 蜂窝网络) (40 毫米表壳) (北美)
-A2855,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE (第二代),(GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)
-A2725,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE (第二代),(GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)
-A2727,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE (第二代),(GPS + 蜂窝网络) (44 毫米表壳) (北美)
-A2856,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE (第二代),(GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)
-A2724,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE (第二代),(GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)
 A2770,watch,apple,Apple,N197sAP,"Watch6,14",Apple Watch Series 8,(GPS) (41 毫米表壳)
 A2771,watch,apple,Apple,N197bAP,"Watch6,15",Apple Watch Series 8,(GPS) (45 毫米表壳)
 A2772,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + 蜂窝网络) (41 毫米表壳) (北美)
@@ -438,25 +440,57 @@ A2773,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + 蜂窝�
 A2774,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + 蜂窝网络) (45 毫米表壳) (北美)
 A2858,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
 A2775,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + 蜂窝网络) (45 毫米表壳) (其他国家和地区)
-A2622,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,北美
-A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,中国大陆 & 港澳
-A2684,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,其他国家和地区
 A2978,watch,apple,Apple,N207sAP,"Watch7,1",Apple Watch Series 9,(GPS) (41 毫米表壳)
 A2980,watch,apple,Apple,N207bAP,"Watch7,2",Apple Watch Series 9,(GPS) (45 毫米表壳)
 A2982,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,(GPS + 蜂窝网络) (41 毫米表壳) (全球)
 A2983,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,(GPS + 蜂窝网络) (41 毫米表壳) (中国大陆 & 港澳)
 A2984,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,(GPS + 蜂窝网络) (45 毫米表壳) (全球)
 A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,(GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
-A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,全球
-A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,中国大陆 & 港澳
 A2997,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,(GPS) (42 毫米表壳) (全球)
 A2998,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,"(GPS) (42 毫米表壳) (中国大陆, 印度尼西亚)"
 A2999,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,(GPS) (46 毫米表壳) (全球)
 A3000,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,"(GPS) (46 毫米表壳) (中国大陆, 印度尼西亚)"
 A3001,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + 蜂窝网络) (42 毫米表壳) (全球)
-A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,"(GPS + 蜂窝网络) (42 毫米表壳) (中国大陆, 印度尼西亚)"
+A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
 A3003,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + 蜂窝网络) (46 毫米表壳) (全球)
-A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,"(GPS + 蜂窝网络) (46 毫米表壳) (中国大陆, 印度尼西亚)"
+A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)
+A3331,watch,apple,Apple,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42 毫米表壳) (全球)
+A3450,watch,apple,Apple,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42 毫米表壳) (中国大陆)
+A3333,watch,apple,Apple,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46 毫米表壳) (全球)
+A3451,watch,apple,Apple,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46 毫米表壳) (中国大陆)
+A3335,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + 蜂窝网络) (42 毫米表壳) (全球)
+A3452,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
+A3337,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + 蜂窝网络) (46 毫米表壳) (全球)
+A3453,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + 蜂窝网络) (46 毫米表壳) (中国大陆)
+A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40 毫米表壳)
+A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44 毫米表壳)
+A2353,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + 蜂窝网络) (40 毫米表壳) (北美)
+A2355,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,"(GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
+A2354,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,(GPS + 蜂窝网络) (44 毫米表壳) (北美)
+A2356,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,"(GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
+A2722,watch,apple,Apple,N143sAP,"Watch6,10",Apple Watch SE 2,(GPS) (40 毫米表壳)
+A2723,watch,apple,Apple,N143bAP,"Watch6,11",Apple Watch SE 2,(GPS) (44 毫米表壳)
+A2726,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + 蜂窝网络) (40 毫米表壳) (北美)
+A2855,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)
+A2725,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)
+A2727,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + 蜂窝网络) (44 毫米表壳) (北美)
+A2856,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)
+A2724,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)
+A3324,watch,apple,Apple,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40 毫米表壳) (全球)
+A3391,watch,apple,Apple,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40 毫米表壳) (中国大陆)
+A3325,watch,apple,Apple,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44 毫米表壳) (全球)
+A3392,watch,apple,Apple,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44 毫米表壳) (中国大陆)
+A3326,watch,apple,Apple,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + 蜂窝网络) (40 毫米表壳) (全球)
+A3327,watch,apple,Apple,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + 蜂窝网络) (44 毫米表壳) (中国大陆)
+A3328,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + 蜂窝网络) (44 毫米表壳) (全球)
+A3329,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + 蜂窝网络) (44 毫米表壳) (中国大陆)
+A2622,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,北美
+A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,中国大陆 & 港澳
+A2684,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,其他国家和地区
+A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,全球
+A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,中国大陆 & 港澳
+A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,全球
+A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,中国大陆
 A1218,tv,apple,Apple,,"AppleTV1,1",Apple TV (第 1 代),
 A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (第 2 代),
 A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (第 3 代),
@@ -666,6 +700,22 @@ A3212,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,United States
 A3408,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,"Bahrain, Canada, Iraq, Guam, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
 A3410,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,China mainland
 A3409,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,Rest of the world
+A3258,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,United States
+A3519,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3521,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,China mainland
+A3520,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,Rest of the world
+A3260,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,"United States, Bahrain, Canada, Guam, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3518,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,China mainland
+A3516,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,Japan
+A3517,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,Rest of the world
+A3256,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,United States
+A3522,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3524,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,China mainland
+A3523,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,Rest of the world
+A3257,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,United States
+A3525,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3527,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,China mainland
+A3526,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,Rest of the world
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,Wi-Fi
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,Wi-Fi + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,Wi-Fi
@@ -843,12 +893,6 @@ A2094,watch,apple,Apple,N146sAP,"Watch5,3",Apple Watch Series 5,(GPS + Cellular)
 A2156,watch,apple,Apple,N146sAP,"Watch5,3",Apple Watch Series 5,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
 A2095,watch,apple,Apple,N146bAP,"Watch5,4",Apple Watch Series 5,(GPS + Cellular) (44mm case) (North America)
 A2157,watch,apple,Apple,N146bAP,"Watch5,4",Apple Watch Series 5,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40mm case)
-A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44mm case)
-A2353,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + Cellular) (40mm case) (North America)
-A2355,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-A2354,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,(GPS + Cellular) (44mm case) (North America)
-A2356,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
 A2291,watch,apple,Apple,N157sAP,"Watch6,1",Apple Watch Series 6,(GPS) (40mm case)
 A2292,watch,apple,Apple,N157bAP,"Watch6,2",Apple Watch Series 6,(GPS) (44mm case)
 A2293,watch,apple,Apple,N158sAP,"Watch6,3",Apple Watch Series 6,(GPS + Cellular) (40mm case) (North America)
@@ -861,14 +905,6 @@ A2475,watch,apple,Apple,N188sAP,"Watch6,8",Apple Watch Series 7,(GPS + Cellular)
 A2476,watch,apple,Apple,N188sAP,"Watch6,8",Apple Watch Series 7,"(GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)"
 A2477,watch,apple,Apple,N188bAP,"Watch6,9",Apple Watch Series 7,(GPS + Cellular) (45mm case) (North America)
 A2478,watch,apple,Apple,N188bAP,"Watch6,9",Apple Watch Series 7,"(GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
-A2722,watch,apple,Apple,N143sAP,"Watch6,10",Apple Watch SE (2nd generation),(GPS) (40mm case)
-A2723,watch,apple,Apple,N143bAP,"Watch6,11",Apple Watch SE (2nd generation),(GPS) (44mm case)
-A2726,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE (2nd generation),(GPS + Cellular) (40mm case) (North America)
-A2855,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE (2nd generation),"(GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
-A2725,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE (2nd generation),(GPS + Cellular) (40mm case) (Rest of the world)
-A2727,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE (2nd generation),(GPS + Cellular) (44mm case) (North America)
-A2856,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE (2nd generation),"(GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
-A2724,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE (2nd generation),(GPS + Cellular) (44mm case) (Rest of the world)
 A2770,watch,apple,Apple,N197sAP,"Watch6,14",Apple Watch Series 8,(GPS) (41mm case)
 A2771,watch,apple,Apple,N197bAP,"Watch6,15",Apple Watch Series 8,(GPS) (45mm case)
 A2772,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + Cellular) (41mm case) (North America)
@@ -877,25 +913,57 @@ A2773,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + Cellular
 A2774,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + Cellular) (45mm case) (North America)
 A2858,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,"(GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
 A2775,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + Cellular) (45mm case) (Rest of the world)
-A2622,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,North America
-A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,"China mainland, Hong Kong, Macao"
-A2684,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,Rest of the world
 A2978,watch,apple,Apple,N207sAP,"Watch7,1",Apple Watch Series 9,(GPS) (41mm case)
 A2980,watch,apple,Apple,N207bAP,"Watch7,2",Apple Watch Series 9,(GPS) (45mm case)
 A2982,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,(GPS + Cellular) (41mm case) (Global)
 A2983,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,"(GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
 A2984,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,(GPS + Cellular) (45mm case) (Global)
 A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,"(GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
-A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,Global
-A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,"China mainland, Hong Kong, Macao"
 A2997,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,(GPS) (42mm case) (Global)
 A2998,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,"(GPS) (42mm case) (China mainland, Indonesia)"
 A2999,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,(GPS) (46mm case) (Global)
 A3000,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,"(GPS) (46mm case) (China mainland, Indonesia)"
 A3001,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + Cellular) (42mm case) (Global)
-A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,"(GPS + Cellular) (42mm case) (China mainland, Indonesia)"
+A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + Cellular) (42mm case) (China mainland)
 A3003,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + Cellular) (46mm case) (Global)
-A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,"(GPS + Cellular) (46mm case) (China mainland, Indonesia)"
+A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + Cellular) (46mm case) (China mainland)
+A3331,watch,apple,Apple,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42mm case) (Global)
+A3450,watch,apple,Apple,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42mm case) (China mainland)
+A3333,watch,apple,Apple,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46mm case) (Global)
+A3451,watch,apple,Apple,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46mm case) (China mainland)
+A3335,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + Cellular) (42mm case) (Global)
+A3452,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + Cellular) (42mm case) (China mainland)
+A3337,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + Cellular) (46mm case) (Global)
+A3453,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + Cellular) (46mm case) (China mainland)
+A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40mm case)
+A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44mm case)
+A2353,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + Cellular) (40mm case) (North America)
+A2355,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+A2354,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,(GPS + Cellular) (44mm case) (North America)
+A2356,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+A2722,watch,apple,Apple,N143sAP,"Watch6,10",Apple Watch SE 2,(GPS) (40mm case)
+A2723,watch,apple,Apple,N143bAP,"Watch6,11",Apple Watch SE 2,(GPS) (44mm case)
+A2726,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + Cellular) (40mm case) (North America)
+A2855,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,"(GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
+A2725,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + Cellular) (40mm case) (Rest of the world)
+A2727,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + Cellular) (44mm case) (North America)
+A2856,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,"(GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
+A2724,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + Cellular) (44mm case) (Rest of the world)
+A3324,watch,apple,Apple,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40mm case) (Global)
+A3391,watch,apple,Apple,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40mm case) (China mainland)
+A3325,watch,apple,Apple,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44mm case) (Global)
+A3392,watch,apple,Apple,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44mm case) (China mainland)
+A3326,watch,apple,Apple,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + Cellular) (40mm case) (Global)
+A3327,watch,apple,Apple,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + Cellular) (44mm case) (China mainland)
+A3328,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + Cellular) (44mm case) (Global)
+A3329,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + Cellular) (44mm case) (China mainland)
+A2622,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,North America
+A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,"China mainland, Hong Kong, Macao"
+A2684,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,Rest of the world
+A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,Global
+A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,"China mainland, Hong Kong, Macao"
+A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,Global
+A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,China mainland
 A1218,tv,apple,Apple,,"AppleTV1,1",Apple TV (1st generation),
 A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (2nd generation),
 A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (3rd generation),
@@ -988,6 +1056,10 @@ A3291,mob,apple,Apple,D48AP,"iPhone17,4",iPhone 16 Plus,
 A3294,mob,apple,Apple,D93AP,"iPhone17,1",iPhone 16 Pro,
 A3297,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,
 A3410,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,
+A3521,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,
+A3518,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,
+A3524,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,
+A3527,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,无线局域网
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,无线局域网 + 3G
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,无线局域网
@@ -1104,10 +1176,6 @@ A2092,watch,apple,Apple,N144sAP,"Watch5,1",Apple Watch Series 5,(GPS) (40 毫米
 A2093,watch,apple,Apple,N144bAP,"Watch5,2",Apple Watch Series 5,(GPS) (44 毫米表壳)
 A2156,watch,apple,Apple,N146sAP,"Watch5,3",Apple Watch Series 5,(GPS + 蜂窝网络) (40 毫米表壳)
 A2157,watch,apple,Apple,N146bAP,"Watch5,4",Apple Watch Series 5,(GPS + 蜂窝网络) (44 毫米表壳)
-A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40 毫米表壳)
-A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44 毫米表壳)
-A2355,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + 蜂窝网络) (40 毫米表壳)
-A2356,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,(GPS + 蜂窝网络) (44 毫米表壳)
 A2291,watch,apple,Apple,N157sAP,"Watch6,1",Apple Watch Series 6,(GPS) (40 毫米表壳)
 A2292,watch,apple,Apple,N157bAP,"Watch6,2",Apple Watch Series 6,(GPS) (44 毫米表壳)
 A2375,watch,apple,Apple,N158sAP,"Watch6,3",Apple Watch Series 6,(GPS + 蜂窝网络) (40 毫米表壳)
@@ -1116,24 +1184,37 @@ A2473,watch,apple,Apple,N187sAP,"Watch6,6",Apple Watch Series 7,(GPS) (41 毫米
 A2474,watch,apple,Apple,N187bAP,"Watch6,7",Apple Watch Series 7,(GPS) (45 毫米表壳)
 A2476,watch,apple,Apple,N188sAP,"Watch6,8",Apple Watch Series 7,(GPS + 蜂窝网络) (41 毫米表壳)
 A2478,watch,apple,Apple,N188bAP,"Watch6,9",Apple Watch Series 7,(GPS + 蜂窝网络) (45 毫米表壳)
-A2722,watch,apple,Apple,N143sAP,"Watch6,10",Apple Watch SE (第二代),(GPS) (40 毫米表壳)
-A2723,watch,apple,Apple,N143bAP,"Watch6,11",Apple Watch SE (第二代),(GPS) (44 毫米表壳)
-A2855,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE (第二代),(GPS + 蜂窝网络) (40 毫米表壳)
-A2856,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE (第二代),(GPS + 蜂窝网络) (44 毫米表壳)
 A2770,watch,apple,Apple,N197sAP,"Watch6,14",Apple Watch Series 8,(GPS) (41 毫米表壳)
 A2771,watch,apple,Apple,N197bAP,"Watch6,15",Apple Watch Series 8,(GPS) (45 毫米表壳)
 A2857,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + 蜂窝网络) (41 毫米表壳)
 A2858,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + 蜂窝网络) (45 毫米表壳)
-A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,
 A2978,watch,apple,Apple,N207sAP,"Watch7,1",Apple Watch Series 9,(GPS) (41 毫米表壳)
 A2980,watch,apple,Apple,N207bAP,"Watch7,2",Apple Watch Series 9,(GPS) (45 毫米表壳)
 A2983,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,(GPS + 蜂窝网络) (41 毫米表壳)
 A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,(GPS + 蜂窝网络) (45 毫米表壳)
-A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,
 A2998,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,(GPS) (42 毫米表壳)
 A3000,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,(GPS) (46 毫米表壳)
 A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + 蜂窝网络) (42 毫米表壳)
 A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + 蜂窝网络) (46 毫米表壳)
+A3450,watch,apple,Apple,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42 毫米表壳)
+A3451,watch,apple,Apple,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46 毫米表壳)
+A3452,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + 蜂窝网络) (42 毫米表壳)
+A3453,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + 蜂窝网络) (46 毫米表壳)
+A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40 毫米表壳)
+A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44 毫米表壳)
+A2355,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + 蜂窝网络) (40 毫米表壳)
+A2356,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,(GPS + 蜂窝网络) (44 毫米表壳)
+A2722,watch,apple,Apple,N143sAP,"Watch6,10",Apple Watch SE 2,(GPS) (40 毫米表壳)
+A2723,watch,apple,Apple,N143bAP,"Watch6,11",Apple Watch SE 2,(GPS) (44 毫米表壳)
+A2855,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + 蜂窝网络) (40 毫米表壳)
+A2856,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + 蜂窝网络) (44 毫米表壳)
+A3391,watch,apple,Apple,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40 毫米表壳)
+A3392,watch,apple,Apple,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44 毫米表壳)
+A3327,watch,apple,Apple,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + 蜂窝网络) (44 毫米表壳)
+A3329,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + 蜂窝网络) (44 毫米表壳)
+A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,
+A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,
+A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,
 A2117,watch,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),
