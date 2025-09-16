@@ -4099,6 +4099,8 @@ M481Q,mob,meizu,魅族,,m2481,魅族 21 PRO,
 M481S,mob,meizu,魅族,,m2481,魅族 21 PRO,Flyme 钛好用版
 M468Q,mob,meizu,魅族,,m2468,魅族 21 Note,公开版
 M468H,mob,meizu,魅族,,m2468,魅族 21 Note,国际版
+M582Q,mob,meizu,魅族,,m2582,魅族 22,
+M582V,mob,meizu,魅族,,m2582,魅族 22,16GB+1TB
 M431Q,mob,meizu,魅族,,m2431,魅族 Lucky 08,公开版
 M852Q,mob,meizu,魅族,,m1852,魅族 X8,公开版
 M852H,mob,meizu,魅族,,m1852,魅族 X8,国际版
@@ -4115,6 +4117,7 @@ M531Q,mob,meizu,魅族,,m2531,魅族 Note 16 Pro,
 M411H,mob,meizu,魅族,,m2411,魅族 Note 21,国际版
 M411L,mob,meizu,魅族,,m2411,魅族 Note 21,国际版
 M412H,mob,meizu,魅族,,m2412,魅族 Note 21 Pro,国际版
+M513H,mob,meizu,魅族,,m2513,魅族 Note 22,国际版
 M810H,mob,meizu,魅族,,m1810,魅族 M8c,国际版
 M818H,mob,meizu,魅族,,m1818,魅族 C9,国际版
 M819H,mob,meizu,魅族,,m1819,魅族 C9 Pro,国际版
@@ -4193,11 +4196,13 @@ M811Q,mob,meizu,魅族,,m1811,魅蓝 6T,公开版
 M811H,mob,meizu,魅族,,m1811,魅蓝 6T,魅族 M6T 国际版
 M2112,mob,meizu,魅族,,m2112,魅蓝 10,
 M2111,mob,meizu,魅族,,m2111,魅蓝 10s,
-M421Q,mob,meizu,魅族,,m2421,魅蓝 20,0
+M421Q,mob,meizu,魅族,,m2421,魅蓝 20,
 M421Q,mob,meizu,魅族,,m2421,魅蓝 20C,
 M421Q,mob,meizu,魅族,,m2421,魅族 M20,
-M416H,mob,meizu,魅族,,m2416,魅族 MBLU 21,
-M416L,mob,meizu,魅族,,m2416,魅族 MBLU 21,
+M416H,mob,meizu,魅族,,m2416,魅族 Mblu 21,国际版
+M416L,mob,meizu,魅族,,m2416,魅族 Mblu 21,国际版
+M511H,mob,meizu,魅族,,m2511,魅族 Mblu 22,MEIZU Mblu 22 国际版
+M512H,mob,meizu,魅族,,m2512,魅族 Mblu 22 Pro,MEIZU Mblu 22 Pro 国际版
 S685Q,mob,meizu,魅族,,s25,魅蓝 Max,公开版
 S685M,mob,meizu,魅族,,s25,魅蓝 Max,移动版
 S685C,mob,meizu,魅族,,s25,魅蓝 Max,电信版
@@ -4304,6 +4309,8 @@ M481Q,mob,meizu,MEIZU,,m2481,MEIZU 21 PRO,
 M481S,mob,meizu,MEIZU,,m2481,MEIZU 21 PRO,UWB
 M468Q,mob,meizu,MEIZU,,m2468,MEIZU 21 Note,China
 M468H,mob,meizu,MEIZU,,m2468,MEIZU 21 Note,Global
+M582Q,mob,meizu,MEIZU,,m2582,MEIZU 22,
+M582V,mob,meizu,MEIZU,,m2582,MEIZU 22,16GB+1TB
 M431Q,mob,meizu,MEIZU,,m2431,MEIZU Lucky 08,
 M463H,mob,meizu,MEIZU,,m71,MEIZU m1 note,Global
 M463M,mob,meizu,MEIZU,,m71,MEIZU m1 note,China Mobile
@@ -4340,6 +4347,7 @@ M531Q,mob,meizu,MEIZU,,m2531,MEIZU Note 16 Pro,
 M411H,mob,meizu,MEIZU,,m2411,MEIZU Note 21,Global
 M411L,mob,meizu,MEIZU,,m2411,MEIZU Note 21,Global
 M412H,mob,meizu,MEIZU,,m2412,MEIZU Note 21 Pro,Global
+M513H,mob,meizu,MEIZU,,m2513,MEIZU Note 22,Global
 A680H,mob,meizu,MEIZU,,a02,MEIZU M3E,Global
 A680Q,mob,meizu,MEIZU,,a02,MEIZU M3E,1 E China
 A680M,mob,meizu,MEIZU,,a02,MEIZU M3E,1 E China Mobile
@@ -4400,8 +4408,10 @@ M2112,mob,meizu,MEIZU,,m2112,mblu 10,
 M2111,mob,meizu,MEIZU,,m2111,mblu 10s,
 M421Q,mob,meizu,MEIZU,,m2421,MEIZU M20,
 M421Q,mob,meizu,MEIZU,,m2421,MEIZU mblu 20,
-M416H,mob,meizu,MEIZU,,m2416,MEIZU MBLU 21,Global
-M416L,mob,meizu,MEIZU,,m2416,MEIZU MBLU 21,Global
+M416H,mob,meizu,MEIZU,,m2416,MEIZU Mblu 21,Global
+M416L,mob,meizu,MEIZU,,m2416,MEIZU Mblu 21,Global
+M511H,mob,meizu,MEIZU,,m2511,MEIZU Mblu 22,Global
+M512H,mob,meizu,MEIZU,,m2512,MEIZU Mblu 22 Pro,Global
 S685H,mob,meizu,MEIZU,,s25,MEIZU M3 Max,Global
 S685Q,mob,meizu,MEIZU,,s25,MEIZU M3 Max,China
 S685M,mob,meizu,MEIZU,,s25,MEIZU M3 Max,China Mobile
@@ -5769,6 +5779,7 @@ PKS110,mob,oppo,OPPO,,,OPPO K12 Plus,
 PJT110,mob,oppo,OPPO,,avatar-m,OPPO K12x,
 PLD110,mob,oppo,OPPO,,,OPPO K12s,
 PLL110,mob,oppo,OPPO,,,OPPO K13s,
+PKV110,mob,oppo,OPPO,,,OPPO K13x,
 PLM110,mob,oppo,OPPO,,knight,OPPO K13 Turbo,
 PLE110,mob,oppo,OPPO,,,OPPO K13 Turbo,Pro
 OPD2101,pad,oppo,OPPO,,,OPPO Pad,
