@@ -4201,8 +4201,8 @@ M421Q,mob,meizu,魅族,,m2421,魅蓝 20C,
 M421Q,mob,meizu,魅族,,m2421,魅族 M20,
 M416H,mob,meizu,魅族,,m2416,魅族 Mblu 21,国际版
 M416L,mob,meizu,魅族,,m2416,魅族 Mblu 21,国际版
-M511H,mob,meizu,魅族,,m2511,魅族 Mblu 22,MEIZU Mblu 22 国际版
-M512H,mob,meizu,魅族,,m2512,魅族 Mblu 22 Pro,MEIZU Mblu 22 Pro 国际版
+M511H,mob,meizu,魅族,,m2511,魅族 Mblu 22,国际版
+M512H,mob,meizu,魅族,,m2512,魅族 Mblu 22 Pro,国际版
 S685Q,mob,meizu,魅族,,s25,魅蓝 Max,公开版
 S685M,mob,meizu,魅族,,s25,魅蓝 Max,移动版
 S685C,mob,meizu,魅族,,s25,魅蓝 Max,电信版
@@ -5954,6 +5954,9 @@ CPH2637,mob,oppo,OPPO,,,OPPO F27,5G
 CPH2643,mob,oppo,OPPO,,,OPPO F27 Pro+,5G
 CPH2721,mob,oppo,OPPO,,,OPPO F29,5G
 CPH2705,mob,oppo,OPPO,,,OPPO F29 Pro,5G
+CPH2781,mob,oppo,OPPO,,,OPPO F31,5G
+CPH2763,mob,oppo,OPPO,,,OPPO F31 Pro,5G
+CPH2757,mob,oppo,OPPO,,,OPPO F31 Pro+,5G
 CPH1835,mob,oppo,OPPO,,,OPPO R15,
 CPH1831,mob,oppo,OPPO,,,OPPO R15 Pro,
 CPH1833,mob,oppo,OPPO,,,OPPO R15 Pro,
