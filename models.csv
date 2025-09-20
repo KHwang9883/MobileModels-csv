@@ -1782,7 +1782,7 @@ LLY-AN00,mob,honor,荣耀,,Lily,荣耀 X50i+,
 BRC-AN00,mob,honor,荣耀,,Bruce,荣耀 X60,
 BRP-AN00,mob,honor,荣耀,,BruceP,荣耀 X60 Pro,
 BRP-AN80,mob,honor,荣耀,,BruceP,荣耀 X60 Pro,卫星版
-LYN-AN00,mob,honor,荣耀,,,荣耀 X60i,
+LYN-AN00,mob,honor,荣耀,,LilyN,荣耀 X60i,
 AGI-AN00,mob,honor,荣耀,,,荣耀 X60 GT,
 MTN-AN00,mob,honor,荣耀,,,荣耀 X70,
 MTN-AN80,mob,honor,荣耀,,,荣耀 X70,12GB+512GB
@@ -1817,7 +1817,7 @@ LLY-AN00,mob,honor,荣耀,,Lily,荣耀 Play8T Pro,5G
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀 Play9T,5G
 LYN-AN00,mob,honor,荣耀,,,荣耀 Play9T Pro,5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀 Play9C,5G
-LOG-AN10,mob,honor,荣耀,,,荣耀 Play10T,5G
+LOG-AN10,mob,honor,荣耀,,Logan,荣耀 Play10T,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀 Play10C,5G
 DVD-AN00,mob,honor,荣耀,,David,荣耀 Power,
 DVD-AN80,mob,honor,荣耀,,David,荣耀 Power,卫星版
@@ -1896,8 +1896,8 @@ CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60m,5G
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,5G
-LOG-AN00,mob,honor,荣耀,,,荣耀畅玩 70 Plus,5G
-LOG-AN00,mob,honor,荣耀,,,荣耀畅玩 70m Plus,5G
+LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70 Plus,5G
+LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70m Plus,5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,Wi-Fi 版
 S8-701u,pad,honor,荣耀,,,荣耀平板,3G 版
 T1-821w,pad,honor,荣耀,,,荣耀平板,优享版
@@ -1916,7 +1916,6 @@ AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 7,10.1 英寸 LTE 版
 HEY-W09,pad,honor,荣耀,,Hendry,荣耀平板 8,12 英寸 Wi-Fi 版
 HEY2-W09,pad,honor,荣耀,,Hendry2,荣耀平板 9,12.1 英寸 Wi-Fi 版
 HEY2-W19,pad,honor,荣耀,,Hendry2,荣耀平板 9,柔光版 12.1 英寸 Wi-Fi 版
-HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 9,12.1 英寸 5G 版
 ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,12.1 英寸 Wi-Fi 版
 ROD-W19,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,柔光版 12.1 英寸 Wi-Fi 版
 HEY3-W00,pad,honor,荣耀,,Hendry3,荣耀平板 10,12.1 英寸 Wi-Fi 版
@@ -2299,8 +2298,8 @@ DNY-NX9,mob,honor,HONOR,,,HONOR 400,
 DNP-NX9,mob,honor,HONOR,,,HONOR 400 Pro,
 ABR-NX1,mob,honor,HONOR,,Amber,HONOR 400 Lite,
 ABR-NX3,mob,honor,HONOR,,Amber,HONOR 400 Lite,
-LGN-NX1,mob,honor,HONOR,,,HONOR 400 Smart,
-LGN-NX3,mob,honor,HONOR,,,HONOR 400 Smart,
+LGN-NX1,mob,honor,HONOR,,Logan,HONOR 400 Smart,
+LGN-NX3,mob,honor,HONOR,,Logan,HONOR 400 Smart,
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,
@@ -2330,6 +2329,10 @@ WOD-LX3,mob,honor,HONOR,,Woody,HONOR X5 Plus,
 GFY-LX2,mob,honor,HONOR,,Goofy,HONOR X5b,
 GFY-LX3,mob,honor,HONOR,,Goofy,HONOR X5b,
 GFY-LX2P,mob,honor,HONOR,,Goofy,HONOR X5b,Plus
+NLA-LX1,mob,honor,HONOR,,Nala,HONOR X5c,
+NLA-LX2,mob,honor,HONOR,,Nala,HONOR X5c,
+NLA-LX3,mob,honor,HONOR,,Nala,HONOR X5c,
+NLA-LX2P,mob,honor,HONOR,,Nala,HONOR X5c,Plus
 VNE-LX1,mob,honor,HONOR,,Vinnie,HONOR X6,
 VNE-LX2,mob,honor,HONOR,,Vinnie,HONOR X6,
 VNE-LX3,mob,honor,HONOR,,Vinnie,HONOR X6,
@@ -2363,10 +2366,10 @@ ALT-LX1,mob,honor,HONOR,,Alita,HONOR X7c,
 ALT-LX2,mob,honor,HONOR,,Alita,HONOR X7c,
 ALT-LX3,mob,honor,HONOR,,Alita,HONOR X7c,
 ALT-NX1,mob,honor,HONOR,,Alita,HONOR X7c 5G,
-LGN-LX1,mob,honor,HONOR,,,HONOR X7d,
-LGN-LX2,mob,honor,HONOR,,,HONOR X7d,
-LGN-LX3,mob,honor,HONOR,,,HONOR X7d,
-LGN-NX1,mob,honor,HONOR,,,HONOR X7d 5G,
+LGN-LX1,mob,honor,HONOR,,Logan,HONOR X7d,
+LGN-LX2,mob,honor,HONOR,,Logan,HONOR X7d,
+LGN-LX3,mob,honor,HONOR,,Logan,HONOR X7d,
+LGN-NX1,mob,honor,HONOR,,Logan,HONOR X7d 5G,
 TFY-LX1,mob,honor,HONOR,,Tiffany,HONOR X8,
 TFY-LX2,mob,honor,HONOR,,Tiffany,HONOR X8,
 TFY-LX3,mob,honor,HONOR,,Tiffany,HONOR X8,
@@ -3342,6 +3345,10 @@ JNA-B19,watch,huawei,华为,,Jana,HUAWEI WATCH GT 5,41mm
 VLI-B19,watch,huawei,华为,,Vili,HUAWEI WATCH GT 5,46mm
 JNA-B29,watch,huawei,华为,,Jana,HUAWEI WATCH GT 5 Pro,42mm
 VLI-B29,watch,huawei,华为,,Vili,HUAWEI WATCH GT 5 Pro,46mm
+KSU-B19,watch,huawei,华为,,Konsu,HUAWEI WATCH GT 6,41mm
+ATM-B19,watch,huawei,华为,,Atum,HUAWEI WATCH GT 6,46mm
+KSU-B29,watch,huawei,华为,,Konsu,HUAWEI WATCH GT 6 Pro,42mm
+ATM-B29,watch,huawei,华为,,Atum,HUAWEI WATCH GT 6 Pro,46mm
 RUN-B19,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,
 RUN-B29,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,
 OCF-B29,watch,huawei,华为,,,HUAWEI WATCH GT 2022 典藏版,
@@ -4603,6 +4610,10 @@ L65MB-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2025,65 Mini LED 2025
 L75MB-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2025,75 Mini LED 2025
 L85MB-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2025,85 Mini LED 2025
 L100MB-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2025,100 Mini LED 2025
+L65MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,65 Mini LED 2026
+L75MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,75 Mini LED 2026
+L85MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,85 Mini LED 2026
+L98MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,98 Mini LED 2026
 L65M5-BH,tv,mitv,小米,,,小米壁画电视,65 英寸
 L75M5-BH,tv,mitv,小米,,,小米壁画电视,75 英寸
 L55M6-TM,tv,mitv,小米,,,小米透明电视,55 英寸
@@ -6309,6 +6320,7 @@ RMX5106,mob,realme,realme,,,15 5G,
 RMX5101,mob,realme,realme,,,15 Pro 5G,
 RMX5111,mob,realme,realme,,,15T 5G,
 RMX5000,mob,realme,realme,,,15 Lite 5G,
+RMX5250,mob,realme,realme,,,15x 5G,
 RMX1901,mob,realme,realme,,,X,
 RMX1921,mob,realme,realme,,,XT,Global
 RMX1922,mob,realme,realme,,,XT,India
@@ -7859,6 +7871,7 @@ V1965A,mob,vivo,vivo,,PD1965,Y50,
 V2023EA,mob,vivo,vivo,,PD2023,Y50t,
 V2443A,mob,vivo,vivo,,PD2443,Y37t,5G
 V2443A,mob,vivo,vivo,,PD2443,Y50 (2025),5G
+V2443A,mob,vivo,vivo,,PD2443,Y50i,5G
 V2443BA,mob,vivo,vivo,,PD2443,Y50m,5G
 V2002A,mob,vivo,vivo,,PD2019,Y51s,5G
 V2057A,mob,vivo,vivo,,PD2057,Y52s,5G
