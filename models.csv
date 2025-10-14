@@ -5362,6 +5362,8 @@ PKX110,mob,oneplus,一加,,pagani,一加 13T,国行版
 CPH2723,mob,oneplus,一加,,pagani,一加 13s,印度版
 PLC110,mob,oneplus,一加,,emira,一加 Ace 5 至尊版,国行版
 PLF110,mob,oneplus,一加,,subaru,一加 Ace 5 竞速版,国行版
+PLK110,mob,oneplus,一加,,,一加 15,国行版
+PLQ110,mob,oneplus,一加,,,一加 Ace 6,国行版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -5535,6 +5537,8 @@ CPH2691,mob,oneplus,OnePlus,,giulia,OnePlus 13R,India
 PKR110,mob,oneplus,OnePlus,,hummer,OnePlus Ace 5 Pro,China
 PKX110,mob,oneplus,OnePlus,,pagani,OnePlus 13T,China
 CPH2723,mob,oneplus,OnePlus,,pagani,OnePlus 13s,India
+PLK110,mob,oneplus,OnePlus,,,OnePlus 15,China
+PLQ110,mob,oneplus,OnePlus,,,OnePlus Ace 6,China
 PLC110,mob,oneplus,OnePlus,,emira,OnePlus Ace 5 Ultra,China
 PLF110,mob,oneplus,OnePlus,,subaru,OnePlus Ace 5 Race,China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
@@ -5620,6 +5624,9 @@ PKT110,mob,oppo,OPPO,,koktokay,OPPO Find X8s,
 PLB110,mob,oppo,OPPO,,slmh,OPPO Find X8s+,
 PKJ110,mob,oppo,OPPO,,zhufeng,OPPO Find X8 Ultra,
 PKU110,mob,oppo,OPPO,,zhufeng,OPPO Find X8 Ultra,卫星通信版
+PLJ110,mob,oppo,OPPO,,,OPPO Find X9,
+PLG110,mob,oppo,OPPO,,,OPPO Find X9 Pro,
+PLG120,mob,oppo,OPPO,,,OPPO Find X9 Pro,卫星通信版
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,
@@ -5841,6 +5848,7 @@ OWW231,watch,oppo,OPPO,,star,OPPO Watch X,
 OWW235,watch,oppo,OPPO,,sport,OPPO Watch Sport,
 OWW242,watch,oppo,OPPO,,xingchen,OPPO Watch X2 Mini,
 OWW251,watch,oppo,OPPO,,starriver,OPPO Watch X2,
+OWW262,watch,oppo,OPPO,,,OPPO Watch S,
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,
@@ -8092,12 +8100,15 @@ WA2456A,watch,vivo,vivo,,,WATCH GT,eSIM 版
 WA2456C,watch,vivo,vivo,,,WATCH GT,蓝牙版
 WA2556A,watch,vivo,vivo,,,WATCH 5,蓝牙版
 WA2556B,watch,vivo,vivo,,,WATCH 5,eSIM 版
+WA2536A,watch,vivo,vivo,,,WATCH GT 2,蓝牙版
+WA2536B,watch,vivo,vivo,,,WATCH GT 2,eSIM 版
 iWA2356A,watch,vivo,vivo,,,iQOO WATCH,eSIM 版
 iWA2356C,watch,vivo,vivo,,,iQOO WATCH,蓝牙版
 iWA2456A,watch,vivo,vivo,,,iQOO WATCH GT,eSIM 版
 iWA2456C,watch,vivo,vivo,,,iQOO WATCH GT,蓝牙版
 iWA2556A,watch,vivo,vivo,,,iQOO WATCH 5,蓝牙版
 iWA2556B,watch,vivo,vivo,,,iQOO WATCH 5,eSIM 版
+iWA2536A,watch,vivo,vivo,,,iQOO WATCH GT 2,蓝牙版
 vivo 1939,mob,vivo,vivo,,PD2006F,X50,
 vivo 2004,mob,vivo,vivo,,PD2006F,X50,
 vivo 2005,mob,vivo,vivo,,PD2006F,X50,
