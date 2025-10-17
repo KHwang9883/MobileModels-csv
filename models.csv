@@ -2087,6 +2087,7 @@ FRI-G561,computer,honor,荣耀,,FermiG,荣耀笔记本 X14 2024,i5 (16GB+1TB)
 FRI-H56,computer,honor,荣耀,,FermiH,荣耀笔记本 X14 2024,R5 (16GB+512GB)
 FRG-X,computer,honor,荣耀,,FermiG,荣耀笔记本 X14 2025,
 GDG-X,computer,honor,荣耀,,GodelG,荣耀笔记本 X14 2025 战斗版,
+FRG-X,computer,honor,荣耀,,FermiG,荣耀笔记本 X14 2026,
 FMI-76,computer,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,R7 (16GB+512GB)
 FMI-721,computer,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,R7 (32GB+1TB)
 FRB-X,computer,honor,荣耀,,FermiB,荣耀笔记本 X14 Plus 2025,
@@ -2108,6 +2109,7 @@ BRG-565,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i5 (16GB+512GB)
 BRG-561,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i5 (16GB+1TB)
 BRG-765,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i7 (16GB+512GB)
 BRG-761,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i7 (16GB+1TB)
+BRG-X,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2026,
 BRI-76,computer,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,R7 (16GB+512GB)
 BRI-721,computer,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,R7 (32GB+1TB)
 BRB-X,computer,honor,荣耀,,BornB,荣耀笔记本 X16 Plus 2025,
@@ -5829,6 +5831,7 @@ OPD2405,pad,oppo,OPPO,,dunhuang,OPPO Pad 3,
 OPD2401,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,
 OPD2409,pad,oppo,OPPO,,erhai,OPPO Pad 4 Pro,
 OPD2417,pad,oppo,OPPO,,,OPPO Pad SE,
+OPD2506,pad,oppo,OPPO,,,OPPO Pad 5,
 OB19B1,band,oppo,OPPO,,,OPPO Band,运动版
 OB19O1,band,oppo,OPPO,,,OPPO Band,运动版
 OB19B1,band,oppo,OPPO,,,OPPO Band,运动版 (国际版)
