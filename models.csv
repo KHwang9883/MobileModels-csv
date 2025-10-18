@@ -371,6 +371,12 @@ A3006,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11 英寸, M4)",(无线局域
 A2925,pad,apple,Apple,J720AP,"iPad16,5","iPad Pro (13 英寸, M4)",无线局域网
 A2926,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13 英寸, M4)",无线局域网 + 蜂窝网络
 A3007,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13 英寸, M4)",(无线局域网 + 蜂窝网络) (中国大陆)
+A3357,pad,apple,Apple,J817AP,"iPad17,1","iPad Pro (11 英寸, M5)",无线局域网
+A3358,pad,apple,Apple,J818AP,"iPad17,2","iPad Pro (11 英寸, M5)",无线局域网 + 蜂窝网络
+A3359,pad,apple,Apple,J818AP,"iPad17,2","iPad Pro (11 英寸, M5)",(无线局域网 + 蜂窝网络) (中国大陆)
+A3360,pad,apple,Apple,J820AP,"iPad18,1","iPad Pro (13 英寸, M5)",无线局域网
+A3361,pad,apple,Apple,J821AP,"iPad18,2","iPad Pro (13 英寸, M5)",无线局域网 + 蜂窝网络
+A3362,pad,apple,Apple,J821AP,"iPad18,2","iPad Pro (13 英寸, M5)",(无线局域网 + 蜂窝网络) (中国大陆)
 A1432,pad,apple,Apple,P105AP,"iPad2,5",iPad mini,无线局域网
 A1454,pad,apple,Apple,P106AP,"iPad2,6",iPad mini,无线局域网 + 蜂窝网络
 A1455,pad,apple,Apple,P107AP,"iPad2,7",iPad mini,(无线局域网 + 蜂窝网络) (中国大陆)
@@ -501,6 +507,7 @@ A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (第 2 代),
 A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网
 A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网 + 以太网
 A2117,tv,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
+A3416,tv,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,
 A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),中国大陆
@@ -844,6 +851,12 @@ A3006,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11-inch, M4)",Wi-Fi + Cellula
 A2925,pad,apple,Apple,J720AP,"iPad16,5","iPad Pro (13-inch, M4)",Wi-Fi
 A2926,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13-inch, M4)",Wi-Fi + Cellular
 A3007,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13-inch, M4)",Wi-Fi + Cellular (China mainland)
+A3357,pad,apple,Apple,J817AP,"iPad17,1","iPad Pro (11-inch, M5)",Wi-Fi
+A3358,pad,apple,Apple,J818AP,"iPad17,2","iPad Pro (11-inch, M5)",Wi-Fi + Cellular
+A3359,pad,apple,Apple,J818AP,"iPad17,2","iPad Pro (11-inch, M5)",Wi-Fi + Cellular (China mainland)
+A3360,pad,apple,Apple,J820AP,"iPad18,1","iPad Pro (13-inch, M5)",Wi-Fi
+A3361,pad,apple,Apple,J821AP,"iPad18,2","iPad Pro (13-inch, M5)",Wi-Fi + Cellular
+A3362,pad,apple,Apple,J821AP,"iPad18,2","iPad Pro (13-inch, M5)",Wi-Fi + Cellular (China mainland)
 A1432,pad,apple,Apple,P105AP,"iPad2,5",iPad mini,Wi-Fi
 A1454,pad,apple,Apple,P106AP,"iPad2,6",iPad mini,Wi-Fi + Cellular
 A1455,pad,apple,Apple,P107AP,"iPad2,7",iPad mini,Wi-Fi + Cellular (China mainland)
@@ -974,6 +987,7 @@ A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (2nd generation),
 A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi
 A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi + Ethernet
 A2117,tv,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
+A3416,tv,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch (1st generation),
 A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),China mainland
@@ -1140,6 +1154,10 @@ A2836,pad,apple,Apple,J717AP,"iPad16,3","iPad Pro (11 英寸, M4)",无线局域�
 A3006,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11 英寸, M4)",无线局域网 + 蜂窝网络
 A2925,pad,apple,Apple,J720AP,"iPad16,5","iPad Pro (13 英寸, M4)",无线局域网
 A3007,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13 英寸, M4)",无线局域网 + 蜂窝网络
+A3357,pad,apple,Apple,J817AP,"iPad17,1","iPad Pro (11 英寸, M5)",无线局域网
+A3359,pad,apple,Apple,J818AP,"iPad17,2","iPad Pro (11 英寸, M5)",无线局域网 + 蜂窝网络
+A3360,pad,apple,Apple,J820AP,"iPad18,1","iPad Pro (13 英寸, M5)",无线局域网
+A3362,pad,apple,Apple,J821AP,"iPad18,2","iPad Pro (13 英寸, M5)",无线局域网 + 蜂窝网络
 A1432,pad,apple,Apple,P105AP,"iPad2,5",iPad mini,无线局域网
 A1455,pad,apple,Apple,P107AP,"iPad2,7",iPad mini,无线局域网 + 蜂窝网络
 A1489,pad,apple,Apple,J85AP,"iPad4,4",iPad mini 2,无线局域网
@@ -1216,6 +1234,7 @@ A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,
 A2117,watch,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
+A3416,watch,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),
 A1318,pod,apple,Apple,N18AP,"iPod3,1",iPod touch (第 3 代),
@@ -2681,6 +2700,7 @@ MIS-AL00,mob,huawei,华为,,MillaS,HUAWEI nova 13 Pro,
 TLR-AL00,mob,huawei,华为,,,HUAWEI nova 14,
 MIA-AL00,mob,huawei,华为,,,HUAWEI nova 14 Pro,
 MRT-AL10,mob,huawei,华为,,,HUAWEI nova 14 Ultra,
+TYR-AL00,mob,huawei,华为,,Taylor,HUAWEI nova 14 活力版,
 PSD-AL80,mob,huawei,华为,,Poseidon,HUAWEI nova Flip S,
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,联通版
@@ -5182,6 +5202,7 @@ NX725J,mob,nubia,努比亚,,,Z60S Pro,
 NX733J,mob,nubia,努比亚,,,Z70 Ultra,
 NX736J,mob,nubia,努比亚,,,Z70 Ultra,星空典藏版 (卫星通信)
 NX737J,mob,nubia,努比亚,,,Z70S Ultra,摄影师版
+NX741J,mob,nubia,努比亚,,,Z80 Ultra,
 NX601J,mob,nubia,努比亚,,,X6,
 NX616J,mob,nubia,努比亚,,,X,
 NX612J,mob,nubia,努比亚,,,V18,
@@ -5256,6 +5277,8 @@ NX789J,mob,nubia,努比亚,,,红魔 10 Pro+,
 NX779J,mob,nubia,努比亚,,,红魔 10 Air,
 NX789J,mob,nubia,努比亚,,,红魔 10S Pro,
 NX789J,mob,nubia,努比亚,,,红魔 10S Pro+,
+NX809J,mob,nubia,努比亚,,,红魔 11 Pro,
+NX809J,mob,nubia,努比亚,,,红魔 11 Pro+,
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,5G
 NP03J,pad,nubia,努比亚,,,红魔电竞平板 Pro,
 NP02J,pad,nubia,努比亚,,,红魔平板 · 3D 探索版,5G
@@ -5428,6 +5451,9 @@ OPD2404,pad,oneplus,一加,,rainbow,一加平板 Pro,国行版
 OPD2403,pad,oneplus,一加,,rainbow,一加平板 2,国际版
 OPD2413,pad,oneplus,一加,,erhai-o,一加平板 2 Pro,国行版
 OPD2415,pad,oneplus,一加,,erhai-o,一加平板 3,国际版
+OPD2480,pad,oneplus,一加,,,一加平板 Lite,Wi-Fi
+OPD2481,pad,oneplus,一加,,,一加平板 Lite,LTE
+OPD2508,pad,oneplus,一加,,,一加平板 2,国行版
 W101IN,band,oneplus,一加,,audio,一加 Band,印度版
 OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,
 W301CN,watch,oneplus,一加,,,一加手表,国行版 / Cyberpunk 2077 限定版
@@ -5605,6 +5631,9 @@ OPD2404,pad,oneplus,OnePlus,,rainbow,OnePlus Pad Pro,
 OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2,
 OPD2413,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 2 Pro,
 OPD2415,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 3,
+OPD2480,pad,oneplus,OnePlus,,,OnePlus Pad Lite,Wi-Fi
+OPD2481,pad,oneplus,OnePlus,,,OnePlus Pad Lite,LTE
+OPD2508,pad,oneplus,OnePlus,,,OnePlus Pad 2,China
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,
 W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,China / Cyberpunk 2077 Limited Edition
@@ -8061,6 +8090,7 @@ V2403A,mob,vivo,vivo,,PD2403,iQOO Neo9S Pro+,
 V2425A,mob,vivo,vivo,,PD2425,iQOO Neo10,
 V2426A,mob,vivo,vivo,,PD2426,iQOO Neo10 Pro,
 V2463A,mob,vivo,vivo,,PD2463,iQOO Neo10 Pro+,
+V2520A,mob,vivo,vivo,,PD2520,iQOO Neo11,
 V1986A,mob,vivo,vivo,,PD1986,iQOO Z1,
 V2012A,mob,vivo,vivo,,PD2012,iQOO Z1x,
 V2073A,mob,vivo,vivo,,PD2073,iQOO Z3,
@@ -9267,8 +9297,10 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
 2407FRK8EC,mob,xiaomi,小米,N12,rothko,Redmi K70 至尊版,
 24117RK2CC,mob,xiaomi,小米,O11,zorn,REDMI K80,
 24122RKC7C,mob,xiaomi,小米,O11U,miro,REDMI K80 Pro,
-24127RK2CC,mob,xiaomi,小米,O11U,miro,REDMI K80 Pro,冠军版
+24127RK2CC,mob,xiaomi,小米,O11US,miro,REDMI K80 Pro 冠军版,
 25060RK16C,mob,xiaomi,小米,O12,dali,REDMI K80 至尊版,
+2510DRK44C,mob,xiaomi,小米,P11,annibale,REDMI K90,
+25102RKBEC,mob,xiaomi,小米,P11U,myron,REDMI K90 Pro Max,
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
@@ -10108,8 +10140,10 @@ M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,China
 2407FRK8EC,mob,xiaomi,Xiaomi,N12,rothko,Redmi K70 Ultra,China
 24117RK2CC,mob,xiaomi,Xiaomi,O11,zorn,REDMI K80,China
 24122RKC7C,mob,xiaomi,Xiaomi,O11U,miro,REDMI K80 Pro,China
-24127RK2CC,mob,xiaomi,Xiaomi,O11U,miro,REDMI K80 Pro,Automobili Lamborghini Squadra Corse China
+24127RK2CC,mob,xiaomi,Xiaomi,O11US,miro,REDMI K80 Pro,Automobili Lamborghini Squadra Corse China
 25060RK16C,mob,xiaomi,Xiaomi,O12,dali,REDMI K80 Ultra,China
+2510DRK44C,mob,xiaomi,Xiaomi,P11,annibale,REDMI K90,China
+25102RKBEC,mob,xiaomi,Xiaomi,P11U,myron,REDMI K90 Pro Max,China
 2016020,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,32GB
 2016021,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,64GB & 128GB
 M1803E6G,mob,xiaomi,Xiaomi,E6,ysl,Redmi S2,Global
