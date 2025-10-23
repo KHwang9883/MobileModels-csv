@@ -7763,33 +7763,319 @@ DT1902A,mob,smartisan,坚果,,delta,坚果 Pro 3,白色
 DT2002C,mob,smartisan,坚果,,darwin,坚果 R2,
 DT2003A,mob,smartisan,坚果,,,Smartisan TNT go,有线版
 DT2003C,mob,smartisan,坚果,,,Smartisan TNT go,无线版
-E6683,mob,sony,索尼,,,Xperia Z5 dual,
-E6883,mob,sony,索尼,,,Xperia Z5 Premium,
-F8332,mob,sony,索尼,,,Xperia XZ,
-G8142,mob,sony,索尼,,,Xperia XZ Premium,
-G8232,mob,sony,索尼,,,Xperia XZs,
-G8342,mob,sony,索尼,,,Xperia XZ1,
-G8441,mob,sony,索尼,,,Xperia XZ1c,
-H4233,mob,sony,索尼,,,Xperia XA2 Ultra,
-H8296,mob,sony,索尼,,,Xperia XZ2,
-H8166,mob,sony,索尼,,,Xperia XZ2 Premium,
-H9493,mob,sony,索尼,,,Xperia XZ3,
-J9110,mob,sony,索尼,,,Xperia 1,
-J9180,mob,sony,索尼,,,Xperia 1,Professional Editon
-J9210,mob,sony,索尼,,,Xperia 5,
-I4293,mob,sony,索尼,,,Xperia 10 Plus,
-XQ-AT72,mob,sony,索尼,,,Xperia 1 II,
-XQ-AS72,mob,sony,索尼,,,Xperia 5 II,
-XQ-BC72,mob,sony,索尼,,,Xperia 1 III,
-XQ-BQ72,mob,sony,索尼,,,Xperia 5 III,
-XQ-BE72,mob,sony,索尼,,,Xperia PRO-I,
-XQ-CT72,mob,sony,索尼,,,Xperia 1 IV,
-XQ-CQ72,mob,sony,索尼,,,Xperia 5 IV,
-XQ-DQ72,mob,sony,索尼,,,Xperia 1 V,
-XQ-DE72,mob,sony,索尼,,,Xperia 5 V,
-XQ-DC72,mob,sony,索尼,,,Xperia 10 V,
-XQ-EC72,mob,sony,索尼,,,Xperia 1 VI,
-XQ-ES72,mob,sony,索尼,,,Xperia 10 VI,
+E2104,mob,sony,Sony,,Jasmine,Xperia E4,
+E2105,mob,sony,Sony,,Jasmine,Xperia E4,
+E2115,mob,sony,Sony,,Jasmine,Xperia E4,dual
+E2114,mob,sony,Sony,,Jasmine,Xperia E4,dual Brazil
+E2303,mob,sony,Sony,,Tulip,Xperia M4 Aqua,
+E2306,mob,sony,Sony,,Tulip,Xperia M4 Aqua,
+E2353,mob,sony,Sony,,Tulip,Xperia M4 Aqua,
+E2312,mob,sony,Sony,,Tulip,Xperia M4 Aqua,dual
+E2333,mob,sony,Sony,,Tulip,Xperia M4 Aqua,dual
+E2363,mob,sony,Sony,,Tulip,Xperia M4 Aqua,dual
+E5603,mob,sony,Sony,,Holly,Xperia M5,
+E5606,mob,sony,Sony,,Holly,Xperia M5,
+E5653,mob,sony,Sony,,Holly,Xperia M5,
+E5633,mob,sony,Sony,,Holly,Xperia M5,dual
+E5663,mob,sony,Sony,,Holly,Xperia M5,dual
+E5643,mob,sony,Sony,,Holly,Xperia M5,dual Brazil
+E5303,mob,sony,Sony,,Cosmos,Xperia C4,
+E5306,mob,sony,Sony,,Cosmos,Xperia C4,
+E5353,mob,sony,Sony,,Cosmos,Xperia C4,
+E5333,mob,sony,Sony,,Cosmos,Xperia C4,dual
+E5363,mob,sony,Sony,,Cosmos,Xperia C4,dual
+E5343,mob,sony,Sony,,Cosmos,Xperia C4,dual Brazil
+E5606,mob,sony,Sony,,Lavender,Xperia C5 Ultra,
+E5553,mob,sony,Sony,,Lavender,Xperia C5 Ultra,
+E5533,mob,sony,Sony,,Lavender,Xperia C5 Ultra,dual
+E5563,mob,sony,Sony,,Lavender,Xperia C5 Ultra,dual
+E6553,mob,sony,Sony,,Ivy,Xperia Z3+,
+E6533,mob,sony,Sony,,Ivy,Xperia Z3+,dual
+402SO,mob,sony,Sony,,Ivy,Xperia Z4,Japan (SoftBank)
+SO-03G,mob,sony,Sony,,Ivy,Xperia Z4,Japan (NTT Docomo)
+SOV31,mob,sony,Sony,,Ivy,Xperia Z4,Japan (KDDI)
+E6603,mob,sony,Sony,,Sumire,Xperia Z5,
+E6653,mob,sony,Sony,,Sumire,Xperia Z5,
+E6633,mob,sony,Sony,,Sumire,Xperia Z5,dual
+E6683,mob,sony,Sony,,Sumire,Xperia Z5,dual
+501SO,mob,sony,Sony,,Sumire,Xperia Z5,Japan (SoftBank)
+SO-01H,mob,sony,Sony,,Sumire,Xperia Z5,Japan (NTT Docomo)
+SOV32,mob,sony,Sony,,Sumire,Xperia Z5,Japan (KDDI)
+E5803,mob,sony,Sony,,Suzuran,Xperia Z5 Compact,
+E5823,mob,sony,Sony,,Suzuran,Xperia Z5 Compact,
+SO-02H,mob,sony,Sony,,Suzuran,Xperia Z5 Compact,Japan (NTT Docomo)
+E6853,mob,sony,Sony,,Satsuki,Xperia Z5 Premium,
+E6833,mob,sony,Sony,,Satsuki,Xperia Z5 Premium,dual
+E6883,mob,sony,Sony,,Satsuki,Xperia Z5 Premium,dual
+SO-03H,mob,sony,Sony,,Satsuki,Xperia Z5 Premium,Japan (NTT Docomo)
+F3311,mob,sony,Sony,,Bassoon,Xperia E5,
+F3313,mob,sony,Sony,,Bassoon,Xperia E5,
+F3111,mob,sony,Sony,,Tuba,Xperia XA,Single SIM
+F3113,mob,sony,Sony,,Tuba,Xperia XA,Single SIM
+F3115,mob,sony,Sony,,Tuba,Xperia XA,Single SIM
+F3112,mob,sony,Sony,,Tuba,Xperia XA,Dual SIM
+F3116,mob,sony,Sony,,Tuba,Xperia XA,Dual SIM
+F3211,mob,sony,Sony,,Ukulele,Xperia XA Ultra,Single SIM
+F3213,mob,sony,Sony,,Ukulele,Xperia XA Ultra,Single SIM
+F3215,mob,sony,Sony,,Ukulele,Xperia XA Ultra,Single SIM
+F3212,mob,sony,Sony,,Ukulele,Xperia XA Ultra,Dual SIM
+F3216,mob,sony,Sony,,Ukulele,Xperia XA Ultra,Dual SIM
+F5121,mob,sony,Sony,,Suzu,Xperia X,Single SIM
+F5122,mob,sony,Sony,,Suzu,Xperia X,Dual SIM
+F5321,mob,sony,Sony,,Kugo,Xperia X Compact,Single SIM
+SO-02J,mob,sony,Sony,,Kugo,Xperia X Compact,Japan (NTT Docomo)
+F8131,mob,sony,Sony,,Dora,Xperia X Performance,Single SIM
+F8132,mob,sony,Sony,,Dora,Xperia X Performance,Dual SIM
+502SO,mob,sony,Sony,,Dora,Xperia X Performance,Japan (SoftBank)
+SO-04H,mob,sony,Sony,,Dora,Xperia X Performance,Japan (NTT Docomo)
+SOV33,mob,sony,Sony,,Dora,Xperia X Performance,Japan (KDDI)
+F8331,mob,sony,Sony,,Kagura,Xperia XZ,Single SIM
+F8332,mob,sony,Sony,,Kagura,Xperia XZ,Dual SIM
+601SO,mob,sony,Sony,,Kagura,Xperia XZ,Japan (SoftBank)
+SO-01J,mob,sony,Sony,,Kagura,Xperia XZ,Japan (NTT Docomo)
+SOV34,mob,sony,Sony,,Kagura,Xperia XZ,Japan (KDDI)
+G3311,mob,sony,Sony,,Pine,Xperia L1,Single SIM
+G3313,mob,sony,Sony,,Pine,Xperia L1,Single SIM
+G3312,mob,sony,Sony,,Pine,Xperia L1,Dual SIM
+G3121,mob,sony,Sony,,Hinoki,Xperia XA1,Single SIM
+G3123,mob,sony,Sony,,Hinoki,Xperia XA1,Single SIM
+G3125,mob,sony,Sony,,Hinoki,Xperia XA1,Single SIM
+G3112,mob,sony,Sony,,Hinoki,Xperia XA1,Dual SIM
+G3116,mob,sony,Sony,,Hinoki,Xperia XA1,Dual SIM
+G3221,mob,sony,Sony,,Redwood,Xperia XA1 Ultra,Single SIM
+G3223,mob,sony,Sony,,Redwood,Xperia XA1 Ultra,Single SIM
+G3212,mob,sony,Sony,,Redwood,Xperia XA1 Ultra,Dual SIM
+G3226,mob,sony,Sony,,Redwood,Xperia XA1 Ultra,Dual SIM
+G3421,mob,sony,Sony,,Teak,Xperia XA1 Plus,Single SIM
+G3423,mob,sony,Sony,,Teak,Xperia XA1 Plus,Single SIM
+G3412,mob,sony,Sony,,Teak,Xperia XA1 Plus,Dual SIM
+G3416,mob,sony,Sony,,Teak,Xperia XA1 Plus,Dual SIM
+G3426,mob,sony,Sony,,Teak,Xperia XA1 Plus,Dual SIM
+G8231,mob,sony,Sony,,Keyaki,Xperia XZs,Single SIM
+G8232,mob,sony,Sony,,Keyaki,Xperia XZs,Dual SIM
+602SO,mob,sony,Sony,,Keyaki,Xperia XZs,Japan (SoftBank)
+SO-03J,mob,sony,Sony,,Keyaki,Xperia XZs,Japan (NTT Docomo)
+SOV35,mob,sony,Sony,,Keyaki,Xperia XZs,Japan (KDDI)
+G8141,mob,sony,Sony,,Maple,Xperia XZ Premium,Single SIM
+G8142,mob,sony,Sony,,Maple,Xperia XZ Premium,Dual SIM
+G8188,mob,sony,Sony,,Maple,Xperia XZ Premium,Japan (SIM Free)
+SO-04J,mob,sony,Sony,,Maple,Xperia XZ Premium,Japan (NTT Docomo)
+G8341,mob,sony,Sony,,Poplar,Xperia XZ1,Single SIM
+G8342,mob,sony,Sony,,Poplar,Xperia XZ1,Dual SIM
+G8343,mob,sony,Sony,,Poplar,Xperia XZ1,Canada
+701SO,mob,sony,Sony,,Poplar,Xperia XZ1,Japan (SoftBank)
+SO-01K,mob,sony,Sony,,Poplar,Xperia XZ1,Japan (NTT Docomo)
+SOV36,mob,sony,Sony,,Poplar,Xperia XZ1,Japan (KDDI)
+G8441,mob,sony,Sony,,Lilac,Xperia XZ1 Compact,Single SIM
+SO-02K,mob,sony,Sony,,Lilac,Xperia XZ1 Compact,Japan (NTT Docomo)
+H3311,mob,sony,Sony,,Ranger,Xperia L2,Single SIM
+H3321,mob,sony,Sony,,Ranger,Xperia L2,Single SIM
+H4311,mob,sony,Sony,,Ranger,Xperia L2,Dual SIM
+H4331,mob,sony,Sony,,Ranger,Xperia L2,Dual SIM
+H3113,mob,sony,Sony,,Pioneer,Xperia XA2,Single SIM
+H3123,mob,sony,Sony,,Pioneer,Xperia XA2,Single SIM
+H3133,mob,sony,Sony,,Pioneer,Xperia XA2,Single SIM
+H4113,mob,sony,Sony,,Pioneer,Xperia XA2,Dual SIM
+H4133,mob,sony,Sony,,Pioneer,Xperia XA2,Dual SIM
+H3213,mob,sony,Sony,,Discovery,Xperia XA2 Ultra,Single SIM
+H3223,mob,sony,Sony,,Discovery,Xperia XA2 Ultra,Single SIM
+H4213,mob,sony,Sony,,Discovery,Xperia XA2 Ultra,Dual SIM
+H4233,mob,sony,Sony,,Discovery,Xperia XA2 Ultra,Dual SIM
+H3413,mob,sony,Sony,,Voyager,Xperia XA2 Plus,Single SIM
+H4413,mob,sony,Sony,,Voyager,Xperia XA2 Plus,Dual SIM
+H4493,mob,sony,Sony,,Voyager,Xperia XA2 Plus,Dual SIM
+H8216,mob,sony,Sony,,Akari,Xperia XZ2,Single SIM
+H8266,mob,sony,Sony,,Akari,Xperia XZ2,Dual SIM
+H8296,mob,sony,Sony,,Akari,Xperia XZ2,Dual SIM
+H8276,mob,sony,Sony,,Akari,Xperia XZ2,Canada
+702SO,mob,sony,Sony,,Akari,Xperia XZ2,Japan (SoftBank)
+SO-03K,mob,sony,Sony,,Akari,Xperia XZ2,Japan (NTT Docomo)
+SOV37,mob,sony,Sony,,Akari,Xperia XZ2,Japan (KDDI)
+H8314,mob,sony,Sony,,Apollo,Xperia XZ2 Compact,Single SIM
+H8324,mob,sony,Sony,,Apollo,Xperia XZ2 Compact,Dual SIM
+SO-05K,mob,sony,Sony,,Apollo,Xperia XZ2 Compact,Japan (NTT Docomo)
+H8116,mob,sony,Sony,,Aurora,Xperia XZ2 Premium,Single SIM
+H8166,mob,sony,Sony,,Aurora,Xperia XZ2 Premium,Dual SIM
+SO-04K,mob,sony,Sony,,Aurora,Xperia XZ2 Premium,Japan (NTT Docomo)
+SOV38,mob,sony,Sony,,Aurora,Xperia XZ2 Premium,Japan (KDDI)
+H8416,mob,sony,Sony,,Akatsuki,Xperia XZ3,Single SIM
+H9436,mob,sony,Sony,,Akatsuki,Xperia XZ3,Dual SIM
+H9493,mob,sony,Sony,,Akatsuki,Xperia XZ3,Dual SIM
+801SO,mob,sony,Sony,,Akatsuki,Xperia XZ3,Japan (SoftBank)
+SO-01L,mob,sony,Sony,,Akatsuki,Xperia XZ3,Japan (NTT Docomo)
+SOV39,mob,sony,Sony,,Akatsuki,Xperia XZ3,Japan (KDDI)
+I3312,mob,sony,Sony,,Dragon,Xperia L3,Single SIM
+I4312,mob,sony,Sony,,Dragon,Xperia L3,Dual SIM
+I4332,mob,sony,Sony,,Dragon,Xperia L3,Dual SIM
+J8110,mob,sony,Sony,,Griffin,Xperia 1,Single SIM
+J8170,mob,sony,Sony,,Griffin,Xperia 1,US
+J9110,mob,sony,Sony,,Griffin,Xperia 1,Dual SIM
+J9180,mob,sony,Sony,,Griffin,Xperia 1,Professional Editon China
+J9150,mob,sony,Sony,,Griffin,Xperia 1,Japan (SIM Free)
+802SO,mob,sony,Sony,,Griffin,Xperia 1,Japan (SoftBank)
+SO-03L,mob,sony,Sony,,Griffin,Xperia 1,Japan (NTT Docomo)
+SOV40,mob,sony,Sony,,Griffin,Xperia 1,Japan (KDDI)
+J8210,mob,sony,Sony,,Bahamut,Xperia 5,Single SIM
+J8270,mob,sony,Sony,,Bahamut,Xperia 5,US
+J9210,mob,sony,Sony,,Bahamut,Xperia 5,Dual SIM
+J9260,mob,sony,Sony,,Bahamut,Xperia 5,Japan (SIM Free)
+901SO,mob,sony,Sony,,Bahamut,Xperia 5,Japan (SoftBank)
+SO-01M,mob,sony,Sony,,Bahamut,Xperia 5,Japan (NTT Docomo)
+SOV41,mob,sony,Sony,,Bahamut,Xperia 5,Japan (KDDI)
+J3273,mob,sony,Sony,,Himiko,Xperia 8,Lite Japan (SIM Free)
+902SO,mob,sony,Sony,,Himiko,Xperia 8,Japan (SoftBank)
+SOV42,mob,sony,Sony,,Himiko,Xperia 8,Japan (KDDI)
+SOV42-u,mob,sony,Sony,,Himiko,Xperia 8,Japan (KDDI)
+I3113,mob,sony,Sony,,Kirin,Xperia 10,Single SIM
+I3123,mob,sony,Sony,,Kirin,Xperia 10,Single SIM
+I4113,mob,sony,Sony,,Kirin,Xperia 10,Dual SIM
+I4193,mob,sony,Sony,,Kirin,Xperia 10,Dual SIM
+I3213,mob,sony,Sony,,Mermaid,Xperia 10 Plus,Single SIM
+I3223,mob,sony,Sony,,Mermaid,Xperia 10 Plus,Single SIM
+I4213,mob,sony,Sony,,Mermaid,Xperia 10 Plus,Dual SIM
+I4293,mob,sony,Sony,,Mermaid,Xperia 10 Plus,Dual SIM
+J3173,mob,sony,Sony,,Houou,Xperia Ace,Japan (SIM Free)
+SO-02L,mob,sony,Sony,,Houou,Xperia Ace,Japan (NTT Docomo)
+XQ-AQ52,mob,sony,Sony,,PDX-204,Xperia PRO,Global
+XQ-AQ62,mob,sony,Sony,,PDX-204,Xperia PRO,US
+XQ-AT42,mob,sony,Sony,,PDX-203,Xperia 1 II,Japan (SIM Free)
+XQ-AT51,mob,sony,Sony,,PDX-203,Xperia 1 II,Global (Single SIM)
+XQ-AT52,mob,sony,Sony,,PDX-203,Xperia 1 II,Global (Dual SIM)
+XQ-AT72,mob,sony,Sony,,PDX-203,Xperia 1 II,China
+SO-51A,mob,sony,Sony,,PDX-203,Xperia 1 II,Japan (NTT Docomo)
+SOG01,mob,sony,Sony,,PDX-203,Xperia 1 II,Japan (KDDI)
+XQ-AS42,mob,sony,Sony,,PDX-206,Xperia 5 II,Japan (SIM Free)
+XQ-AS52,mob,sony,Sony,,PDX-206,Xperia 5 II,Global
+XQ-AS62,mob,sony,Sony,,PDX-206,Xperia 5 II,US
+XQ-AS72,mob,sony,Sony,,PDX-206,Xperia 5 II,China
+A002SO,mob,sony,Sony,,PDX-206,Xperia 5 II,Japan (SoftBank)
+SO-52A,mob,sony,Sony,,PDX-206,Xperia 5 II,Japan (NTT Docomo)
+SOG02,mob,sony,Sony,,PDX-206,Xperia 5 II,Japan (KDDI)
+XQ-AU42,mob,sony,Sony,,PDX-201,Xperia 10 II,Japan (SIM Free)
+XQ-AU51,mob,sony,Sony,,PDX-201,Xperia 10 II,Global (Single SIM)
+XQ-AU52,mob,sony,Sony,,PDX-201,Xperia 10 II,Global (Dual SIM)
+A001SO,mob,sony,Sony,,PDX-201,Xperia 10 II,Japan (SoftBank)
+SO-41A,mob,sony,Sony,,PDX-201,Xperia 10 II,Japan (NTT Docomo)
+SOV43,mob,sony,Sony,,PDX-201,Xperia 10 II,Japan (KDDI)
+XQ-AD51,mob,sony,Sony,,PDX-202,Xperia L4,Single SIM
+XQ-AD52,mob,sony,Sony,,PDX-202,Xperia L4,Dual SIM
+XQ-BC42,mob,sony,Sony,,PDX-215,Xperia 1 III,Japan (SIM Free)
+XQ-BC52,mob,sony,Sony,,PDX-215,Xperia 1 III,Global
+XQ-BC62,mob,sony,Sony,,PDX-215,Xperia 1 III,US
+XQ-BC72,mob,sony,Sony,,PDX-215,Xperia 1 III,Asia Pacific
+A101SO,mob,sony,Sony,,PDX-215,Xperia 1 III,Japan (SoftBank)
+SO-51B,mob,sony,Sony,,PDX-215,Xperia 1 III,Japan (NTT Docomo)
+SOG03,mob,sony,Sony,,PDX-215,Xperia 1 III,Japan (KDDI)
+XQ-BQ42,mob,sony,Sony,,PDX-214,Xperia 5 III,Japan (SIM Free)
+XQ-BQ52,mob,sony,Sony,,PDX-214,Xperia 5 III,Global
+XQ-BQ62,mob,sony,Sony,,PDX-214,Xperia 5 III,US
+XQ-BQ72,mob,sony,Sony,,PDX-214,Xperia 5 III,Asia Pacific
+A103SO,mob,sony,Sony,,PDX-214,Xperia 5 III,Japan (SoftBank)
+SO-53B,mob,sony,Sony,,PDX-214,Xperia 5 III,Japan (NTT Docomo)
+SOG05,mob,sony,Sony,,PDX-214,Xperia 5 III,Japan (KDDI)
+XQ-BT44,mob,sony,Sony,,PDX-213,Xperia 10 III,Japan (SIM Free)
+XQ-BT52,mob,sony,Sony,,PDX-213,Xperia 10 III,Global
+A102SO,mob,sony,Sony,,PDX-213,Xperia 10 III,Japan (SoftBank)
+SO-52B,mob,sony,Sony,,PDX-213,Xperia 10 III,Japan (NTT Docomo)
+SOG04,mob,sony,Sony,,PDX-213,Xperia 10 III,Japan (KDDI)
+XQ-BE42,mob,sony,Sony,,PDX-217,Xperia PRO-I,Japan
+XQ-BE52,mob,sony,Sony,,PDX-217,Xperia PRO-I,Global
+XQ-BE62,mob,sony,Sony,,PDX-217,Xperia PRO-I,US
+XQ-BE72,mob,sony,Sony,,PDX-217,Xperia PRO-I,Asia Pacific
+SO-41B,mob,sony,Sony,,PDX-212,Xperia Ace II,Japan (NTT Docomo)
+XQ-CT44,mob,sony,Sony,,PDX-223,Xperia 1 IV,Japan (SIM Free)
+XQ-CT54,mob,sony,Sony,,PDX-223,Xperia 1 IV,Global
+XQ-CT62,mob,sony,Sony,,PDX-223,Xperia 1 IV,US
+XQ-CT72,mob,sony,Sony,,PDX-223,Xperia 1 IV,Asia Pacific
+A201SO,mob,sony,Sony,,PDX-223,Xperia 1 IV,Japan (SoftBank)
+SO-51C,mob,sony,Sony,,PDX-223,Xperia 1 IV,Japan (NTT Docomo)
+SOG06,mob,sony,Sony,,PDX-223,Xperia 1 IV,Japan (KDDI)
+XQ-CQ44,mob,sony,Sony,,PDX-224,Xperia 5 IV,Japan (SIM Free)
+XQ-CQ54,mob,sony,Sony,,PDX-224,Xperia 5 IV,Global
+XQ-CQ62,mob,sony,Sony,,PDX-224,Xperia 5 IV,US
+XQ-CQ72,mob,sony,Sony,,PDX-224,Xperia 5 IV,Asia Pacific
+A204SO,mob,sony,Sony,,PDX-224,Xperia 5 IV,Japan (SoftBank)
+SO-54C,mob,sony,Sony,,PDX-224,Xperia 5 IV,Japan (NTT Docomo)
+SOG09,mob,sony,Sony,,PDX-224,Xperia 5 IV,Japan (KDDI)
+XQ-CC44,mob,sony,Sony,,PDX-225,Xperia 10 IV,Japan (SIM Free)
+XQ-CC54,mob,sony,Sony,,PDX-225,Xperia 10 IV,Global
+XQ-CC72,mob,sony,Sony,,PDX-225,Xperia 10 IV,Asia Pacific
+A202SO,mob,sony,Sony,,PDX-225,Xperia 10 IV,Japan (SoftBank)
+SO-52C,mob,sony,Sony,,PDX-225,Xperia 10 IV,Japan (NTT Docomo)
+SOG07,mob,sony,Sony,,PDX-225,Xperia 10 IV,Japan (KDDI)
+A203SO,mob,sony,Sony,,PDX-226,Xperia Ace III,Japan (SoftBank)
+SO-53C,mob,sony,Sony,,PDX-226,Xperia Ace III,Japan (NTT Docomo)
+SOG08,mob,sony,Sony,,PDX-226,Xperia Ace III,Japan (KDDI)
+XQ-DQ44,mob,sony,Sony,,PDX-234,Xperia 1 V,Japan (SIM Free)
+XQ-DQ54,mob,sony,Sony,,PDX-234,Xperia 1 V,Global
+XQ-DQ62,mob,sony,Sony,,PDX-234,Xperia 1 V,US
+XQ-DQ72,mob,sony,Sony,,PDX-234,Xperia 1 V,Asia Pacific
+A301SO,mob,sony,Sony,,PDX-234,Xperia 1 V,Japan (SoftBank)
+SO-51D,mob,sony,Sony,,PDX-234,Xperia 1 V,Japan (NTT Docomo)
+SOG10,mob,sony,Sony,,PDX-234,Xperia 1 V,Japan (KDDI)
+XQ-DE44,mob,sony,Sony,,PDX-237,Xperia 5 V,Japan (SIM Free)
+XQ-DE54,mob,sony,Sony,,PDX-237,Xperia 5 V,Global
+XQ-DE72,mob,sony,Sony,,PDX-237,Xperia 5 V,Asia Pacific
+SO-53D,mob,sony,Sony,,PDX-237,Xperia 5 V,Japan (NTT Docomo)
+SOG12,mob,sony,Sony,,PDX-237,Xperia 5 V,Japan (KDDI)
+XQ-DC44,mob,sony,Sony,,PDX-235,Xperia 10 V,Japan (SIM Free)
+XQ-DC54,mob,sony,Sony,,PDX-235,Xperia 10 V,Global
+XQ-DC72,mob,sony,Sony,,PDX-235,Xperia 10 V,Asia Pacific
+A302SO,mob,sony,Sony,,PDX-235,Xperia 10 V,Japan (SoftBank)
+SO-52D,mob,sony,Sony,,PDX-235,Xperia 10 V,Japan (NTT Docomo)
+SOG11,mob,sony,Sony,,PDX-235,Xperia 10 V,Japan (KDDI)
+XQ-EC44,mob,sony,Sony,,PDX-245,Xperia 1 VI,Japan (SIM Free)
+XQ-EC54,mob,sony,Sony,,PDX-245,Xperia 1 VI,Global
+XQ-EC72,mob,sony,Sony,,PDX-245,Xperia 1 VI,Asia Pacific
+A401SO,mob,sony,Sony,,PDX-245,Xperia 1 VI,Japan (SoftBank)
+SO-51E,mob,sony,Sony,,PDX-245,Xperia 1 VI,Japan (NTT Docomo)
+SOG13,mob,sony,Sony,,PDX-245,Xperia 1 VI,Japan (KDDI)
+XQ-ES44,mob,sony,Sony,,PDX-246,Xperia 10 VI,Japan (SIM Free)
+XQ-ES54,mob,sony,Sony,,PDX-246,Xperia 10 VI,Global
+XQ-ES72,mob,sony,Sony,,PDX-246,Xperia 10 VI,Asia Pacific
+A402SO,mob,sony,Sony,,PDX-246,Xperia 10 VI,Japan (SoftBank)
+SO-52E,mob,sony,Sony,,PDX-246,Xperia 10 VI,Japan (NTT Docomo)
+SOG14,mob,sony,Sony,,PDX-246,Xperia 10 VI,Japan (KDDI)
+XQ-FS44,mob,sony,Sony,,PDX-256,Xperia 1 VII,Japan (SIM Free)
+XQ-FS54,mob,sony,Sony,,PDX-256,Xperia 1 VII,Global
+XQ-FS72,mob,sony,Sony,,PDX-256,Xperia 1 VII,Asia Pacific
+A501SO,mob,sony,Sony,,PDX-256,Xperia 1 VII,Japan (SoftBank)
+SO-51F,mob,sony,Sony,,PDX-256,Xperia 1 VII,Japan (NTT Docomo)
+SOG15,mob,sony,Sony,,PDX-256,Xperia 1 VII,Japan (KDDI)
+XQ-FE44,mob,sony,Sony,,PDX-257,Xperia 10 VII,Japan (SIM Free)
+XQ-FE54,mob,sony,Sony,,PDX-257,Xperia 10 VII,Global
+XQ-FE72,mob,sony,Sony,,PDX-257,Xperia 10 VII,Asia Pacific
+A502SO,mob,sony,Sony,,PDX-257,Xperia 10 VII,Japan (SoftBank)
+SO-52F,mob,sony,Sony,,PDX-257,Xperia 10 VII,Japan (NTT Docomo)
+SOG16,mob,sony,Sony,,PDX-257,Xperia 10 VII,Japan (KDDI)
+SGP712,pad,sony,Sony,,Karin,Xperia Z4 Tablet,Wi-Fi
+SGP771,pad,sony,Sony,,Karin,Xperia Z4 Tablet,LTE
+SO-05G,pad,sony,Sony,,Karin,Xperia Z4 Tablet,LTE Japan (NTT Docomo)
+SOT31,pad,sony,Sony,,Karin,Xperia Z4 Tablet,LTE Japan (KDDI)
+E6683,mob,sony,索尼,,Sumire,Xperia Z5,dual
+E6883,mob,sony,索尼,,Satsuki,Xperia Z5 Premium,
+F8332,mob,sony,索尼,,Kagura,Xperia XZ,
+G8142,mob,sony,索尼,,Maple,Xperia XZ Premium,
+G8232,mob,sony,索尼,,Keyaki,Xperia XZs,
+G8342,mob,sony,索尼,,Poplar,Xperia XZ1,
+G8441,mob,sony,索尼,,Lilac,Xperia XZ1 Compact,
+H4233,mob,sony,索尼,,Discovery,Xperia XA2 Ultra,
+H8296,mob,sony,索尼,,Akari,Xperia XZ2,
+H8166,mob,sony,索尼,,Aurora,Xperia XZ2 Premium,
+H9493,mob,sony,索尼,,Akatsuki,Xperia XZ3,
+J9110,mob,sony,索尼,,Griffin,Xperia 1,
+J9180,mob,sony,索尼,,Griffin,Xperia 1,Professional Editon
+J9210,mob,sony,索尼,,Bahamut,Xperia 5,
+I4293,mob,sony,索尼,,Mermaid,Xperia 10 Plus,
+XQ-AT72,mob,sony,索尼,,PDX-203,Xperia 1 II,
+XQ-AS72,mob,sony,索尼,,PDX-206,Xperia 5 II,
+XQ-BC72,mob,sony,索尼,,PDX-215,Xperia 1 III,
+XQ-BQ72,mob,sony,索尼,,PDX-214,Xperia 5 III,
+XQ-BE72,mob,sony,索尼,,PDX-217,Xperia PRO-I,
+XQ-CT72,mob,sony,索尼,,PDX-223,Xperia 1 IV,
+XQ-CQ72,mob,sony,索尼,,PDX-224,Xperia 5 IV,
+XQ-DQ72,mob,sony,索尼,,PDX-234,Xperia 1 V,
+XQ-DE72,mob,sony,索尼,,PDX-237,Xperia 5 V,
 V1821A,mob,vivo,vivo,,PD1821,NEX 双屏版,全网通版
 V1821T,mob,vivo,vivo,,PD1821,NEX 双屏版,移动全网通版
 V1923A,mob,vivo,vivo,,PD1923,NEX 3,全网通版
@@ -9222,11 +9508,11 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,5G 国行版
 2312DRAABI,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,印度版
 2312DRAABG,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,国际版
 23117RA68G,mob,xiaomi,小米,N6,emerald,Redmi Note 13 Pro,国际版
-2312DRA50C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,国行版
-2312CRAD3C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,国行版
+2312DRA50C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,国行版 (LPDDR4x + UFS 2.2)
 2312DRA50G,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 国际版
 2312DRA50I,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 印度版
 XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
+2312CRAD3C,mob,xiaomi,小米,N16S,garnet,Redmi Note 13 Pro,国行版 (LPDDR5 + UFS 3.1)
 23090RA98C,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,国行版
 23090RA98G,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,5G 国际版
 23090RA98I,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,5G 印度版
@@ -9478,6 +9764,367 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 24074PCD2I,pad,xiaomi,小米,N83U,ruan,POCO Pad 5G,印度版
 25099RP08G,pad,xiaomi,小米,O82P,uke,POCO Pad X1,国际版
 2509ARPBDG,pad,xiaomi,小米,P83P,flute,POCO Pad M1,国际版
+FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
+21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,
+2503CVPC6C,pad,xiaomi,小米,P802,konghou,Xiaomi YU7 后排移动控制屏,
+MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,联通版
+MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,电信版
+MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,青春版
+2012051,mob,xiaomi,小米,X1,mione_plus,小米 1S,联通版
+2012053,mob,xiaomi,小米,X1,mione_plus,小米 1S,电信版
+2012052,mob,xiaomi,小米,X1,mione_plus,小米 1S,青春版
+2012061,mob,xiaomi,小米,X2,aries,小米 2,联通版
+2012062,mob,xiaomi,小米,X2,aries,小米 2,电信版
+2013012,mob,xiaomi,小米,X2,aries,小米 2S,联通版
+2013021,mob,xiaomi,小米,X2,aries,小米 2S,电信版
+2012121,mob,xiaomi,小米,X2A,taurus,小米 2A,联通版
+2013061,mob,xiaomi,小米,X3TD,pisces,小米 3,移动版
+2013062,mob,xiaomi,小米,X3W,cancro,小米 3,联通版
+2013063,mob,xiaomi,小米,X3W,cancro,小米 3,电信版
+2014215,mob,xiaomi,小米,X4,cancro,小米 4,联通 3G 版
+2014218,mob,xiaomi,小米,X4,cancro,小米 4,电信 3G 版
+2014216,mob,xiaomi,小米,X4,cancro,小米 4,移动 4G 版
+2014719,mob,xiaomi,小米,X4,cancro,小米 4,联通 4G 版
+2014716,mob,xiaomi,小米,X4LTE-CT,cancro_lte_ct,小米 4,电信 4G 版
+2014726,mob,xiaomi,小米,X4LTE-CT,cancro_lte_ct,小米 4,电信 4G 合约版
+2015561,mob,xiaomi,小米,X11,libra,小米 4c,全网通版
+2015562,mob,xiaomi,小米,X11,libra,小米 4c,移动合约版
+2015911,mob,xiaomi,小米,A10,aqua,小米 4S,
+2015201,mob,xiaomi,小米,A1,gemini,小米 5,标准版
+2015628,mob,xiaomi,小米,A1,gemini,小米 5,高配版 / 尊享版
+2015711,mob,xiaomi,小米,A7,capricorn,小米 5s,
+2016070,mob,xiaomi,小米,B7,natrium,小米 5s Plus,
+2016089,mob,xiaomi,小米,C10,meri,小米 5c,
+MDE2,mob,xiaomi,小米,D2,tiffany,小米 5X,全网通版
+MDT2,mob,xiaomi,小米,D2,tiffany,小米 5X,移动 4G+ 版
+MCE16,mob,xiaomi,小米,C1,sagit,小米 6,全网通版
+MCT1,mob,xiaomi,小米,C1,sagit,小米 6,移动 4G+ 版
+M1804D2SE,mob,xiaomi,小米,D2S,wayne,小米 6X,全网通版
+M1804D2ST,mob,xiaomi,小米,D2S,wayne,小米 6X,移动 4G+ 版
+M1804D2SC,mob,xiaomi,小米,D2S,wayne,小米 6X,联通电信定制版
+M1803E1A,mob,xiaomi,小米,E1,dipper,小米 8,全网通版
+M1803E1T,mob,xiaomi,小米,E1,dipper,小米 8,移动 4G+ 版
+M1803E1C,mob,xiaomi,小米,E1,dipper,小米 8,联通电信定制版
+M1807E8S,mob,xiaomi,小米,E8,ursa,小米 8 透明探索版,
+M1807E8A,mob,xiaomi,小米,E1S,equuleus,小米 8 屏幕指纹版,
+M1805E2A,mob,xiaomi,小米,E2,sirius,小米 8 SE,
+M1808D2TE,mob,xiaomi,小米,D2T,platina,小米 8 青春版,全网通版
+M1808D2TT,mob,xiaomi,小米,D2T,platina,小米 8 青春版,移动 4G+ 版
+M1808D2TC,mob,xiaomi,小米,D2T,platina,小米 8 青春版,联通电信定制版
+M1902F1A,mob,xiaomi,小米,F1,cepheus,小米 9,全网通版
+M1902F1T,mob,xiaomi,小米,F1,cepheus,小米 9,移动 4G+ 版
+M1902F1C,mob,xiaomi,小米,F1,cepheus,小米 9,联通电信定制版
+M1908F1XE,mob,xiaomi,小米,F1X,crux,小米 9 Pro,5G
+M1903F2A,mob,xiaomi,小米,F2,grus,小米 9 SE,
+M2001J2E,mob,xiaomi,小米,J2,umi,小米 10,
+M2001J2C,mob,xiaomi,小米,J2,umi,小米 10,
+M2001J1E,mob,xiaomi,小米,J1,cmi,小米 10 Pro,
+M2001J1C,mob,xiaomi,小米,J1,cmi,小米 10 Pro,
+M2002J9E,mob,xiaomi,小米,J9A,vangogh,小米 10 青春版,
+M2007J1SC,mob,xiaomi,小米,J1S,cas,小米 10 至尊纪念版,
+M2102J2SC,mob,xiaomi,小米,J2S,thyme,小米 10S,
+M2011K2C,mob,xiaomi,小米,K2,venus,小米 11,
+M2102K1AC,mob,xiaomi,小米,K1A,star,小米 11 Pro,
+M2102K1C,mob,xiaomi,小米,K1,star,小米 11 Ultra,
+M2101K9C,mob,xiaomi,小米,K9,renoir,小米 11 青春版,
+2107119DC,mob,xiaomi,小米,K9D,lisa,Xiaomi 11 青春活力版,
+2201123C,mob,xiaomi,小米,L3,cupid,Xiaomi 12,
+2112123AC,mob,xiaomi,小米,L3A,psyche,Xiaomi 12X,
+2201122C,mob,xiaomi,小米,L2,zeus,Xiaomi 12 Pro,
+2207122MC,mob,xiaomi,小米,L2M,daumier,Xiaomi 12 Pro 天玑版,
+2206123SC,mob,xiaomi,小米,L3S,mayfly,Xiaomi 12S,
+2206122SC,mob,xiaomi,小米,L2S,unicorn,Xiaomi 12S Pro,
+2203121C,mob,xiaomi,小米,L1,thor,Xiaomi 12S Ultra,
+2211133C,mob,xiaomi,小米,M3,fuxi,Xiaomi 13,
+2210132C,mob,xiaomi,小米,M2,nuwa,Xiaomi 13 Pro,
+2304FPN6DC,mob,xiaomi,小米,M1,ishtar,Xiaomi 13 Ultra,
+23127PN0CC,mob,xiaomi,小米,N3,houji,Xiaomi 14,
+23116PN5BC,mob,xiaomi,小米,N2,shennong,Xiaomi 14 Pro,
+23116PN5BC,mob,xiaomi,小米,N2,shennong,Xiaomi 14 Pro,钛金属版
+2311BPN23C,mob,xiaomi,小米,N2T,shennong,Xiaomi 14 Pro,钛金属版 (卫星通讯)
+24031PN0DC,mob,xiaomi,小米,N1,aurora,Xiaomi 14 Ultra,
+24129PN74C,mob,xiaomi,小米,O3,dada,Xiaomi 15,
+2410DPN6CC,mob,xiaomi,小米,O2,haotian,Xiaomi 15 Pro,
+25019PNF3C,mob,xiaomi,小米,O1,xuanyuan,Xiaomi 15 Ultra,
+25010PN30C,mob,xiaomi,小米,O1,xuanyuan,Xiaomi 15 Ultra,双卫星版
+25042PN24C,mob,xiaomi,小米,O2S,dijun,Xiaomi 15S Pro,
+25113PN0EC,mob,xiaomi,小米,P3,pudding,Xiaomi 17,
+25098PN5AC,mob,xiaomi,小米,Q200,pandora,Xiaomi 17 Pro,
+2509FPN0BC,mob,xiaomi,小米,P2,popsicle,Xiaomi 17 Pro Max,
+2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
+2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版
+2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版
+2014617,mob,xiaomi,小米,X5,virgo,小米 Note,联通合约版
+2015021,mob,xiaomi,小米,X7,leo,小米 Note 顶配版,双网通版
+2015022,mob,xiaomi,小米,X7,leo,小米 Note 顶配版,全网通版
+2015501,mob,xiaomi,小米,X7,leo,小米 Note 顶配版,移动合约版
+2015211,mob,xiaomi,小米,A4,scorpio,小米 Note 2,全网通版
+2015212,mob,xiaomi,小米,A4,scorpio,小米 Note 2,移动 4G+ 版
+2015213,mob,xiaomi,小米,A4,scorpio,小米 Note 2,全球频段
+MCE8,mob,xiaomi,小米,C8,jason,小米 Note 3,全网通版
+MCT8,mob,xiaomi,小米,C8,jason,小米 Note 3,移动 4G+ 版
+2016080,mob,xiaomi,小米,A8,lithium,小米 MIX,
+MDE5,mob,xiaomi,小米,D5,chiron,小米 MIX 2,黑色陶瓷版 全网通版
+MDT5,mob,xiaomi,小米,D5,chiron,小米 MIX 2,黑色陶瓷版 移动 4G+ 版
+MDE5S,mob,xiaomi,小米,D5,chiron,小米 MIX 2,全陶瓷尊享版
+M1803D5XE,mob,xiaomi,小米,D5X,polaris,小米 MIX 2S,全网通版
+M1803D5XA,mob,xiaomi,小米,D5X,polaris,小米 MIX 2S,尊享版 (全球频段)
+M1803D5XT,mob,xiaomi,小米,D5X,polaris,小米 MIX 2S,移动 4G+ 版
+M1803D5XC,mob,xiaomi,小米,D5X,polaris,小米 MIX 2S,联通电信定制版
+M1810E5E,mob,xiaomi,小米,E5,perseus,小米 MIX 3,
+M1810E5A,mob,xiaomi,小米,E5,perseus,小米 MIX 3,全球频段
+M1810E5GG,mob,xiaomi,小米,E5G,andromeda,小米 MIX 3 5G,
+2106118C,mob,xiaomi,小米,K8,odin,Xiaomi MIX 4,
+M2011J18C,mob,xiaomi,小米,J18,cetus,MIX FOLD 小米折叠屏手机,
+22061218C,mob,xiaomi,小米,L18,zizhan,Xiaomi MIX Fold 2,
+2308CPXD0C,mob,xiaomi,小米,M18,babylon,Xiaomi MIX Fold 3,
+24072PX77C,mob,xiaomi,小米,N18,goku,Xiaomi MIX Fold 4,
+2405CPX3DC,mob,xiaomi,小米,N8,ruyi,Xiaomi MIX Flip,
+2505APX7BC,mob,xiaomi,小米,O8,bixi,Xiaomi MIX Flip 2,
+2016001,mob,xiaomi,小米,B3,hydrogen,小米 Max,标准版 全网通版
+2016007,mob,xiaomi,小米,B3_PRO,helium,小米 Max,高配版
+MDE40,mob,xiaomi,小米,D4,oxygen,小米 Max 2,全网通版
+MDT4,mob,xiaomi,小米,D4,oxygen,小米 Max 2,移动 4G+ 版
+M1804E4A,mob,xiaomi,小米,E4,nitrogen,小米 Max 3,全网通版
+M1804E4T,mob,xiaomi,小米,E4,nitrogen,小米 Max 3,移动 4G+ 版
+M1804E4C,mob,xiaomi,小米,E4,nitrogen,小米 Max 3,联通电信定制版
+M1904F3BC,mob,xiaomi,小米,F3B,pyxis,小米 CC9,
+M1904F3BT,mob,xiaomi,小米,F3M,vela,小米 CC9 美图定制版,
+M1906F9SC,mob,xiaomi,小米,F9S,laurus,小米 CC9e,
+M1910F4E,mob,xiaomi,小米,F4,tucana,小米 CC9 Pro,
+2109119BC,mob,xiaomi,小米,K9B,mona,Xiaomi Civi,
+2109119BC,mob,xiaomi,小米,K9E,zijin,Xiaomi Civi 1S,
+2209129SC,mob,xiaomi,小米,L9S,ziyi,Xiaomi Civi 2,
+23046PNC9C,mob,xiaomi,小米,M9,yuechu,Xiaomi Civi 3,
+24053PY09C,mob,xiaomi,小米,N9,chenfeng,Xiaomi Civi 4 Pro,
+25067PYE3C,mob,xiaomi,小米,O9,luming,Xiaomi Civi 5 Pro,
+M1901F9E,mob,xiaomi,小米,F9,lotus,小米 Play,全网通版
+M1901F9T,mob,xiaomi,小米,F9,lotus,小米 Play,移动 4G+ 版
+A0101,pad,xiaomi,小米,X6,mocha,小米平板,
+2015716,pad,xiaomi,小米,A3,latte,小米平板 2,
+MCE91,pad,xiaomi,小米,C9,cappu,小米平板 3,
+M1806D9W,pad,xiaomi,小米,D9,clover,小米平板 4,Wi-Fi 版
+M1806D9E,pad,xiaomi,小米,D9,clover,小米平板 4,LTE 版
+M1806D9PE,pad,xiaomi,小米,D9P,clover,小米平板 4 Plus,LTE 版
+21051182C,pad,xiaomi,小米,K82,nabu,小米平板 5,
+M2105K81AC,pad,xiaomi,小米,K81A,elish,小米平板 5 Pro,Wi-Fi 版
+M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,
+22081281AC,pad,xiaomi,小米,L81A,dagu,小米平板 5 Pro,12.4 英寸
+23043RP34C,pad,xiaomi,小米,M82,pipa,Xiaomi Pad 6,
+23046RP50C,pad,xiaomi,小米,M81,liuqin,Xiaomi Pad 6 Pro,
+2307BRPDCC,pad,xiaomi,小米,M80,yudi,Xiaomi Pad 6 Max,14
+24018RPACC,pad,xiaomi,小米,N81A,sheng,Xiaomi Pad 6S Pro,12.4
+2410CRP4CC,pad,xiaomi,小米,O82,uke,Xiaomi Pad 7,
+24091RPADC,pad,xiaomi,小米,O81,muyu,Xiaomi Pad 7 Pro,
+25032RP42C,pad,xiaomi,小米,O80,jinghu,Xiaomi Pad 7 Ultra,
+25053RP5CC,pad,xiaomi,小米,O81A,violin,Xiaomi Pad 7S Pro 12.5,
+25097RP43C,pad,xiaomi,小米,P82,yupei,Xiaomi Pad 8,
+25091RP04C,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,
+2013022,mob,xiaomi,小米,H2TD,wt93007,红米手机,移动版
+2013023,mob,xiaomi,小米,H2W,wt98007,红米手机,联通版
+2013029,mob,xiaomi,小米,H2A,armani,红米 1S,联通版
+2013028,mob,xiaomi,小米,H2A,armani,红米 1S,电信版
+2014011,mob,xiaomi,小米,H2S,wt93807,红米 1S,移动 3G 版
+2014501,mob,xiaomi,小米,H2SLTE,wt96007,红米 1S,移动 4G 版
+2014813,mob,xiaomi,小米,H2X,wt86047,红米 2,移动版
+2014112,mob,xiaomi,小米,H2X,wt86047,红米 2,移动合约版
+2014811,mob,xiaomi,小米,H2X,wt88047,红米 2,联通版
+2014812,mob,xiaomi,小米,H2X,wt88047,红米 2,电信版
+2014821,mob,xiaomi,小米,H2X,wt88047,红米 2,电信合约版
+2014502,mob,xiaomi,小米,H2X(LC),lte26007,红米 2A,标准版
+2014512,mob,xiaomi,小米,H2X(LC),lte26007,红米 2A,增强版
+2014055,mob,xiaomi,小米,H2X(LC),lte26007,红米 2A,增强版
+2014816,mob,xiaomi,小米,H2X,wt86047,红米 2A,高配版
+2015811,mob,xiaomi,小米,A9,ido_xhdpi,红米 3,全网通 标准版
+2015815,mob,xiaomi,小米,A9,ido_xhdpi,红米 3,全网通 标准版
+2015812,mob,xiaomi,小米,A9,ido_xhdpi,红米 3,移动合约 标准版
+2015810,mob,xiaomi,小米,A9,ido_xhdpi,红米 3,联通合约 标准版
+2015817,mob,xiaomi,小米,A9,ido_xhdpi,红米 3,全网通 高配版
+2015819,mob,xiaomi,小米,A9,ido_xhdpi,红米 3,全网通 高配版
+2015818,mob,xiaomi,小米,A9,ido_xhdpi,红米 3,联通合约 高配版
+2016030,mob,xiaomi,小米,A12,land,红米 3S,
+2016036,mob,xiaomi,小米,A12,land,红米 3X,全网通版
+2016035,mob,xiaomi,小米,A12,land,红米 3X,移动合约版
+2016033,mob,xiaomi,小米,A12,land,红米 3X,全网通版 (联通定制)
+2016090,mob,xiaomi,小米,C5,prada,红米 4,标准版
+2016060,mob,xiaomi,小米,B5W,markw,红米 4,高配版
+2016111,mob,xiaomi,小米,C3A,rolex,红米 4A,全网通版
+2016112,mob,xiaomi,小米,C3A,rolex,红米 4A,移动 4G+ 版
+MAE136,mob,xiaomi,小米,A13,santoni,红米 4X,全网通版
+MAT136,mob,xiaomi,小米,A13,santoni,红米 4X,移动 4G+ 版
+MDE1,mob,xiaomi,小米,D1,rosy,红米 5,全网通版
+MDT1,mob,xiaomi,小米,D1,rosy,红米 5,移动 4G+ 版
+MEE7,mob,xiaomi,小米,E7,vince,红米 5 Plus,全网通版
+MET7,mob,xiaomi,小米,E7,vince,红米 5 Plus,移动 4G+ 版
+MCE3B,mob,xiaomi,小米,C3B,riva,红米 5A,全网通版
+MCT3B,mob,xiaomi,小米,C3B,riva,红米 5A,移动 4G+ 版
+M1804C3DE,mob,xiaomi,小米,C3D,cereus,红米 6,全网通版
+M1804C3DT,mob,xiaomi,小米,C3D,cereus,红米 6,移动 4G+ 版
+M1804C3DC,mob,xiaomi,小米,C3D,cereus,红米 6,联通电信定制版
+M1805D1SE,mob,xiaomi,小米,D1S,sakura,红米 6 Pro,全网通版
+M1805D1ST,mob,xiaomi,小米,D1S,sakura,红米 6 Pro,移动 4G+ 版
+M1805D1SC,mob,xiaomi,小米,D1S,sakura,红米 6 Pro,联通电信定制版
+M1804C3CE,mob,xiaomi,小米,C3C,cactus,红米 6A,全网通版
+M1804C3CT,mob,xiaomi,小米,C3C,cactus,红米 6A,移动 4G+ 版
+M1804C3CC,mob,xiaomi,小米,C3C,cactus,红米 6A,联通电信定制版
+M1810F6LE,mob,xiaomi,小米,F6L,onclite,Redmi 7,全网通版
+M1810F6LT,mob,xiaomi,小米,F6L,onclite,Redmi 7,运营商全网通版
+M1903C3EE,mob,xiaomi,小米,C3E,pine,Redmi 7A,全网通版
+M1903C3ET,mob,xiaomi,小米,C3E,pine,Redmi 7A,移动 4G+ 版
+M1903C3EC,mob,xiaomi,小米,C3E,pine,Redmi 7A,联通电信定制版
+M1908C3IE,mob,xiaomi,小米,C3I,olive,Redmi 8,全网通版
+M1908C3IC,mob,xiaomi,小米,C3I,olive,Redmi 8,运营商全网通版
+M1908C3KE,mob,xiaomi,小米,C3K,olivelite,Redmi 8A,
+M2004J19C,mob,xiaomi,小米,J19,lancelot,Redmi 9,
+M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A,
+220233L2C,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,
+23077RABDC,mob,xiaomi,小米,M19P,sky,Redmi 12 5G,
+23076RA4BC,mob,xiaomi,小米,M19,sky,Redmi 12R,
+22120RN86C,mob,xiaomi,小米,C3T,earth,Redmi 12C,
+23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13C 5G,
+23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13R 5G,
+2409BRN2CC,mob,xiaomi,小米,C3N,lake,Redmi 14C,
+2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,
+2508CRN2BC,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,
+25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
+2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
+2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
+2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
+2013122,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 增强版
+2014022,mob,xiaomi,小米,H3LTE,dior,红米 Note,移动 4G 增强版
+2014021,mob,xiaomi,小米,H3LTE,dior,红米 Note,联通 4G 增强版
+2014915,mob,xiaomi,小米,H3X,gucci,红米 Note 1S,移动 4G 双卡版
+2014912,mob,xiaomi,小米,H3X,gucci,红米 Note 1S,联通 4G 双卡版
+2014916,mob,xiaomi,小米,H3X,gucci,红米 Note 1S,电信 4G 双卡版
+2014911,mob,xiaomi,小米,H3X,gucci,红米 Note 1S,移动 4G 双卡合约版
+2014910,mob,xiaomi,小米,H3X,gucci,红米 Note 1S,电信 4G 双卡合约版
+2015052,mob,xiaomi,小米,H3Y,hermes,红米 Note 2,移动版
+2015051,mob,xiaomi,小米,H3Y,hermes,红米 Note 2,双网通版
+2015712,mob,xiaomi,小米,H3Y,hermes,红米 Note 2,双网通高配版
+2015055,mob,xiaomi,小米,H3Y,hermes,红米 Note 2,移动合约版
+2015056,mob,xiaomi,小米,H3Y,hermes,红米 Note 2,移动合约高配版
+2015617,mob,xiaomi,小米,H3Z,hennessy,红米 Note 3,双网通版
+2015611,mob,xiaomi,小米,H3Z,hennessy,红米 Note 3,移动合约版
+2015112,mob,xiaomi,小米,H3A,kenzo,红米 Note 3,
+2015115,mob,xiaomi,小米,H3A,kenzo,红米 Note 3,
+2016050,mob,xiaomi,小米,B6L,nikel,红米 Note 4,全网通版
+2016051,mob,xiaomi,小米,B6L,nikel,红米 Note 4,移动版
+2016101,mob,xiaomi,小米,C6,mido,红米 Note 4X,高通 全网通版
+2016130,mob,xiaomi,小米,C6,mido,红米 Note 4X,高通 移动 4G+ 版
+MBE6A5,mob,xiaomi,小米,B6A,nikel,红米 Note 4X,MTK 全网通版
+MBT6A5,mob,xiaomi,小米,B6A,nikel,红米 Note 4X,MTK 移动 4G+ 版
+MEE7S,mob,xiaomi,小米,E7S,whyred,红米 Note 5,全网通版
+MET7S,mob,xiaomi,小米,E7S,whyred,红米 Note 5,移动 4G+ 版
+MEC7S,mob,xiaomi,小米,E7S,whyred,红米 Note 5,联通电信定制版
+MDE6,mob,xiaomi,小米,D6,ugglite,红米 Note 5A,全网通 标准版
+MDT6,mob,xiaomi,小米,D6,ugglite,红米 Note 5A,移动 4G+ 标准版
+MDE6S,mob,xiaomi,小米,D6S,ugg,红米 Note 5A,全网通 高配版
+MDT6S,mob,xiaomi,小米,D6S,ugg,红米 Note 5A,移动 4G+ 高配版
+M1901F7E,mob,xiaomi,小米,F7A,lavender,Redmi Note 7,全网通版
+M1901F7T,mob,xiaomi,小米,F7A,lavender,Redmi Note 7,移动 4G+ 版
+M1901F7C,mob,xiaomi,小米,F7A,lavender,Redmi Note 7,联通电信定制版
+M1901F7BE,mob,xiaomi,小米,F7B,violet,Redmi Note 7 Pro,
+M1908C3JE,mob,xiaomi,小米,C3J,ginkgo,Redmi Note 8,全网通版
+M1908C3JC,mob,xiaomi,小米,C3J,ginkgo,Redmi Note 8,运营商全网通版
+M1906G7E,mob,xiaomi,小米,G7,begonia,Redmi Note 8 Pro,全网通版
+M1906G7T,mob,xiaomi,小米,G7,begonia,Redmi Note 8 Pro,运营商全网通版
+M2010J19SC,mob,xiaomi,小米,J19S,lime,Redmi Note 9 4G,
+M2007J22C,mob,xiaomi,小米,J22,cannon,Redmi Note 9 5G,
+M2007J17C,mob,xiaomi,小米,J17,gauguin,Redmi Note 9 Pro,5G
+M2103K19C,mob,xiaomi,小米,K19,camellia,Redmi Note 10 5G,
+M2103K19C,mob,xiaomi,小米,K19,camellia,Redmi Note 11SE,
+M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,
+21121119SC,mob,xiaomi,小米,K19S,selene,Redmi Note 11 4G,
+21091116AC,mob,xiaomi,小米,K16A,evergo,Redmi Note 11 5G,
+22041219C,mob,xiaomi,小米,L19,light,Redmi Note 11E 5G,
+21091116C,mob,xiaomi,小米,K16,pissarro,Redmi Note 11 Pro,
+2201116SC,mob,xiaomi,小米,K6S,veux,Redmi Note 11E Pro,
+21091116UC,mob,xiaomi,小米,K16U,pissarro,Redmi Note 11 Pro+,
+22041216C,mob,xiaomi,小米,L16,xaga,Redmi Note 11T Pro,
+22041216UC,mob,xiaomi,小米,L16U,xaga,Redmi Note 11T Pro+,
+22095RA98C,mob,xiaomi,小米,L19X,light,Redmi Note 11R,5G
+22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,
+22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12R Pro,
+23076RA4BC,mob,xiaomi,小米,M19,sky,Redmi Note 12R,
+22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,
+22101316UCP,mob,xiaomi,小米,M16U,ruby,Redmi Note 12 Pro+,
+22101316UC,mob,xiaomi,小米,M16U,ruby,Redmi Note 12 探索版,
+22101320C,mob,xiaomi,小米,M20,redwood,Redmi Note 12 Pro 极速版,
+23054RA19C,mob,xiaomi,小米,L16S,pearl,Redmi Note 12T Pro,
+23049RAD8C,mob,xiaomi,小米,M16T,marble,Redmi Note 12 Turbo,
+2312DRAABC,mob,xiaomi,小米,N17,gold,Redmi Note 13 5G,
+2312DRA50C,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,LPDDR4x + UFS 2.2
+2312CRAD3C,mob,xiaomi,小米,N16S,garnet,Redmi Note 13 Pro,LPDDR5 + UFS 3.1
+23090RA98C,mob,xiaomi,小米,N16U,zircon,Redmi Note 13 Pro+,
+2406ERN9CC,mob,xiaomi,小米,N19,breeze,Redmi Note 13R,
+2311FRAFDC,mob,xiaomi,小米,N17A,gold,Redmi Note 13R Pro,
+24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,
+24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,
+24115RA8EC,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,
+25098RA98C,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,
+25080RABDC,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,
+2510ERA8BC,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,
+25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版
+25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,
+M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,
+M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,
+M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
+24069RA21C,mob,xiaomi,小米,N16T,peridot,Redmi Turbo 3,
+24129RT7CC,mob,xiaomi,小米,O10S,rodin,REDMI Turbo 4,
+25053RT47C,mob,xiaomi,小米,O10U,onyx,REDMI Turbo 4 Pro,
+M1903F10A,mob,xiaomi,小米,F10,davinci,Redmi K20,全网通版
+M1903F10C,mob,xiaomi,小米,F10,davinci,Redmi K20,运营商全网通版
+M1903F11A,mob,xiaomi,小米,F11,raphael,Redmi K20 Pro,全网通版
+M1903F11C,mob,xiaomi,小米,F11,raphael,Redmi K20 Pro,运营商全网通版
+M1903F11A,mob,xiaomi,小米,F11,raphael,Redmi K20 Pro 尊享版,
+M2001G7AE,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,
+M2001G7AE,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,极速版
+M2001G7AC,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,
+M2001G7AC,mob,xiaomi,小米,G7A,picasso48m,Redmi K30i 5G,
+M1912G7BE,mob,xiaomi,小米,G7B,phoenix,Redmi K30 4G,全网通版
+M1912G7BC,mob,xiaomi,小米,G7B,phoenix,Redmi K30 4G,运营商全网通版
+M2001J11C,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,
+M2001J11C,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,变焦版
+M2001J11E,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,变焦版
+M2006J10C,mob,xiaomi,小米,J10,cezanne,Redmi K30 至尊纪念版,
+M2007J3SC,mob,xiaomi,小米,J3S,apollo,Redmi K30S 至尊纪念版,
+M2012K11AC,mob,xiaomi,小米,K11A,alioth,Redmi K40,
+M2012K11C,mob,xiaomi,小米,K11,haydn,Redmi K40 Pro,
+M2012K11C,mob,xiaomi,小米,K11,haydn,Redmi K40 Pro+,
+M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
+22021211RC,mob,xiaomi,小米,L11R,munch,Redmi K40S,
+22041211AC,mob,xiaomi,小米,L11A,rubens,Redmi K50,
+22011211C,mob,xiaomi,小米,L11,matisse,Redmi K50 Pro,
+21121210C,mob,xiaomi,小米,L10,ingres,Redmi K50 电竞版,
+22081212C,mob,xiaomi,小米,L12,diting,Redmi K50 至尊版,
+23013RK75C,mob,xiaomi,小米,M11A,mondrian,Redmi K60,
+22127RK46C,mob,xiaomi,小米,M11,socrates,Redmi K60 Pro,
+22122RK93C,mob,xiaomi,小米,M11R,rembrandt,Redmi K60E,
+23078RKD5C,mob,xiaomi,小米,M12,corot,Redmi K60 至尊版,
+23113RKC6C,mob,xiaomi,小米,N11,vermeer,Redmi K70,
+23117RK66C,mob,xiaomi,小米,N11U,manet,Redmi K70 Pro,
+2311DRK48C,mob,xiaomi,小米,N11A,duchamp,Redmi K70E,
+2407FRK8EC,mob,xiaomi,小米,N12,rothko,Redmi K70 至尊版,
+24117RK2CC,mob,xiaomi,小米,O11,zorn,REDMI K80,
+24122RKC7C,mob,xiaomi,小米,O11U,miro,REDMI K80 Pro,
+24127RK2CC,mob,xiaomi,小米,O11US,miro,REDMI K80 Pro 冠军版,
+25060RK16C,mob,xiaomi,小米,O12,dali,REDMI K80 至尊版,
+2510DRK44C,mob,xiaomi,小米,P11,annibale,REDMI K90,
+25102RKBEC,mob,xiaomi,小米,P11U,myron,REDMI K90 Pro Max,
+2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
+2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
+M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
+M1803E6T,mob,xiaomi,小米,E6,ysl,红米 S2,移动 4G+ 版
+M1803E6C,mob,xiaomi,小米,E6,ysl,红米 S2,联通电信定制版
+22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,
+23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,
+23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad M7,
+2405CRPFDC,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,Wi-Fi
+24074RPD2C,pad,xiaomi,小米,N83U,ruan,Redmi Pad Pro 5G,
+25040RP0AC,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,
+25099RP13C,pad,xiaomi,小米,P83,flute,REDMI Pad 2 Pro,
+2509BRP2DC,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,
+25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,
 FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
 21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,
 2503CVPC6C,pad,xiaomi,小米,P802,konghou,Xiaomi YU7 后排移动控制屏,
@@ -10067,9 +10714,9 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,5G China
 23117RA68G,mob,xiaomi,Xiaomi,N6,emerald,Redmi Note 13 Pro,Global
 2312DRA50G,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Global
 2312DRA50I,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,India
-2312DRA50C,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,China
-2312CRAD3C,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,China
+2312DRA50C,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,China (LPDDR4x + UFS 2.2)
 XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
+2312CRAD3C,mob,xiaomi,Xiaomi,N16S,garnet,Redmi Note 13 Pro 5G,China (LPDDR5 + UFS 3.1)
 23090RA98G,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,Global
 23090RA98I,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,India
 23090RA98C,mob,xiaomi,Xiaomi,N16U,zircon,Redmi Note 13 Pro+ 5G,China
