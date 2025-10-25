@@ -5158,6 +5158,7 @@ A142P,mob,nothing,Nothing,,PacmanPro,Nothing Phone (2a) Plus,
 A024,mob,nothing,Nothing,,Metroid,Nothing Phone (3),
 A059,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a),
 A059P,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a) Plus,
+A001T,mob,nothing,Nothing,,Galaxian,Nothing Phone (3a) Lite,
 A015,mob,nothing,Nothing,,Tetris,CMF Phone 1,
 A001,mob,nothing,Nothing,,Galaga,CMF Phone 2 Pro,
 NX501,mob,nubia,努比亚,,,Z5,
@@ -11060,9 +11061,12 @@ SHR-AN00,device,zhixuan,华为智选,,,Hi 畅享 80 Pro,5G
 BRO-W00,pad,zhixuan,华为智选,,,Hi MatePad,
 MASH-16,pad,zhixuan,华为智选,,,Hi MateBook 14,16GB 内存
 MASH-32,pad,zhixuan,华为智选,,,Hi MateBook 14,32GB 内存
-MASI-16,pad,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (16GB 内存)
-MASC-24,pad,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (24GB 内存)
-MASC-32,pad,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (32GB 内存)
+MASI-16,pad,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (16GB 内存) (方形键盘)
+MASC-24,pad,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (24GB 内存) (圆形键盘)
+MASC-32,pad,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (32GB 内存) (圆形键盘)
+MNCAA-16,pad,zhixuan,华为智选,,,Hi MateBook 14,锐龙 200 (16GB 内存) (方形键盘)
+MNCAA-32,pad,zhixuan,华为智选,,,Hi MateBook 14,锐龙 200 (32GB 内存) (方形键盘)
+MNCAC-32,pad,zhixuan,华为智选,,,Hi MateBook 14,锐龙 200 (32GB 内存) (圆形键盘)
 LYOI-16,pad,zhixuan,华为智选,,,Hi MateBook D 14,16GB 内存
 LYOI-32,pad,zhixuan,华为智选,,,Hi MateBook D 14,32GB 内存
 NICG-16,pad,zhixuan,华为智选,,,Hi MateBook D 16,(13 代酷睿) (16GB 内存)
