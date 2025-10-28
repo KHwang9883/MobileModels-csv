@@ -1592,6 +1592,10 @@ GG3HH,watch,google,Google,,helios,Pixel Watch 3,Bluetooth & Wi-Fi (41mm)
 GBDU9,watch,google,Google,,selene,Pixel Watch 3,LTE (41mm)
 GGE4J,watch,google,Google,,sol,Pixel Watch 3,Bluetooth & Wi-Fi (45mm)
 GRY0E,watch,google,Google,,luna,Pixel Watch 3,LTE (45mm)
+GHH4K,watch,google,Google,,meridian_btwifi,Pixel Watch 4,Bluetooth & Wi-Fi (41mm)
+GWSQ2,watch,google,Google,,meridian_lte,Pixel Watch 4,LTE (41mm)
+G8AK3,watch,google,Google,,kenari_btwifi,Pixel Watch 4,Bluetooth & Wi-Fi (45mm)
+G1KAW,watch,google,Google,,kenari_lte,Pixel Watch 4,LTE (45mm)
 NTS-AL00,mob,honor,荣耀,,Natasha,荣耀 Magic,全网通版
 TNY-AL00,mob,honor,荣耀,,Tony,荣耀 Magic2,全网通版
 TNY-AL10,mob,honor,荣耀,,Tony,荣耀 Magic2,3D 感光版
@@ -5406,8 +5410,8 @@ PKX110,mob,oneplus,一加,,pagani,一加 13T,国行版
 CPH2723,mob,oneplus,一加,,pagani,一加 13s,印度版
 PLC110,mob,oneplus,一加,,emira,一加 Ace 5 至尊版,国行版
 PLF110,mob,oneplus,一加,,subaru,一加 Ace 5 竞速版,国行版
-PLK110,mob,oneplus,一加,,,一加 15,国行版
-PLQ110,mob,oneplus,一加,,,一加 Ace 6,国行版
+PLK110,mob,oneplus,一加,,infiniti,一加 15,国行版
+PLQ110,mob,oneplus,一加,,ktm,一加 Ace 6,国行版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -5449,17 +5453,17 @@ DE2117,mob,oneplus,一加,,dre9,一加 Nord N200,北美版
 DE2118,mob,oneplus,一加,,dre8t,一加 Nord N200,T-Mobile 版
 CPH2389,mob,oneplus,一加,,hilda,一加 Nord N300,
 CPH2551,pad,oneplus,一加,,hedwig,一加 Open,
-OPD2203,pad,oneplus,一加,,aries-o,一加平板,(2023) 国际版
+OPD2203,pad,oneplus,一加,,aries-o,一加平板 (2023),国际版
 OPD2304,pad,oneplus,一加,,bluey-o,一加平板 Go,LTE
 OPD2305,pad,oneplus,一加,,bluey-o,一加平板 Go,Wi-Fi
-OPD2407,pad,oneplus,一加,,dunhuang-o,一加平板,(2024) 国行版
+OPD2407,pad,oneplus,一加,,dunhuang-o,一加平板 (2024),国行版
 OPD2404,pad,oneplus,一加,,rainbow,一加平板 Pro,国行版
-OPD2403,pad,oneplus,一加,,rainbow,一加平板 2,国际版
+OPD2403,pad,oneplus,一加,,rainbow,一加平板 2 (2024),国际版
 OPD2413,pad,oneplus,一加,,erhai-o,一加平板 2 Pro,国行版
 OPD2415,pad,oneplus,一加,,erhai-o,一加平板 3,国际版
 OPD2480,pad,oneplus,一加,,,一加平板 Lite,Wi-Fi
 OPD2481,pad,oneplus,一加,,,一加平板 Lite,LTE
-OPD2508,pad,oneplus,一加,,,一加平板 2,国行版
+OPD2508,pad,oneplus,一加,,himalaya-o,一加平板 2 (2025),国行版
 W101IN,band,oneplus,一加,,audio,一加 Band,印度版
 OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,
 W301CN,watch,oneplus,一加,,,一加手表,国行版 / Cyberpunk 2077 限定版
@@ -5469,6 +5473,7 @@ OPWW234,watch,oneplus,一加,,bagel,一加手表 2,国行版
 OPWWE234,watch,oneplus,一加,,bagel,一加手表 2R,国际版
 OPWWE231,watch,oneplus,一加,,almond,一加手表 2,国际版
 OPWWE251,watch,oneplus,一加,,chili,一加手表 3,国际版
+OPWE242,watch,oneplus,一加,,chili,一加手表 3,43mm 国际版
 ONE A0001,mob,oneplus,OnePlus,,bacon,OnePlus One,China / China Mobile / Global
 ONE A1001,mob,oneplus,OnePlus,,bacon,OnePlus One,China Unicom
 ONE A2001,mob,oneplus,OnePlus,,oneplus2,OnePlus 2,China
@@ -5582,12 +5587,12 @@ CPH2645,mob,oneplus,OnePlus,,giulia,OnePlus 13R,Europe / Global
 CPH2647,mob,oneplus,OnePlus,,giulia,OnePlus 13R,North America
 CPH2691,mob,oneplus,OnePlus,,giulia,OnePlus 13R,India
 PKR110,mob,oneplus,OnePlus,,hummer,OnePlus Ace 5 Pro,China
-PKX110,mob,oneplus,OnePlus,,pagani,OnePlus 13T,China
-CPH2723,mob,oneplus,OnePlus,,pagani,OnePlus 13s,India
-PLK110,mob,oneplus,OnePlus,,,OnePlus 15,China
-PLQ110,mob,oneplus,OnePlus,,,OnePlus Ace 6,China
 PLC110,mob,oneplus,OnePlus,,emira,OnePlus Ace 5 Ultra,China
 PLF110,mob,oneplus,OnePlus,,subaru,OnePlus Ace 5 Race,China
+PKX110,mob,oneplus,OnePlus,,pagani,OnePlus 13T,China
+CPH2723,mob,oneplus,OnePlus,,pagani,OnePlus 13s,India
+PLK110,mob,oneplus,OnePlus,,infiniti,OnePlus 15,China
+PLQ110,mob,oneplus,OnePlus,,ktm,OnePlus Ace 6,China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India
@@ -5629,17 +5634,17 @@ DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,T-Mobile
 CPH2389,mob,oneplus,OnePlus,,hilda,OnePlus Nord N300,
 CPH2551,pad,oneplus,OnePlus,,hedwig,OnePlus Open,
-OPD2203,pad,oneplus,OnePlus,,aries-o,OnePlus Pad,2023
+OPD2203,pad,oneplus,OnePlus,,aries-o,OnePlus Pad (2023),
 OPD2304,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,LTE
 OPD2305,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,Wi-Fi
-OPD2407,pad,oneplus,OnePlus,,dunhuang-o,OnePlus Pad,2024
+OPD2407,pad,oneplus,OnePlus,,dunhuang-o,OnePlus Pad (2024),
 OPD2404,pad,oneplus,OnePlus,,rainbow,OnePlus Pad Pro,
-OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2,
+OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2 (2024),
 OPD2413,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 2 Pro,
 OPD2415,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 3,
 OPD2480,pad,oneplus,OnePlus,,,OnePlus Pad Lite,Wi-Fi
 OPD2481,pad,oneplus,OnePlus,,,OnePlus Pad Lite,LTE
-OPD2508,pad,oneplus,OnePlus,,,OnePlus Pad 2,China
+OPD2508,pad,oneplus,OnePlus,,himalaya-o,OnePlus Pad 2 (2025),
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,
 W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,China / Cyberpunk 2077 Limited Edition
@@ -5649,6 +5654,7 @@ OPWW234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2 China,
 OPWWE234,watch,oneplus,OnePlus,,bagel,OnePlus Watch 2R,
 OPWWE231,watch,oneplus,OnePlus,,almond,OnePlus Watch 2,Global
 OPWWE251,watch,oneplus,OnePlus,,chili,OnePlus Watch 3,Global
+OPWE242,watch,oneplus,OnePlus,,chili,OnePlus Watch 3,43mm (Global)
 PAFM00,mob,oppo,OPPO,,,OPPO Find X,标准版 全网通版
 PAFT00,mob,oppo,OPPO,,,OPPO Find X,标准版 移动版
 PAHM00,mob,oppo,OPPO,,,OPPO Find X,超级闪充版/兰博基尼版 全网通版
@@ -11058,6 +11064,7 @@ JLG-AN00,device,zhixuan,华为智选,,Jiaolong,Hi 畅享 80,5G
 JLG-AN00,device,zhixuan,华为智选,,Jiaolong,Hi 畅享 80S,5G
 JLG-AN80,device,zhixuan,华为智选,,Jiaolong,Hi 畅享 80 GT,5G
 SHR-AN00,device,zhixuan,华为智选,,,Hi 畅享 80 Pro,5G
+CHE-AN00,device,zhixuan,华为智选,,,WIKO X70,
 BRO-W00,pad,zhixuan,华为智选,,,Hi MatePad,
 MASH-16,pad,zhixuan,华为智选,,,Hi MateBook 14,16GB 内存
 MASH-32,pad,zhixuan,华为智选,,,Hi MateBook 14,32GB 内存
