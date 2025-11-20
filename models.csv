@@ -5414,7 +5414,11 @@ CPH2723,mob,oneplus,一加,,pagani,一加 13s,印度版
 PLC110,mob,oneplus,一加,,emira,一加 Ace 5 至尊版,国行版
 PLF110,mob,oneplus,一加,,subaru,一加 Ace 5 竞速版,国行版
 PLK110,mob,oneplus,一加,,infiniti,一加 15,国行版
+CPH2745,mob,oneplus,一加,,infiniti,一加 15,印度版
+CPH2747,mob,oneplus,一加,,infiniti,一加 15,欧洲版 / 国际版
+CPH2749,mob,oneplus,一加,,infiniti,一加 15,北美版
 PLQ110,mob,oneplus,一加,,ktm,一加 Ace 6,国行版
+PLR110,mob,oneplus,一加,,macan,一加 Ace 6T,国行版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -5595,7 +5599,11 @@ PLF110,mob,oneplus,OnePlus,,subaru,OnePlus Ace 5 Race,China
 PKX110,mob,oneplus,OnePlus,,pagani,OnePlus 13T,China
 CPH2723,mob,oneplus,OnePlus,,pagani,OnePlus 13s,India
 PLK110,mob,oneplus,OnePlus,,infiniti,OnePlus 15,China
+CPH2745,mob,oneplus,OnePlus,,infiniti,OnePlus 15,India
+CPH2747,mob,oneplus,OnePlus,,infiniti,OnePlus 15,Europe / Global
+CPH2749,mob,oneplus,OnePlus,,infiniti,OnePlus 15,North America
 PLQ110,mob,oneplus,OnePlus,,ktm,OnePlus Ace 6,China
+PLR110,mob,oneplus,OnePlus,,macan,OnePlus Ace 6T,China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India
