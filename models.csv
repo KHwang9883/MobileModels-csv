@@ -2533,6 +2533,11 @@ PLR-AL50,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,优享版
 PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,
 PLU-AL10,mob,huawei,华为,,PillarU,HUAWEI Mate 70 RS 非凡大师,
 SUP-AL90,mob,huawei,华为,,,HUAWEI Mate 70 Air,
+VYG-AL00,mob,huawei,华为,,Voyager,HUAWEI Mate 80,
+SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,12GB 内存
+SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,16GB 内存
+SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,
+SGU-AL10,mob,huawei,华为,,SagittariusU,HUAWEI Mate 80 RS 非凡大师,
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,5G
@@ -2547,6 +2552,8 @@ GRL-AL10,mob,huawei,华为,,Greenlan,HUAWEI Mate XT 非凡大师,
 ICL-AL10,mob,huawei,华为,,Iceland,HUAWEI Mate X6,
 ICL-AL20,mob,huawei,华为,,Iceland,HUAWEI Mate X6,典藏版
 GRL-AL20,mob,huawei,华为,,Greenlan,HUAWEI Mate XTs 非凡大师,
+DEL-AL10,mob,huawei,华为,,Delphi,HUAWEI Mate X7,
+DEL-AL20,mob,huawei,华为,,Delphi,HUAWEI Mate X7,典藏版
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,XL
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,S
@@ -2822,6 +2829,7 @@ CTR-AL20,mob,huawei,华为,,Cartier,华为畅享 70 Pro,
 MGA-AL40,mob,huawei,华为,,Mega,华为畅享 70z,
 GFY-AL00,mob,huawei,华为,,Goofy,华为畅享 70S,
 BRE-AL80,mob,huawei,华为,,Bruce+,华为畅享 70X,
+BRE-AL80a,mob,huawei,华为,,Bruce+,华为畅享 70X,尊享版
 BRE-AL00a,mob,huawei,华为,,Bruce,华为畅享 70X 活力版,128GB
 BRE-AL00b,mob,huawei,华为,,Bruce,华为畅享 70X 活力版,256GB/512GB
 JUY-AL00,mob,huawei,华为,,,华为畅享 80,
@@ -2892,11 +2900,15 @@ WEB-AL10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,2025 SIM 卡版
 MRDI-W00,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 版
 MRDI-W10,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版
 MRDI-W20,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版 (16GB+1TB)
+QXS-W00,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,
+QXS-W10,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,24GB+1TB
+QXS-W20,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,液冷版
 DBY2-W00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,11.5 英寸 Wi-Fi 版
 DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,11.5 英寸 LTE 版
 BKY-W00,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 版 (8GB+256GB)
 BKY-W10,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 版 (12GB+256GB)
 BKY-W20,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 柔光版
+LRT-W00,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 版 (8GB+256GB)
 LRT-W20,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 版
 LRT-W30,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 柔光版
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,10.4 英寸 Wi-Fi 版 (麒麟 810)
@@ -2986,6 +2998,7 @@ BVE-W10,pad,huawei,华为,,,华为擎云 C5z,10.4 英寸 Wi-Fi 版
 DBY-W09,pad,huawei,华为,,Debussy,华为平板 C7,10.95 英寸 Wi-Fi 版
 DBY2Z-AL00,pad,huawei,华为,,Debussy2Z,华为擎云 C7,11.5 英寸 Wi-Fi 版
 BBG7-W00,pad,huawei,华为,,,华为擎云 C7 (第 2 代),11.5 英寸 Wi-Fi 版
+WEB-W00,pad,huawei,华为,,Weber,华为擎云 C9,13.2 英寸 Wi-Fi 版
 HZ-W09,computer,huawei,华为,,Hertz,HUAWEI MateBook,m3
 HZ-W19,computer,huawei,华为,,Hertz,HUAWEI MateBook,m5
 HZ-W29,computer,huawei,华为,,Hertz,HUAWEI MateBook,m7
@@ -3248,6 +3261,7 @@ HD98EDIH,tv,huawei,华为,,,华为智慧屏 MateTV,98 英寸
 HD75EDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,75 英寸
 HD8XEDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,85 英寸
 HD98EDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,98 英寸
+HD1XEDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Max,110 英寸
 HD55KANB,tv,huawei,华为,,Kant,华为智慧屏 S 系列,55 60Hz (3GB+16GB)
 HD55KANC,tv,huawei,华为,,Kant,华为智慧屏 S 系列,55 60Hz (3GB+32GB)
 HD55KANS,tv,huawei,华为,,Kant,华为智慧屏 S 系列,Pro 55 120Hz (3GB+16GB)
@@ -3374,6 +3388,7 @@ WDS-B19,watch,huawei,华为,,Woods,HUAWEI WATCH Ultimate,非凡探索
 MCH-AL00,watch,huawei,华为,,,HUAWEI WATCH Ultimate 2,非凡探索
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,黄金款
 EDD-B39,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,蓝宝石黄金款
+LNG-AL00,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,紫金款
 ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,雅致款
 FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,时尚版/运动版
 DAN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,42mm
@@ -3423,6 +3438,7 @@ ODN-B99,watch,huawei,华为,,,HUAWEI WATCH B5,736
 GLL-AL30B,watch,huawei,华为,,Galileo,HUAWEI WATCH B7,536
 GLL-AL09B,watch,huawei,华为,,GalileoPro,HUAWEI WATCH B7,738
 MLY-B10,watch,huawei,华为,,,HUAWEI WATCH B9,D10
+SYA-B19B,watch,huawei,华为,,Seiya,华为擎云 H3540,
 PNX-B19B,watch,huawei,华为,,,华为擎云 H5546,
 VLI-B19B,watch,huawei,华为,,,华为擎云 H5556,
 VLI-B29B,watch,huawei,华为,,,华为擎云 H5756,
