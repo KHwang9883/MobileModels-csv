@@ -1924,6 +1924,7 @@ JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50m,5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60m,5G
+NLA-AN00,mob,honor,荣耀,,,荣耀畅玩 60A,5G
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,5G
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70 Plus,5G
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70m Plus,5G
@@ -5250,6 +5251,7 @@ NX513H,mob,nubia,努比亚,,,My 布拉格,双 4G 版
 NX551J,mob,nubia,努比亚,,,M2,
 NX573J,mob,nubia,努比亚,,,M2 青春版,
 NX907J,mob,nubia,努比亚,,,M2 畅玩版,
+P0110,mob,nubia,努比亚,,,M153 豆包手机助手技术预览版,
 NX541J,mob,nubia,努比亚,,,N1,
 NX575J,mob,nubia,努比亚,,,N2,
 NX608J,mob,nubia,努比亚,,,N3,
@@ -6276,9 +6278,9 @@ RMX3708,mob,realme,realme,,,真我 GT Neo5,240W
 RMX3700,mob,realme,realme,,,真我 GT Neo5 SE,
 RMX3852,mob,realme,realme,,,真我 GT Neo6,
 RMX3850,mob,realme,realme,,,真我 GT Neo6 SE,
-RMX5060,mob,realme,realme,,cayman,真我 Neo7,
-RMX5062,mob,realme,realme,,cayman,真我 Neo7 Turbo,
-RMX5080,mob,realme,realme,,brz,真我 Neo7 SE,
+RMX5060,mob,realme,realme,,cayman-a,真我 Neo7,
+RMX5062,mob,realme,realme,,cayman-c,真我 Neo7 Turbo,
+RMX5080,mob,realme,realme,,brz-a,真我 Neo7 SE,
 RMX5071,mob,realme,realme,,dongfeng,真我 Neo7x,
 RMX1971,mob,realme,realme,,,真我 Q,
 RMX2117,mob,realme,realme,,,真我 Q2,5G
@@ -6459,11 +6461,11 @@ RMX3301,mob,realme,realme,,,GT 2 Pro,5G
 RMX3561,mob,realme,realme,,,GT NEO 3,
 RMX3563,mob,realme,realme,,,GT NEO 3,150W
 RMX3371,mob,realme,realme,,spartan,GT NEO 3T,
-RMX3709,mob,realme,realme,,senna-C,GT 3,240W
+RMX3709,mob,realme,realme,,senna-c,GT 3,240W
 RMX3851,mob,realme,realme,,,GT 6,
 RMX3853,mob,realme,realme,,,GT 6T,
-RMX5061,mob,realme,realme,,,GT 7,
-RMX5085,mob,realme,realme,,,GT 7T,
+RMX5061,mob,realme,realme,,cayman-b,GT 7,
+RMX5085,mob,realme,realme,,brz-b,GT 7T,
 RMX5011,mob,realme,realme,,,GT 7 Pro,
 RMX1805,mob,realme,realme,,,C1,
 RMX1941,mob,realme,realme,,,C2,
@@ -6534,6 +6536,7 @@ RMX3943,mob,realme,realme,,,C75,5G India
 RMX3963,mob,realme,realme,,,C75,5G Global
 RMX5020,mob,realme,realme,,,C75x,
 RMX5253,mob,realme,realme,,,C85,5G
+RMX5555,mob,realme,realme,,,C85 Pro,
 RMX3834,mob,realme,realme,,,Note 50,
 RMX3933,mob,realme,realme,,,Note 60,
 RMX3938,mob,realme,realme,,,Note 60x,
@@ -6554,6 +6557,7 @@ RMX5031,mob,realme,realme,,,P3 Ultra,5G
 RMX3943,mob,realme,realme,,,P3 Lite,5G
 RMX5110,mob,realme,realme,,,P4,5G
 RMX5116,mob,realme,realme,,,P4 Pro,5G
+RMX5108,mob,realme,realme,,,P4x,5G
 RMX2002,mob,realme,realme,,nemo,Narzo,Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,India
 RMX2020,mob,realme,realme,,,Narzo 10A,India
