@@ -6726,6 +6726,7 @@ SM-F9360,mob,samsung,三星,,q4q,Galaxy Z Fold4,
 SM-F9460,mob,samsung,三星,,q5q,Galaxy Z Fold5,
 SM-F9560,mob,samsung,三星,,q6q,Galaxy Z Fold6,
 SM-F9660,mob,samsung,三星,,q7q,Galaxy Z Fold7,
+SM-F9680,mob,samsung,三星,,q7mq,Galaxy Z TriFold,
 SM-F7000,mob,samsung,三星,,bloomq,Galaxy Z Flip,
 SM-F7070,mob,samsung,三星,,bloomxq,Galaxy Z Flip 5G,
 SM-F7110,mob,samsung,三星,,b2q,Galaxy Z Flip3,5G
@@ -6874,6 +6875,7 @@ SM-X520,mob,samsung,三星,,gts10fewifi,Galaxy Tab S10 FE,WLAN
 SM-X526C,mob,samsung,三星,,gts10fe,Galaxy Tab S10 FE,5G
 SM-X620,mob,samsung,三星,,gts10fepwifi,Galaxy Tab S10 FE+,WLAN
 SM-X626C,mob,samsung,三星,,gts10fep,Galaxy Tab S10 FE+,5G
+SM-X400,mob,samsung,三星,,gts10litewifi,Galaxy Tab S10 Lite,WLAN
 SM-X730,mob,samsung,三星,,gts11wifi,Galaxy Tab S11,WLAN
 SM-X736C,mob,samsung,三星,,gts11,Galaxy Tab S11,5G
 SM-X930,mob,samsung,三星,,gts11uwifi,Galaxy Tab S11 Ultra,WLAN
@@ -7271,6 +7273,9 @@ SM-F966Q,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (SIM Free)
 SM-F966Z,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (SoftBank)
 SCG34,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (au)
 SC-56F,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (NTT Docomo)
+SM-F968B,mob,samsung,Samsung,,q7mq,Galaxy Z TriFold,Global
+SM-F9680,mob,samsung,Samsung,,q7mq,Galaxy Z TriFold,China
+SM-F968N,mob,samsung,Samsung,,q7mq,Galaxy Z TriFold,South Korea
 SM-F700F,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,Global
 SM-F700U,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,US Carrier
 SM-F700U1,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,US Unlocked
