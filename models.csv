@@ -5447,6 +5447,9 @@ CPH2747,mob,oneplus,一加,,infiniti,一加 15,欧洲版 / 国际版
 CPH2749,mob,oneplus,一加,,infiniti,一加 15,北美版
 PLQ110,mob,oneplus,一加,,ktm,一加 Ace 6,国行版
 PLR110,mob,oneplus,一加,,macan,一加 Ace 6T,国行版
+CPH2767,mob,oneplus,一加,,macan,一加 15R,印度版
+CPH2769,mob,oneplus,一加,,macan,一加 15R,欧洲版 / 国际版
+CPH2771,mob,oneplus,一加,,macan,一加 15R,北美版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -5498,6 +5501,7 @@ OPD2413,pad,oneplus,一加,,erhai-o,一加平板 2 Pro,国行版
 OPD2415,pad,oneplus,一加,,erhai-o,一加平板 3,国际版
 OPD2480,pad,oneplus,一加,,,一加平板 Lite,Wi-Fi
 OPD2481,pad,oneplus,一加,,,一加平板 Lite,LTE
+OPD2504,pad,oneplus,一加,,,一加平板 Go 2,Wi-Fi
 OPD2508,pad,oneplus,一加,,himalaya-o,一加平板 2 (2025),国行版
 W101IN,band,oneplus,一加,,audio,一加 Band,印度版
 OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,
@@ -5632,6 +5636,9 @@ CPH2747,mob,oneplus,OnePlus,,infiniti,OnePlus 15,Europe / Global
 CPH2749,mob,oneplus,OnePlus,,infiniti,OnePlus 15,North America
 PLQ110,mob,oneplus,OnePlus,,ktm,OnePlus Ace 6,China
 PLR110,mob,oneplus,OnePlus,,macan,OnePlus Ace 6T,China
+CPH2767,mob,oneplus,OnePlus,,macan,OnePlus 15R,India
+CPH2769,mob,oneplus,OnePlus,,macan,OnePlus 15R,Europe / Global
+CPH2771,mob,oneplus,OnePlus,,macan,OnePlus 15R,North America
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India
@@ -5683,6 +5690,7 @@ OPD2413,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 2 Pro,
 OPD2415,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 3,
 OPD2480,pad,oneplus,OnePlus,,,OnePlus Pad Lite,Wi-Fi
 OPD2481,pad,oneplus,OnePlus,,,OnePlus Pad Lite,LTE
+OPD2504,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,Wi-Fi
 OPD2508,pad,oneplus,OnePlus,,himalaya-o,OnePlus Pad 2 (2025),
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,
