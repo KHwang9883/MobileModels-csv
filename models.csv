@@ -2721,6 +2721,9 @@ MIA-AL00,mob,huawei,华为,,,HUAWEI nova 14 Pro,
 MRT-AL10,mob,huawei,华为,,,HUAWEI nova 14 Ultra,
 TYR-AL00,mob,huawei,华为,,Taylor,HUAWEI nova 14 活力版,
 PSD-AL80,mob,huawei,华为,,Poseidon,HUAWEI nova Flip S,
+PSN-AL00,mob,huawei,华为,,Pushkin,HUAWEI nova 15,
+KLE-AL00U,mob,huawei,华为,,Klee,HUAWEI nova 15 Pro,
+SLY-AL00,mob,huawei,华为,,Shelley,HUAWEI nova 15 Ultra,
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,电信版
@@ -2911,6 +2914,7 @@ DBY2-AL00,pad,huawei,华为,,Debussy2,HUAWEI MatePad Air,11.5 英寸 LTE 版
 BKY-W00,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 版 (8GB+256GB)
 BKY-W10,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 版 (12GB+256GB)
 BKY-W20,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 柔光版
+BKY-W21,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 柔光版
 LRT-W00,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 版 (8GB+256GB)
 LRT-W20,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 版
 LRT-W30,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 柔光版
@@ -2936,6 +2940,9 @@ TGR-W10,pad,huawei,华为,,Tagore,HUAWEI MatePad 11.5 S,Wi-Fi 柔光版
 DMG-W00,pad,huawei,华为,,Domingo,HUAWEI MatePad 11.5 S,灵动款 Wi-Fi 版
 SLG-W10,pad,huawei,华为,,Salinger,HUAWEI MatePad 11.5 S 2025,Wi-Fi 版
 SLG-W50,pad,huawei,华为,,Salinger,HUAWEI MatePad 11.5 S 2025,灵动款 Wi-Fi 版
+TXZ-W10,pad,huawei,华为,,Taoxingzhi,HUAWEI MatePad 11.5,英寸 2026 Wi-Fi 版
+TXZ-W20,pad,huawei,华为,,Taoxingzhi,HUAWEI MatePad 11.5,英寸 2026 Wi-Fi 柔光版
+TXZ-AL10,pad,huawei,华为,,Taoxingzhi,HUAWEI MatePad 11.5,英寸 2026 SIM 卡版
 MLR-AL00,pad,huawei,华为,,Mclaren,HUAWEI MatePad Mini,悦读版 8.8 英寸
 MLR-AL10,pad,huawei,华为,,Mclaren,HUAWEI MatePad Mini,8.8 英寸
 AGS2-W09,pad,huawei,华为,,Agassi2,华为畅享平板,10.1 英寸 Wi-Fi 版
@@ -3434,6 +3441,7 @@ MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,黑色氟橡胶表带
 MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,米白色氟橡胶表带
 LCA-B10,watch,huawei,华为,,Luca,HUAWEI WATCH D2,幻夜黑
 LCA-B11,watch,huawei,华为,,Luca,HUAWEI WATCH D2,晨曦金
+LCA-B29,watch,huawei,华为,,Luca,HUAWEI WATCH D2,星云蓝
 SGA-B19,watch,huawei,华为,,Saga,HUAWEI WATCH Buds,
 MIL-B29B,watch,huawei,华为,,Milo,HUAWEI WATCH B5,532
 JPT-B29B,watch,huawei,华为,,Jupiter,HUAWEI WATCH B5,536
@@ -5925,6 +5933,7 @@ OPD2401,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,
 OPD2409,pad,oppo,OPPO,,erhai,OPPO Pad 4 Pro,
 OPD2417,pad,oppo,OPPO,,,OPPO Pad SE,
 OPD2506,pad,oppo,OPPO,,,OPPO Pad 5,
+OPD2501,pad,oppo,OPPO,,,OPPO Pad Air5,
 OB19B1,band,oppo,OPPO,,,OPPO Band,运动版
 OB19O1,band,oppo,OPPO,,,OPPO Band,运动版
 OB19B1,band,oppo,OPPO,,,OPPO Band,运动版 (国际版)
@@ -5958,6 +5967,7 @@ OWW235,watch,oppo,OPPO,,sport,OPPO Watch Sport,
 OWW242,watch,oppo,OPPO,,xingchen,OPPO Watch X2 Mini,
 OWW251,watch,oppo,OPPO,,starriver,OPPO Watch X2,
 OWW262,watch,oppo,OPPO,,,OPPO Watch S,
+OWW261,watch,oppo,OPPO,,taycan,OPPO Watch X3,
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,
