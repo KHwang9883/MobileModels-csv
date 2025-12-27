@@ -1752,6 +1752,8 @@ ALA-AN70,mob,honor,荣耀,,,荣耀 V40 轻奢版,5G
 VCA-AN00,mob,honor,荣耀,,Victoria,荣耀 V Purse,
 AMG-AN00,mob,honor,荣耀,,,荣耀 GT,
 PPG-AN00,mob,honor,荣耀,,PhilippeGT,荣耀 GT Pro,
+AAP-AN00,mob,honor,荣耀,,,荣耀 WIN,
+AAK-AN00,mob,honor,荣耀,,,荣耀 WIN RT,
 G750-T00,mob,honor,荣耀,,,荣耀 3X,双 3G 版
 G750-U00,mob,honor,荣耀,,,荣耀 3X,联通版
 G750-T20,mob,honor,荣耀,,,荣耀 3X,Pro
@@ -1848,6 +1850,7 @@ LYN-AN00,mob,honor,荣耀,,,荣耀 Play9T Pro,5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀 Play9C,5G
 LOG-AN10,mob,honor,荣耀,,Logan,荣耀 Play10T,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀 Play10C,5G
+NLA-AN00,mob,honor,荣耀,,,荣耀 Play10A,5G
 DVD-AN00,mob,honor,荣耀,,David,荣耀 Power,
 DVD-AN80,mob,honor,荣耀,,David,荣耀 Power,卫星版
 EDI-AL10,mob,honor,荣耀,,Edison,荣耀 Note8,全网通版
@@ -1950,6 +1953,8 @@ ROD-W09,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,12.1 英寸 Wi-Fi 版
 ROD-W19,pad,honor,荣耀,,Rolland,荣耀平板 9 Pro,柔光版 12.1 英寸 Wi-Fi 版
 HEY3-W00,pad,honor,荣耀,,Hendry3,荣耀平板 10,12.1 英寸 Wi-Fi 版
 HEY3-W10,pad,honor,荣耀,,Hendry3,荣耀平板 10,柔光版 12.1 英寸 Wi-Fi 版
+ROL-W00,pad,honor,荣耀,,Rowling,荣耀平板 10 Pro,11.5 英寸 Wi-Fi 版
+ROL-W10,pad,honor,荣耀,,Rowling,荣耀平板 10 Pro,柔光版 11.5 英寸 Wi-Fi 版
 KRJ-W09,pad,honor,荣耀,,Karajan,荣耀平板 V6,10.4 英寸 Wi-Fi 版 (华为终端)
 KRJ-AN00,pad,honor,荣耀,,Karajan,荣耀平板 V6,10.4 英寸 5G 版 (华为终端)
 KJR-W09,pad,honor,荣耀,,KarajanR,荣耀平板 V6,10.4 英寸 Wi-Fi 版 (荣耀终端)
@@ -2446,6 +2451,7 @@ HEY3-W00,pad,honor,HONOR,,Hendry3,HONOR Pad 10,Wi-Fi
 HEY3-N09,pad,honor,HONOR,,Hendry3,HONOR Pad 10,5G
 ROL-W00,pad,honor,HONOR,,Rowling,HONOR Pad V9,
 ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,
+CGA-W00,pad,honor,HONOR,,Changan,HONOR MagicPad3,
 JMS-W09,pad,honor,HONOR,,,HONOR Pad X7,Wi-Fi
 JMS-L09,pad,honor,HONOR,,,HONOR Pad X7,LTE
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,Wi-Fi
