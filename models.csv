@@ -6077,10 +6077,14 @@ CPH2701,mob,oppo,OPPO,,milkyway,OPPO Reno13 F,
 CPH2699,mob,oppo,OPPO,,milkyway,OPPO Reno13 F,5G
 CPH2699,mob,oppo,OPPO,,milkyway,OPPO Reno13 FS,5G
 CPH2699,mob,oppo,OPPO,,milkyway,OPPO Reno13 A,
-CPH2737,mob,oppo,OPPO,,zhuque,OPPO Reno14,
-CPH2739,mob,oppo,OPPO,,zhuque,OPPO Reno14 Pro,
+CPH2737,mob,oppo,OPPO,,zhuque,OPPO Reno14,5G
+CPH2739,mob,oppo,OPPO,,zhuque,OPPO Reno14 Pro,5G
 CPH2743,mob,oppo,OPPO,,zhuque,OPPO Reno14 F,5G
 CPH2743,mob,oppo,OPPO,,zhuque,OPPO Reno14 FS,5G
+CPH2825,mob,oppo,OPPO,,,OPPO Reno15,5G
+CPH2813,mob,oppo,OPPO,,,OPPO Reno15 Pro,5G
+CPH2811,mob,oppo,OPPO,,,OPPO Reno15 Pro Max,5G
+CPH2801,mob,oppo,OPPO,,,OPPO Reno15 F,5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,
 CPH1821,mob,oppo,OPPO,,,OPPO F7,
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,
@@ -6156,9 +6160,16 @@ CPH2755,mob,oppo,OPPO,,,OPPO A5i Pro,
 CPH2821,mob,oppo,OPPO,,,OPPO A5i Pro,5G
 CPH2725,mob,oppo,OPPO,,,OPPO A5x,
 CPH2733,mob,oppo,OPPO,,,OPPO A5x,5G
+CPH2817,mob,oppo,OPPO,,,OPPO A6,
+CPH2831,mob,oppo,OPPO,,,OPPO A6,5G
 CPH2799,mob,oppo,OPPO,,,OPPO A6 Pro,
 CPH2781,mob,oppo,OPPO,,,OPPO A6 Pro,5G
-CPH2823,mob,oppo,OPPO,,,OPPO A6x,5G
+CPH2815,mob,oppo,OPPO,,,OPPO A6s,
+CPH2819,mob,oppo,OPPO,,,OPPO A6x,
+CPH2783,mob,oppo,OPPO,,,OPPO A6x,5G Global
+CPH2823,mob,oppo,OPPO,,,OPPO A6x,5G India
+CPH2847,mob,oppo,OPPO,,,OPPO A6t,
+CPH2849,mob,oppo,OPPO,,,OPPO A6t Pro,
 CPH1901,mob,oppo,OPPO,,,OPPO A7,
 CPH1905,mob,oppo,OPPO,,,OPPO A7,
 CPH1903,mob,oppo,OPPO,,,OPPO AX7,
@@ -6322,6 +6333,7 @@ RMX5060,mob,realme,realme,,cayman-a,真我 Neo7 《画江湖之不良人》限�
 RMX5062,mob,realme,realme,,cayman-c,真我 Neo7 Turbo,
 RMX5080,mob,realme,realme,,brz-a,真我 Neo7 SE,
 RMX5071,mob,realme,realme,,dongfeng,真我 Neo7x,
+RMX8899,mob,realme,realme,,,真我 Neo8,
 RMX1971,mob,realme,realme,,,真我 Q,
 RMX2117,mob,realme,realme,,,真我 Q2,5G
 RMX2173,mob,realme,realme,,,真我 Q2 Pro,5G
@@ -6461,20 +6473,22 @@ RMX5000,mob,realme,realme,,,13+ 5G,
 RMX3990,mob,realme,realme,,,13 Pro 5G,
 RMX3990,mob,realme,realme,,,14 Pro Lite 5G,
 RMX3921,mob,realme,realme,,,13 Pro+ 5G,
-RMX5070,mob,realme,realme,,,14 5G,Global
+RMX5070,mob,realme,realme,,dongfeng,14 5G,Global
 RMX3940,mob,realme,realme,,,14x 5G,India
 RMX3943,mob,realme,realme,,,14x 5G,Global
-RMX5074,mob,realme,realme,,,14T 5G,Global
-RMX5078,mob,realme,realme,,,14T 5G,India
+RMX5074,mob,realme,realme,,dongfeng,14T 5G,Global
+RMX5078,mob,realme,realme,,dongfeng,14T 5G,India
 RMX5056,mob,realme,realme,,,14 Pro 5G,India
 RMX5057,mob,realme,realme,,,14 Pro 5G,Global
-RMX5051,mob,realme,realme,,,14 Pro+ 5G,India
-RMX5054,mob,realme,realme,,,14 Pro+ 5G,Global
+RMX5051,mob,realme,realme,,piaget,14 Pro+ 5G,India
+RMX5054,mob,realme,realme,,piaget,14 Pro+ 5G,Global
 RMX5106,mob,realme,realme,,,15 5G,
-RMX5101,mob,realme,realme,,,15 Pro 5G,
-RMX5111,mob,realme,realme,,,15T 5G,
+RMX5101,mob,realme,realme,,neutron,15 Pro 5G,
+RMX5111,mob,realme,realme,,chopard,15T 5G,
 RMX5000,mob,realme,realme,,,15 Lite 5G,
 RMX5250,mob,realme,realme,,,15x 5G,
+RMX5120,mob,realme,realme,,,16 Pro 5G,
+RMX5131,mob,realme,realme,,,16 Pro+ 5G,
 RMX1901,mob,realme,realme,,,X,
 RMX1921,mob,realme,realme,,,XT,Global
 RMX1922,mob,realme,realme,,,XT,India
@@ -6588,8 +6602,8 @@ RMX3870,mob,realme,realme,,,P1,5G
 RMX3844,mob,realme,realme,,coffee-a,P1 Pro,5G
 RMX5004,mob,realme,realme,,,P1 Speed,5G
 RMX3987,mob,realme,realme,,,P2 Pro,5G
-RMX5070,mob,realme,realme,,,P3,5G
-RMX5079,mob,realme,realme,,,P3,5G
+RMX5070,mob,realme,realme,,dongfeng,P3,5G
+RMX5079,mob,realme,realme,,dongfeng,P3,5G
 RMX3944,mob,realme,realme,,,P3x,5G
 RMX5032,mob,realme,realme,,,P3 Pro,5G
 RMX5030,mob,realme,realme,,,P3 Ultra,5G
@@ -6636,6 +6650,8 @@ RMX5003,mob,realme,realme,,,NARZO 70 Turbo,5G
 RMX5033,mob,realme,realme,,,NARZO 80 Pro,5G
 RMX3944,mob,realme,realme,,,NARZO 80x,5G
 RMX3945,mob,realme,realme,,,NARZO 80 Lite,5G
+RMX5111,mob,realme,realme,,chopard,NARZO 90,5G
+RMX5264,mob,realme,realme,,,NARZO 90x,5G
 RMP2102,pad,realme,realme,,,Pad,LTE
 RMP2103,pad,realme,realme,,,Pad,Wi-Fi
 RMP2105,pad,realme,realme,,,Pad mini,LTE
@@ -8404,6 +8420,7 @@ V2445EA,mob,vivo,vivo,,PD2445D,Y300+,
 V2452GA,mob,vivo,vivo,,PD2452,Y300 GT,
 V2506A,mob,vivo,vivo,,PD2506,Y500,
 V2516A,mob,vivo,vivo,,PD2516,Y500 Pro,
+V2531A,mob,vivo,vivo,,PD2531,Y500i,
 V2115A,mob,vivo,vivo,,PD2115,T1,
 V2123A,mob,vivo,vivo,,PD2123,T1x,
 V2199GA,mob,vivo,vivo,,PD2199,T2,
@@ -8506,6 +8523,7 @@ V2452A,mob,vivo,vivo,,PD2452,iQOO Z10 Turbo,
 V2453A,mob,vivo,vivo,,PD2453,iQOO Z10 Turbo Pro,
 V2507A,mob,vivo,vivo,,PD2507,iQOO Z10 Turbo+,
 V2445A,mob,vivo,vivo,,PD2445,iQOO Z10x,
+V2536A,mob,vivo,vivo,,PD2536,iQOO Z11 Turbo,
 V2023A,mob,vivo,vivo,,PD2023,iQOO U1,
 V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,
 V2061A,mob,vivo,vivo,,PD2061,iQOO U3,5G
@@ -9862,7 +9880,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,印度版
 25057PC09I,mob,xiaomi,小米,O19,spring,POCO M7 Plus 5G,印度版
 2409FPCC4G,mob,xiaomi,小米,O17P,beryl,POCO M7 Pro 5G,国际版
 25118PC98G,mob,xiaomi,小米,P17,kunzite,POCO M8 5G,国际版
-2508CPC2BI,mob,xiaomi,小米,P15,tornado,POCO M8 5G,印度版
+25118PC98I,mob,xiaomi,小米,P17,kunzite,POCO M8 5G,印度版
 2510EPC8BG,mob,xiaomi,小米,P16U,flourite,POCO M8 Pro 5G,国际版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,印度版
@@ -9889,6 +9907,7 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 24116PCC1I,mob,xiaomi,小米,C3F2,warm,POCO C75 5G,印度版
 25078PC3EG,mob,xiaomi,小米,P15A,dew,POCO C85,国际版
 25078PC3EE,mob,xiaomi,小米,P15A,dew,POCO C85,欧洲版
+2508CPC2BI,mob,xiaomi,小米,P15,tornado,POCO C85 5G,印度版
 2405CPCFBG,pad,xiaomi,小米,N83P,dizi,POCO Pad,Wi-Fi 国际版
 24074PCD2I,pad,xiaomi,小米,N83U,ruan,POCO Pad 5G,印度版
 25099RP08G,pad,xiaomi,小米,O82P,uke,POCO Pad X1,国际版
@@ -11054,7 +11073,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,India
 25057PC09I,mob,xiaomi,Xiaomi,O19,spring,POCO M7 Plus 5G,India
 2409FPCC4G,mob,xiaomi,Xiaomi,O17P,beryl,POCO M7 Pro 5G,Global
 25118PC98G,mob,xiaomi,Xiaomi,P17,kunzite,POCO M8 5G,Global
-2508CPC2BI,mob,xiaomi,Xiaomi,P15,tornado,POCO M8 5G,India
+25118PC98I,mob,xiaomi,Xiaomi,P17,kunzite,POCO M8 5G,India
 2510EPC8BG,mob,xiaomi,Xiaomi,P16U,flourite,POCO M8 Pro 5G,Global
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,India
@@ -11081,6 +11100,7 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 24116PCC1I,mob,xiaomi,Xiaomi,C3F2,warm,POCO C75 5G,India
 25078PC3EG,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Global
 25078PC3EE,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Europe
+2508CPC2BI,mob,xiaomi,Xiaomi,P15,tornado,POCO C85 5G,India
 A0101,pad,xiaomi,Xiaomi,X6,mocha,Mi Pad,
 2015716,pad,xiaomi,Xiaomi,A3,latte,Mi Pad 2,
 MCE91,pad,xiaomi,Xiaomi,C9,cappu,Mi Pad 3,
