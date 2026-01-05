@@ -6957,6 +6957,8 @@ SM-X200,mob,samsung,三星,,gta8wifi,Galaxy Tab A8,WLAN
 SM-X205C,mob,samsung,三星,,gta8,Galaxy Tab A8,LTE
 SM-X210,mob,samsung,三星,,gta9pwifi,Galaxy Tab A9+,WLAN
 SM-X216C,mob,samsung,三星,,gta9p,Galaxy Tab A9+,5G
+SM-X230,mob,samsung,三星,,gta11pwifi,Galaxy Tab A11+,WLAN
+SM-X236C,mob,samsung,三星,,gta11p,Galaxy Tab A11+,5H
 SM-T230,mob,samsung,三星,,degaswifi,Galaxy Tab4 7.0,WLAN
 SM-T231,mob,samsung,三星,,degas3g,Galaxy Tab4 7.0,3G
 SM-T239C,mob,samsung,三星,,degasveltechn,Galaxy Tab4 7.0 VE,LTE
@@ -8659,6 +8661,7 @@ V2451,mob,vivo,vivo,,PD2437F,V50,
 V2504,mob,vivo,vivo,,,V50 Pro,
 V2428,mob,vivo,vivo,,PD2438F,V50e,
 V2441,mob,vivo,vivo,,,V50 Lite,
+V2440,mob,vivo,vivo,,PD2447F,V50 Lite 5G,
 V2450,mob,vivo,vivo,,PD2447F,V50 Lite 5G,
 V2453,mob,vivo,vivo,,PD2447F,V50 Lite 5G,
 V2440,mob,vivo,vivo,,PD2447F,Jovi V50 Lite,
@@ -8876,6 +8879,7 @@ I2212,mob,vivo,vivo,,PD2243F,iQOO 11,
 I2220,mob,vivo,vivo,,PD2307F,iQOO 12,
 I2401,mob,vivo,vivo,,PD2408F,iQOO 13,
 I2501,mob,vivo,vivo,,PD2505F,iQOO 15,
+I2508,mob,vivo,vivo,,PD2536F,iQOO 15R,
 I2202,mob,vivo,vivo,,PD2199F,iQOO Neo6,
 I2214,mob,vivo,vivo,,PD2238F,iQOO Neo7,
 I2217,mob,vivo,vivo,,PD2232F,iQOO Neo7 Pro,
@@ -11221,6 +11225,7 @@ JLG-AN00,device,zhixuan,华为智选,,Jiaolong,Hi 畅享 80,5G
 JLG-AN00,device,zhixuan,华为智选,,Jiaolong,Hi 畅享 80S,5G
 JLG-AN80,device,zhixuan,华为智选,,Jiaolong,Hi 畅享 80 GT,5G
 SHR-AN00,device,zhixuan,华为智选,,,Hi 畅享 80 Pro,5G
+SNP-AN00,device,zhixuan,华为智选,,,Hi 畅享 80 Plus,5G
 CHE-AN00,device,zhixuan,华为智选,,,WIKO X70,
 BRO-W00,pad,zhixuan,华为智选,,,Hi MatePad,
 MASH-16,pad,zhixuan,华为智选,,,Hi MateBook 14,16GB 内存
