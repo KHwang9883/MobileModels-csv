@@ -497,7 +497,7 @@ A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,全球
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,中国大陆 & 港澳
 A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,全球
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,中国大陆
-A1218,tv,apple,Apple,,"AppleTV1,1",Apple TV (第 1 代),
+A1218,tv,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (第 1 代),
 A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (第 2 代),
 A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (第 3 代),
 A1469,tv,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (第 3 代),Rev A
@@ -977,7 +977,7 @@ A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,Global
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,"China mainland, Hong Kong, Macao"
 A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,Global
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,China mainland
-A1218,tv,apple,Apple,,"AppleTV1,1",Apple TV (1st generation),
+A1218,tv,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (1st generation),
 A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (2nd generation),
 A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (3rd generation),
 A1469,tv,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (3rd generation),Rev A
@@ -1984,6 +1984,7 @@ ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,11.5 英寸 Wi-Fi 版
 NDL-W09,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 Wi-Fi 版
 NDL-AL00,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 LTE 版
 ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版
+ELE2-W00,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,11.5 英寸 Wi-Fi 版
 AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版
 AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 Wi-Fi 版
@@ -5471,6 +5472,8 @@ PLR110,mob,oneplus,一加,,macan,一加 Ace 6T,国行版
 CPH2767,mob,oneplus,一加,,macan,一加 15R,印度版
 CPH2769,mob,oneplus,一加,,macan,一加 15R,欧洲版 / 国际版
 CPH2771,mob,oneplus,一加,,macan,一加 15R,北美版
+PLU110,mob,oneplus,一加,,volkswagen,一加 Turbo 6,国行版
+PLY110,mob,oneplus,一加,,prado,一加 Turbo 6V,国行版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -5660,6 +5663,8 @@ PLR110,mob,oneplus,OnePlus,,macan,OnePlus Ace 6T,China
 CPH2767,mob,oneplus,OnePlus,,macan,OnePlus 15R,India
 CPH2769,mob,oneplus,OnePlus,,macan,OnePlus 15R,Europe / Global
 CPH2771,mob,oneplus,OnePlus,,macan,OnePlus 15R,North America
+PLU110,mob,oneplus,OnePlus,,volkswagen,OnePlus Turbo 6,China
+PLY110,mob,oneplus,OnePlus,,prado,OnePlus Turbo 6V,China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India
