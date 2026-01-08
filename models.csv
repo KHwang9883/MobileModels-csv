@@ -5188,6 +5188,7 @@ XT2527-3,mob,motorola,Motorola,,nice,moto g100 Pro,
 XT2533-4,mob,motorola,Motorola,,portov,moto g100,
 XT2537-4,mob,motorola,Motorola,,mumba,moto g100s,
 XT2601-1,mob,motorola,Motorola,,roadstr,moto X70 Air,
+XT2603-1,mob,motorola,Motorola,,vantage,moto X70 Air Pro,
 TA-1000,mob,nokia,诺基亚,,plate,Nokia 6,
 TA-1054,mob,nokia,诺基亚,,plate2,Nokia 6 (第二代),
 TA-1041,mob,nokia,诺基亚,,charm,Nokia 7,
@@ -5526,6 +5527,7 @@ OPD2415,pad,oneplus,一加,,erhai-o,一加平板 3,国际版
 OPD2480,pad,oneplus,一加,,,一加平板 Lite,Wi-Fi
 OPD2481,pad,oneplus,一加,,,一加平板 Lite,LTE
 OPD2504,pad,oneplus,一加,,,一加平板 Go 2,Wi-Fi
+OPD2505,pad,oneplus,一加,,,一加平板 Go 2,5G
 OPD2508,pad,oneplus,一加,,himalaya-o,一加平板 2 (2025),国行版
 W101IN,band,oneplus,一加,,audio,一加 Band,印度版
 OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,
@@ -5717,6 +5719,7 @@ OPD2415,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 3,
 OPD2480,pad,oneplus,OnePlus,,,OnePlus Pad Lite,Wi-Fi
 OPD2481,pad,oneplus,OnePlus,,,OnePlus Pad Lite,LTE
 OPD2504,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,Wi-Fi
+OPD2505,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,5G
 OPD2508,pad,oneplus,OnePlus,,himalaya-o,OnePlus Pad 2 (2025),
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,
@@ -6093,6 +6096,8 @@ CPH2743,mob,oppo,OPPO,,zhuque,OPPO Reno14 F,5G
 CPH2743,mob,oppo,OPPO,,zhuque,OPPO Reno14 FS,5G
 CPH2825,mob,oppo,OPPO,,,OPPO Reno15,5G
 CPH2813,mob,oppo,OPPO,,,OPPO Reno15 Pro,5G
+CPH2813,mob,oppo,OPPO,,,OPPO Reno15 Pro Mini,5G
+CPH2811,mob,oppo,OPPO,,,OPPO Reno15 Pro,5G
 CPH2811,mob,oppo,OPPO,,,OPPO Reno15 Pro Max,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 F,5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,
