@@ -1635,6 +1635,8 @@ BKQ-AN00,mob,honor,荣耀,,,荣耀 Magic8,
 BKQ-AN80,mob,honor,荣耀,,,荣耀 Magic8,16GB+1TB
 BKQ-AN10,mob,honor,荣耀,,,荣耀 Magic8 Pro,
 BKQ-AN90,mob,honor,荣耀,,,荣耀 Magic8 Pro,16GB+1TB
+LDY-AN00,mob,honor,荣耀,,Lindy,荣耀 Magic8 Pro Air,
+BKQ-AN20,mob,honor,荣耀,,,荣耀 Magic8 RSR 保时捷设计,
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,联通版
 H60-L03,mob,honor,荣耀,,Mogolia,荣耀 6,移动定制版
@@ -2361,11 +2363,13 @@ BVL-N49,mob,honor,HONOR,,Bvlgari,HONOR Magic6 Pro,
 BVL-N59,mob,honor,HONOR,,Bvlgari,PORSCHE DESIGN HONOR Magic6 RSR,
 ALI-NX1,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,
 ALI-NX3,mob,honor,HONOR,,Ali,HONOR Magic6 Lite 5G,
+FCP-N49,mob,honor,HONOR,,FalconP,HONOR Magic V3,
+PTP-N29,mob,honor,HONOR,,Philippe,HONOR Magic7,
 PTP-N49,mob,honor,HONOR,,Patek,HONOR Magic7 Pro,
 PTP-N59,mob,honor,HONOR,,Patek,PORSCHE DESIGN HONOR Magic7 RSR,
 BRP-NX1M,mob,honor,HONOR,,BruceP,HONOR Magic7 Lite,
 BRP-NX3,mob,honor,HONOR,,BruceP,HONOR Magic7 Lite,
-FCP-N49,mob,honor,HONOR,,FalconP,HONOR Magic V3,
+MBH-N49,mob,honor,HONOR,,Maybach,HONOR Magic V5,
 BKQ-N49,mob,honor,HONOR,,,HONOR Magic8 Pro,
 MTN-NX1M,mob,honor,HONOR,,,HONOR Magic8 Lite,
 MTN-NX3,mob,honor,HONOR,,,HONOR Magic8 Lite,
@@ -2380,6 +2384,7 @@ GFY-LX2P,mob,honor,HONOR,,Goofy,HONOR X5b,Plus
 NLA-LX1,mob,honor,HONOR,,Nala,HONOR X5c,
 NLA-LX2,mob,honor,HONOR,,Nala,HONOR X5c,
 NLA-LX3,mob,honor,HONOR,,Nala,HONOR X5c,
+NLA-LX1,mob,honor,HONOR,,Nala,HONOR X5c,Plus
 NLA-LX2P,mob,honor,HONOR,,Nala,HONOR X5c,Plus
 VNE-LX1,mob,honor,HONOR,,Vinnie,HONOR X6,
 VNE-LX2,mob,honor,HONOR,,Vinnie,HONOR X6,
@@ -2432,6 +2437,8 @@ LLY-LX3,mob,honor,HONOR,,Lily,HONOR X8b,
 ABR-LX1,mob,honor,HONOR,,Amber,HONOR X8c,
 ABR-LX2,mob,honor,HONOR,,Amber,HONOR X8c,
 ABR-LX3,mob,honor,HONOR,,Amber,HONOR X8c,
+LNA-LX2,mob,honor,HONOR,,,HONOR X8d,
+LNA-LX3,mob,honor,HONOR,,,HONOR X8d,
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR X9,
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR X9,
 ANY-LX3,mob,honor,HONOR,,Andy,HONOR X9,
