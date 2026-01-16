@@ -1,13 +1,13 @@
 name: Sync
 on:
-  workflow_dispatch: # To allow manual runs
+  workflow_dispatch:
   schedule:
     - cron:  '0 0 * * *'
 
 jobs:
    Task:
     runs-on: ubuntu-latest
-#    if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
+#    if: github.event.repository.owner.id == github.event.sender.id
     steps:
     - name: Checkout repository and submodules
       uses: actions/checkout@v2
@@ -37,7 +37,7 @@ jobs:
         echo `date +"%Y-%m-%d %H:%M:%S"` begin
         python gen_csv.py
         git status
-#        git diff
+        git diff
     - name: Commit # 提交更新, fork后请自行修改user信息
       run: |
         git config --global user.email huangyf9883@gmail.com
