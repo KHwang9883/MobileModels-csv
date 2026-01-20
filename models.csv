@@ -1988,6 +1988,7 @@ NDL-AL00,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 LTE 版
 ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版
 ELE2-W00,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,11.5 英寸 Wi-Fi 版
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,柔光版 11.5 英寸 Wi-Fi 版
+ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀护眼学习机 火火兔版,11.5 英寸 Wi-Fi 版
 AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版
 AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 Wi-Fi 版
@@ -2200,6 +2201,7 @@ MUS-B19,watch,honor,荣耀,,,荣耀手表 GS 4,
 STL-L19,watch,honor,荣耀,,,荣耀手表 5,
 HAL-L19,watch,honor,荣耀,,Halo,荣耀手表 5 Pro,
 TUR-L19,watch,honor,荣耀,,Tumir,荣耀手表 5 Ultra,
+IVY-B39,watch,honor,荣耀,,,荣耀手表 GS 5,
 IVY-B39,watch,honor,荣耀,,,荣耀手表 Fit,
 LWS-WB10,watch,honor,荣耀,,,荣耀手表 X5,
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,标准版
@@ -6639,6 +6641,7 @@ RMX3943,mob,realme,realme,,,P3 Lite,5G
 RMX5110,mob,realme,realme,,,P4,5G
 RMX5116,mob,realme,realme,,,P4 Pro,5G
 RMX5108,mob,realme,realme,,,P4x,5G
+RMX5107,mob,realme,realme,,,P4 Power,5G
 RMX2002,mob,realme,realme,,nemo,Narzo,Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,India
 RMX2020,mob,realme,realme,,,Narzo 10A,India
