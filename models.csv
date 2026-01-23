@@ -5319,6 +5319,8 @@ Z2459,mob,nubia,努比亚,,,V70,
 Z2458,mob,nubia,努比亚,,,V70 Design,
 Z2467,mob,nubia,努比亚,,,V70 Max,
 A403ZT,mob,nubia,努比亚,,,S,5G SoftBank
+A507ZT,mob,nubia,努比亚,,,S2e,SoftBank
+Z6305R,mob,nubia,努比亚,,,S2R,
 LPD-20W,pad,nubia,努比亚,,,Pad 3D,
 NP02J,pad,nubia,努比亚,,,Pad 3D II,
 K99J,pad,nubia,努比亚,,,Pad SE,
@@ -7476,6 +7478,9 @@ SM-A066B,mob,samsung,Samsung,,a06x,Galaxy A06 5G,Global
 SM-A066M,mob,samsung,Samsung,,a06x,Galaxy A06 5G,Latin America
 SM-A075F,mob,samsung,Samsung,,a07,Galaxy A07,Global
 SM-A075M,mob,samsung,Samsung,,a07,Galaxy A07,Latin America
+SM-A076E,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Global
+SM-A076B,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Global
+SM-A076M,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Latin America
 SM-A105F,mob,samsung,Samsung,,a10,Galaxy A10,Global
 SM-A015FN,mob,samsung,Samsung,,a10,Galaxy A10,Global
 SM-A015G,mob,samsung,Samsung,,a10,Galaxy A10,Global
@@ -7557,6 +7562,10 @@ SM-A166P,mob,samsung,Samsung,,a16xm,Galaxy A16 5G,Global (MediaTek)
 SM-A175F,mob,samsung,Samsung,,a17,Galaxy A17,Global
 SM-A175N,mob,samsung,Samsung,,a17,Galaxy A17,South Korea
 SM-A176B,mob,samsung,Samsung,,a17x,Galaxy A17 5G,Global
+SM-A176U,mob,samsung,Samsung,,a17x,Galaxy A17 5G,US Carrier
+SM-A176U1,mob,samsung,Samsung,,a17x,Galaxy A17 5G,US Unlocked
+SM-S176V,mob,samsung,Samsung,,a17x,Galaxy A17 5G,TracFone
+SM-A176W,mob,samsung,Samsung,,a17x,Galaxy A17 5G,Canada
 SM-A1760,mob,samsung,Samsung,,a17x,Galaxy A17 5G,HK & TW
 SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,Global
 SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,India
@@ -7819,6 +7828,7 @@ SM-M146B,mob,samsung,Samsung,,m14x,Galaxy M14 5G,
 SM-M156B,mob,samsung,Samsung,,m15x,Galaxy M15 5G,
 SM-M166P,mob,samsung,Samsung,,m16xm,Galaxy M16 5G,
 SM-M176B,mob,samsung,Samsung,,a17x,Galaxy M17 5G,
+SM-M076B,mob,samsung,Samsung,,a07x,Galaxy M17e 5G,
 SM-M205N,mob,samsung,Samsung,,m20,Galaxy M20,South Korea
 SM-M205F,mob,samsung,Samsung,,m20lte,Galaxy M20,Global
 SM-M205FN,mob,samsung,Samsung,,m20lte,Galaxy M20,EU
@@ -7882,6 +7892,7 @@ SM-E546B,mob,samsung,Samsung,,m54x,Galaxy F54 5G,
 SM-E556B,mob,samsung,Samsung,,m55xq,Galaxy F55 5G,
 SM-E566B,mob,samsung,Samsung,,m56x,Galaxy F56 5G,
 SM-E625F,mob,samsung,Samsung,,f62,Galaxy F62,
+SM-E076B,mob,samsung,Samsung,,a07x,Galaxy F70e 5G,
 SM701,mob,smartisan,坚果,,sfo,Smartisan T1,3G 版
 SM705,mob,smartisan,坚果,,sfo,Smartisan T1,4G 版
 SM801,mob,smartisan,坚果,,icesky,Smartisan T2,
@@ -8626,6 +8637,7 @@ V2415,mob,vivo,vivo,,PD2415F,X200,
 V2413,mob,vivo,vivo,,PD2405F,X200 Pro,
 V2503,mob,vivo,vivo,,PD2465F,X200 FE,
 V2505,mob,vivo,vivo,,PD2465F,X200 FE,
+V2561,mob,vivo,vivo,,PD2458F,X200T,
 V2429,mob,vivo,vivo,,PD2436F,X Fold5,
 V2515,mob,vivo,vivo,,PD2509F,X300,
 V2514,mob,vivo,vivo,,PD2502F,X300 Pro,
@@ -8939,6 +8951,7 @@ I2409,mob,vivo,vivo,,PD2443F,iQOO Z10 Lite 5G,
 I2502,mob,vivo,vivo,,,iQOO Z10 Lite,
 I2410,mob,vivo,vivo,,,iQOO Z10R 5G,India
 I2505,mob,vivo,vivo,,,iQOO Z10R 5G,Global
+I2507,mob,vivo,vivo,,,iQOO Z11x 5G,
 XMSH01HM,band,xiaomi,小米,,,小米手环,
 XMSH02HM,band,xiaomi,小米,,,小米手环,光感版
 XMSH03HM,band,xiaomi,小米,,,小米手环,光感版
