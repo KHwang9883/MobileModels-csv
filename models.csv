@@ -9730,14 +9730,17 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 25098RA98G,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,5G 国际版
 25098RA98E,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,5G 欧洲版
 25098RA98I,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,5G 印度版
+25098RA98T,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,5G 沙特版
 25100RA69G,mob,xiaomi,小米,P6,charoite,REDMI Note 15 Pro,国际版
 25080RABDC,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,国行版
 25080RABDG,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,5G 国际版
 25080RABDI,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,5G 印度版
 25080RABDR,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,5G 日本版
+25080RABDT,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,5G 沙特版
 2510ERA8BC,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,国行版
 2510ERA8BG,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,5G 国际版
 2510ERA8BI,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,5G 印度版
+2510ERA8BT,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,5G 沙特版
 25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版
 25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,
@@ -9746,6 +9749,8 @@ M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
 24069RA21C,mob,xiaomi,小米,N16T,peridot,Redmi Turbo 3,
 24129RT7CC,mob,xiaomi,小米,O10S,rodin,REDMI Turbo 4,
 25053RT47C,mob,xiaomi,小米,O10U,onyx,REDMI Turbo 4 Pro,
+2511FRT34C,mob,xiaomi,小米,P10,klee,REDMI Turbo 5,
+2602BRT18C,mob,xiaomi,小米,P10U,dash,REDMI Turbo 5 Max,
 M1903F10A,mob,xiaomi,小米,F10,davinci,Redmi K20,全网通版
 M1903F10C,mob,xiaomi,小米,F10,davinci,Redmi K20,运营商全网通版
 M1903F10I,mob,xiaomi,小米,F10,davinciin,Redmi K20,印度版
@@ -10272,6 +10277,8 @@ M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
 24069RA21C,mob,xiaomi,小米,N16T,peridot,Redmi Turbo 3,
 24129RT7CC,mob,xiaomi,小米,O10S,rodin,REDMI Turbo 4,
 25053RT47C,mob,xiaomi,小米,O10U,onyx,REDMI Turbo 4 Pro,
+2511FRT34C,mob,xiaomi,小米,P10,klee,REDMI Turbo 5,
+2602BRT18C,mob,xiaomi,小米,P10U,dash,REDMI Turbo 5 Max,
 M1903F10A,mob,xiaomi,小米,F10,davinci,Redmi K20,全网通版
 M1903F10C,mob,xiaomi,小米,F10,davinci,Redmi K20,运营商全网通版
 M1903F11A,mob,xiaomi,小米,F11,raphael,Redmi K20 Pro,全网通版
@@ -10954,14 +10961,17 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 25098RA98E,mob,xiaomi,Xiaomi,P17,kunzite,REDMI Note 15 5G,Europe
 25098RA98I,mob,xiaomi,Xiaomi,P17,kunzite,REDMI Note 15 5G,India
 25098RA98C,mob,xiaomi,Xiaomi,P17,kunzite,REDMI Note 15 5G,China
+25098RA98T,mob,xiaomi,Xiaomi,P17,kunzite,REDMI Note 15 5G,Saudi Arabia
 25100RA69G,mob,xiaomi,Xiaomi,P6,charoite,REDMI Note 15 Pro,Global
 25080RABDG,mob,xiaomi,Xiaomi,P16,lapis,REDMI Note 15 Pro 5G,Global
 25080RABDI,mob,xiaomi,Xiaomi,P16,lapis,REDMI Note 15 Pro 5G,India
 25080RABDR,mob,xiaomi,Xiaomi,P16,lapis,REDMI Note 15 Pro 5G,Japan
 25080RABDC,mob,xiaomi,Xiaomi,P16,lapis,REDMI Note 15 Pro 5G,China
+25080RABDT,mob,xiaomi,Xiaomi,P16,lapis,REDMI Note 15 Pro 5G,Saudi Arabia
 2510ERA8BG,mob,xiaomi,Xiaomi,P16U,flourite,REDMI Note 15 Pro+ 5G,Global
 2510ERA8BI,mob,xiaomi,Xiaomi,P16U,flourite,REDMI Note 15 Pro+ 5G,India
 2510ERA8BC,mob,xiaomi,Xiaomi,P16U,flourite,REDMI Note 15 Pro+ 5G,China
+2510ERA8BT,mob,xiaomi,Xiaomi,P16U,flourite,REDMI Note 15 Pro+ 5G,Saudi Arabia
 25104RADAC,mob,xiaomi,Xiaomi,P16US,flourite,REDMI Note 15 Pro+ 5G,Satellite China
 25057RA09C,mob,xiaomi,Xiaomi,O19,spring,REDMI Note 15R,China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,China
@@ -10970,6 +10980,8 @@ M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,China
 24069RA21C,mob,xiaomi,Xiaomi,N16T,peridot,Redmi Turbo 3,China
 24129RT7CC,mob,xiaomi,Xiaomi,O10S,rodin,REDMI Turbo 4,China
 25053RT47C,mob,xiaomi,Xiaomi,O10U,onyx,REDMI Turbo 4 Pro,China
+2511FRT34C,mob,xiaomi,Xiaomi,P10,klee,REDMI Turbo 5,China
+2602BRT18C,mob,xiaomi,Xiaomi,P10U,dash,REDMI Turbo 5 Max,China
 M1903F10A,mob,xiaomi,Xiaomi,F10,davinci,Redmi K20,China
 M1903F10C,mob,xiaomi,Xiaomi,F10,davinci,Redmi K20,Chinese Carrier Version
 M1903F10I,mob,xiaomi,Xiaomi,F10,davinciin,Redmi K20,India
