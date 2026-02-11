@@ -6117,6 +6117,7 @@ CPH2811,mob,oppo,OPPO,,,OPPO Reno15 Pro,5G
 CPH2811,mob,oppo,OPPO,,,OPPO Reno15 Pro Max,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 F,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 FS,5G
+CPH2801,mob,oppo,OPPO,,,OPPO Reno15c,5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,
 CPH1821,mob,oppo,OPPO,,,OPPO F7,
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,
@@ -6203,6 +6204,7 @@ CPH2783,mob,oppo,OPPO,,,OPPO A6x,5G Global
 CPH2823,mob,oppo,OPPO,,,OPPO A6x,5G India
 CPH2847,mob,oppo,OPPO,,,OPPO A6t,
 CPH2849,mob,oppo,OPPO,,,OPPO A6t Pro,
+CPH2851,mob,oppo,OPPO,,,OPPO A6t Pro,5G
 CPH1901,mob,oppo,OPPO,,,OPPO A7,
 CPH1905,mob,oppo,OPPO,,,OPPO A7,
 CPH1903,mob,oppo,OPPO,,,OPPO AX7,
@@ -6301,6 +6303,8 @@ CPH2729,mob,oppo,OPPO,,,OPPO K13,5G
 CPH2753,mob,oppo,OPPO,,,OPPO K13x,5G
 CPH2761,mob,oppo,OPPO,,knight,OPPO K13 Turbo,5G
 CPH2731,mob,oppo,OPPO,,,OPPO K13 Turbo Pro,5G
+CPH2869,mob,oppo,OPPO,,,OPPO K14,5G
+CPH2871,mob,oppo,OPPO,,,OPPO K14x,5G
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,
 OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,
 OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,Wi-Fi
@@ -9929,6 +9933,10 @@ M2102J20SI,mob,xiaomi,小米,J20S,vayu,POCO X3 Pro,印度版
 24095PCADI,mob,xiaomi,小米,O16P,malachite,POCO X7,印度版
 2412DPC0AG,mob,xiaomi,小米,O10,rodin,POCO X7 Pro,国际版
 2412DPC0AI,mob,xiaomi,小米,O10,rodin,POCO X7 Pro,印度版
+2511FPC34G,mob,xiaomi,小米,P10,klee,POCO X8 Pro,国际版
+2511FPC34I,mob,xiaomi,小米,P10,klee,POCO X8 Pro,印度版
+2602BPC18G,mob,xiaomi,小米,P10U,dash,POCO X8 Pro Max,国际版
+2602BPC18I,mob,xiaomi,小米,P10U,dash,POCO X8 Pro Max,印度版
 M2004J19PI,mob,xiaomi,小米,J19P,shiva,POCO M2,印度版
 M2003J6CI,mob,xiaomi,小米,J6C,gram,POCO M2 Pro,印度版
 M2010J19CG,mob,xiaomi,小米,J19C,citrus,POCO M3,国际版
@@ -11129,6 +11137,10 @@ M2102J20SI,mob,xiaomi,Xiaomi,J20S,vayu,POCO X3 Pro,India
 24095PCADI,mob,xiaomi,Xiaomi,O16P,malachite,POCO X7,India
 2412DPC0AG,mob,xiaomi,Xiaomi,O10,rodin,POCO X7 Pro,Global
 2412DPC0AI,mob,xiaomi,Xiaomi,O10,rodin,POCO X7 Pro,India
+2511FPC34G,mob,xiaomi,Xiaomi,P10,klee,POCO X8 Pro,Global
+2511FPC34I,mob,xiaomi,Xiaomi,P10,klee,POCO X8 Pro,India
+2602BPC18G,mob,xiaomi,Xiaomi,P10U,dash,POCO X8 Pro Max,Global
+2602BPC18I,mob,xiaomi,Xiaomi,P10U,dash,POCO X8 Pro Max,India
 M2004J19PI,mob,xiaomi,Xiaomi,J19P,shiva,POCO M2,India
 M2003J6CI,mob,xiaomi,Xiaomi,J6C,gram,POCO M2 Pro,India
 M2010J19CG,mob,xiaomi,Xiaomi,J19C,citrus,POCO M3,Global
