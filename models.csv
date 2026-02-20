@@ -1855,7 +1855,7 @@ LYN-AN00,mob,honor,荣耀,,,荣耀 Play9T Pro,5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀 Play9C,5G
 LOG-AN10,mob,honor,荣耀,,Logan,荣耀 Play10T,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀 Play10C,5G
-NLA-AN00,mob,honor,荣耀,,,荣耀 Play10A,5G
+NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play10A,5G
 DVD-AN00,mob,honor,荣耀,,David,荣耀 Power,
 DVD-AN80,mob,honor,荣耀,,David,荣耀 Power,卫星版
 SER-AN00,mob,honor,荣耀,,Saber,荣耀 Power2,
@@ -1933,7 +1933,7 @@ JDY-AN00,mob,honor,荣耀,,Judy,荣耀畅玩 50m,5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60m,5G
-NLA-AN00,mob,honor,荣耀,,,荣耀畅玩 60A,5G
+NLA-AN00,mob,honor,荣耀,,Nala,荣耀畅玩 60A,5G
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,5G
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70 Plus,5G
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70m Plus,5G
@@ -2557,7 +2557,7 @@ PLR-AL30,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,
 PLR-AL50,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,优享版
 PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,
 PLU-AL10,mob,huawei,华为,,PillarU,HUAWEI Mate 70 RS 非凡大师,
-SUP-AL90,mob,huawei,华为,,,HUAWEI Mate 70 Air,
+SUP-AL90,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,
 VYG-AL00,mob,huawei,华为,,Voyager,HUAWEI Mate 80,
 SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,12GB 内存
 SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,16GB 内存
@@ -2738,9 +2738,9 @@ ADA-AL10U,mob,huawei,华为,,Adela,HUAWEI nova 12 Ultra,星耀版
 PSD-AL00,mob,huawei,华为,,Poseidon,HUAWEI nova Flip,
 BLK-AL80,mob,huawei,华为,,Blake,HUAWEI nova 13,
 MIS-AL00,mob,huawei,华为,,MillaS,HUAWEI nova 13 Pro,
-TLR-AL00,mob,huawei,华为,,,HUAWEI nova 14,
-MIA-AL00,mob,huawei,华为,,,HUAWEI nova 14 Pro,
-MRT-AL10,mob,huawei,华为,,,HUAWEI nova 14 Ultra,
+TLR-AL00,mob,huawei,华为,,Taylor,HUAWEI nova 14,
+MIA-AL00,mob,huawei,华为,,Milla,HUAWEI nova 14 Pro,
+MRT-AL10,mob,huawei,华为,,Margaret,HUAWEI nova 14 Ultra,
 TYR-AL00,mob,huawei,华为,,Taylor,HUAWEI nova 14 活力版,
 PSD-AL80,mob,huawei,华为,,Poseidon,HUAWEI nova Flip S,
 PSN-AL00,mob,huawei,华为,,Pushkin,HUAWEI nova 15,
@@ -3748,8 +3748,8 @@ BNE-LX3,mob,huawei,HUAWEI,,Bonnie,HUAWEI nova 12 SE,
 BLK-LX9,mob,huawei,HUAWEI,,Blake,HUAWEI nova 13,
 MIS-LX9,mob,huawei,HUAWEI,,MillaS,HUAWEI nova 13 Pro,
 CTR-L91,mob,huawei,HUAWEI,,Cartier,HUAWEI nova 13i,
-TLR-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 14,
-MIA-LX9,mob,huawei,HUAWEI,,,HUAWEI nova 14 Pro,
+TLR-LX9,mob,huawei,HUAWEI,,Taylor,HUAWEI nova 14,
+MIA-LX9,mob,huawei,HUAWEI,,Milla,HUAWEI nova 14 Pro,
 STG-LX2,mob,huawei,HUAWEI,,Santiago,HUAWEI nova 14i,
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,
 EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,
@@ -8723,6 +8723,11 @@ V2512,mob,vivo,vivo,,,V60,
 V2530,mob,vivo,vivo,,,V60 Lite,
 V2529,mob,vivo,vivo,,,V60 Lite 5G,
 V2513,mob,vivo,vivo,,,V60e,
+V2538,mob,vivo,vivo,,,V70,
+V2539,mob,vivo,vivo,,,V70,
+V2540,mob,vivo,vivo,,,V70,
+V2548,mob,vivo,vivo,,,V70 Elite,
+V2550,mob,vivo,vivo,,,V70 FE,
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,
 V1937,mob,vivo,vivo,,PD1982F,S1 Prime,
 vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,
@@ -8849,6 +8854,8 @@ V2525,mob,vivo,vivo,,,Y21d,
 V2535,mob,vivo,vivo,,,Y21d,
 V2560,mob,vivo,vivo,,,Y21d,
 V2525,mob,vivo,vivo,,,Y21e (2025),
+V2553,mob,vivo,vivo,,,Y21 5G,
+V2554,mob,vivo,vivo,,,Y21 5G,
 V2207,mob,vivo,vivo,,PD2226F,Y22,
 V2238,mob,vivo,vivo,,PD2226F,Y22,
 V2206,mob,vivo,vivo,,PD2228F,Y22s,
@@ -8975,13 +8982,14 @@ I2502,mob,vivo,vivo,,,iQOO Z10 Lite,
 I2410,mob,vivo,vivo,,,iQOO Z10R 5G,India
 I2505,mob,vivo,vivo,,,iQOO Z10R 5G,Global
 I2507,mob,vivo,vivo,,,iQOO Z11x 5G,
-V2427,mob,vivo,vivo,,PD2437F,Jovi V50,
-V2440,mob,vivo,vivo,,PD2447F,Jovi V50 Lite,5G
-V2425,mob,vivo,vivo,,PD2420F,Jovi Y19s,
-V2454,mob,vivo,vivo,,PD2420F,Jovi Y19s,
-V2445,mob,vivo,vivo,,PD2446F,Jovi Y29,
-V2459,mob,vivo,vivo,,,Jovi Y29s 5G,
-V2444,mob,vivo,vivo,,PD2444F,Jovi Y39 5G,
+V2427,mob,vivo,vivo,,PD2437F,JOVI V50,
+V2440,mob,vivo,vivo,,PD2447F,JOVI V50 Lite,5G
+V2425,mob,vivo,vivo,,PD2420F,JOVI Y19s,
+V2454,mob,vivo,vivo,,PD2420F,JOVI Y19s,
+J2508,mob,vivo,vivo,,,JOVI Y21 5G,
+V2445,mob,vivo,vivo,,PD2446F,JOVI Y29,
+V2459,mob,vivo,vivo,,,JOVI Y29s 5G,
+V2444,mob,vivo,vivo,,PD2444F,JOVI Y39 5G,
 XMSH01HM,band,xiaomi,小米,,,小米手环,
 XMSH02HM,band,xiaomi,小米,,,小米手环,光感版
 XMSH03HM,band,xiaomi,小米,,,小米手环,光感版
