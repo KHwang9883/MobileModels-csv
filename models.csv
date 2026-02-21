@@ -6634,6 +6634,7 @@ RMX3941,mob,realme,realme,,,C75,
 RMX3943,mob,realme,realme,,,C75,5G India
 RMX3963,mob,realme,realme,,,C75,5G Global
 RMX5020,mob,realme,realme,,,C75x,
+RMX5566,mob,realme,realme,,,C85,
 RMX5253,mob,realme,realme,,,C85,5G
 RMX5555,mob,realme,realme,,,C85 Pro,
 RMX3834,mob,realme,realme,,,Note 50,
@@ -6658,6 +6659,7 @@ RMX5110,mob,realme,realme,,,P4,5G
 RMX5116,mob,realme,realme,,,P4 Pro,5G
 RMX5108,mob,realme,realme,,,P4x,5G
 RMX5107,mob,realme,realme,,,P4 Power,5G
+RMX5313,mob,realme,realme,,,P4 Lite,
 RMX2002,mob,realme,realme,,nemo,Narzo,Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,India
 RMX2020,mob,realme,realme,,,Narzo 10A,India
@@ -6707,6 +6709,8 @@ RMP2108,pad,realme,realme,,,Pad X,Wi-Fi
 RMP2204,pad,realme,realme,,,Pad 2,LTE
 RMP2205,pad,realme,realme,,,Pad 2,Wi-Fi
 RMP2402,pad,realme,realme,,,Pad 2 Lite,
+RMP2501,pad,realme,realme,,,Pad 3,5G
+RMP2502,pad,realme,realme,,,Pad 3,Wi-Fi
 GT-I9000,mob,samsung,三星,,,Galaxy S,公开版
 GT-I9008,mob,samsung,三星,,,Galaxy S,移动定制版
 GT-I9008L,mob,samsung,三星,,,Galaxy S,移动定制版
