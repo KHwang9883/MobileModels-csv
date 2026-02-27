@@ -3582,6 +3582,7 @@ CET-LX9,mob,huawei,HUAWEI,,Cetus,HUAWEI Mate 50,
 DCO-LX9,mob,huawei,HUAWEI,,Draco,HUAWEI Mate 50 Pro,
 ALN-LX9,mob,huawei,HUAWEI,,Allen,HUAWEI Mate 60 Pro,
 PLR-L29,mob,huawei,HUAWEI,,Pillar,HUAWEI Mate 70 Pro,
+SGT-LX9,mob,huawei,HUAWEI,,Sagittarius,HUAWEI Mate 80 Pro,
 TAH-N29m,mob,huawei,HUAWEI,,Tahiti,HUAWEI Mate Xs,Dual SIM
 PAL-LX9,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,
 PAL-L29,mob,huawei,HUAWEI,,Palau,HUAWEI Mate Xs 2,
@@ -6785,6 +6786,9 @@ SM-S9310,mob,samsung,三星,,pa1q,Galaxy S25,
 SM-S9360,mob,samsung,三星,,pa2q,Galaxy S25+,
 SM-S9370,mob,samsung,三星,,psq,Galaxy S25 Edge,
 SM-S9380,mob,samsung,三星,,pa3q,Galaxy S25 Ultra,
+SM-S9420,mob,samsung,三星,,m1q,Galaxy S26,
+SM-S9470,mob,samsung,三星,,m2q,Galaxy S26+,
+SM-S9480,mob,samsung,三星,,m3q,Galaxy S26 Ultra,
 GT-I9220,mob,samsung,三星,,,Galaxy Note,公开版
 GT-I9228,mob,samsung,三星,,,Galaxy Note,移动定制版
 SCH-I889,mob,samsung,三星,,,Galaxy Note,电信定制版
@@ -6871,6 +6875,7 @@ SM-A5360,mob,samsung,三星,,a53x,Galaxy A53 5G,
 SM-A5460,mob,samsung,三星,,a54x,Galaxy A54 5G,
 SM-A5560,mob,samsung,三星,,a55x,Galaxy A55 5G,
 SM-A5660,mob,samsung,三星,,a56x,Galaxy A56 5G,
+SM-A5760,mob,samsung,三星,,a57x,Galaxy A57 5G,
 SM-E5260,mob,samsung,三星,,f52x,Galaxy F52 5G,
 SM-M3070,mob,samsung,三星,,m30s,Galaxy M30s,
 SM-C5000,mob,samsung,三星,,c5ltechn,Galaxy C5,
@@ -7268,6 +7273,39 @@ SM-S731U,mob,samsung,Samsung,,r13s,Galaxy S25 FE,US Carrier
 SM-S731U1,mob,samsung,Samsung,,r13s,Galaxy S25 FE,US Unlocked
 SM-S731W,mob,samsung,Samsung,,r13s,Galaxy S25 FE,Canada
 SM-S731N,mob,samsung,Samsung,,r13s,Galaxy S25 FE,South Korea
+SM-S942B,mob,samsung,Samsung,,m1s,Galaxy S26,Global
+SM-S942N,mob,samsung,Samsung,,m1s,Galaxy S26,South Korea
+SM-S942U,mob,samsung,Samsung,,m1q,Galaxy S26,US Carrier
+SM-S942U1,mob,samsung,Samsung,,m1q,Galaxy S26,US Unlocked
+SM-S942W,mob,samsung,Samsung,,m1q,Galaxy S26,Canada
+SM-S9420,mob,samsung,Samsung,,m1q,Galaxy S26,China
+SM-S942Q,mob,samsung,Samsung,,m1q,Galaxy S26,Japan (SIM Free)
+SM-S942Z,mob,samsung,Samsung,,m1q,Galaxy S26,Japan (SoftBank)
+SM-S942C,mob,samsung,Samsung,,m1q,Galaxy S26,Japan (Rakuten Mobile)
+SCG36,mob,samsung,Samsung,,m1q,Galaxy S26,Japan (au)
+SC-51G,mob,samsung,Samsung,,m1q,Galaxy S26,Japan (NTT Docomo)
+SM-S947B,mob,samsung,Samsung,,m2s,Galaxy S26+,Global
+SM-S947N,mob,samsung,Samsung,,m2s,Galaxy S26+,South Korea
+SM-S947U,mob,samsung,Samsung,,m2q,Galaxy S26+,US Carrier
+SM-S947U1,mob,samsung,Samsung,,m2q,Galaxy S26+,US Unlocked
+SM-S947W,mob,samsung,Samsung,,m2q,Galaxy S26+,Canada
+SM-S9470,mob,samsung,Samsung,,m2q,Galaxy S26+,China
+SM-S947Q,mob,samsung,Samsung,,m2q,Galaxy S26+,Japan (SIM Free)
+SM-S947Z,mob,samsung,Samsung,,m2q,Galaxy S26+,Japan (SoftBank)
+SM-S947C,mob,samsung,Samsung,,m2q,Galaxy S26+,Japan (Rakuten Mobile)
+SCG38,mob,samsung,Samsung,,m2q,Galaxy S26+,Japan (au)
+SC-52G,mob,samsung,Samsung,,m2q,Galaxy S26+,Japan (NTT Docomo)
+SM-S948B,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Global
+SM-S948U,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,US Carrier
+SM-S948U1,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,US Unlocked
+SM-S948W,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Canada
+SM-S9480,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,China
+SM-S948N,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,South Korea
+SM-S948Q,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (SIM Free)
+SM-S948Z,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (SoftBank)
+SM-S948C,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (Rakuten Mobile)
+SCG37,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (au)
+SC-53G,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (NTT Docomo)
 SM-N960F,mob,samsung,Samsung,,crownlte,Galaxy Note9,Global
 SM-N960U,mob,samsung,Samsung,,crownqltesq,Galaxy Note9,US Carrier
 SM-N960U1,mob,samsung,Samsung,,crownqlteue,Galaxy Note9,US Unlocked
@@ -7703,6 +7741,13 @@ SM-S366V,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,TracFone
 SM-A366W,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,Canada
 SM-A3660,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,HK & TW
 SM-A366N,mob,samsung,Samsung,,a36xq,Galaxy A36 5G,South Korea
+SM-A376E,mob,samsung,Samsung,,a37x,Galaxy A37 5G,Global
+SM-A376B,mob,samsung,Samsung,,a37x,Galaxy A37 5G,EU
+SM-A376U,mob,samsung,Samsung,,a37x,Galaxy A37 5G,US Carrier
+SM-A376U1,mob,samsung,Samsung,,a37x,Galaxy A37 5G,US Unlocked
+SM-S376V,mob,samsung,Samsung,,a37x,Galaxy A37 5G,TracFone
+SM-A376W,mob,samsung,Samsung,,a37x,Galaxy A37 5G,Canada
+SM-A3760,mob,samsung,Samsung,,a37x,Galaxy A37 5G,HK & TW
 SM-A405FN,mob,samsung,Samsung,,a40,Galaxy A40,Global
 SM-A405FM,mob,samsung,Samsung,,a40,Galaxy A40,Russia
 SM-A405S,mob,samsung,Samsung,,a40,Galaxy A40,South Korea (SK Telecom)
@@ -7776,15 +7821,24 @@ SM-A546W,mob,samsung,Samsung,,a54x,Galaxy A54 5G,Canada
 SM-A5460,mob,samsung,Samsung,,a54x,Galaxy A54 5G,China
 SCG21,mob,samsung,Samsung,,a54x,Galaxy A54 5G,Japan (au)
 SC-53D,mob,samsung,Samsung,,a54x,Galaxy A54 5G,Japan (NTT Docomo)
+SM-A546S,mob,samsung,Samsung,,a54x,Galaxy A54 5G,Quantum4 South Korea
 SM-A556E,mob,samsung,Samsung,,a55x,Galaxy A55 5G,Global
 SM-A556B,mob,samsung,Samsung,,a55x,Galaxy A55 5G,EU
 SM-A5560,mob,samsung,Samsung,,a55x,Galaxy A55 5G,China
 SCG27,mob,samsung,Samsung,,a55x,Galaxy A55 5G,Japan (au)
 SC-53E,mob,samsung,Samsung,,a55x,Galaxy A55 5G,Japan (NTT Docomo)
+SM-A556S,mob,samsung,Samsung,,a55x,Galaxy A55 5G,Quantum5 South Korea
 SM-A566E,mob,samsung,Samsung,,a56x,Galaxy A56 5G,Global
 SM-A566B,mob,samsung,Samsung,,a56x,Galaxy A56 5G,EU
+SM-A566U1,mob,samsung,Samsung,,a56x,Galaxy A56 5G,US Unlocked
 SM-A5660,mob,samsung,Samsung,,a56x,Galaxy A56 5G,China
-SM-A566S,mob,samsung,Samsung,,a56x,Galaxy A56 5G,South Korea
+SM-A566S,mob,samsung,Samsung,,a56x,Galaxy A56 5G,Quantum6 South Korea
+SM-A576B,mob,samsung,Samsung,,a57x,Galaxy A57 5G,Global
+SM-A576U1,mob,samsung,Samsung,,a57x,Galaxy A57 5G,US Unlocked
+SM-A576W,mob,samsung,Samsung,,a57x,Galaxy A57 5G,Canada
+SM-A5760,mob,samsung,Samsung,,a57x,Galaxy A57 5G,China
+SM-A576Q,mob,samsung,Samsung,,a57x,Galaxy A57 5G,Japan (SIM Free)
+SM-A576Z,mob,samsung,Samsung,,a57x,Galaxy A57 5G,Japan (SoftBank)
 SM-A606F,mob,samsung,Samsung,,a60q,Galaxy A60,Global
 SM-A6060,mob,samsung,Samsung,,a60q,Galaxy A60,China mainland
 SM-A606Y,mob,samsung,Samsung,,a60q,Galaxy A60,TW
@@ -7816,6 +7870,7 @@ SM-A805N,mob,samsung,Samsung,,r1q,Galaxy A80,South Korea
 SM-A908B,mob,samsung,Samsung,,r3q,Galaxy A90 5G,Global
 SM-A9080,mob,samsung,Samsung,,r3q,Galaxy A90 5G,China
 SM-A908N,mob,samsung,Samsung,,r3q,Galaxy A90 5G,South Korea
+SM-A826S,mob,samsung,Samsung,,a82xq,Galaxy Quantum2,om2 South Korea
 SM-M015F,mob,samsung,Samsung,,m01q,Galaxy M01,
 SM-M015G,mob,samsung,Samsung,,m01q,Galaxy M01,
 SM-M013F,mob,samsung,Samsung,,a01core,Galaxy M01 Core,
@@ -7881,6 +7936,7 @@ SM-M515F,mob,samsung,Samsung,,m51,Galaxy M51,
 SM-M526B,mob,samsung,Samsung,,m52xq,Galaxy M52 5G,
 SM-M526BR,mob,samsung,Samsung,,m52xq,Galaxy M52 5G,
 SM-M536B,mob,samsung,Samsung,,m53x,Galaxy M53 5G,
+SM-M536S,mob,samsung,Samsung,,m53x,Galaxy M53 5G,Quantum3 South Korea
 SM-M546B,mob,samsung,Samsung,,m54x,Galaxy M54 5G,
 SM-M556B,mob,samsung,Samsung,,m55xq,Galaxy M55 5G,India
 SM-M556E,mob,samsung,Samsung,,m55xq,Galaxy M55 5G,Global
@@ -9118,9 +9174,12 @@ M2420E1,watch,xiaomi,小米,N79B,,Redmi Buds 6 Play,国际版
 M2411E1,watch,xiaomi,小米,N79B,,REDMI Buds SE,
 M2455E1,watch,xiaomi,小米,O77S,,REDMI Buds 7S,
 M2535E1,watch,xiaomi,小米,P76,,REDMI Buds 8 Pro,
+M2539E1,watch,xiaomi,小米,P79A,,REDMI Buds 8 青春版,
 TWSEJ01ZM,watch,xiaomi,小米,K76,,POCO Buds Pro Genshin Impact Edition,国际版
 M2237E1,pod,xiaomi,小米,M79A,,POCO Pods,印度版
 M2350E1,pod,xiaomi,小米,N79A,,POCO Buds X1,印度版
+M2543T1,pod,xiaomi,小米,P99,,Xiaomi Tag,蓝牙版
+M2542T1,pod,xiaomi,小米,P99,,Xiaomi Tag,UWB
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,电信版
 MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,青春版
