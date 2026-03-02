@@ -3882,7 +3882,7 @@ DBR-W19,pad,huawei,HUAWEI,,DebussyR,HUAWEI MatePad 11 2023,PaperMatte Edition Wi
 BTKR-W09,pad,huawei,HUAWEI,,BartokR,HUAWEI MatePad 11.5,2024 Wi-Fi
 TGR-W09,pad,huawei,HUAWEI,,Tagore,HUAWEI MatePad 11.5 S,Wi-Fi
 TXZ-W09,pad,huawei,HUAWEI,,Taoxingzhi,HUAWEI MatePad 11.5,2025 Wi-Fi
-SLG-W09,pad,huawei,HUAWEI,,Salinger,HUAWEI MatePad 11.5 S,2025 Wi-Fi
+SLG-W09,pad,huawei,HUAWEI,,Salinger,HUAWEI MatePad 11.5 S,2026 Wi-Fi
 DBY2-W09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,Wi-Fi
 DBY2-L09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,LTE
 BKY-W09,pad,huawei,HUAWEI,,Banksy,HUAWEI MatePad 12 X,Wi-Fi
@@ -9343,8 +9343,8 @@ A402XM,mob,xiaomi,小米,N12,rothko,Xiaomi 14T Pro,日本版 (SoftBank)
 2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,国行版
 2512BPNDAG,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,国际版
 2512BPNDAI,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,印度版
-25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leitzphone powered by Xiaomi,国行版
-25128PNA1G,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leitzphone powered by Xiaomi,国际版
+25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国行版
+25128PNA1G,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国际版
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版
@@ -9936,6 +9936,9 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 25028RN03Y,mob,xiaomi,小米,C3Z,serenity,REDMI A5,国际版
 25028RN03I,mob,xiaomi,小米,C3Z,serenity,REDMI A5,印度版
 25028RN03L,mob,xiaomi,小米,C3Z,serenity,REDMI A5,拉美版
+25128RN17A,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,国际版
+25128RN17Y,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,国际版
+25128RN17L,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,拉美版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国际版
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,国行版
@@ -10605,8 +10608,8 @@ A402XM,mob,xiaomi,Xiaomi,N12,rothko,Xiaomi 14T Pro,Japan (SoftBank)
 2512BPNDAG,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,Global
 2512BPNDAC,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,China
 2512BPNDAI,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,India
-25128PNA1G,mob,xiaomi,Xiaomi,P1S,nezha,Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,Global
-25128PNA1C,mob,xiaomi,Xiaomi,P1S,nezha,Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,Xiaomi 17 Ultra by Leica (China)
+25128PNA1G,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,Global
+25128PNA1C,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,China
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Dual-network)
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Full-network)
@@ -11171,6 +11174,9 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,India
 25028RN03Y,mob,xiaomi,Xiaomi,C3Z,serenity,REDMI A5,Global
 25028RN03I,mob,xiaomi,Xiaomi,C3Z,serenity,REDMI A5,India
 25028RN03L,mob,xiaomi,Xiaomi,C3Z,serenity,REDMI A5,Latin America
+25128RN17A,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Global
+25128RN17Y,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Global
+25128RN17L,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Latin America
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,Global
