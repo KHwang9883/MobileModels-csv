@@ -9174,7 +9174,10 @@ M2420E1,watch,xiaomi,小米,N79B,,Redmi Buds 6 Play,国际版
 M2411E1,watch,xiaomi,小米,N79B,,REDMI Buds SE,
 M2455E1,watch,xiaomi,小米,O77S,,REDMI Buds 7S,
 M2535E1,watch,xiaomi,小米,P76,,REDMI Buds 8 Pro,
+M2537E1,watch,xiaomi,小米,P79,,REDMI Buds 8 活力版,
+M2537E1,watch,xiaomi,小米,P79,,REDMI Buds 8 Active,国际版
 M2539E1,watch,xiaomi,小米,P79A,,REDMI Buds 8 青春版,
+M2539E1,watch,xiaomi,小米,P79A,,REDMI Buds 8 Lite,国际版
 TWSEJ01ZM,watch,xiaomi,小米,K76,,POCO Buds Pro Genshin Impact Edition,国际版
 M2237E1,pod,xiaomi,小米,M79A,,POCO Pods,印度版
 M2350E1,pod,xiaomi,小米,N79A,,POCO Buds X1,印度版
@@ -9341,9 +9344,10 @@ A402XM,mob,xiaomi,小米,N12,rothko,Xiaomi 14T Pro,日本版 (SoftBank)
 25098PN5AC,mob,xiaomi,小米,Q200,pandora,Xiaomi 17 Pro,
 2509FPN0BC,mob,xiaomi,小米,P2,popsicle,Xiaomi 17 Pro Max,
 2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,国行版
+2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra by Leica,国行版 (非卫星)
 2512BPNDAG,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,国际版
 2512BPNDAI,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,印度版
-25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国行版
+25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国行版 (卫星通讯)
 25128PNA1G,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国际版
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版
@@ -10164,7 +10168,8 @@ M2101K9C,mob,xiaomi,小米,K9,renoir,小米 11 青春版,
 25098PN5AC,mob,xiaomi,小米,Q200,pandora,Xiaomi 17 Pro,
 2509FPN0BC,mob,xiaomi,小米,P2,popsicle,Xiaomi 17 Pro Max,
 2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,
-25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica,
+2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra by Leica,非卫星
+25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica,卫星通讯
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版
@@ -10607,9 +10612,10 @@ A402XM,mob,xiaomi,Xiaomi,N12,rothko,Xiaomi 14T Pro,Japan (SoftBank)
 2509FPN0BC,mob,xiaomi,Xiaomi,P2,popsicle,Xiaomi 17 Pro Max,China
 2512BPNDAG,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,Global
 2512BPNDAC,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,China
+2512BPNDAC,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra by Leica,"China, non-satellite"
 2512BPNDAI,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,India
 25128PNA1G,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,Global
-25128PNA1C,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,China
+25128PNA1C,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,"China, Tiantong & Beidou satellites"
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Dual-network)
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Full-network)
