@@ -5257,8 +5257,10 @@ A142,mob,nothing,Nothing,,Pacman,Nothing Phone (2a),
 A142P,mob,nothing,Nothing,,PacmanPro,Nothing Phone (2a) Plus,
 A024,mob,nothing,Nothing,,Metroid,Nothing Phone (3),
 A059,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a),
-A059P,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a) Plus,
+A059P,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a) Pro,
 A001T,mob,nothing,Nothing,,Galaxian,Nothing Phone (3a) Lite,
+A069,mob,nothing,Nothing,,Frogger,Nothing Phone (4a),
+A069P,mob,nothing,Nothing,,FroggerPro,Nothing Phone (4a) Pro,
 A015,mob,nothing,Nothing,,Tetris,CMF Phone 1,
 A001,mob,nothing,Nothing,,Galaga,CMF Phone 2 Pro,
 NX501,mob,nubia,努比亚,,,Z5,
@@ -6668,6 +6670,7 @@ RMX3941,mob,realme,realme,,,C75,
 RMX3943,mob,realme,realme,,,C75,5G India
 RMX3963,mob,realme,realme,,,C75,5G Global
 RMX5020,mob,realme,realme,,,C75x,
+RMX5256,mob,realme,realme,,,C83,5G
 RMX5566,mob,realme,realme,,,C85,
 RMX5253,mob,realme,realme,,,C85,5G
 RMX5555,mob,realme,realme,,,C85 Pro,
@@ -6734,6 +6737,7 @@ RMX3944,mob,realme,realme,,,NARZO 80x,5G
 RMX3945,mob,realme,realme,,,NARZO 80 Lite,5G
 RMX5111,mob,realme,realme,,chopard,NARZO 90,5G
 RMX5264,mob,realme,realme,,,NARZO 90x,5G
+RMX5107,mob,realme,realme,,,NARZO Power,5G
 RMP2102,pad,realme,realme,,,Pad,LTE
 RMP2103,pad,realme,realme,,,Pad,Wi-Fi
 RMP2105,pad,realme,realme,,,Pad mini,LTE
@@ -8492,6 +8496,7 @@ V2442A,mob,vivo,vivo,,PD2442,Y37c,
 V1965A,mob,vivo,vivo,,PD1965,Y50,
 V2023EA,mob,vivo,vivo,,PD2023,Y50t,
 V2443A,mob,vivo,vivo,,PD2443,Y37t,5G
+V2443A,mob,vivo,vivo,,PD2443,Y37+,5G
 V2443A,mob,vivo,vivo,,PD2443,Y50 (2025),5G
 V2443A,mob,vivo,vivo,,PD2443,Y50i,5G
 V2443A,mob,vivo,vivo,,PD2443,Y50e,5G
@@ -8821,6 +8826,9 @@ V2539,mob,vivo,vivo,,,V70,
 V2540,mob,vivo,vivo,,,V70,
 V2548,mob,vivo,vivo,,,V70 Elite,
 V2550,mob,vivo,vivo,,,V70 FE,
+V2551,mob,vivo,vivo,,,V70 FE,
+V2552,mob,vivo,vivo,,,V70 FE,
+V2558,mob,vivo,vivo,,,V70 FE,
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,
 V1937,mob,vivo,vivo,,PD1982F,S1 Prime,
 vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,
@@ -8878,6 +8886,7 @@ V2532,mob,vivo,vivo,,PD2442F,Y04e,
 V2531,mob,vivo,vivo,,,Y04s,
 V2556,mob,vivo,vivo,,,Y05,
 V2565,mob,vivo,vivo,,,Y05,
+V2575,mob,vivo,vivo,,,Y11 5G,
 V2028,mob,vivo,vivo,,PD2042F,Y11s,
 V2555,mob,vivo,vivo,,,Y11d,
 V2578,mob,vivo,vivo,,,Y11d,
@@ -8996,6 +9005,7 @@ V2030,mob,vivo,vivo,,PD2044F,Y51,
 V2035,mob,vivo,vivo,,PD2044F,Y51,
 V2031,mob,vivo,vivo,,PD2044F,Y51s,
 V2031_21,mob,vivo,vivo,,PD2044F,Y51s,
+V2544,mob,vivo,vivo,,,Y51 Pro 5G,
 V2053,mob,vivo,vivo,,PD2069F,Y52 5G,
 V2058,mob,vivo,vivo,,PD2103F,Y53s,
 V2154,mob,vivo,vivo,,PD2201F,Y55,
