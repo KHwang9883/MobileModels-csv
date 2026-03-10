@@ -2232,6 +2232,7 @@ TUR-L19,watch,honor,荣耀,,Tumir,荣耀手表 5 Ultra,
 IVY-B39,watch,honor,荣耀,,,荣耀手表 GS 5,
 IVY-B39,watch,honor,荣耀,,,荣耀手表 Fit,
 LWS-WB10,watch,honor,荣耀,,,荣耀手表 X5,
+WTS-B19,watch,honor,荣耀,,,荣耀手表 X5i,
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,标准版
 NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,NFC 版
 CRS-B19,band,honor,荣耀,,Crius,荣耀手环 4,标准版
@@ -3532,6 +3533,10 @@ KIM-B29,band,huawei,华为,,Kimi,华为手环 9,NFC 版
 NOR-B19,band,huawei,华为,,,华为手环 10,标准版 (增强型聚合纤维表壳)
 NOR-B29,band,huawei,华为,,,华为手环 10,标准版 (铝合金表壳)
 NOR-B39,band,huawei,华为,,,华为手环 10,NFC 版
+CDY-B19,band,huawei,华为,,,华为手环 11,标准版 (增强型聚合纤维表壳)
+CDY-B29,band,huawei,华为,,,华为手环 11,标准版 (铝合金表壳)
+CDY-B39,band,huawei,华为,,,华为手环 11,NFC 版
+CDY-B59,band,huawei,华为,,,华为手环 11,Pro
 GMN-BX9,band,huawei,华为,,Gemini,华为手环 B3,
 GRU-B09,band,huawei,华为,,,华为手环 B3 青春版,
 JNS-BX9,band,huawei,华为,,Janus,华为手环 B5,
