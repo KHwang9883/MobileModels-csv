@@ -3419,6 +3419,14 @@ HD85KULU,tv,huawei,华为,,,华为 Vision 智慧屏 5 SE,85
 HD65NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,65
 HD75NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,75
 HD85NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,85
+HD6XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,65
+HD7XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,75
+HD8XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,85
+HD9XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,98
+HD55KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,55
+HD65KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,65
+HD75KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,75
+HD85KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,85
 HD55DESB,tv,huawei,华为,,,华为智慧屏 B 系列,3-500
 HD65DESB,tv,huawei,华为,,,华为智慧屏 B 系列,3-600
 HDB325A7,tv,huawei,华为,,,华为智慧屏 B 系列,3 55
@@ -6400,12 +6408,15 @@ RMX5010,mob,realme,realme,,pista,真我 GT7 Pro,
 RMX5090,mob,realme,realme,,piloti,真我 GT7 Pro 竞速版,
 RMX6699,mob,realme,realme,,amg,真我 GT8,
 RMX5200,mob,realme,realme,,lafa,真我 GT8 Pro,
+RMX5200,mob,realme,realme,,lafa,真我 GT8 Pro 阿斯顿马丁 F1 限量版,
 RMX3031,mob,realme,realme,,,真我 GT Neo,5G
 RMX3350,mob,realme,realme,,,真我 GT Neo 闪速版,
 RMX3370,mob,realme,realme,,bitra,真我 GT Neo2,
+RMX3370,mob,realme,realme,,bitra,真我 GT Neo2 龙珠定制版,
 RMX3357,mob,realme,realme,,,真我 GT Neo2T,
 RMX3560,mob,realme,realme,,,真我 GT Neo3,80W
 RMX3562,mob,realme,realme,,,真我 GT Neo3,150W
+RMX3562,mob,realme,realme,,,真我 GT Neo3,火影限定版
 RMX3706,mob,realme,realme,,senna-b,真我 GT Neo5 150W,
 RMX3708,mob,realme,realme,,senna-c,真我 GT Neo5 240W,
 RMX3700,mob,realme,realme,,senna-a,真我 GT Neo5 SE,
@@ -6417,7 +6428,7 @@ RMX5060,mob,realme,realme,,cayman-a,真我 Neo7 《画江湖之不良人》限�
 RMX5062,mob,realme,realme,,cayman-c,真我 Neo7 Turbo,
 RMX5080,mob,realme,realme,,brz-a,真我 Neo7 SE,
 RMX5071,mob,realme,realme,,dongfeng,真我 Neo7x,
-RMX8899,mob,realme,realme,,,真我 Neo8,
+RMX8899,mob,realme,realme,,u9,真我 Neo8,
 RMX1971,mob,realme,realme,,,真我 Q,
 RMX2117,mob,realme,realme,,,真我 Q2,5G
 RMX2173,mob,realme,realme,,,真我 Q2 Pro,5G
@@ -6453,6 +6464,7 @@ RMX5055,mob,realme,realme,,,真我 14 Pro,
 RMX5050,mob,realme,realme,,piaget,真我 14 Pro+,
 RMX5105,mob,realme,realme,,,真我 15,
 RMX5100,mob,realme,realme,,neutron,真我 15 Pro,
+RMX5100,mob,realme,realme,,neutron,真我 15 Pro 《权力的游戏》限定版,
 RMX5112,mob,realme,realme,,chopard,真我 15T,
 RMX5170,mob,realme,realme,,,真我 16,
 RMX5121,mob,realme,realme,,,真我 16 Pro,
