@@ -5830,6 +5830,8 @@ PHN110,mob,oppo,OPPO,,xueying,OPPO Find N3,典藏版
 PHT110,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,
 PKH110,mob,oppo,OPPO,,petrel,OPPO Find N5,
 PKH120,mob,oppo,OPPO,,petrel,OPPO Find N5,卫星通信版
+PLP110,mob,oppo,OPPO,,,OPPO Find N6,
+PLP120,mob,oppo,OPPO,,,OPPO Find N6,卫星通信版
 PCAM00,mob,oppo,OPPO,,,OPPO Reno,全网通版
 PCAT00,mob,oppo,OPPO,,,OPPO Reno,移动版
 PCCM00,mob,oppo,OPPO,,,OPPO Reno 10 倍变焦版,全网通版
@@ -6081,6 +6083,7 @@ CPH2437,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,
 CPH2499,mob,oppo,OPPO,,hedwig,OPPO Find N3,
 CPH2519,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,
 CPH2671,mob,oppo,OPPO,,petrel,OPPO Find N5,
+CPH2765,mob,oppo,OPPO,,,OPPO Find N6,
 CPH1917,mob,oppo,OPPO,,,OPPO Reno,
 CPH1921,mob,oppo,OPPO,,,OPPO Reno 5G,
 CPH1919,mob,oppo,OPPO,,,OPPO Reno 10x Zoom,
@@ -6169,7 +6172,7 @@ CPH2811,mob,oppo,OPPO,,,OPPO Reno15 Pro,5G
 CPH2811,mob,oppo,OPPO,,,OPPO Reno15 Pro Max,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 F,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 FS,5G
-CPH2801,mob,oppo,OPPO,,,OPPO Reno15 C,5G
+CPH2801,mob,oppo,OPPO,,,OPPO Reno15c,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 A,
 CPH1819,mob,oppo,OPPO,,,OPPO F7,
 CPH1821,mob,oppo,OPPO,,,OPPO F7,
