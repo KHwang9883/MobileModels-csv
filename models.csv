@@ -4037,6 +4037,8 @@ TB371FC,pad,lenovo,联想,,spinel,小新 Pad Pro 12.7 骁龙版,
 TB370FU,pad,lenovo,联想,,spruce,小新 Pad Pro 12.7 天玑版,
 TB375FC,pad,lenovo,联想,,peridot,小新 Pad Pro 12.7 2025,
 TB710FU,pad,lenovo,联想,,topaz,小新平板 Pro GT,
+TB376FC,pad,lenovo,联想,,,联想 AI 平板 小新 Pro 13,
+TB378FC,pad,lenovo,联想,,,联想 AI 平板 小新 Pro GT 13,
 TB351FU,pad,lenovo,联想,,calla,小新 Pad Studio,
 TB372FC,pad,lenovo,联想,,spruce,小新学习平板,12.7
 Lenovo YT3-850F,pad,lenovo,联想,,,YOGA Tab 3,8” Wi-Fi 版
@@ -4056,6 +4058,7 @@ Lenovo TB-9707F,pad,lenovo,联想,,p8,拯救者平板 Y700,2022
 TB320FC,pad,lenovo,联想,,asphalt,拯救者平板 Y700 2023,
 TB321FU,pad,lenovo,联想,,kirby,拯救者平板 Y700 2025,
 TB322FC,pad,lenovo,联想,,elden,拯救者平板 Y700 四代,
+TB323FU,pad,lenovo,联想,,baldur,联想 AI 平板 拯救者 Y700 五代,
 TB570FU,pad,lenovo,联想,,inception,拯救者平板 Y900,
 TB570ZU,pad,lenovo,联想,,inception,拯救者平板 Y900,
 Lenovo TB-J616F,pad,lenovo,联想,,p11_plus,联想天骄平板电脑,
@@ -5536,6 +5539,7 @@ PLR110,mob,oneplus,一加,,macan,一加 Ace 6T,国行版
 CPH2767,mob,oneplus,一加,,macan,一加 15R,印度版
 CPH2769,mob,oneplus,一加,,macan,一加 15R,欧洲版 / 国际版
 CPH2771,mob,oneplus,一加,,macan,一加 15R,北美版
+PLZ110,mob,oneplus,一加,,,一加 15T,国行版
 PLU110,mob,oneplus,一加,,volkswagen,一加 Turbo 6,国行版
 PLY110,mob,oneplus,一加,,prado,一加 Turbo 6V,国行版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
@@ -5728,6 +5732,7 @@ PLR110,mob,oneplus,OnePlus,,macan,OnePlus Ace 6T,China
 CPH2767,mob,oneplus,OnePlus,,macan,OnePlus 15R,India
 CPH2769,mob,oneplus,OnePlus,,macan,OnePlus 15R,Europe / Global
 CPH2771,mob,oneplus,OnePlus,,macan,OnePlus 15R,North America
+PLZ110,mob,oneplus,OnePlus,,,OnePlus 15T,China
 PLU110,mob,oneplus,OnePlus,,volkswagen,OnePlus Turbo 6,China
 PLY110,mob,oneplus,OnePlus,,prado,OnePlus Turbo 6V,China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
@@ -8878,6 +8883,8 @@ V2509,mob,vivo,vivo,,PD2443F,T4 Lite 5G,
 V2518,mob,vivo,vivo,,PD2438F,T4R 5G,
 V2510,mob,vivo,vivo,,,T4 Pro,
 V2504,mob,vivo,vivo,,PD2430F,T4 Ultra,
+V2568,mob,vivo,vivo,,,T5 Pro,
+V2545,mob,vivo,vivo,,,T5x 5G,
 vivo 1929,mob,vivo,vivo,,PD2014F,Y1s,
 vivo 2015,mob,vivo,vivo,,PD2014F,Y1s,
 vivo 2015_21,mob,vivo,vivo,,PD2014F,Y1s,
@@ -9106,6 +9113,7 @@ I2409,mob,vivo,vivo,,PD2443F,iQOO Z10 Lite 5G,
 I2502,mob,vivo,vivo,,,iQOO Z10 Lite,
 I2410,mob,vivo,vivo,,,iQOO Z10R 5G,India
 I2505,mob,vivo,vivo,,,iQOO Z10R 5G,Global
+I2512,mob,vivo,vivo,,,iQOO Z11 5G,
 I2507,mob,vivo,vivo,,,iQOO Z11x 5G,
 V2427,mob,vivo,vivo,,PD2437F,JOVI V50,
 V2440,mob,vivo,vivo,,PD2447F,JOVI V50 Lite,5G
