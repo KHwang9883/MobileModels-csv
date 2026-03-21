@@ -6557,10 +6557,12 @@ RMX3471,mob,realme,realme,,,9 Pro 5G,India
 RMX3472,mob,realme,realme,,,9 Pro 5G,Global
 RMX3392,mob,realme,realme,,,9 Pro+ 5G,India
 RMX3393,mob,realme,realme,,,9 Pro+ 5G,Global
-RMX3461,mob,realme,realme,,,9 5G Speed Edition,India
+RMX3461,mob,realme,realme,,ice,9 5G Speed Edition,India
 RMX3630,mob,realme,realme,,,10,
 RMX3660,mob,realme,realme,,luigi,10 Pro 5G,India
+RMX3660,mob,realme,realme,,luigi,10 Pro 5G Coca-Cola® Edition,
 RMX3661,mob,realme,realme,,luigi,10 Pro 5G,Global
+RMX3661,mob,realme,realme,,luigi,10 Pro 5G Coca-Cola® Edition,
 RMX3686,mob,realme,realme,,garen,10 Pro+ 5G,
 RMX3612,mob,realme,realme,,,10T 5G,
 RMX3636,mob,realme,realme,,,11,
@@ -6591,12 +6593,13 @@ RMX5051,mob,realme,realme,,piaget,14 Pro+ 5G,India
 RMX5054,mob,realme,realme,,piaget,14 Pro+ 5G,Global
 RMX5106,mob,realme,realme,,,15 5G,
 RMX5101,mob,realme,realme,,neutron,15 Pro 5G,
+RMX5101,mob,realme,realme,,neutron,15 Pro 5G Game of Thrones Limited Edition,
 RMX5111,mob,realme,realme,,chopard,15T 5G,
 RMX5000,mob,realme,realme,,,15 Lite 5G,
 RMX5250,mob,realme,realme,,,15x 5G,
 RMX5171,mob,realme,realme,,,16 5G,
-RMX5120,mob,realme,realme,,,16 Pro 5G,
-RMX5131,mob,realme,realme,,,16 Pro+ 5G,
+RMX5120,mob,realme,realme,,iwc,16 Pro 5G,
+RMX5131,mob,realme,realme,,zenith,16 Pro+ 5G,
 RMX1901,mob,realme,realme,,,X,
 RMX1921,mob,realme,realme,,,XT,Global
 RMX1922,mob,realme,realme,,,XT,India
@@ -6619,16 +6622,20 @@ RMX3363,mob,realme,realme,,lunaa,GT Master Edition,
 RMX3370,mob,realme,realme,,bitra,GT NEO 2,5G
 RMX3311,mob,realme,realme,,porsche,GT 2,5G
 RMX3312,mob,realme,realme,,porsche,GT 2,5G
-RMX3301,mob,realme,realme,,,GT 2 Pro,5G
+RMX3301,mob,realme,realme,,ferrari,GT 2 Pro,5G
 RMX3561,mob,realme,realme,,,GT NEO 3,
 RMX3563,mob,realme,realme,,,GT NEO 3,150W
 RMX3371,mob,realme,realme,,spartan,GT NEO 3T,
+RMX3701,mob,realme,realme,,senna-a,GT Neo5 SE,
 RMX3709,mob,realme,realme,,senna-c,GT 3,240W
-RMX3851,mob,realme,realme,,,GT 6,
-RMX3853,mob,realme,realme,,,GT 6T,
+RMX3851,mob,realme,realme,,bale-b,GT 6,
+RMX3853,mob,realme,realme,,bale-a,GT 6T,
 RMX5061,mob,realme,realme,,cayman-b,GT 7,
+RMX5061,mob,realme,realme,,cayman-b,GT 7 Dream Edition,
 RMX5085,mob,realme,realme,,brz-b,GT 7T,
-RMX5011,mob,realme,realme,,,GT 7 Pro,
+RMX5011,mob,realme,realme,,pista,GT 7 Pro,
+RMX5210,mob,realme,realme,,lafa,GT 8 Pro,
+RMX5210,mob,realme,realme,,lafa,GT 8 Pro Dream Edition,
 RMX1805,mob,realme,realme,,,C1,
 RMX1941,mob,realme,realme,,,C2,
 RMX1942,mob,realme,realme,,,C2,
@@ -6711,7 +6718,7 @@ RMX1833,mob,realme,realme,,,U1,
 RMX3870,mob,realme,realme,,,P1,5G
 RMX3844,mob,realme,realme,,coffee-a,P1 Pro,5G
 RMX5004,mob,realme,realme,,,P1 Speed,5G
-RMX3987,mob,realme,realme,,,P2 Pro,5G
+RMX3987,mob,realme,realme,,amber-x,P2 Pro,5G
 RMX5070,mob,realme,realme,,dongfeng,P3,5G
 RMX5079,mob,realme,realme,,dongfeng,P3,5G
 RMX3944,mob,realme,realme,,,P3x,5G
