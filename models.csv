@@ -2594,6 +2594,7 @@ VYG-AL00,mob,huawei,华为,,Voyager,HUAWEI Mate 80,
 SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,12GB 内存
 SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,16GB 内存
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,
+SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,风驰版
 SGU-AL10,mob,huawei,华为,,SagittariusU,HUAWEI Mate 80 RS 非凡大师,
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,
@@ -2606,8 +2607,8 @@ PAL-AL10,mob,huawei,华为,,Palau,HUAWEI Mate Xs 2,
 ALT-AL00,mob,huawei,华为,,Alta,HUAWEI Mate X3,
 ALT-AL10,mob,huawei,华为,,Alta,HUAWEI Mate X5,
 GRL-AL10,mob,huawei,华为,,Greenlan,HUAWEI Mate XT 非凡大师,
-ICL-AL10,mob,huawei,华为,,Iceland,HUAWEI Mate X6,
-ICL-AL20,mob,huawei,华为,,Iceland,HUAWEI Mate X6,典藏版
+ICL-AL10,mob,huawei,华为,,Icelan,HUAWEI Mate X6,
+ICL-AL20,mob,huawei,华为,,Icelan,HUAWEI Mate X6,典藏版
 GRL-AL20,mob,huawei,华为,,Greenlan,HUAWEI Mate XTs 非凡大师,
 DEL-AL10,mob,huawei,华为,,Delphi,HUAWEI Mate X7,
 DEL-AL20,mob,huawei,华为,,Delphi,HUAWEI Mate X7,典藏版
@@ -2893,6 +2894,9 @@ BRE-AL80a,mob,huawei,华为,,Bruce+,华为畅享 70X,尊享版
 BRE-AL00a,mob,huawei,华为,,Bruce,华为畅享 70X 活力版,128GB
 BRE-AL00b,mob,huawei,华为,,Bruce,华为畅享 70X 活力版,256GB/512GB
 JUY-AL00,mob,huawei,华为,,Judy,华为畅享 80,
+JUY-AL80,mob,huawei,华为,,Judy,华为畅享 90,
+JUY-AL50,mob,huawei,华为,,Judy,华为畅享 90 Plus,
+CHZ-AL00,mob,huawei,华为,,Chenzhen,华为畅享 90 Pro Max,
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,3G 版
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,LTE 版
