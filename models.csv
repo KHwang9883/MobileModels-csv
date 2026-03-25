@@ -5370,17 +5370,20 @@ Z2352N,mob,nubia,努比亚,,,Neo 2,5G
 Z2461,mob,nubia,努比亚,,,Neo 3,
 Z2464N,mob,nubia,努比亚,,,Neo 3,5G
 Z2465N,mob,nubia,努比亚,,,Neo 3 GT,5G
+Z2570N,mob,nubia,努比亚,,,Neo 5 GT,5G
 Z2353,mob,nubia,努比亚,,,Music,
 Z2460,mob,nubia,努比亚,,,Music 2,
 Z2460,mob,nubia,努比亚,,,Music Pro,
 Z2455,mob,nubia,努比亚,,,Focus,
 Z2462N,mob,nubia,努比亚,,,Focus 2,5G
 Z2463N,mob,nubia,努比亚,,,Focus 2 Ultra,5G
+A502ZT,mob,nubia,努比亚,,,Fold,SoftBank
 Z2468N,mob,nubia,努比亚,,,Air,
 Z2473,mob,nubia,努比亚,,,A56,
 Z6255CA,mob,nubia,努比亚,,,A75,
 Z2474,mob,nubia,努比亚,,,A76,
 Z6657CA,mob,nubia,努比亚,,,A76,
+Z2469N,mob,nubia,努比亚,,,A76,5G
 nubia 8550,mob,nubia,努比亚,,,V50 Vita,
 Z2356,mob,nubia,努比亚,,,V60,
 Z2350,mob,nubia,努比亚,,,V60 Design,
@@ -5842,6 +5845,9 @@ PKU110,mob,oppo,OPPO,,zhufeng,OPPO Find X8 Ultra,卫星通信版
 PLJ110,mob,oppo,OPPO,,,OPPO Find X9,
 PLG110,mob,oppo,OPPO,,,OPPO Find X9 Pro,
 PLG120,mob,oppo,OPPO,,,OPPO Find X9 Pro,卫星通信版
+PME110,mob,oppo,OPPO,,,OPPO Find X9s Pro,
+PMA110,mob,oppo,OPPO,,,OPPO Find X9 Ultra,
+PMA120,mob,oppo,OPPO,,,OPPO Find X9 Ultra,卫星通信版
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,
@@ -6008,7 +6014,9 @@ PLN110,mob,oppo,OPPO,,,OPPO A6 Pro,
 PKW120,mob,oppo,OPPO,,,OPPO A6i,
 PLT120,mob,oppo,OPPO,,,OPPO A6s,
 PLT120,mob,oppo,OPPO,,,OPPO A6i+,
+PLT120,mob,oppo,OPPO,,,OPPO A6k,
 PLT130,mob,oppo,OPPO,,,OPPO A6v,
+PLT140,mob,oppo,OPPO,,,OPPO A6x,
 PMC110,mob,oppo,OPPO,,,OPPO A6c,
 PBCM30,mob,oppo,OPPO,,,OPPO K1,
 PCGM00,mob,oppo,OPPO,,,OPPO K3,全网通版
