@@ -3371,6 +3371,10 @@ HD6XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,65
 HD7XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,75
 HD8XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,85
 HD9XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,98
+HD6XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,65
+HD7XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,75
+HD8XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,85
+HD9XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,98
 HD55DESA,tv,huawei,华为,,,华为智慧屏 SE 系列,55 (2GB+16GB)
 HD55DESZ,tv,huawei,华为,,,华为智慧屏 SE 系列,55 畅连通话版 1080P (2GB+16GB)
 HD55DESY,tv,huawei,华为,,,华为智慧屏 SE 系列,55 畅连通话版 1080P 金属底座 (2GB+16GB)
@@ -8576,6 +8580,8 @@ V2230A,mob,vivo,vivo,,PD2230,Y53t,5G
 V2045A,mob,vivo,vivo,,PD2045,Y54s,5G
 V2164A,mob,vivo,vivo,,PD2164,Y55s,5G
 V2279A,mob,vivo,vivo,,PD2279,Y55t,5G
+V2559A,mob,vivo,vivo,,PD2559,Y60,5G
+V2559BA,mob,vivo,vivo,,PD2559,Y60m,5G
 V2002A,mob,vivo,vivo,,PD2002,Y70s,5G
 V2002A,mob,vivo,vivo,,PD2019,Y70t,5G
 V1731CA,mob,vivo,vivo,,PD1731C,Y71s,
@@ -8637,6 +8643,7 @@ V2452GA,mob,vivo,vivo,,PD2452,Y300 GT,
 V2506A,mob,vivo,vivo,,PD2506,Y500,
 V2516A,mob,vivo,vivo,,PD2516,Y500 Pro,
 V2531A,mob,vivo,vivo,,PD2531,Y500i,
+V2531A,mob,vivo,vivo,,PD2531,Y500s,
 V2115A,mob,vivo,vivo,,PD2115,T1,
 V2123A,mob,vivo,vivo,,PD2123,T1x,
 V2199GA,mob,vivo,vivo,,PD2199,T2,
