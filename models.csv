@@ -4775,6 +4775,11 @@ L65MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,65 Mini LED 2025
 L75MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,75 Mini LED 2025
 L85MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,85 Mini LED 2025
 L98MB-S,tv,mitv,小米,O32,,小米电视 S Mini LED 2025,98 Mini LED 2025
+L55MC-S,tv,mitv,小米,,,小米电视 S Mini LED 2026,55 Mini LED 2026
+L65MC-S,tv,mitv,小米,,,小米电视 S Mini LED 2026,65 Mini LED 2026
+L75MC-S,tv,mitv,小米,,,小米电视 S Mini LED 2026,75 Mini LED 2026
+L85MC-S,tv,mitv,小米,,,小米电视 S Mini LED 2026,85 Mini LED 2026
+L100MC-S,tv,mitv,小米,,,小米电视 S Mini LED 2026,100 Mini LED 2026
 L65MA-SM,tv,mitv,小米,,,小米电视 S Pro,65 Mini LED
 L75MA-SM,tv,mitv,小米,,,小米电视 S Pro,75 Mini LED
 L85MA-SM,tv,mitv,小米,,,小米电视 S Pro,85 Mini LED
@@ -6308,6 +6313,7 @@ CPH2847,mob,oppo,OPPO,,,OPPO A6t,
 CPH2853,mob,oppo,OPPO,,,OPPO A6t,5G
 CPH2849,mob,oppo,OPPO,,,OPPO A6t Pro,
 CPH2851,mob,oppo,OPPO,,,OPPO A6t Pro,5G
+CPH2895,mob,oppo,OPPO,,,OPPO A6c,
 CPH1901,mob,oppo,OPPO,,,OPPO A7,
 CPH1905,mob,oppo,OPPO,,,OPPO A7,
 CPH1903,mob,oppo,OPPO,,,OPPO AX7,
@@ -6748,11 +6754,14 @@ RMX5256,mob,realme,realme,,,C83,5G
 RMX5566,mob,realme,realme,,,C85,
 RMX5253,mob,realme,realme,,,C85,5G
 RMX5555,mob,realme,realme,,,C85 Pro,
+RMX5258,mob,realme,realme,,,C100,5G
+RMX5377,mob,realme,realme,,,C100i,
 RMX3834,mob,realme,realme,,,Note 50,
 RMX3933,mob,realme,realme,,,Note 60,
 RMX3938,mob,realme,realme,,,Note 60x,
 RMX5313,mob,realme,realme,,,Note 70,
 RMX5313,mob,realme,realme,,,Note 70T,
+RMX5388,mob,realme,realme,,,Note 80,
 RMX1831,mob,realme,realme,,,U1,
 RMX1833,mob,realme,realme,,,U1,
 RMX3870,mob,realme,realme,,,P1,5G
