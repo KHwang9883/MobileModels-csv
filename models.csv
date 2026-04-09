@@ -5575,9 +5575,12 @@ PLR110,mob,oneplus,一加,,macan,一加 Ace 6T,国行版
 CPH2767,mob,oneplus,一加,,macan,一加 15R,印度版
 CPH2769,mob,oneplus,一加,,macan,一加 15R,欧洲版 / 国际版
 CPH2771,mob,oneplus,一加,,macan,一加 15R,北美版
-PLZ110,mob,oneplus,一加,,,一加 15T,国行版
+PLZ110,mob,oneplus,一加,,fairlady,一加 15T,国行版
 PLU110,mob,oneplus,一加,,volkswagen,一加 Turbo 6,国行版
+CPH2793,mob,oneplus,一加,,volkswagen,一加 Nord 6,印度版
+CPH2795,mob,oneplus,一加,,volkswagen,一加 Nord 6,国际版
 PLY110,mob,oneplus,一加,,prado,一加 Turbo 6V,国行版
+CPH2805,mob,oneplus,一加,,prado,一加 Nord CE 6,印度版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -5768,9 +5771,12 @@ PLR110,mob,oneplus,OnePlus,,macan,OnePlus Ace 6T,China
 CPH2767,mob,oneplus,OnePlus,,macan,OnePlus 15R,India
 CPH2769,mob,oneplus,OnePlus,,macan,OnePlus 15R,Europe / Global
 CPH2771,mob,oneplus,OnePlus,,macan,OnePlus 15R,North America
-PLZ110,mob,oneplus,OnePlus,,,OnePlus 15T,China
+PLZ110,mob,oneplus,OnePlus,,fairlady,OnePlus 15T,China
 PLU110,mob,oneplus,OnePlus,,volkswagen,OnePlus Turbo 6,China
+CPH2793,mob,oneplus,OnePlus,,volkswagen,OnePlus Nord 6,India
+CPH2795,mob,oneplus,OnePlus,,volkswagen,OnePlus Nord 6,Global
 PLY110,mob,oneplus,OnePlus,,prado,OnePlus Turbo 6V,China
+CPH2805,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,India
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India
@@ -5860,9 +5866,9 @@ PKT110,mob,oppo,OPPO,,koktokay,OPPO Find X8s,
 PLB110,mob,oppo,OPPO,,slmh,OPPO Find X8s+,
 PKJ110,mob,oppo,OPPO,,zhufeng,OPPO Find X8 Ultra,
 PKU110,mob,oppo,OPPO,,zhufeng,OPPO Find X8 Ultra,卫星通信版
-PLJ110,mob,oppo,OPPO,,,OPPO Find X9,
-PLG110,mob,oppo,OPPO,,,OPPO Find X9 Pro,
-PLG120,mob,oppo,OPPO,,,OPPO Find X9 Pro,卫星通信版
+PLJ110,mob,oppo,OPPO,,zhujiang,OPPO Find X9,
+PLG110,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,
+PLG120,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,卫星通信版
 PME110,mob,oppo,OPPO,,,OPPO Find X9s Pro,
 PMA110,mob,oppo,OPPO,,,OPPO Find X9 Ultra,
 PMA120,mob,oppo,OPPO,,,OPPO Find X9 Ultra,卫星通信版
@@ -5874,8 +5880,8 @@ PHN110,mob,oppo,OPPO,,xueying,OPPO Find N3,典藏版
 PHT110,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,
 PKH110,mob,oppo,OPPO,,petrel,OPPO Find N5,
 PKH120,mob,oppo,OPPO,,petrel,OPPO Find N5,卫星通信版
-PLP110,mob,oppo,OPPO,,,OPPO Find N6,
-PLP120,mob,oppo,OPPO,,,OPPO Find N6,卫星通信版
+PLP110,mob,oppo,OPPO,,swangoose,OPPO Find N6,
+PLP120,mob,oppo,OPPO,,swangoose,OPPO Find N6,卫星通信版
 PCAM00,mob,oppo,OPPO,,,OPPO Reno,全网通版
 PCAT00,mob,oppo,OPPO,,,OPPO Reno,移动版
 PCCM00,mob,oppo,OPPO,,,OPPO Reno 10 倍变焦版,全网通版
@@ -6020,14 +6026,14 @@ PJY110,mob,oppo,OPPO,,,OPPO A3 Pro,
 PJY110,mob,oppo,OPPO,,,OPPO A5 Plus,
 PKQ110,mob,oppo,OPPO,,,OPPO A5,5G (2025)
 PKQ110,mob,oppo,OPPO,,,OPPO A6 Plus,
-PKV110,mob,oppo,OPPO,,,OPPO A5 活力版,
+PKV110,mob,oppo,OPPO,,alpha-l5,OPPO A5 活力版,
 PKW110,mob,oppo,OPPO,,,OPPO A5x,
 PKW110,mob,oppo,OPPO,,,OPPO A5m,
 PKP110,mob,oppo,OPPO,,alpha,OPPO A5 Pro,
 PLS120,mob,oppo,OPPO,,,OPPO A6,
-PLL110,mob,oppo,OPPO,,,OPPO A6 GT,
-PLL110,mob,oppo,OPPO,,,OPPO A6 Max,
-PLL110,mob,oppo,OPPO,,,OPPO A6l,
+PLL110,mob,oppo,OPPO,,baikal-h,OPPO A6 GT,
+PLL110,mob,oppo,OPPO,,baikal-h,OPPO A6 Max,
+PLL110,mob,oppo,OPPO,,baikal-h,OPPO A6l,
 PLN110,mob,oppo,OPPO,,,OPPO A6 Pro,
 PKW120,mob,oppo,OPPO,,,OPPO A6i,
 PLT120,mob,oppo,OPPO,,,OPPO A6s,
@@ -6044,7 +6050,7 @@ PCNM00,mob,oppo,OPPO,,,OPPO K5,全网通版
 PCNT00,mob,oppo,OPPO,,,OPPO K5,移动版
 PCLM50,mob,oppo,OPPO,,,OPPO K7,
 PERM00,mob,oppo,OPPO,,,OPPO K7x,
-PEXM00,mob,oppo,OPPO,,,OPPO K9,
+PEXM00,mob,oppo,OPPO,,ciri,OPPO K9,
 PERM10,mob,oppo,OPPO,,walle,OPPO K9s,
 PERM10,mob,oppo,OPPO,,walle,OPPO K9s,10 活力版
 PEYM00,mob,oppo,OPPO,,tiga,OPPO K9 Pro,
@@ -6054,16 +6060,16 @@ PGIM10,mob,oppo,OPPO,,eva,OPPO K10 Pro,
 PGGM10,mob,oppo,OPPO,,oscar-y,OPPO K10x,
 PJC110,mob,oppo,OPPO,,ziti,OPPO K11,
 PHF110,mob,oppo,OPPO,,larry,OPPO K11x,
-PJR110,mob,oppo,OPPO,,,OPPO K12,
-PKS110,mob,oppo,OPPO,,,OPPO K12 Plus,
+PJR110,mob,oppo,OPPO,,benz,OPPO K12,
+PKS110,mob,oppo,OPPO,,jeep,OPPO K12 Plus,
 PJT110,mob,oppo,OPPO,,avatar-m,OPPO K12x,
-PLD110,mob,oppo,OPPO,,,OPPO K12s,
-PLL110,mob,oppo,OPPO,,,OPPO K13s,
-PKV110,mob,oppo,OPPO,,,OPPO K13x,
+PLD110,mob,oppo,OPPO,,knight-l,OPPO K12s,
+PLL110,mob,oppo,OPPO,,baikal-h,OPPO K13s,
+PKV110,mob,oppo,OPPO,,alpha-l5,OPPO K13x,
 PLM110,mob,oppo,OPPO,,knight,OPPO K13 Turbo,
-PLE110,mob,oppo,OPPO,,,OPPO K13 Turbo,Pro
-PMH110,mob,oppo,OPPO,,,OPPO K15 Pro,
-PMG110,mob,oppo,OPPO,,,OPPO K15 Pro+,
+PLE110,mob,oppo,OPPO,,knight-h,OPPO K13 Turbo Pro,
+PMH110,mob,oppo,OPPO,,lux-m,OPPO K15 Pro,
+PMG110,mob,oppo,OPPO,,lux-h,OPPO K15 Pro+,
 OPD2101,pad,oppo,OPPO,,,OPPO Pad,
 OPD2102,pad,oppo,OPPO,,,OPPO Pad Air,
 OPD2201,pad,oppo,OPPO,,aries,OPPO Pad 2,
