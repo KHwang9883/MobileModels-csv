@@ -2698,8 +2698,13 @@ HED-AL00,mob,huawei,华为,,Hedy,HUAWEI Pura 80,
 LMR-AL00,mob,huawei,华为,,Lamarr,HUAWEI Pura 80 Pro,
 LMR-AL10,mob,huawei,华为,,Lamarr,HUAWEI Pura 80 Pro+,
 LMR-AL10,mob,huawei,华为,,LamarrU,HUAWEI Pura 80 Ultra,
+KEE-AL00,mob,huawei,华为,,Klee,HUAWEI Pura 90,
+MLN-AL00,mob,huawei,华为,,Malena,HUAWEI Pura 90 Pro,
+SCA-AL00,mob,huawei,华为,,Sicilia,HUAWEI Pura 90 Pro Max,
 VDE-AL00,mob,huawei,华为,,Verde,HUAWEI Pura X,
 VDE-AL10,mob,huawei,华为,,Verde,HUAWEI Pura X,典藏版
+HOP-AL00,mob,huawei,华为,,Hope,HUAWEI Pura X Max,
+HOP-AL10,mob,huawei,华为,,Hope,HUAWEI Pura X Max,典藏版
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,
 LEM-AL00,mob,huawei,华为,,Lem,HUAWEI Pocket 2,
 LEM-AL50,mob,huawei,华为,,Lem,HUAWEI Pocket 2,优享版
@@ -2907,6 +2912,7 @@ BRE-AL00b,mob,huawei,华为,,Bruce,华为畅享 70X 活力版,256GB/512GB
 JUY-AL00,mob,huawei,华为,,Judy,华为畅享 80,
 JUY-AL80,mob,huawei,华为,,Judy,华为畅享 90,
 JUY-AL50,mob,huawei,华为,,Judy,华为畅享 90 Plus,
+JUY-AL50,mob,huawei,华为,,Judy,华为畅享 90m Plus,
 CHZ-AL00,mob,huawei,华为,,Chenzhen,华为畅享 90 Pro Max,
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,Wi-Fi 版
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,3G 版
@@ -3155,6 +3161,8 @@ KLVG-16,computer,huawei,华为,,KelvinG,HUAWEI MateBook 14 2023,16GB 内存
 KLVG-32,computer,huawei,华为,,KelvinG,HUAWEI MateBook 14 2023,32GB 内存
 FLMH-16,computer,huawei,华为,,FlemingH,HUAWEI MateBook 14 酷睿 Ultra,16GB 内存
 FLMH-32,computer,huawei,华为,,FlemingH,HUAWEI MateBook 14 酷睿 Ultra,32GB 内存
+MNTXM-24A,computer,huawei,华为,,,HUAWEI MateBook 14 鸿蒙版,24GB 内存
+MNTXM-32A,computer,huawei,华为,,,HUAWEI MateBook 14 鸿蒙版,32GB 内存
 HKD-W58,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,i5 (8GB+512GB)
 HKD-W56,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,i5 (16GB+512GB)
 HKD-W76,computer,huawei,华为,,HookeD,HUAWEI MateBook 14s,i7 (16GB+512GB/1TB)
@@ -3446,6 +3454,10 @@ HD55KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,55
 HD65KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,65
 HD75KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,75
 HD85KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,85
+HD1XAJMS,tv,huawei,华为,,,华为 Vision 智慧屏 6 Pro,65
+HD77AJMS,tv,huawei,华为,,,华为 Vision 智慧屏 6 Pro,75
+HD85AJMS,tv,huawei,华为,,,华为 Vision 智慧屏 6 Pro,85
+HD98AJMS,tv,huawei,华为,,,华为 Vision 智慧屏 6 Pro,98
 HD55DESB,tv,huawei,华为,,,华为智慧屏 B 系列,3-500
 HD65DESB,tv,huawei,华为,,,华为智慧屏 B 系列,3-600
 HDB325A7,tv,huawei,华为,,,华为智慧屏 B 系列,3 55
@@ -3485,6 +3497,7 @@ MCH-AL00,watch,huawei,华为,,,HUAWEI WATCH Ultimate 2,非凡探索
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,黄金款
 EDD-B39,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,蓝宝石黄金款
 LNG-AL00,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,紫金款
+CHC-AL00,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,星钻绽放
 ELA-B19,watch,huawei,华为,,,HUAWEI WATCH GT,雅致款
 FTN-B19,watch,huawei,华为,,,HUAWEI WATCH GT,时尚版/运动版
 DAN-B19,watch,huawei,华为,,,HUAWEI WATCH GT 2,42mm
@@ -3511,6 +3524,7 @@ KSU-B29,watch,huawei,华为,,Konsu,HUAWEI WATCH GT 6 Pro,42mm
 ATM-B29,watch,huawei,华为,,Atum,HUAWEI WATCH GT 6 Pro,46mm
 RUN-B19,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,
 RUN-B29,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,
+CHT-B19,watch,huawei,华为,,Chitu,HUAWEI WATCH GT Runner 2,
 OCF-B29,watch,huawei,华为,,,HUAWEI WATCH GT 2022 典藏版,
 AND-B19,watch,huawei,华为,,Arnold,HUAWEI WATCH GT Cyber,
 TIA-B19,watch,huawei,华为,,,HUAWEI WATCH FIT,
@@ -3523,12 +3537,15 @@ YDA-B19V,watch,huawei,华为,,Yoda,HUAWEI WATCH FIT 2,雅致款 / 时尚款
 SLO-B19,watch,huawei,华为,,Solo,HUAWEI WATCH FIT 3,
 SYA-B19,watch,huawei,华为,,Seiya,HUAWEI WATCH FIT 4,
 SYA-B29,watch,huawei,华为,,Seiya,HUAWEI WATCH FIT 4 Pro,
+NKI-B19,watch,huawei,华为,,,HUAWEI WATCH FIT 5,
+NKI-B29,watch,huawei,华为,,,HUAWEI WATCH FIT 5 Pro,
 MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,黑色氟橡胶表带
 MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,米白色氟橡胶表带
 LCA-B10,watch,huawei,华为,,Luca,HUAWEI WATCH D2,幻夜黑
 LCA-B11,watch,huawei,华为,,Luca,HUAWEI WATCH D2,晨曦金
 LCA-B29,watch,huawei,华为,,Luca,HUAWEI WATCH D2,星云蓝
 SGA-B19,watch,huawei,华为,,Saga,HUAWEI WATCH Buds,
+LBA-B19,watch,huawei,华为,,,HUAWEI WATCH Buds 2,
 MIL-B29B,watch,huawei,华为,,Milo,HUAWEI WATCH B5,532
 JPT-B29B,watch,huawei,华为,,Jupiter,HUAWEI WATCH B5,536
 ODN-B99,watch,huawei,华为,,Odin,HUAWEI WATCH B5,736
@@ -3590,6 +3607,7 @@ FIJ-CG020,watch,huawei,华为,,,HUAWEI X GENTLE MONSTER Eyewear II,
 EVI-CG010,watch,huawei,华为,,,华为智能眼镜,
 LFT-G00,watch,huawei,华为,,,华为智能眼镜 2,
 ALI-CG01,watch,huawei,华为,,,HUAWEI Vision Glass,
+AIL-G01,watch,huawei,华为,,,华为 AI 眼镜,
 HUAWEI U9500,mob,huawei,华为,,,华为 Ascend D1,
 HUAWEI U9500E,mob,huawei,华为,,,华为 Ascend D1,XL
 HUAWEI U9510,mob,huawei,华为,,,华为 Ascend D1,四核
@@ -8623,6 +8641,7 @@ V2045A,mob,vivo,vivo,,PD2045,Y54s,5G
 V2164A,mob,vivo,vivo,,PD2164,Y55s,5G
 V2279A,mob,vivo,vivo,,PD2279,Y55t,5G
 V2559A,mob,vivo,vivo,,PD2559,Y60,5G
+V2559A,mob,vivo,vivo,,PD2559,Y6t,5G
 V2559BA,mob,vivo,vivo,,PD2559,Y60m,5G
 V2002A,mob,vivo,vivo,,PD2002,Y70s,5G
 V2002A,mob,vivo,vivo,,PD2019,Y70t,5G
