@@ -1641,7 +1641,7 @@ PGT-AN20,mob,honor,荣耀,,Piaget,荣耀 Magic5 至臻版,
 VER-AN10,mob,honor,荣耀,,Veyron,荣耀 Magic V2,
 VER-AN10,mob,honor,荣耀,,Veyron,荣耀 Magic V2 至臻版,
 VER-AN10,mob,honor,荣耀,,Veyron,荣耀 Magic V2 RSR 保时捷设计,
-VER-AN00,mob,honor,荣耀,,Veyron,荣耀 Magic Vs2,
+VER-AN00,mob,honor,荣耀,,VeyronS,荣耀 Magic Vs2,
 BVL-AN00,mob,honor,荣耀,,Bvlgari,荣耀 Magic6,
 BVL-AN16,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 Pro,
 BVL-AN20,mob,honor,荣耀,,Bvlgari,荣耀 Magic6 至臻版,
@@ -1756,11 +1756,11 @@ MAA-AN00,mob,honor,荣耀,,Mia,荣耀 100,
 MAA-AN10,mob,honor,荣耀,,MiaP,荣耀 100 Pro,
 ELI-AN00,mob,honor,荣耀,,Ellie,荣耀 200,
 ELP-AN00,mob,honor,荣耀,,EllieP,荣耀 200 Pro,
-AMM-AN00,mob,honor,荣耀,,,荣耀 300,
-AMP-AN00,mob,honor,荣耀,,,荣耀 300 Pro,
-AMP-AN10,mob,honor,荣耀,,,荣耀 300 Ultra,
-DNN-AN00,mob,honor,荣耀,,,荣耀 400,
-DNP-AN00,mob,honor,荣耀,,,荣耀 400 Pro,
+AMM-AN00,mob,honor,荣耀,,Mina,荣耀 300,
+AMP-AN00,mob,honor,荣耀,,MinaP,荣耀 300 Pro,
+AMP-AN10,mob,honor,荣耀,,MinaP,荣耀 300 Ultra,
+DNN-AN00,mob,honor,荣耀,,Danny,荣耀 400,
+DNP-AN00,mob,honor,荣耀,,DannyP,荣耀 400 Pro,
 MEY-AN00,mob,honor,荣耀,,Merry,荣耀 500,
 MEP-AN00,mob,honor,荣耀,,MerryP,荣耀 500 Pro,
 KNT-AL10,mob,honor,荣耀,,Knight,荣耀 V8,全网通版
@@ -1780,7 +1780,7 @@ OXF-AN10,mob,honor,荣耀,,OxfordP,荣耀 V30 PRO,5G
 YOK-AN10,mob,honor,荣耀,,York,荣耀 V40,5G
 ALA-AN70,mob,honor,荣耀,,,荣耀 V40 轻奢版,5G
 VCA-AN00,mob,honor,荣耀,,Victoria,荣耀 V Purse,
-AMG-AN00,mob,honor,荣耀,,,荣耀 GT,
+AMG-AN00,mob,honor,荣耀,,MinaGT,荣耀 GT,
 PPG-AN00,mob,honor,荣耀,,PhilippeGT,荣耀 GT Pro,
 AAP-AN00,mob,honor,荣耀,,,荣耀 WIN,
 AAK-AN00,mob,honor,荣耀,,,荣耀 WIN RT,
@@ -1844,11 +1844,11 @@ BRC-AN00,mob,honor,荣耀,,Bruce,荣耀 X60,
 BRP-AN00,mob,honor,荣耀,,BruceP,荣耀 X60 Pro,
 BRP-AN80,mob,honor,荣耀,,BruceP,荣耀 X60 Pro,卫星版
 LYN-AN00,mob,honor,荣耀,,LilyN,荣耀 X60i,
-AGI-AN00,mob,honor,荣耀,,,荣耀 X60 GT,
+AGI-AN00,mob,honor,荣耀,,MinaGTI,荣耀 X60 GT,
 MTN-AN00,mob,honor,荣耀,,,荣耀 X70,
 MTN-AN80,mob,honor,荣耀,,,荣耀 X70,12GB+512GB
 ABR-AN00,mob,honor,荣耀,,Amber,荣耀 X70i,
-LNA-AN00,mob,honor,荣耀,,,荣耀 X80i,
+LNA-AN00,mob,honor,荣耀,,Luna,荣耀 X80i,
 JMM-AL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,全网通标配版
 JMM-AL10,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,全网通高配版
 JMM-TL00,mob,honor,荣耀,,Jimmy,荣耀 V9 Play,移动定制标配版
@@ -2027,6 +2027,7 @@ AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版
 AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版
 AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 Wi-Fi 版
 AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 LTE 版
+NDL-W00,pad,honor,荣耀,,Nadal,荣耀平板 Z5a,11 英寸 Wi-Fi 版
 ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 Z6,11.5 英寸 Wi-Fi 版
 ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 Z6 第二代,11.5 英寸 Wi-Fi 版
 HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,12.1 英寸 5G 版
@@ -2384,14 +2385,17 @@ LLY-NX1,mob,honor,HONOR,,Lily,HONOR 200 Lite,
 LLY-NX3,mob,honor,HONOR,,Lily,HONOR 200 Lite,
 ALT-NX1,mob,honor,HONOR,,Alita,HONOR 200 Smart,
 ALT-NX3,mob,honor,HONOR,,Alita,HONOR 200 Smart,
-DNY-NX9,mob,honor,HONOR,,,HONOR 400,
-DNP-NX9,mob,honor,HONOR,,,HONOR 400 Pro,
+DNY-NX9,mob,honor,HONOR,,Danny,HONOR 400,
+DNP-NX9,mob,honor,HONOR,,DannyP,HONOR 400 Pro,
 ABR-NX1,mob,honor,HONOR,,Amber,HONOR 400 Lite,
 ABR-NX3,mob,honor,HONOR,,Amber,HONOR 400 Lite,
 LGN-NX1,mob,honor,HONOR,,Logan,HONOR 400 Smart,
 LGN-NX3,mob,honor,HONOR,,Logan,HONOR 400 Smart,
-LNA-NX1,mob,honor,HONOR,,,HONOR 600 Lite,
-LNA-NX3,mob,honor,HONOR,,,HONOR 600e,
+NLA-NX1,mob,honor,HONOR,,Nala,HONOR 500 Smart,
+VKJ-NX9,mob,honor,HONOR,,Vicky,HONOR 600,
+VKP-NX9,mob,honor,HONOR,,VickyP,HONOR 600 Pro,
+LNA-NX1,mob,honor,HONOR,,Luna,HONOR 600 Lite,
+LNA-NX3,mob,honor,HONOR,,Luna,HONOR 600e,
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,
@@ -2486,8 +2490,8 @@ LLY-LX3,mob,honor,HONOR,,Lily,HONOR X8b,
 ABR-LX1,mob,honor,HONOR,,Amber,HONOR X8c,
 ABR-LX2,mob,honor,HONOR,,Amber,HONOR X8c,
 ABR-LX3,mob,honor,HONOR,,Amber,HONOR X8c,
-LNA-LX2,mob,honor,HONOR,,,HONOR X8d,
-LNA-LX3,mob,honor,HONOR,,,HONOR X8d,
+LNA-LX2,mob,honor,HONOR,,Luna,HONOR X8d,
+LNA-LX3,mob,honor,HONOR,,Luna,HONOR X8d,
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR X9,
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR X9,
 ANY-LX3,mob,honor,HONOR,,Andy,HONOR X9,
@@ -2519,6 +2523,9 @@ AGM-W09HN,pad,honor,HONOR,,AgassiRM,HONOR Pad X8 Lite,
 NDL-W09,pad,honor,HONOR,,Nadal,HONOR Pad X8a,Wi-Fi
 NDL-L03,pad,honor,HONOR,,Nadal,HONOR Pad X8a,LTE
 NDL-L09,pad,honor,HONOR,,Nadal,HONOR Pad X8a,LTE
+NDL2-W09,pad,honor,HONOR,,Nadal2,HONOR Pad X8b,Wi-Fi
+NDL2-L03,pad,honor,HONOR,,Nadal2,HONOR Pad X8b,LTE
+NDL2-L09,pad,honor,HONOR,,Nadal2,HONOR Pad X8b,LTE
 ELN-W09,pad,honor,HONOR,,Eileen,HONOR Pad X9,Wi-Fi
 ELN-L03,pad,honor,HONOR,,Eileen,HONOR Pad X9,LTE
 ELN-L09,pad,honor,HONOR,,Eileen,HONOR Pad X9,LTE
@@ -3067,7 +3074,13 @@ KOB2KZ-W09,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,8 英寸 Wi-Fi 版
 KOB2KZ-AL00,pad,huawei,华为,,Kobe2KZ,华为擎云 C5,8 英寸 LTE 版
 BTKZ-W00,pad,huawei,华为,,BartokZ,华为擎云 C5 (第 2 代),11.5 英寸 Wi-Fi 版
 BTKZ-AL00,pad,huawei,华为,,BartokZ,华为擎云 C5 (第 2 代),11.5 英寸 LTE 版
-BJS5-W00,pad,huawei,华为,,,华为擎云 C5 (第 3 代),11.5 英寸 Wi-Fi 版
+BJS5-W00,pad,huawei,华为,,BartokR,华为擎云 C5 (第 3 代),11.5 英寸 Wi-Fi 版
+BYD5-W10,pad,huawei,华为,,Taoxingzhi,华为擎云 C5 (第 4 代),11.5 英寸 Wi-Fi 版
+BYS5-W10,pad,huawei,华为,,Taoxingzhi,华为擎云 C5 (第 4 代),11.5 英寸 Wi-Fi 版
+BJD5-W10,pad,huawei,华为,,Taoxingzhi,华为擎云 C5 (第 4 代),11.5 英寸 Wi-Fi 版
+BYD5-AL10,pad,huawei,华为,,Taoxingzhi,华为擎云 C5 (第 4 代),11.5 英寸 SIM 卡版
+BYS-AL10,pad,huawei,华为,,Taoxingzhi,华为擎云 C5 (第 4 代),11.5 英寸 SIM 卡版
+BJD-AL10,pad,huawei,华为,,Taoxingzhi,华为擎云 C5 (第 4 代),11.5 英寸 SIM 卡版
 BZI-W00,pad,huawei,华为,,,华为平板 C5e,10.1 英寸 2022 Wi-Fi 版
 BZI-W20,pad,huawei,华为,,,华为平板 C5e,10.1 英寸 2022 Wi-Fi 版
 BZI-AL00,pad,huawei,华为,,,华为平板 C5e,10.1 英寸 2022 LTE 版
@@ -3075,14 +3088,16 @@ BZI-AL20,pad,huawei,华为,,,华为平板 C5e,10.1 英寸 2022 LTE 版
 AGS5Z-W09,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,10.4 英寸 Wi-Fi 版
 AGS5Z-W19,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,10.4 英寸 Wi-Fi 版
 AGS5Z-AL00,pad,huawei,华为,,Agassi5Z,华为擎云 C5e,10.4 英寸 LTE 版
-BZF5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),11 英寸 Wi-Fi 版
-BLF5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),11 英寸 Wi-Fi 版
-BZH5-W00,pad,huawei,华为,,,华为擎云 C5e (第 2 代),11 英寸 Wi-Fi 版
-BZF5-W00,pad,huawei,华为,,,华为擎云 C5s,11 英寸 Wi-Fi 版
+BZF5-W00,pad,huawei,华为,,Agassi6,华为擎云 C5e (第 2 代),11 英寸 Wi-Fi 版
+BZH5-W00,pad,huawei,华为,,Agassi6,华为擎云 C5e (第 2 代),11 英寸 Wi-Fi 版
+BZF5-W00,pad,huawei,华为,,Agassi6,华为擎云 C5s,11 英寸 Wi-Fi 版
+BZH5-W00,pad,huawei,华为,,Agassi6,华为擎云 C5s,11 英寸 Wi-Fi 版
+BLF5-W00,pad,huawei,华为,,Agassi6,华为擎云 C5x,11 英寸 Wi-Fi 版
 BVE-W10,pad,huawei,华为,,,华为擎云 C5z,10.4 英寸 Wi-Fi 版
 DBY-W09,pad,huawei,华为,,Debussy,华为平板 C7,10.95 英寸 Wi-Fi 版
 DBY2Z-AL00,pad,huawei,华为,,Debussy2Z,华为擎云 C7,11.5 英寸 Wi-Fi 版
-BBG7-W00,pad,huawei,华为,,,华为擎云 C7 (第 2 代),11.5 英寸 Wi-Fi 版
+BBG7-W00,pad,huawei,华为,,Tagore,华为擎云 C7 (第 2 代),11.5 英寸 Wi-Fi 版
+BBH7-W00,pad,huawei,华为,,Salinger,华为擎云 C7 (第 3 代),11.5 英寸 Wi-Fi 版
 WEB-W00,pad,huawei,华为,,Weber,华为擎云 C9,13.2 英寸 Wi-Fi 版
 HZ-W09,computer,huawei,华为,,Hertz,HUAWEI MateBook,m3
 HZ-W19,computer,huawei,华为,,Hertz,HUAWEI MateBook,m5
@@ -3307,16 +3322,8 @@ KLVV-W5821,computer,huawei,华为,,KelvinV,华为擎云 L420,8GB+256GB
 KLVV-W5821B,computer,huawei,华为,,KelvinV,华为擎云 L420,8GB+512GB
 KLVV-W5821C,computer,huawei,华为,,KelvinV,华为擎云 L420,16GB+256GB
 KLVV-W5821D,computer,huawei,华为,,KelvinV,华为擎云 L420,16GB+512GB
-HAD-W72-001,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-002,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-003,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-004,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-005,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-006,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-007,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-008,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-009,computer,huawei,华为,,Harden,华为擎云 HM940,
-HAD-W72-010,computer,huawei,华为,,Harden,华为擎云 HM940,
+HAD-W72-001,computer,huawei,华为,,Harden,华为擎云 HM940,标准版 (32GB+1TB)
+HAD-W72-006,computer,huawei,华为,,Harden,华为擎云 HM940,标准版 (24GB+512GB)
 HEGE-550,tv,huawei,华为,,Hege,华为智慧屏 V 系列,55i-A (4GB+64GB)
 HEGE-550B,tv,huawei,华为,,Hege,华为智慧屏 V 系列,55i-B (4GB+32GB)
 HEGE-560,tv,huawei,华为,,Hege,华为智慧屏 V 系列,65
@@ -3553,11 +3560,14 @@ GLL-AL30B,watch,huawei,华为,,Galileo,HUAWEI WATCH B7,536
 GLL-AL09B,watch,huawei,华为,,GalileoPro,HUAWEI WATCH B7,738
 MLY-B10,watch,huawei,华为,,,HUAWEI WATCH B9,D10
 SYA-B19B,watch,huawei,华为,,Seiya,华为擎云 H3540,
+SLO-B19,watch,huawei,华为,,Solo,华为擎云 H3Y10,
 PNX-B19B,watch,huawei,华为,,Phoinix,华为擎云 H5546,
 VLI-B19B,watch,huawei,华为,,Vili,华为擎云 H5556,
+ATM-B19B,watch,huawei,华为,,Atum,华为擎云 H5566,
 VLI-B29B,watch,huawei,华为,,Vilipro,华为擎云 H5756,
-ARC-AL2B,watch,huawei,华为,,,华为擎云 H7546,
-LCA-B12,watch,huawei,华为,,,华为擎云 H9D20,
+ARC-AL2B,watch,huawei,华为,,Archi,华为擎云 H7546,
+RTS-AL2B,watch,huawei,华为,,,华为擎云 H7556,
+LCA-B12,watch,huawei,华为,,Luca,华为擎云 H9D20,
 ERS-B29,band,huawei,华为,,,华为运动手环,
 TER-B09,band,huawei,华为,,Terra,华为手环 3,
 TER-B29,band,huawei,华为,,Terra,华为手环 3 Pro,
@@ -4930,6 +4940,9 @@ L85RC-MAXE,tv,mitv,小米,,,REDMI 电视 MAX 2026,85 一级能效版
 L85RC-AP,tv,mitv,小米,,,REDMI 电视 MAX 2026,85 2026
 L100RC-MAXE,tv,mitv,小米,,,REDMI 电视 MAX 2026,100 一级能效版
 L100RC-AP,tv,mitv,小米,,,REDMI 电视 MAX 2026,100 2026
+P27UDA-RGP,tv,mitv,小米,,,REDMI 显示器 G Pro 27U,
+P27UEA-RGP,tv,mitv,小米,,,REDMI 显示器 G Pro 27U 2026,
+P32UEA-RGP,tv,mitv,小米,,,REDMI 显示器 G Pro 32U 2026,
 MDZ-18-DA,tv_hub,mitv,小米,,,小米电视主机,
 MDZ-19-DA,tv_hub,mitv,小米,,,小米家庭影院,
 MDZ-05-AA,tv_hub,mitv,小米,,,小米盒子,
@@ -4976,26 +4989,29 @@ L32M7-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV 5A,32
 L40M7-EAIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV 5A,40
 L43M7-EAIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV 5A,43
 L32M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,32
-L32MA-AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,32 2024 Edition
 L40M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,40
 L43M8-5AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,43
-L43MA-AFIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,43 2024 Edition
-L43MB-AFIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A,43 2025
-L32MB-APIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A Pro,QLED TV A Pro 32
-L43MA-AUIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV A Pro,4K 43
+L32MA-AIN,tv,mitv,Xiaomi,N39,,Xiaomi Smart TV A,32 2024
+L43MA-AFIN,tv,mitv,Xiaomi,N39,,Xiaomi Smart TV A,43 2024
+L43MA-AUIN,tv,mitv,Xiaomi,N39,,Xiaomi Smart TV A Pro,4K 43
+L32MB-AIN,tv,mitv,Xiaomi,O39,,Xiaomi Smart TV A,32
+L43MB-AFIN,tv,mitv,Xiaomi,O39,,Xiaomi Smart TV A,43 2025
 L43M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,43
-L43M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,43 2023 Edition
-L43MA-AUIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,43 2023 Edition
+L43M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,43 2023
+L43MA-AUIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,43 2023
 L50M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,50
-L50M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,50 2023 Edition
-L50MA-AUIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,50 2024 Edition
+L50M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,50 2023
 L55M7-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,55
-L55M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,55 2023 Edition
-L55MA-AIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,55 2024 Edition
-L65M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,65 2023 Edition
+L55M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,55 2023
+L65M8-A2IN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X,65 2023
+L50MA-AUIN,tv,mitv,Xiaomi,N39,,Xiaomi Smart TV X,50 2024
+L55MA-AIN,tv,mitv,Xiaomi,N39,,Xiaomi Smart TV X,55 2024
 L43MB-AIN,tv,mitv,Xiaomi,O39,,Xiaomi 4K TV X,43
 L50MB-AIN,tv,mitv,Xiaomi,O39,,Xiaomi 4K TV X,50
 L55MB-AIN,tv,mitv,Xiaomi,O39,,Xiaomi 4K TV X,55
+L32MB-FIN,tv,mitv,Xiaomi,O39,,Xiaomi Smart TV F,32
+L43MB-FIN,tv,mitv,Xiaomi,O39,,Xiaomi 4K TV FX,43
+L55MB-FIN,tv,mitv,Xiaomi,O39,,Xiaomi 4K TV FX,55
 L55M6-EQG,tv,mitv,Xiaomi,,,Mi QLED TV,Q1 4K 55
 L75M6-ESG,tv,mitv,Xiaomi,,,Mi QLED TV,Q1 75
 L43M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,43
@@ -5004,14 +5020,19 @@ L50M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,50
 L55M8-5XIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,55
 L55MA-SIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,QLED Series 55
 L65MA-SIN,tv,mitv,Xiaomi,,,Xiaomi Smart TV X Pro,QLED Series 65
-L43MB-APIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV X Pro,43 2025 Edition
-L55MB-APIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV X Pro,55 2025 Edition
-L65MB-APIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV X Pro,65 2025 Edition
-L43MB-FIN,tv,mitv,Xiaomi,,,Xiaomi 4K TV FX,43
-L55MB-FIN,tv,mitv,Xiaomi,,,Xiaomi 4K TV FX,55
+L32MB-APIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV A Pro,32
+L32MB-APIN,tv,mitv,Xiaomi,,,Xiaomi Smart QLED TV,G 32
+L43MB-APIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV X Pro,43 2025
+L55MB-APIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV X Pro,55 2025
+L65MB-APIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV X Pro,65 2025
+L75MB-APIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV X Pro,75 2026
 L43MB-FPIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV FX Pro,43
+L55MB-FPIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV F Pro,55
 L55MB-FPIN,tv,mitv,Xiaomi,,,Xiaomi QLED TV FX Pro,55
 O55M7-Z2IN,tv,mitv,Xiaomi,,,Xiaomi OLED Vision TV,55
+L55MC-IN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED,55
+L65MC-IN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED,65
+L75MC-IN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED,75
 L32M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,32
 L32M7-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,32
 L43M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,43
@@ -5021,10 +5042,10 @@ L50M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,X50
 L55M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,X55
 L65M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,X65
 L32R8-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,32
-L32MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,32 2024 Edition
+L32MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,32 2024
 L43R8-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,43
-L43MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,4K 43 2024 Edition
-L55MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,4K 55 2024 Edition
+L43MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,4K 43 2024
+L55MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,4K 55 2024
 MDZ-22-AB,tv,mitv,Xiaomi,,,Mi Box,4K
 L32M5-AN,tv,mitv,Xiaomi,,,Mi TV 4 (Indonesia),32
 L43M5-AN,tv,mitv,Xiaomi,,,Mi TV 4 (Indonesia),43
@@ -5042,126 +5063,170 @@ L32M5-5ASP,tv,mitv,Xiaomi,,,Mi TV 4A (Other regions),32
 L43M5-5ASP,tv,mitv,Xiaomi,,,Mi TV 4S (Other regions),43
 L55M5-5ASP,tv,mitv,Xiaomi,,,Mi TV 4S (Other regions),55
 L65M5-5ASP,tv,mitv,Xiaomi,,,Mi TV 4S (Other regions),65
-L32M6-6AEU,tv,mitv,Xiaomi,,,Mi TV P1 (EEA),32
-L43M6-6AEU,tv,mitv,Xiaomi,,,Mi TV P1 (EEA),43
-L50M6-6AEU,tv,mitv,Xiaomi,,,Mi TV P1 (EEA),50
-L55M6-6AEU,tv,mitv,Xiaomi,,,Mi TV P1 (EEA),55
+L32M6-6AEU,tv,mitv,Xiaomi,,,Mi TV P1 (Europe),32
+L43M6-6AEU,tv,mitv,Xiaomi,,,Mi TV P1 (Europe),43
+L50M6-6AEU,tv,mitv,Xiaomi,,,Mi TV P1 (Europe),50
+L55M6-6AEU,tv,mitv,Xiaomi,,,Mi TV P1 (Europe),55
 L32M6-6ARG,tv,mitv,Xiaomi,,,Mi TV P1 (Other regions),32
 L43M6-6ARG,tv,mitv,Xiaomi,,,Mi TV P1 (Other regions),43
 L50M6-6ARG,tv,mitv,Xiaomi,,,Mi TV P1 (Other regions),50
 L55M6-6ARG,tv,mitv,Xiaomi,,,Mi TV P1 (Other regions),55
-L43M7-7AEU,tv,mitv,Xiaomi,,,Xiaomi TV P1E (EEA),43
-L55M7-7AEU,tv,mitv,Xiaomi,,,Xiaomi TV P1E (EEA),55
+L43M7-7AEU,tv,mitv,Xiaomi,,,Xiaomi TV P1E (Europe),43
+L55M7-7AEU,tv,mitv,Xiaomi,,,Xiaomi TV P1E (Europe),55
 L75M6-ESG,tv,mitv,Xiaomi,,,Mi TV Q1,75
 L55M6-ESG,tv,mitv,Xiaomi,,,Xiaomi TV Q1E,55
-L50M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (EEA),50
-L55M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (EEA),55
-L65M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (EEA),65
+L50M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Europe),50
+L55M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Europe),55
+L65M7-Q2EU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Europe),65
 L50M7-Q2RU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Russia),50
 L55M7-Q2RU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Russia),55
 L65M7-Q2RU,tv,mitv,Xiaomi,,,Xiaomi TV Q2 (Russia),65
 L65M7-Q2TWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 Q2 (Taiwan),65 型
-L32M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),32
-L43M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),43
-L50M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),50
-L55M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),55
-L58M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (EEA),58
+L32M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Europe),32
+L43M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Europe),43
+L50M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Europe),50
+L55M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Europe),55
+L58M7-EAEU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Europe),58
 L32M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),32
-L43M8-AFRU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),FHD 43
-L43M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),UHD 43
+L43M8-AFRU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),43 FHD
+L43M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),43 UHD
 L50M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),50
 L55M7-EARU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),55
 L65M8-A2RU,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Russia),65
-L43M7-ESEA,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Southeast Asia),FHD 43
+L43M7-ESEA,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Southeast Asia),43 FHD
 L58M7-EASEA,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Southeast Asia),58
 L32M7-EAID,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Indonesia),32
-L43M7-EAID,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Indonesia),UHD 43
+L43M7-EAID,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Indonesia),43 UHD
 L55M7-EAID,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Indonesia),55
-L43M7-ETI,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Thailand),FHD 43
+L43M7-ETI,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Thailand),43 FHD
 L32M7-EAVN,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Vietnam),32
-L43M7-ETH,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Vietnam),FHD 43
+L43M7-ETH,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Vietnam),43 FHD
 L43M7-EATWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 A2 (Taiwan),43 型
 L55M7-EATWN,tv,mitv,Xiaomi,,,Xiaomi 智慧顯示器 A2 (Taiwan),55 型
 L32M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),32
-L43M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),UHD 43
+L43M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),43 UHD
 L55M7-EAUKR,tv,mitv,Xiaomi,,,Xiaomi TV A2 (Bangladesh),55
 L32M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,32
 L43M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,43
 L50M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,50
 L55M7-FVEU,tv,mitv,Xiaomi,,,Xiaomi Fire TV F2,55
-L32M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),32
-L43M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),FHD 43
-L50M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),50
-L55M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (EEA),55
+L32M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (Europe),32
+L43M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (Europe),43 FHD
+L50M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (Europe),50
+L55M8-P2EU,tv,mitv,Xiaomi,,,Xiaomi TV A (Europe),55
 L32M8-A2RU,tv,mitv,Xiaomi,,,Xiaomi TV A (Russia),32
 L32M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),32
-L43M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),FHD 43
+L43M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),43 FHD
 L55M8-P2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A (Southeast Asia),55
 L32M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),32
-L43M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),FHD 43
+L43M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),43 FHD
 L55M8-P2ID,tv,mitv,Xiaomi,,,Xiaomi TV A (Indonesia),55
-L43MA-AUEU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (EEA),43 2025
-L50MA-AEU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (EEA),50 2025
-L55MA-AEU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (EEA),55 2025
-L65MA-AEU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (EEA),65 2025
-L43MA-AFRU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Russia),FHD 43 2025
+L43MA-AUEU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Europe),43 2025
+L50MA-AEU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Europe),50 2025
+L55MA-AEU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Europe),55 2025
+L65MA-AEU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Europe),65 2025
+L43MA-AFRU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Russia),43 FHD 2025
 L43MA-AURU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Russia),43 2025
 L50MA-ARU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Russia),50 2025
 L55MA-ARU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Russia),55 2025
 L65MA-ARU,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Russia),65 2025
-L43MA-AFTWN,tv,mitv,Xiaomi,N39,,Xiaomi TV A (East Asia),FHD 43 2025
+L43MA-AFTWN,tv,mitv,Xiaomi,N39,,Xiaomi TV A (East Asia),43 FHD 2025
 L55MA-ATWN,tv,mitv,Xiaomi,N39,,Xiaomi TV A (East Asia),55 2025
 L65MA-ATWN,tv,mitv,Xiaomi,N39,,Xiaomi TV A (East Asia),65 2025
 L50MA-AKR,tv,mitv,Xiaomi,N39,,Xiaomi TV A (South Korea),50 2025
-L43MA-AFSEA,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Southeast Asia),FHD 43 2025
-L43MA-ASEA,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Southeast Asia),UHD 43 2025
+L43MA-AFSEA,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Southeast Asia),43 FHD 2025
+L43MA-ASEA,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Southeast Asia),43 UHD 2025
 L55MA-ASEA,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Southeast Asia),55 2025
-L43MA-AFID,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Indonesia),FHD 43 2025
+L43MA-AFID,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Indonesia),43 FHD 2025
 L55MA-AID,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Indonesia),55 2025
-L43MA-AFME,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Middle East),FHD 43 2025
-L43MA-AME,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Middle East),UHD 43 2025
-L55MA-AME,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Middle East),55 2025
-L65MA-AME,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Middle East),65 2025
-L43MA-APH,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Latin America),UHD 43 2025
+L43MA-AFME,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Ukraine/Middle East),43 FHD 2025
+L43MA-AME,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Ukraine/Middle East),43 UHD 2025
+L55MA-AME,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Ukraine/Middle East),55 2025
+L65MA-AME,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Ukraine/Middle East),65 2025
+L43MA-APH,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Latin America),43 UHD 2025
 L50MA-APH,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Latin America),50 2025
 L55MA-APH,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Latin America),55 2025
 L65MA-APH,tv,mitv,Xiaomi,N39,,Xiaomi TV A (Latin America),65 2025
+L32MB-ARU,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Russia/Belarus/Kazakhstan),32 2026
+L43MB-AFRU,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Russia/Belarus/Kazakhstan),43 FHD 2026
+L43MB-AURU,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Russia/Belarus/Kazakhstan),43 UHD 2026
+L50MB-ARU,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Russia/Belarus/Kazakhstan),50 2026
+L50MB-AORU,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Russia/Belarus/Kazakhstan),50 2026
+L55MB-ARU,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Russia/Belarus/Kazakhstan),55 2026
+L65MB-ARU,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Russia/Belarus/Kazakhstan),65 2026
+L65MB-AORU,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Russia/Belarus/Kazakhstan),65 2026
 L32MB-AEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (East Asia),32 2026
-L43MB-AFEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (East Asia),FHD 43 2026
-L43MB-AFSEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Southeast Asia),FHD 43 2026
-L43MB-AUSEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Southeast Asia),UHD 43 2026
+L43MB-AFEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (East Asia),43 FHD 2026
+L50MB-AEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (East Asia),50 2026
+L55MB-AEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (East Asia),55 2026
+L65MB-AEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (East Asia),65 2026
+L32MB-ASEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Southeast Asia),32 2026
+L43MB-AFSEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Southeast Asia),43 FHD 2026
+L43MB-AUSEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Southeast Asia),43 UHD 2026
 L55MB-ASEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Southeast Asia),55 2026
 L65MB-ASEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Southeast Asia),65 2026
-L32M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),32
-L32MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),32 2026
-L43M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),43
-L43MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),43 2025
-L43MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),43 2026
-L50M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),50
-L50MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),50 2026
-L55M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),55
-L55MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),55 2025
-L55MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),55 2026
-L65M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),65
-L65MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),65 2025
-L65MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),65 2026
-L75MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),75 2025
-L75MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (EEA),75 2026
-L43MA-SRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia),43 2025
-L55MA-SRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia),55 2025
-L65MA-SRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia),65 2025
-L75MA-SRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia),75 2025
+L32MB-AID,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Indonesia),32 2026
+L43MB-AFID,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Indonesia),43 FHD 2026
+L32MB-AME,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Ukraine/Middle East),32 2026
+L43MB-AFME,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Ukraine/Middle East),43 FHD 2026
+L43MB-AUME,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Ukraine/Middle East),43 UHD 2026
+L50MB-AME,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Ukraine/Middle East),50 2026
+L55MB-AME,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Ukraine/Middle East),55 2026
+L65MB-AME,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Ukraine/Middle East),65 2026
+L55MB-ATR,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Turkey),55 2026
+L65MB-ATR,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Turkey),65 2026
+L50MB-AEA,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Latin America),50 2026
+L32MB-APH,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Philippines/Chile/Peru),32 2026
+L43MB-AFPH,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Philippines/Chile/Peru),43 FHD 2026
+L55MB-APH,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Philippines/Chile/Peru),55 2026
+L65MB-APH,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Philippines/Chile/Peru),65 2026
+L32MB-AMX,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Mexico),32 2026
+L43MB-AFMX,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Mexico),43 FHD 2026
+L55MB-AMX,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Mexico),55 2026
+L65MB-AMX,tv,mitv,Xiaomi,O39,,Xiaomi TV A (Mexico),65 2026
+L32MB-FAEU,tv,mitv,Xiaomi,O39,,Xiaomi TV F (Europe),32 2026
+L43MB-FAEU,tv,mitv,Xiaomi,O39,,Xiaomi TV F (Europe),43 2026
+L50MB-FAEU,tv,mitv,Xiaomi,O39,,Xiaomi TV F (Europe),50 2026
+L55MB-FAEU,tv,mitv,Xiaomi,O39,,Xiaomi TV F (Europe),55 2026
+L65MB-FAEU,tv,mitv,Xiaomi,O39,,Xiaomi TV F (Europe),65 2026
+L32M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),32
+L43M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),43
+L50M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),50
+L55M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),55
+L65M8-A2EU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),65
+L43MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),43 2025
+L55MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),55 2025
+L65MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),65 2025
+L75MA-SEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),75 2025
+L32MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),32 2026
+L43MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),43 2026
+L50MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),50 2026
+L55MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),55 2026
+L65MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),65 2026
+L75MB-APEU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Europe),75 2026
+L43MA-SRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),43 2025
+L55MA-SRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),55 2025
+L65MA-SRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),65 2025
+L75MA-SRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),75 2025
+L32MB-APRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),32 2026
+L43MB-APRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),43 2026
+L50MB-APRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),50 2026
+L55MB-APRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),55 2026
+L65MB-APRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),65 2026
+L75MB-APRU,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Russia/Belarus/Kazakhstan),75 2026
 L32M8-A2TWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),32
 L43M8-A2TWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),43
-L43MA-STWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),43 2025
-L43MB-APTWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),43 2026
 L55M8-A2TWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),55
-L55MA-STWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),55 2025
-L55MB-APTWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),55 2026
 L65M8-A2TWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),65
+L43MA-STWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),43 2025
+L55MA-STWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),55 2025
 L65MA-STWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),65 2025
-L65MB-APTWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),65 2026
 L75MA-STWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),75 2025
+L32MB-APEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),32 2026
+L43MB-APTWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),43 2026
+L50MB-APTWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),50 2026
+L55MB-APTWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),55 2026
+L65MB-APTWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),65 2026
 L75MB-APTWN,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (East Asia),75 2026
 L32M8A2T,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Japan),32
 L43M8A2T,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Japan),43
@@ -5170,83 +5235,178 @@ L65M8A2T,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Japan),65
 L50M8-A2KR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (South Korea),50
 L55M8-A2KR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (South Korea),55
 L65M8-A2KR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (South Korea),65
-L32MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),32 2026
 L43M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),43
-L43MA-SSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),43 2025
-L43MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),43 2026
 L55M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),55
-L55MA-SSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),55 2025
-L55MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),55 2026
 L65M8-A2SEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),65
+L43MA-SSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),43 2025
+L55MA-SSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),55 2025
 L65MA-SSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),65 2025
+L32MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),32 2026
+L43MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),43 2026
+L50MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),50 2026
+L55MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),55 2026
 L65MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),65 2026
 L75MB-APSEA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Southeast Asia),75 2026
 L43M8-A2ID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),43
-L43MA-SID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),43 2025
-L43MB-APID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),43 2026
 L55M8-A2ID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),55
-L55MA-SID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),55 2025
-L55MB-APID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),55 2026
 L65M8-A2ID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),65
+L43MA-SID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),43 2025
+L55MA-SID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),55 2025
 L65MA-SID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),65 2025
+L32MB-APID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),32 2026
+L43MB-APID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),43 2026
+L50MB-APID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),50 2026
+L55MB-APID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),55 2026
 L65MB-APID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),65 2026
-L32M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),32
-L43M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),43
-L43MA-SME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),43 2025
-L50M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),50
-L55M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),55
-L55MA-SME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),55 2025
-L65M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),65
-L65MA-SME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Middle East),65 2025
+L75MB-APID,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Indonesia),75 2026
+L32M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),32
+L43M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),43
+L50M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),50
+L55M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),55
+L65M8-A2ME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),65
+L43MA-SME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),43 2025
+L55MA-SME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),55 2025
+L65MA-SME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),65 2025
+L32MB-APME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),32 2026
+L43MB-APME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),43 2026
+L50MB-APME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),50 2026
+L55MB-APME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),55 2026
+L65MB-APME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),65 2026
+L75MB-APME,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Ukraine/Middle East),75 2026
+L43MB-APTR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Turkey),43 2026
+L50MB-APTR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Turkey),50 2026
+L55MB-APTR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Turkey),55 2026
+L65MB-APTR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Turkey),65 2026
+L75MB-APTR,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Turkey),75 2026
 L32M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),32
 L43M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),43
-L43MA-SPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),43 2025
 L50M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),50
 L55M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),55
-L55MA-SPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),55 2025
 L65M8-A2LA,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),65
-L65MA-SPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),65 2025
-L75MA-SPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Latin America),75 2025
-L43MB-FEU,tv,mitv,Xiaomi,,,Xiaomi TV F (EEA),43 2026
-L50MB-FEU,tv,mitv,Xiaomi,,,Xiaomi TV F (EEA),50 2026
-L55MB-FEU,tv,mitv,Xiaomi,,,Xiaomi TV F (EEA),55 2026
-L65MB-FEU,tv,mitv,Xiaomi,,,Xiaomi TV F (EEA),65 2026
-L43MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (EEA),43 2026
-L50MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (EEA),50 2026
-L55MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (EEA),55 2026
-L65MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (EEA),65 2026
-L75MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (EEA),75 2026
-L55MA-SPLEU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (EEA),55
-L65MA-SPLEU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (EEA),65
-L75MA-SPLEU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (EEA),75
-L55MA-SPLRU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Russia),55
-L65MA-SPLRU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Russia),65
-L75MA-SPLRU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Russia),75
-L55MA-SPLEA,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (East Asia),55
-L65MA-SPLEA,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (East Asia),65
-L75MA-SPLEA,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (East Asia),75
-L55MA-SPLME,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Middle East),55
-L65MA-SPLME,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Middle East),65
-L75MA-SPLME,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Middle East),75
-L86M7-ESRU,tv,mitv,Xiaomi,,,Xiaomi TV Max (Russia),86
+L43MA-SPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),43 2025
+L55MA-SPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),55 2025
+L65MA-SPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),65 2025
+L75MA-SPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),75 2025
+L32MB-APPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),32 2026
+L43MB-APPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),43 2026
+L50MB-APPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),50 2026
+L55MB-APPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),55 2026
+L65MB-APPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),65 2026
+L75MB-APPH,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Philippines/Chile/Peru),75 2026
+L43MB-APMX,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Mexico),43 2026
+L50MB-APMX,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Mexico),50 2026
+L55MB-APMX,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Mexico),55 2026
+L65MB-APMX,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Mexico),65 2026
+L75MB-APMX,tv,mitv,Xiaomi,,,Xiaomi TV A Pro (Mexico),75 2026
+L32MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (Europe),32 2026
+L43MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (Europe),43 2026
+L50MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (Europe),50 2026
+L55MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (Europe),55 2026
+L65MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (Europe),65 2026
+L75MB-FPEU,tv,mitv,Xiaomi,,,Xiaomi TV F Pro (Europe),75 2026
+L55MA-SPLEU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Europe),55 2025
+L65MA-SPLEU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Europe),65 2025
+L75MA-SPLEU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Europe),75 2025
+L55MA-SPLRU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan),55 2025
+L65MA-SPLRU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan),65 2025
+L75MA-SPLRU,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan),75 2025
+L55MA-SPLEA,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (East Asia),55 2025
+L65MA-SPLEA,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (East Asia),65 2025
+L75MA-SPLEA,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (East Asia),75 2025
+L55MA-SPLME,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Ukraine/Middle East),55 2025
+L65MA-SPLME,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Ukraine/Middle East),65 2025
+L75MA-SPLME,tv,mitv,Xiaomi,N32,,Xiaomi TV S Mini LED (Ukraine/Middle East),75 2025
+L55MB-SEU,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Europe),55 2026
+L65MB-SEU,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Europe),65 2026
+L75MB-SEU,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Europe),75 2026
+L55MB-SRU,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Russia/Belarus/Kazakhstan),55 2026
+L65MB-SRU,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Russia/Belarus/Kazakhstan),65 2026
+L75MB-SRU,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Russia/Belarus/Kazakhstan),75 2026
+L55MB-STWN,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (East Asia),55 2026
+L65MB-STWN,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (East Asia),65 2026
+L75MB-STWN,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (East Asia),75 2026
+L55MB-SSEA,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Southeast Asia),55 2026
+L65MB-SSEA,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Southeast Asia),65 2026
+L75MB-SSEA,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Southeast Asia),75 2026
+L55MB-SME,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Ukraine/Middle East),55 2026
+L65MB-SME,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Ukraine/Middle East),65 2026
+L75MB-SME,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Ukraine/Middle East),75 2026
+L55MB-SPH,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Philippines/Chile/Peru),55 2026
+L65MB-SPH,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Philippines/Chile/Peru),65 2026
+L75MB-SPH,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Philippines/Chile/Peru),75 2026
+L55MB-SMX,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Mexico),55 2026
+L65MB-SMX,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Mexico),65 2026
+L75MB-SMX,tv,mitv,Xiaomi,O32,,Xiaomi TV S Pro Mini LED (Mexico),75 2026
+L55MC-SEU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Europe),55 2026
+L65MC-SEU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Europe),65 2026
+L75MC-SEU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Europe),75 2026
+L85MC-SEU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Europe),85 2026
+L98MC-SEU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Europe),98 2026
+L55MC-SRU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan),55 2026
+L65MC-SRU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan),65 2026
+L75MC-SRU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan),75 2026
+L85MC-SRU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan),85 2026
+L98MC-SRU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Russia/Belarus/Kazakhstan),98 2026
+L55MC-STWN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (East Asia),55 2026
+L65MC-STWN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (East Asia),65 2026
+L75MC-STWN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (East Asia),75 2026
+L85MC-STWN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (East Asia),85 2026
+L98MC-STWN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (East Asia),98 2026
+L55MC-SHK,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Hong Kong SAR),55 2026
+L65MC-SHK,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Hong Kong SAR),65 2026
+L75MC-SHK,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Hong Kong SAR),75 2026
+L55MC-SJP,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Japan tuner),55 2026
+L65MC-SJP,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Japan tuner),65 2026
+L75MC-SJP,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Japan tuner),75 2026
+L85MC-SJP,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Japan tuner),85 2026
+L98MC-SJP,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Japan tuner),98 2026
+L55MC-SSEA,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Southeast Asia),55 2026
+L65MC-SSEA,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Southeast Asia),65 2026
+L75MC-SSEA,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Southeast Asia),75 2026
+L85MC-SSEA,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Southeast Asia),85 2026
+L98MC-SSEA,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Southeast Asia),98 2026
+L55MC-SAU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Australia/New Zealand),55 2026
+L65MC-SAU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Australia/New Zealand),65 2026
+L75MC-SAU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Australia/New Zealand),75 2026
+L85MC-SAU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Australia/New Zealand),85 2026
+L98MC-SAU,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Australia/New Zealand),98 2026
+L55MC-SME,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Ukraine/Middle East),55 2026
+L65MC-SME,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Ukraine/Middle East),65 2026
+L75MC-SME,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Ukraine/Middle East),75 2026
+L85MC-SME,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Ukraine/Middle East),85 2026
+L98MC-SME,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Ukraine/Middle East),98 2026
+L55MC-SPH,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Philippines/Chile/Peru),55 2026
+L65MC-SPH,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Philippines/Chile/Peru),65 2026
+L75MC-SPH,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Philippines/Chile/Peru),75 2026
+L85MC-SPH,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Philippines/Chile/Peru),85 2026
+L98MC-SPH,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Philippines/Chile/Peru),98 2026
+L55MC-SMX,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Mexico),55 2026
+L65MC-SMX,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Mexico),65 2026
+L75MC-SMX,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Mexico),75 2026
+L85MC-SMX,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Mexico),85 2026
+L98MC-SMX,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED (Mexico),98 2026
+L86M7-ESRU,tv,mitv,Xiaomi,,,Xiaomi TV Max (Russia/Belarus/Kazakhstan),86
 L86M7-ESTWN,tv,mitv,Xiaomi,,,Xiaomi TV Max (East Asia),86
-L86M7-ESME,tv,mitv,Xiaomi,,,Xiaomi TV Max (Middle East),86
-L85MA-MAXEU,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (EEA),85
-L100MA-MAXEU,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (EEA),100
-L85MA-MAXRU,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Russia),85
-L100MA-MAXRU,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Russia),100
+L86M7-ESME,tv,mitv,Xiaomi,,,Xiaomi TV Max (Ukraine/Middle East),86
+L85MA-MAXEU,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Europe),85
+L100MA-MAXEU,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Europe),100
+L85MA-MAXRU,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Russia/Belarus/Kazakhstan),85
+L100MA-MAXRU,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Russia/Belarus/Kazakhstan),100
 L85MA-MAXEA,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (East Asia),85
 L100MA-MAXEA,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (East Asia),100
-L85MA-MAXME,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Middle East),85
-L100MA-MAXME,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Middle East),100
+L85MA-MAXME,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Ukraine/Middle East),85
+L100MA-MAXME,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Ukraine/Middle East),100
 MDZ-16-AA,tv,mitv,Xiaomi,,,Mi Box,
 MDZ-16-AB,tv,mitv,Xiaomi,,,Mi Box,
 MDZ-22-AB,tv,mitv,Xiaomi,,,Mi Box,S
 MDZ-28-AA,tv,mitv,Xiaomi,,,Xiaomi TV Box,
 MDZ-28-AA,tv,mitv,Xiaomi,,,Xiaomi TV Box,S (2nd Gen)
+MDZ-32-AA,tv,mitv,Xiaomi,,,Xiaomi TV Box,S (3rd Gen)
 MDZ-24-AA,tv,mitv,Xiaomi,,,Mi TV Stick,
 MDZ-24-AB,tv,mitv,Xiaomi,,,Mi TV Stick,
 MDZ-27-AA,tv,mitv,Xiaomi,,,Xiaomi TV Stick,4K
+MDZ-34-AA,tv,mitv,Xiaomi,,,Xiaomi TV Stick,4K (2nd Gen)
+MDZ-33-AA,tv,mitv,Xiaomi,,,Xiaomi TV Stick,4K (2nd Gen)
 XT1085,mob,motorola,Motorola,,victara,Moto X,
 XT1079,mob,motorola,Motorola,,thea_ds,Moto G LTE,移动/联通版
 XT1077,mob,motorola,Motorola,,thea_ds,Moto G LTE,电信/联通版
@@ -5898,9 +6058,9 @@ PKU110,mob,oppo,OPPO,,zhufeng,OPPO Find X8 Ultra,卫星通信版
 PLJ110,mob,oppo,OPPO,,zhujiang,OPPO Find X9,
 PLG110,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,
 PLG120,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,卫星通信版
-PME110,mob,oppo,OPPO,,,OPPO Find X9s Pro,
-PMA110,mob,oppo,OPPO,,,OPPO Find X9 Ultra,
-PMA120,mob,oppo,OPPO,,,OPPO Find X9 Ultra,卫星通信版
+PME110,mob,oppo,OPPO,,venus,OPPO Find X9s Pro,
+PMA110,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,
+PMA120,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,卫星通信版
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,
@@ -6145,6 +6305,7 @@ OWW242,watch,oppo,OPPO,,xingchen,OPPO Watch X2 Mini,
 OWW251,watch,oppo,OPPO,,starriver,OPPO Watch X2,
 OWW262,watch,oppo,OPPO,,,OPPO Watch S,
 OWW261,watch,oppo,OPPO,,taycan,OPPO Watch X3,
+OWW263,watch,oppo,OPPO,,,OPPO Watch X3 Mini,
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,
@@ -6456,6 +6617,8 @@ OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,Wi-Fi
 OPD2303,pad,oppo,OPPO,,,OPPO Pad Neo,LTE
 OPD2406,pad,oppo,OPPO,,dunhuang,OPPO Pad 3,
 OPD2402,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,
+OPD2502,pad,oppo,OPPO,,greenland,OPPO Pad 5,Wi-Fi
+OPD2503,pad,oppo,OPPO,,greenland,OPPO Pad 5,5G
 OPD2419,pad,oppo,OPPO,,,OPPO Pad SE,Wi-Fi
 OPD2420,pad,oppo,OPPO,,,OPPO Pad SE,LTE
 OB19B1,band,oppo,OPPO,,,OPPO Band,Style
@@ -7572,6 +7735,7 @@ SM-F966Z,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (SoftBank)
 SCG34,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (au)
 SC-56F,mob,samsung,Samsung,,q7q,Galaxy Z Fold7,Japan (NTT Docomo)
 SM-F968B,mob,samsung,Samsung,,q7mq,Galaxy Z TriFold,Global
+SM-F968U1,mob,samsung,Samsung,,q7mq,Galaxy Z TriFold,US Unlocked
 SM-F9680,mob,samsung,Samsung,,q7mq,Galaxy Z TriFold,China
 SM-F968N,mob,samsung,Samsung,,q7mq,Galaxy Z TriFold,South Korea
 SM-F700F,mob,samsung,Samsung,,bloomq,Galaxy Z Flip,Global
@@ -8705,6 +8869,7 @@ V2506A,mob,vivo,vivo,,PD2506,Y500,
 V2516A,mob,vivo,vivo,,PD2516,Y500 Pro,
 V2531A,mob,vivo,vivo,,PD2531,Y500i,
 V2531A,mob,vivo,vivo,,PD2531,Y500s,
+V2561A,mob,vivo,vivo,,PD2561,Y600 Pro,
 V2115A,mob,vivo,vivo,,PD2115,T1,
 V2123A,mob,vivo,vivo,,PD2123,T1x,
 V2199GA,mob,vivo,vivo,,PD2199,T2,
@@ -9226,6 +9391,7 @@ I2512,mob,vivo,vivo,,,iQOO Z11 5G,
 I2507,mob,vivo,vivo,,PD2532F,iQOO Z11x 5G,
 I2510,mob,vivo,vivo,,PD2542F,iQOO Z11 Lite 5G,
 I2515,mob,vivo,vivo,,,iQOO Z11 Lite 44W 5G,
+J2505,mob,vivo,vivo,,PD2527F,JOVI X300 FE,
 V2427,mob,vivo,vivo,,PD2437F,JOVI V50,
 V2440,mob,vivo,vivo,,PD2447F,JOVI V50 Lite 5G,
 J2507,mob,vivo,vivo,,PD2529F,JOVI V70 5G,
@@ -9538,6 +9704,9 @@ A402XM,mob,xiaomi,小米,N12,rothko,Xiaomi 14T Pro,日本版 (SoftBank)
 2512BPNDAI,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,印度版
 25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国行版 (卫星通讯)
 25128PNA1G,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国际版
+2602DPT53G,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,国际版
+2602EPTC0G,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,国际版
+2602EPTC0R,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,日本版 (无锁)
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版
@@ -9827,6 +9996,7 @@ A501XM,mob,xiaomi,小米,O19,spring,REDMI 15 5G,日本版 (SoftBank)
 2508CRN2BI,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,印度版
 2508CRN2BR,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,日本版
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
+2602BRNA4I,mob,xiaomi,小米,P25,somalia,REDMI 15A 5G,印度版
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版
@@ -10026,6 +10196,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 25098RA98E,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,5G 欧洲版
 25098RA98I,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,5G 印度版
 25098RA98T,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,5G 沙特版
+26022PCACI,mob,xiaomi,小米,P17,kunzite,REDMI Note 15 SE,5G 印度版
 25100RA69G,mob,xiaomi,小米,P6,charoite,REDMI Note 15 Pro,国际版
 25080RABDC,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,国行版
 25080RABDG,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,5G 国际版
@@ -10089,6 +10260,7 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
 2510DRK44C,mob,xiaomi,小米,P11,annibale,REDMI K90,
 25102RKBEC,mob,xiaomi,小米,P11U,myron,REDMI K90 Pro Max,
 25102RK69C,mob,xiaomi,小米,P11UIP,myron,REDMI K90 Pro Max,冠军版
+2604FRK1EC,mob,xiaomi,小米,P12,prague,REDMI K90 Max,
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
@@ -10132,6 +10304,9 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 25128RN17A,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,国际版
 25128RN17Y,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,国际版
 25128RN17L,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,拉美版
+26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70 5G,国行版
+26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70m 5G,国行版
+26020RN1AI,mob,xiaomi,小米,P25,somalia,REDMI A7 Pro 5G,印度版
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国行版
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国际版
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,国行版
@@ -10162,7 +10337,13 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 2509BRP2DC,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,国行版
 2509BRP2DG,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,国际版
 2509BRP2DI,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,印度版
+2603ARP14C,pad,xiaomi,小米,P85,guitar,REDMI Pad 2 SE,国行版
+2603ARP14G,pad,xiaomi,小米,P85,guitar,REDMI Pad 2 9.7,国际版
+2604ERP4DC,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 SE 4G,国行版
+2604ERP4DG,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 9.7 4G,国际版
+2604ERP4DI,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 9.7 4G,印度版
 25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,
+26048RP6AC,pad,xiaomi,小米,P88,yili,REDMI K Pad 2,
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,国际版
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,国际版
@@ -10235,6 +10416,8 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,印度版
 25062PC34E,mob,xiaomi,小米,O19AP,creek,POCO M7,欧洲版
 24108PCE2I,mob,xiaomi,小米,C3FP,flame,POCO M7 5G,印度版
 25057PC09I,mob,xiaomi,小米,O19,spring,POCO M7 Plus 5G,印度版
+26067PC09G,mob,xiaomi,小米,O19,spring,POCO M8s 5G,国际版
+26067PC09E,mob,xiaomi,小米,O19,spring,POCO M8s 5G,欧洲版
 2409FPCC4G,mob,xiaomi,小米,O17P,beryl,POCO M7 Pro 5G,国际版
 25118PC98G,mob,xiaomi,小米,P17,kunzite,POCO M8 5G,国际版
 25118PC98I,mob,xiaomi,小米,P17,kunzite,POCO M8 5G,印度版
@@ -10272,6 +10455,8 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 2509ARPBDG,pad,xiaomi,小米,P83P,flute,POCO Pad M1,国际版
 FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
 21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,
+2405AVPB7C,pad,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra
+25033VP3FC,pad,xiaomi,小米,,suiren,小米澎湃智能座舱,YU7/新一代 SU7
 2503CVPC6C,pad,xiaomi,小米,P802,konghou,Xiaomi YU7 后排移动控制屏,
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,电信版
@@ -10623,11 +10808,14 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
 2510DRK44C,mob,xiaomi,小米,P11,annibale,REDMI K90,
 25102RKBEC,mob,xiaomi,小米,P11U,myron,REDMI K90 Pro Max,
 25102RK69C,mob,xiaomi,小米,P11UIP,myron,REDMI K90 Pro Max,冠军版
+2604FRK1EC,mob,xiaomi,小米,P12,prague,REDMI K90 Max,
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
 M1803E6T,mob,xiaomi,小米,E6,ysl,红米 S2,移动 4G+ 版
 M1803E6C,mob,xiaomi,小米,E6,ysl,红米 S2,联通电信定制版
+26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70 5G,
+26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70m 5G,
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad M7,
@@ -10636,9 +10824,14 @@ M1803E6C,mob,xiaomi,小米,E6,ysl,红米 S2,联通电信定制版
 25040RP0AC,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,
 25099RP13C,pad,xiaomi,小米,P83,flute,REDMI Pad 2 Pro,
 2509BRP2DC,pad,xiaomi,小米,P83X,organ,REDMI Pad 2 Pro 5G,
+2603ARP14C,pad,xiaomi,小米,P85,guitar,REDMI Pad 2 SE,
+2604ERP4DC,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 SE 4G,
 25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,
+26048RP6AC,pad,xiaomi,小米,P88,yili,REDMI K Pad 2,
 FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
 21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,
+2405AVPB7C,pad,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra
+25033VP3FC,pad,xiaomi,小米,,suiren,小米澎湃智能座舱,YU7/新一代 SU7
 2503CVPC6C,pad,xiaomi,小米,P802,konghou,Xiaomi YU7 后排移动控制屏,
 MI-ONE PLUS,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,WCDMA
 MI-ONE C1,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,CDMA
@@ -10806,6 +10999,9 @@ A402XM,mob,xiaomi,Xiaomi,N12,rothko,Xiaomi 14T Pro,Japan (SoftBank)
 2512BPNDAI,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,India
 25128PNA1G,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,Global
 25128PNA1C,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,"China, Tiantong & Beidou satellites"
+2602DPT53G,mob,xiaomi,Xiaomi,P12A,chagall,Xiaomi 17T,Global
+2602EPTC0G,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Global
+2602EPTC0R,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Japan (SIM Free)
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Dual-network)
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Full-network)
@@ -11067,6 +11263,7 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank)
 2508CRN2BC,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,China
 2508CRN2BR,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Japan
 25082RNC1C,mob,xiaomi,Xiaomi,P15X,tornado,REDMI 15R 5G,China
+2602BRNA4I,mob,xiaomi,Xiaomi,P25,somalia,REDMI 15A 5G,India
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (1GB RAM)
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (2GB RAM)
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,TD-SCDMA (1GB RAM)
@@ -11267,6 +11464,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 25098RA98I,mob,xiaomi,Xiaomi,P17,kunzite,REDMI Note 15 5G,India
 25098RA98C,mob,xiaomi,Xiaomi,P17,kunzite,REDMI Note 15 5G,China
 25098RA98T,mob,xiaomi,Xiaomi,P17,kunzite,REDMI Note 15 5G,Saudi Arabia
+26022PCACI,mob,xiaomi,Xiaomi,P17,kunzite,REDMI Note 15 SE 5G,India
 25100RA69G,mob,xiaomi,Xiaomi,P6,charoite,REDMI Note 15 Pro,Global
 25080RABDG,mob,xiaomi,Xiaomi,P16,lapis,REDMI Note 15 Pro 5G,Global
 25080RABDI,mob,xiaomi,Xiaomi,P16,lapis,REDMI Note 15 Pro 5G,India
@@ -11330,6 +11528,7 @@ M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,China
 2510DRK44C,mob,xiaomi,Xiaomi,P11,annibale,REDMI K90,China
 25102RKBEC,mob,xiaomi,Xiaomi,P11U,myron,REDMI K90 Pro Max,China
 25102RK69C,mob,xiaomi,Xiaomi,P11UIP,myron,REDMI K90 Pro Max,Automobili Lamborghini Squadra Corse China
+2604FRK1EC,mob,xiaomi,Xiaomi,P12,prague,REDMI K90 Max,
 2016020,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,32GB
 2016021,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,64GB & 128GB
 M1803E6G,mob,xiaomi,Xiaomi,E6,ysl,Redmi S2,Global
@@ -11373,6 +11572,9 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,India
 25128RN17A,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Global
 25128RN17Y,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Global
 25128RN17L,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Latin America
+26020RN1AI,mob,xiaomi,Xiaomi,P25,somalia,REDMI A7 Pro 5G,India
+26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70 5G,China
+26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70m 5G,China
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,Global
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,Global
@@ -11445,6 +11647,8 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,India
 25062PC34E,mob,xiaomi,Xiaomi,O19AP,creek,POCO M7,Europe
 24108PCE2I,mob,xiaomi,Xiaomi,C3FP,flame,POCO M7 5G,India
 25057PC09I,mob,xiaomi,Xiaomi,O19,spring,POCO M7 Plus 5G,India
+26067PC09G,mob,xiaomi,Xiaomi,O19,spring,POCO M8s 5G,Global
+26067PC09E,mob,xiaomi,Xiaomi,O19,spring,POCO M8s 5G,Europe
 2409FPCC4G,mob,xiaomi,Xiaomi,O17P,beryl,POCO M7 Pro 5G,Global
 25118PC98G,mob,xiaomi,Xiaomi,P17,kunzite,POCO M8 5G,Global
 25118PC98I,mob,xiaomi,Xiaomi,P17,kunzite,POCO M8 5G,India
@@ -11530,19 +11734,27 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China
 2505DRP06G,pad,xiaomi,Xiaomi,O84X,koto,REDMI Pad 2 4G,Global
 2505DRP06I,pad,xiaomi,Xiaomi,O84X,koto,REDMI Pad 2 4G,India
 2505DRP06E,pad,xiaomi,Xiaomi,O84X,koto,REDMI Pad 2 4G,Europe
-25079RPDCC,pad,xiaomi,Xiaomi,O88,turner,REDMI K Pad,China
 25099RP13G,pad,xiaomi,Xiaomi,P83,flute,REDMI Pad 2 Pro,Global
 25099RP13I,pad,xiaomi,Xiaomi,P83,flute,REDMI Pad 2 Pro,India
 25099RP13C,pad,xiaomi,Xiaomi,P83,flute,REDMI Pad 2 Pro,China
 2509BRP2DG,pad,xiaomi,Xiaomi,P83X,organ,REDMI Pad 2 Pro 5G,Global
 2509BRP2DI,pad,xiaomi,Xiaomi,P83X,organ,REDMI Pad 2 Pro 5G,India
 2509BRP2DC,pad,xiaomi,Xiaomi,P83X,organ,REDMI Pad 2 Pro 5G,China
+2603ARP14G,pad,xiaomi,Xiaomi,P85,guitar,REDMI Pad 2 9.7,Global
+2603ARP14C,pad,xiaomi,Xiaomi,P85,guitar,REDMI Pad 2 SE,China
+2604ERP4DG,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 9.7 4G,Global
+2604ERP4DI,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 9.7 4G,India
+2604ERP4DC,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 SE 4G,China
+25079RPDCC,pad,xiaomi,Xiaomi,O88,turner,REDMI K Pad,China
+26048RP6AC,pad,xiaomi,Xiaomi,P88,yili,REDMI K Pad 2,China
 2405CPCFBG,pad,xiaomi,Xiaomi,N83P,dizi,POCO Pad,Wi-Fi Global
 24074PCD2I,pad,xiaomi,Xiaomi,N83U,ruan,POCO Pad 5G,India
 25099RP08G,pad,xiaomi,Xiaomi,O82P,uke,POCO Pad X1,Global
 2509ARPBDG,pad,xiaomi,Xiaomi,P83P,flute,POCO Pad M1,Global
 FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,
 21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,Bio-inspired Quadruped Robot
+2405AVPB7C,pad,xiaomi,Xiaomi,,,Xiaomi EV Cockpit,SU7 2024/SU7 Ultra
+25033VP3FC,pad,xiaomi,Xiaomi,,suiren,Xiaomi EV Cockpit,YU7/SU7 2026
 2503CVPC6C,mob,xiaomi,Xiaomi,P802,konghou,Xiaomi YU7 Back Row Mobile Control Screen,
 VP001,device,zhixuan,华为智选,,,优畅享 20 Plus,5G
 VP002,device,zhixuan,华为智选,,,优畅享 20,5G
