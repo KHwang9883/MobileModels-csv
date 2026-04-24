@@ -2169,6 +2169,7 @@ GDH-X,pad,honor,荣耀,,GodelH,荣耀笔记本 X14 锐龙版 2026,
 FMI-76,pad,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,R7 (16GB+512GB)
 FMI-721,pad,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,R7 (32GB+1TB)
 FRB-X,pad,honor,荣耀,,FermiB,荣耀笔记本 X14 Plus 2025,
+LVC-X,pad,honor,荣耀,,,荣耀笔记本 X14 Plus 2026,
 BBR-WAI9,pad,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,i3
 BBR-WAH9,pad,honor,荣耀,,BohrBR,荣耀 MagicBook X 15,i5
 BDR-WDH,pad,honor,荣耀,,BohrDR,荣耀 MagicBook X 15 2022,i5 (8GB+512GB)
@@ -2188,16 +2189,20 @@ BRG-561,pad,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i5 (16GB+1TB)
 BRG-765,pad,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i7 (16GB+512GB)
 BRG-761,pad,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i7 (16GB+1TB)
 BRG-X,pad,honor,荣耀,,BornG,荣耀笔记本 X16 2026,
+GOG-X,pad,honor,荣耀,,,荣耀笔记本 X16 2026 战斗版,
 GOH-X,pad,honor,荣耀,,,荣耀笔记本 X16 锐龙版 2026,
 BRI-76,pad,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,R7 (16GB+512GB)
 BRI-721,pad,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,R7 (32GB+1TB)
 BRB-X,pad,honor,荣耀,,BornB,荣耀笔记本 X16 Plus 2025,
+LHC-X,pad,honor,荣耀,,,荣耀笔记本 X16 Plus 2026,
 FRI-F56Z,pad,honor,荣耀,,FermiF,荣耀 MagicBook Z3 14 2023,i5
 FRD-WDG9,pad,honor,荣耀,,,荣耀猎人游戏本 V700,i5 (8GB+512GB) (华为终端)
 FRD-WFG9,pad,honor,荣耀,,,荣耀猎人游戏本 V700,i5 (16GB+512GB) (华为终端)
 FRD-WFD9,pad,honor,荣耀,,,荣耀猎人游戏本 V700,i7 (16GB+512GB) (华为终端)
 FRR-WFG9,pad,honor,荣耀,,,荣耀猎人游戏本 V700,i5 (16GB+512GB) (荣耀终端)
 FRR-WFD9,pad,honor,荣耀,,,荣耀猎人游戏本 V700,i7 (16GB+512GB) (荣耀终端)
+NWB-G,pad,honor,荣耀,,,荣耀 WIN 游戏本 H7,
+NWC2-G,pad,honor,荣耀,,,荣耀 WIN 游戏本 H9,
 OSCA-550A,tv,honor,荣耀,,Oscar,荣耀智慧屏,55 英寸 (2GB+16GB)
 OSCA-550AX,tv,honor,荣耀,,Oscar,荣耀智慧屏,55 英寸 (4GB+32GB)
 OSCA-550,tv,honor,荣耀,,Oscar,荣耀智慧屏 PRO,55 英寸 (2GB+32GB)
@@ -6269,8 +6274,8 @@ OPD2409,pad,oppo,OPPO,,erhai,OPPO Pad 4 Pro,
 OPD2417,pad,oppo,OPPO,,fiji,OPPO Pad SE,
 OPD2506,pad,oppo,OPPO,,himalayan,OPPO Pad 5,
 OPD2501,pad,oppo,OPPO,,greenland,OPPO Pad Air5,
-OPD2511,pad,oppo,OPPO,,,OPPO Pad 5 Pro,
-OPD2515,pad,oppo,OPPO,,,OPPO Pad Mini,
+OPD2511,pad,oppo,OPPO,,iceland,OPPO Pad 5 Pro,
+OPD2515,pad,oppo,OPPO,,ivy,OPPO Pad Mini,
 OB19B1,band,oppo,OPPO,,,OPPO Band,运动版
 OB19O1,band,oppo,OPPO,,,OPPO Band,运动版
 OB19B1,band,oppo,OPPO,,,OPPO Band,运动版 (国际版)
@@ -8869,6 +8874,7 @@ V2506A,mob,vivo,vivo,,PD2506,Y500,
 V2516A,mob,vivo,vivo,,PD2516,Y500 Pro,
 V2531A,mob,vivo,vivo,,PD2531,Y500i,
 V2531A,mob,vivo,vivo,,PD2531,Y500s,
+V2531A,mob,vivo,vivo,,PD2531,Y6,
 V2561A,mob,vivo,vivo,,PD2561,Y600 Pro,
 V2115A,mob,vivo,vivo,,PD2115,T1,
 V2123A,mob,vivo,vivo,,PD2123,T1x,
@@ -9053,6 +9059,7 @@ V2515,mob,vivo,vivo,,PD2509F,X300,
 V2514,mob,vivo,vivo,,PD2502F,X300 Pro,
 V2537,mob,vivo,vivo,,PD2527F,X300 FE,
 V2542,mob,vivo,vivo,,PD2527F,X300 FE,
+V2562,mob,vivo,vivo,,PD2547F,X300 Ultra,
 vivo 1819,mob,vivo,vivo,,PD1831F,V15,
 vivo 1920,mob,vivo,vivo,,PD1948F,V17,
 vivo 1907,mob,vivo,vivo,,PD1913F,V17 Neo,
@@ -9117,6 +9124,7 @@ V2453,mob,vivo,vivo,,PD2447F,V50 Lite 5G,
 V2511,mob,vivo,vivo,,PD2503F,V60,
 V2512,mob,vivo,vivo,,PD2503F,V60,
 V2530,mob,vivo,vivo,,,V60 Lite,
+V2549,mob,vivo,vivo,,,V60 Lite,
 V2529,mob,vivo,vivo,,,V60 Lite 5G,
 V2513,mob,vivo,vivo,,,V60e,
 V2538,mob,vivo,vivo,,PD2529F,V70,
@@ -9340,7 +9348,7 @@ V2336,mob,vivo,vivo,,PD2341F,Y200e 5G,
 V2416,mob,vivo,vivo,,PD2418F,Y300 5G,
 V2422,mob,vivo,vivo,,PD2422F,Y300+ 5G,
 V2402,mob,vivo,vivo,,,Y300 Pro 5G,
-V2455,mob,vivo,vivo,,,Y400,
+V2455,mob,vivo,vivo,,PD2470F,Y400,
 V2506,mob,vivo,vivo,,PD2469F,Y400 5G,
 V2439,mob,vivo,vivo,,PD2451F,Y400 Pro 5G,
 I1927,mob,vivo,vivo,,PD1964F,iQOO 3,4G
@@ -9392,6 +9400,7 @@ I2507,mob,vivo,vivo,,PD2532F,iQOO Z11x 5G,
 I2510,mob,vivo,vivo,,PD2542F,iQOO Z11 Lite 5G,
 I2515,mob,vivo,vivo,,,iQOO Z11 Lite 44W 5G,
 J2505,mob,vivo,vivo,,PD2527F,JOVI X300 FE,
+J2510,mob,vivo,vivo,,PD2547F,JOVI X300 Ultra,
 V2427,mob,vivo,vivo,,PD2437F,JOVI V50,
 V2440,mob,vivo,vivo,,PD2447F,JOVI V50 Lite 5G,
 J2507,mob,vivo,vivo,,PD2529F,JOVI V70 5G,
@@ -9440,6 +9449,7 @@ M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版
 M2233W1,watch,xiaomi,小米,M61,axolotlte,Xiaomi Watch 2 Pro,LTE
 M2501W1,watch,xiaomi,小米,O61,grass,Xiaomi Watch 5,蓝牙版
 M2505W1,watch,xiaomi,小米,O61LTE,grasslte,Xiaomi Watch 5,LTE
+M2501W1,watch,xiaomi,小米,O61W,blenny,Xiaomi Watch 5,国际版
 REDMIWT02,watch,xiaomi,小米,,,Mi Watch Lite,国际版
 XMWT06,watch,xiaomi,小米,,,小米手表 Color,
 XMWTCL01,watch,xiaomi,小米,,,小米手表 Color,运动版 国行版
@@ -10177,6 +10187,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 24117RN76L,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,拉美版
 24117RN76O,mob,xiaomi,小米,O7,tanzanite,Redmi Note 14,国际版 (NFC)
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,国行版
+24094RAD4C,mob,xiaomi,小米,O17,beryl,REDMI Note 15R Pro,国行版
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,印度版
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 SE 5G,印度版
 24094RAD4G,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,国际版
@@ -10445,6 +10456,7 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 2410FPCC5G,mob,xiaomi,小米,C3NP,lake,POCO C75,国际版
 2410FPCC5I,mob,xiaomi,小米,C3NP,lake,POCO C75,印度版
 24116PCC1I,mob,xiaomi,小米,C3F2,warm,POCO C75 5G,印度版
+25128PC17I,mob,xiaomi,小米,P25A,arctic,POCO C81,印度版
 25078PC3EG,mob,xiaomi,小米,P15A,dew,POCO C85,国际版
 25078PC3EE,mob,xiaomi,小米,P15A,dew,POCO C85,欧洲版
 2508CPC2BI,mob,xiaomi,小米,P15,tornado,POCO C85 5G,印度版
@@ -10753,6 +10765,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,
 2406ERN9CC,mob,xiaomi,小米,N19,breeze,Redmi Note 13R,
 2311FRAFDC,mob,xiaomi,小米,N17A,gold,Redmi Note 13R Pro,
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,
+24094RAD4C,mob,xiaomi,小米,O17,beryl,REDMI Note 15R Pro,
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,
 24115RA8EC,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,
 25098RA98C,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,
@@ -11448,6 +11461,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,India
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 SE 5G,India
 24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,China
+24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,REDMI Note 15R Pro,China
 2502FRA65G,mob,xiaomi,Xiaomi,N6R,emerald,Redmi Note 14S,Global
 24116RACCG,mob,xiaomi,Xiaomi,O6,obsidian,Redmi Note 14 Pro,Global
 24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,Global
@@ -11676,6 +11690,7 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 2410FPCC5G,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,Global
 2410FPCC5I,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,India
 24116PCC1I,mob,xiaomi,Xiaomi,C3F2,warm,POCO C75 5G,India
+25128PC17I,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81,India
 25078PC3EG,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Global
 25078PC3EE,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Europe
 2508CPC2BI,mob,xiaomi,Xiaomi,P15,tornado,POCO C85 5G,India
