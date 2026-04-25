@@ -1964,6 +1964,7 @@ NLA-AN00,mob,honor,荣耀,,Nala,荣耀畅玩 80,
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,5G
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70 Plus,5G
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70m Plus,5G
+NLA-AL00,mob,honor,荣耀,,Nala,荣耀畅玩 70C,
 LAB-AN00,mob,honor,荣耀,,,荣耀畅玩 80 Plus,5G
 LOG-AN10,mob,honor,荣耀,,Logan,荣耀畅玩 80 Pro,5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,Wi-Fi 版
@@ -3848,6 +3849,8 @@ CTR-L91,mob,huawei,HUAWEI,,Cartier,HUAWEI nova 13i,
 TLR-LX9,mob,huawei,HUAWEI,,Taylor,HUAWEI nova 14,
 MIA-LX9,mob,huawei,HUAWEI,,Milla,HUAWEI nova 14 Pro,
 STG-LX2,mob,huawei,HUAWEI,,Santiago,HUAWEI nova 14i,
+PSN-LX9,mob,huawei,HUAWEI,,Pushkin,HUAWEI nova 15,Pro
+KLE-LX9,mob,huawei,HUAWEI,,Klee,HUAWEI nova 15 Pro,
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,
 EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,
 EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,
@@ -3995,6 +3998,7 @@ PCE-W29,pad,huawei,HUAWEI,,Poincare,HUAWEI MatePad Pro 13.2,Wi-Fi
 WEB-W09,pad,huawei,HUAWEI,,Weber,HUAWEI MatePad Pro 13.2 2025,Wi-Fi
 MRO-W09,pad,huawei,HUAWEI,,Miro,HUAWEI MatePad Pro 12.2,Wi-Fi
 MRDI-W09,pad,huawei,HUAWEI,,Morandi,HUAWEI MatePad Pro 12.2 2025,Wi-Fi
+MLR-W09,pad,huawei,HUAWEI,,Mclaren,HUAWEI MatePad Mini,8.8 Wi-Fi
 HMW-W09,pad,huawei,HUAWEI,,Hemingway,HUAWEI MatePad Paper,Wi-Fi
 BGO-L03,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,LTE
 BGO-DL09,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,LTE
@@ -4874,7 +4878,7 @@ L75MA-RA,tv,mitv,小米,O39,,Redmi 智能电视 A 2025,75 2025
 L32RA-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,32 2025 节能版 (一级能效)
 L43RA-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,43 2025 节能版 (一级能效)
 L50RB-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,50 2025 节能版 (二级能效)
-L50RA-RAD,tv,mitv,小米,O39,,REDMI 电视 A 2025,50 一级能效版
+L50RB-RAD,tv,mitv,小米,O39,,REDMI 电视 A 2025,50 一级能效版
 L55RB-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,55 2025 节能版 (一级能效)
 L65RB-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,65 2025 节能版 (一级能效)
 L70RB-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,70 2025 节能版 (一级能效)
@@ -6327,15 +6331,17 @@ CPH2305,mob,oppo,OPPO,,baize,OPPO Find X5 Pro,
 CPH2371,mob,oppo,OPPO,,,OPPO Find X5 Lite,
 CPH2651,mob,oppo,OPPO,,yala,OPPO Find X8,
 CPH2659,mob,oppo,OPPO,,konka,OPPO Find X8 Pro,
-CPH2797,mob,oppo,OPPO,,,OPPO Find X9,
-OPG07,mob,oppo,OPPO,,,OPPO Find X9,KDDI
-CPH2791,mob,oppo,OPPO,,,OPPO Find X9 Pro,
+CPH2797,mob,oppo,OPPO,,zhujiang,OPPO Find X9,
+OPG07,mob,oppo,OPPO,,zhujiang,OPPO Find X9,KDDI
+CPH2791,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,
+CPH2873,mob,oppo,OPPO,,,OPPO Find X9s,
+CPH2841,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,
 CPH2439,mob,oppo,OPPO,,whiteswan,OPPO Find N2,
 CPH2437,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,
 CPH2499,mob,oppo,OPPO,,hedwig,OPPO Find N3,
 CPH2519,mob,oppo,OPPO,,flamingo,OPPO Find N3 Flip,
 CPH2671,mob,oppo,OPPO,,petrel,OPPO Find N5,
-CPH2765,mob,oppo,OPPO,,,OPPO Find N6,
+CPH2765,mob,oppo,OPPO,,swangoose,OPPO Find N6,
 CPH1917,mob,oppo,OPPO,,,OPPO Reno,
 CPH1921,mob,oppo,OPPO,,,OPPO Reno 5G,
 CPH1919,mob,oppo,OPPO,,,OPPO Reno 10x Zoom,
@@ -6459,6 +6465,8 @@ CPH2705,mob,oppo,OPPO,,,OPPO F29 Pro,5G
 CPH2781,mob,oppo,OPPO,,,OPPO F31,5G
 CPH2763,mob,oppo,OPPO,,,OPPO F31 Pro,5G
 CPH2757,mob,oppo,OPPO,,,OPPO F31 Pro+,5G
+CPH2777,mob,oppo,OPPO,,,OPPO F33,5G
+CPH2835,mob,oppo,OPPO,,,OPPO F33 Pro,5G
 CPH1835,mob,oppo,OPPO,,,OPPO R15,
 CPH1831,mob,oppo,OPPO,,,OPPO R15 Pro,
 CPH1833,mob,oppo,OPPO,,,OPPO R15 Pro,
@@ -6505,9 +6513,11 @@ CPH2817,mob,oppo,OPPO,,,OPPO A6,
 CPH2831,mob,oppo,OPPO,,,OPPO A6,5G Global
 CPH2785,mob,oppo,OPPO,,,OPPO A6,5G India
 CPH2799,mob,oppo,OPPO,,,OPPO A6 Pro,
-CPH2781,mob,oppo,OPPO,,,OPPO A6 Pro,5G
+CPH2781,mob,oppo,OPPO,,,OPPO A6 Pro,5G Global
+CPH2827,mob,oppo,OPPO,,,OPPO A6 Pro,5G India
 CPH2815,mob,oppo,OPPO,,,OPPO A6s,
-CPH2789,mob,oppo,OPPO,,,OPPO A6s,5G
+CPH2789,mob,oppo,OPPO,,,OPPO A6s,5G Global
+CPH2889,mob,oppo,OPPO,,,OPPO A6s,5G India
 CPH2819,mob,oppo,OPPO,,,OPPO A6x,
 CPH2783,mob,oppo,OPPO,,,OPPO A6x,5G Global
 CPH2823,mob,oppo,OPPO,,,OPPO A6x,5G India
@@ -6613,19 +6623,19 @@ CPH2667,mob,oppo,OPPO,,,OPPO K12x,5G
 CPH2729,mob,oppo,OPPO,,,OPPO K13,5G
 CPH2753,mob,oppo,OPPO,,,OPPO K13x,5G
 CPH2761,mob,oppo,OPPO,,knight,OPPO K13 Turbo,5G
-CPH2731,mob,oppo,OPPO,,,OPPO K13 Turbo Pro,5G
+CPH2731,mob,oppo,OPPO,,knight-h,OPPO K13 Turbo Pro,5G
 CPH2869,mob,oppo,OPPO,,,OPPO K14,5G
 CPH2871,mob,oppo,OPPO,,,OPPO K14x,5G
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,
-OPD2202,pad,oppo,OPPO,,,OPPO Pad 2,
-OPD2302,pad,oppo,OPPO,,,OPPO Pad Neo,Wi-Fi
-OPD2303,pad,oppo,OPPO,,,OPPO Pad Neo,LTE
+OPD2202,pad,oppo,OPPO,,aries,OPPO Pad 2,
+OPD2302,pad,oppo,OPPO,,bluey,OPPO Pad Neo,Wi-Fi
+OPD2303,pad,oppo,OPPO,,bluey,OPPO Pad Neo,LTE
 OPD2406,pad,oppo,OPPO,,dunhuang,OPPO Pad 3,
 OPD2402,pad,oppo,OPPO,,caihong,OPPO Pad 3 Pro,
 OPD2502,pad,oppo,OPPO,,greenland,OPPO Pad 5,Wi-Fi
 OPD2503,pad,oppo,OPPO,,greenland,OPPO Pad 5,5G
-OPD2419,pad,oppo,OPPO,,,OPPO Pad SE,Wi-Fi
-OPD2420,pad,oppo,OPPO,,,OPPO Pad SE,LTE
+OPD2419,pad,oppo,OPPO,,fiji,OPPO Pad SE,Wi-Fi
+OPD2420,pad,oppo,OPPO,,fiji,OPPO Pad SE,LTE
 OB19B1,band,oppo,OPPO,,,OPPO Band,Style
 OB19O3,band,oppo,OPPO,,,OPPO Band,Style
 OBBE215,band,oppo,OPPO,,heisenberg,OPPO Band 2,Japan
@@ -6635,6 +6645,9 @@ OW19W8,watch,oppo,OPPO,,belugaxl,OPPO Watch (Wi-Fi),46mm
 OW19W12,watch,oppo,OPPO,,orca,OPPO Watch (LTE),46mm LTE
 OWWE231,watch,oppo,OPPO,,wuyi,OPPO Watch X,
 OWWE251,watch,oppo,OPPO,,starriver,OPPO Watch X2,
+OWWE242,watch,oppo,OPPO,,xingchen,OPPO Watch X2 Mini,
+OWWE261,watch,oppo,OPPO,,taycan,OPPO Watch X3,
+OWWE262,watch,oppo,OPPO,,,OPPO Watch S,
 RMX1901,mob,realme,realme,,,真我 X,
 RMX1851,mob,realme,realme,,,真我 X 青春版,
 RMX1991,mob,realme,realme,,,真我 X2,
