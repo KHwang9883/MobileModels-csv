@@ -1882,6 +1882,7 @@ JDY-AN00,mob,honor,荣耀,,Judy,荣耀 Play9C,5G
 LOG-AN10,mob,honor,荣耀,,Logan,荣耀 Play10T,5G
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀 Play10C,5G
 NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play10A,5G
+NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play11C,5G
 DVD-AN00,mob,honor,荣耀,,David,荣耀 Power,
 DVD-AN80,mob,honor,荣耀,,David,荣耀 Power,卫星版
 SER-AN00,mob,honor,荣耀,,Saber,荣耀 Power2,
@@ -10325,8 +10326,12 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版
 25028RN03Y,mob,xiaomi,小米,C3Z,serenity,REDMI A5,国际版
 25028RN03I,mob,xiaomi,小米,C3Z,serenity,REDMI A5,印度版
 25028RN03L,mob,xiaomi,小米,C3Z,serenity,REDMI A5,拉美版
+26020RNB4A,mob,xiaomi,小米,C3ZR,serenity,REDMI A7,国际版
+26020RNB4I,mob,xiaomi,小米,C3ZR,serenity,REDMI A7,印度版
+26020RNB4L,mob,xiaomi,小米,C3ZR,serenity,REDMI A7,拉美版
 25128RN17A,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,国际版
 25128RN17Y,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,国际版
+25128RN17I,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,印度版
 25128RN17L,mob,xiaomi,小米,P25A,arctic,REDMI A7 Pro,拉美版
 26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70 5G,国行版
 26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70m 5G,国行版
@@ -10469,7 +10474,10 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 2410FPCC5G,mob,xiaomi,小米,C3NP,lake,POCO C75,国际版
 2410FPCC5I,mob,xiaomi,小米,C3NP,lake,POCO C75,印度版
 24116PCC1I,mob,xiaomi,小米,C3F2,warm,POCO C75 5G,印度版
+25128PC17G,mob,xiaomi,小米,P25A,arctic,POCO C81 Pro,国际版
+25128PC17L,mob,xiaomi,小米,P25A,arctic,POCO C81 Pro,拉美版
 25128PC17I,mob,xiaomi,小米,P25A,arctic,POCO C81,印度版
+26020PCB4I,mob,xiaomi,小米,C3ZR,serenity,POCO C81x,印度版
 25078PC3EG,mob,xiaomi,小米,P15A,dew,POCO C85,国际版
 25078PC3EE,mob,xiaomi,小米,P15A,dew,POCO C85,欧洲版
 2508CPC2BI,mob,xiaomi,小米,P15,tornado,POCO C85 5G,印度版
@@ -11596,8 +11604,12 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,India
 25028RN03Y,mob,xiaomi,Xiaomi,C3Z,serenity,REDMI A5,Global
 25028RN03I,mob,xiaomi,Xiaomi,C3Z,serenity,REDMI A5,India
 25028RN03L,mob,xiaomi,Xiaomi,C3Z,serenity,REDMI A5,Latin America
+26020RNB4A,mob,xiaomi,Xiaomi,C3ZR,serenity,REDMI A7,Global
+26020RNB4I,mob,xiaomi,Xiaomi,C3ZR,serenity,REDMI A7,India
+26020RNB4L,mob,xiaomi,Xiaomi,C3ZR,serenity,REDMI A7,Latin America
 25128RN17A,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Global
 25128RN17Y,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Global
+25128RN17I,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,India
 25128RN17L,mob,xiaomi,Xiaomi,P25A,arctic,REDMI A7 Pro,Latin America
 26020RN1AI,mob,xiaomi,Xiaomi,P25,somalia,REDMI A7 Pro 5G,India
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70 5G,China
@@ -11703,7 +11715,10 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 2410FPCC5G,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,Global
 2410FPCC5I,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,India
 24116PCC1I,mob,xiaomi,Xiaomi,C3F2,warm,POCO C75 5G,India
+25128PC17G,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81 Pro,Global
+25128PC17L,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81 Pro,Latin America
 25128PC17I,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81,India
+26020PCB4I,mob,xiaomi,Xiaomi,C3ZR,serenity,POCO C81x,India
 25078PC3EG,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Global
 25078PC3EE,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Europe
 2508CPC2BI,mob,xiaomi,Xiaomi,P15,tornado,POCO C85 5G,India
