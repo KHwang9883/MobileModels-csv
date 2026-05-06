@@ -5833,6 +5833,7 @@ OPD2481,pad,oneplus,一加,,,一加平板 Lite,LTE
 OPD2504,pad,oneplus,一加,,,一加平板 Go 2,Wi-Fi
 OPD2505,pad,oneplus,一加,,,一加平板 Go 2,5G
 OPD2508,pad,oneplus,一加,,himalaya-o,一加平板 2 (2025),国行版
+OPD2514,pad,oneplus,一加,,,一加平板 4,国际版
 W101IN,band,oneplus,一加,,audio,一加 Band,印度版
 OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,
 W301CN,watch,oneplus,一加,,,一加手表,国行版 / Cyberpunk 2077 限定版
@@ -6018,19 +6019,20 @@ DE2117,mob,oneplus,OnePlus,,dre9,OnePlus Nord N200,North America
 DE2118,mob,oneplus,OnePlus,,dre8t,OnePlus Nord N200,T-Mobile
 CPH2389,mob,oneplus,OnePlus,,hilda,OnePlus Nord N300,
 CPH2551,pad,oneplus,OnePlus,,hedwig,OnePlus Open,
-OPD2203,pad,oneplus,OnePlus,,aries-o,OnePlus Pad (2023),
+OPD2203,pad,oneplus,OnePlus,,aries-o,OnePlus Pad (2023),Global
 OPD2304,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,LTE
 OPD2305,pad,oneplus,OnePlus,,bluey-o,OnePlus Pad Go,Wi-Fi
-OPD2407,pad,oneplus,OnePlus,,dunhuang-o,OnePlus Pad (2024),
-OPD2404,pad,oneplus,OnePlus,,rainbow,OnePlus Pad Pro,
-OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2 (2024),
-OPD2413,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 2 Pro,
-OPD2415,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 3,
+OPD2407,pad,oneplus,OnePlus,,dunhuang-o,OnePlus Pad (2024),China
+OPD2404,pad,oneplus,OnePlus,,rainbow,OnePlus Pad Pro,China
+OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2 (2024),Global
+OPD2413,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 2 Pro,China
+OPD2415,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 3,Global
 OPD2480,pad,oneplus,OnePlus,,,OnePlus Pad Lite,Wi-Fi
 OPD2481,pad,oneplus,OnePlus,,,OnePlus Pad Lite,LTE
 OPD2504,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,Wi-Fi
 OPD2505,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,5G
-OPD2508,pad,oneplus,OnePlus,,himalaya-o,OnePlus Pad 2 (2025),
+OPD2508,pad,oneplus,OnePlus,,himalaya-o,OnePlus Pad 2 (2025),China
+OPD2514,pad,oneplus,OnePlus,,,OnePlus Pad 4,Global
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,
 W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,China / Cyberpunk 2077 Limited Edition
