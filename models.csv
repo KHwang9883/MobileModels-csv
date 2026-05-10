@@ -5837,6 +5837,7 @@ OPD2481,pad,oneplus,一加,,,一加平板 Lite,LTE
 OPD2504,pad,oneplus,一加,,,一加平板 Go 2,Wi-Fi
 OPD2505,pad,oneplus,一加,,,一加平板 Go 2,5G
 OPD2508,pad,oneplus,一加,,himalaya-o,一加平板 2 (2025),国行版
+OPD2513,pad,oneplus,一加,,,一加平板 3 Pro,国行版
 OPD2514,pad,oneplus,一加,,,一加平板 4,国际版
 W101IN,band,oneplus,一加,,audio,一加 Band,印度版
 OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,
@@ -6038,6 +6039,7 @@ OPD2481,pad,oneplus,OnePlus,,,OnePlus Pad Lite,LTE
 OPD2504,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,Wi-Fi
 OPD2505,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,5G
 OPD2508,pad,oneplus,OnePlus,,himalaya-o,OnePlus Pad 2 (2025),China
+OPD2513,pad,oneplus,OnePlus,,,OnePlus Pad 3 Pro,China
 OPD2514,pad,oneplus,OnePlus,,,OnePlus Pad 4,Global
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,
@@ -8956,6 +8958,7 @@ V2329A,mob,vivo,vivo,,PD2329,iQOO 12 Pro,
 V2408A,mob,vivo,vivo,,PD2408,iQOO 13,
 V2505A,mob,vivo,vivo,,PD2505,iQOO 15,
 V2546A,mob,vivo,vivo,,PD2546,iQOO 15 Ultra,
+V2564A,mob,vivo,vivo,,PD2564,iQOO 15T,
 V1914A,mob,vivo,vivo,,PD1914,iQOO Neo,全网通版
 V1914T,mob,vivo,vivo,,PD1914,iQOO Neo,移动全网通版
 V1936A,mob,vivo,vivo,,PD1936,iQOO Neo 855 版,全网通版
