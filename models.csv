@@ -2281,7 +2281,7 @@ RHE-B19,band,honor,荣耀,,,荣耀手环 9,标准版
 RHE-B39,band,honor,荣耀,,,荣耀手环 9,NFC 版
 VNE-B19,band,honor,荣耀,,,荣耀手环 10,标准版
 VNE-B39,band,honor,荣耀,,,荣耀手环 10,NFC 版
-CGN-A00,band,honor,荣耀,,,荣耀观影眼镜,
+CGN-A00,glass,honor,荣耀,,,荣耀观影眼镜,
 HUAWEI U8860,mob,honor,荣耀,,,荣耀 Honor,联通版
 HUAWEI C8860E,mob,honor,荣耀,,,荣耀 Honor,电信版
 HUAWEI T8950,mob,honor,荣耀,,,荣耀 Honor+,移动版
@@ -3632,12 +3632,14 @@ KTY-L10D,watch,huawei,华为,,,华为儿童手表 5,新耀版
 TGR-L10,watch,huawei,华为,,,华为儿童手表 5 Pro,
 ALA-AL10,watch,huawei,华为,,,华为儿童手表 5X,
 AHP-AL10,watch,huawei,华为,,,华为儿童手表 5X Pro,
+DRA-L10,watch,huawei,华为,,,华为超新星手表 X1,
+DRP-L10,watch,huawei,华为,,,华为超新星手表 X1 Pro,
 CMG0-PER,watch,huawei,华为,,,HUAWEI X GENTLE MONSTER Eyewear,
 FIJ-CG020,watch,huawei,华为,,,HUAWEI X GENTLE MONSTER Eyewear II,
-EVI-CG010,watch,huawei,华为,,,华为智能眼镜,
-LFT-G00,watch,huawei,华为,,,华为智能眼镜 2,
-ALI-CG01,watch,huawei,华为,,,HUAWEI Vision Glass,
-AIL-G01,watch,huawei,华为,,,华为 AI 眼镜,
+EVI-CG010,glass,huawei,华为,,,华为智能眼镜,
+LFT-G00,glass,huawei,华为,,,华为智能眼镜 2,
+ALI-CG01,glass,huawei,华为,,,HUAWEI Vision Glass,
+AIL-G01,glass,huawei,华为,,,华为 AI 眼镜,
 HUAWEI U9500,mob,huawei,华为,,,华为 Ascend D1,
 HUAWEI U9500E,mob,huawei,华为,,,华为 Ascend D1,XL
 HUAWEI U9510,mob,huawei,华为,,,华为 Ascend D1,四核
@@ -9521,7 +9523,7 @@ M2230W1,watch,xiaomi,小米,N60,,小米腕部心电血压记录仪,Xiaomi Watch 
 M2412W1,watch,xiaomi,小米,N60E,,小米腕部血压记录仪,Xiaomi Watch H1 E
 M2530W1,watch,xiaomi,小米,P62,,Xiaomi Watch S5,蓝牙版
 M2517W1,watch,xiaomi,小米,P62,,Xiaomi Watch S5,eSIM 版
-M2442G1,watch,xiaomi,小米,O95,,Xiaomi AI Glasses,
+M2442G1,glass,xiaomi,小米,O95,,Xiaomi AI Glasses,
 HMSH01GE,band,xiaomi,小米,,,Redmi 手环,
 M2101B1,band,xiaomi,小米,K67,,Redmi Smart Band Pro,国际版
 M2225B1,band,xiaomi,小米,M69B,,Redmi 手环 2,
