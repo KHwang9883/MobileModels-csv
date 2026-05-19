@@ -1787,6 +1787,7 @@ AMG-AN00,mob,honor,荣耀,,MinaGT,荣耀 GT,
 PPG-AN00,mob,honor,荣耀,,PhilippeGT,荣耀 GT Pro,
 AAP-AN00,mob,honor,荣耀,,,荣耀 WIN,
 AAK-AN00,mob,honor,荣耀,,,荣耀 WIN RT,
+SER-AN00,mob,honor,荣耀,,Saber,荣耀 WIN Turbo,
 G750-T00,mob,honor,荣耀,,,荣耀 3X,双 3G 版
 G750-U00,mob,honor,荣耀,,,荣耀 3X,联通版
 G750-T20,mob,honor,荣耀,,,荣耀 3X,Pro
@@ -2174,6 +2175,7 @@ FRI-H56,pad,honor,荣耀,,FermiH,荣耀笔记本 X14 2024,R5 (16GB+512GB)
 FRG-X,pad,honor,荣耀,,FermiG,荣耀笔记本 X14 2025,
 GDG-X,pad,honor,荣耀,,GodelG,荣耀笔记本 X14 2025 战斗版,
 FRG-X,pad,honor,荣耀,,FermiG,荣耀笔记本 X14 2026,
+LVD-X,pad,honor,荣耀,,,荣耀笔记本 X14 2026 战斗版,
 GDH-X,pad,honor,荣耀,,GodelH,荣耀笔记本 X14 锐龙版 2026,
 FMI-76,pad,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,R7 (16GB+512GB)
 FMI-721,pad,honor,荣耀,,FermiI,荣耀笔记本 X14 Plus 2024,R7 (32GB+1TB)
@@ -5661,6 +5663,8 @@ NX789J,mob,nubia,努比亚,,,红魔 10S Pro+,
 NX809J,mob,nubia,努比亚,,,红魔 11 Pro,
 NX809J,mob,nubia,努比亚,,,红魔 11 Pro+,
 NX799J,mob,nubia,努比亚,,,红魔 11 Air,
+NX809J,mob,nubia,努比亚,,,红魔 11S Pro,
+NX809J,mob,nubia,努比亚,,,红魔 11S Pro+,
 NP01J,pad,nubia,努比亚,,,红魔电竞平板,5G
 NP03J,pad,nubia,努比亚,,,红魔电竞平板 Pro,
 NP02J,pad,nubia,努比亚,,,红魔平板 · 3D 探索版,5G
@@ -9763,6 +9767,7 @@ A402XM,mob,xiaomi,小米,N12,rothko,Xiaomi 14T Pro,日本版 (SoftBank)
 2512BPNDAI,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,印度版
 25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国行版 (卫星通讯)
 25128PNA1G,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国际版
+2605EPN8EC,mob,xiaomi,小米,,byron,Xiaomi 17 Max,
 2602DPT53G,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,国际版
 2602EPTC0G,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,国际版
 2602EPTC0R,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,日本版 (无锁)
@@ -10275,7 +10280,8 @@ M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
 24069RA21C,mob,xiaomi,小米,N16T,peridot,Redmi Turbo 3,
 24129RT7CC,mob,xiaomi,小米,O10S,rodin,REDMI Turbo 4,
 25053RT47C,mob,xiaomi,小米,O10U,onyx,REDMI Turbo 4 Pro,
-2511FRT34C,mob,xiaomi,小米,P10,klee,REDMI Turbo 5,
+2511FRT34C,mob,xiaomi,小米,P10,klee,REDMI Turbo 5,国行版
+2606FRT34I,mob,xiaomi,小米,P10,klee,REDMI Turbo 5,印度版
 2602BRT18C,mob,xiaomi,小米,P10U,dash,REDMI Turbo 5 Max,
 M1903F10A,mob,xiaomi,小米,F10,davinci,Redmi K20,全网通版
 M1903F10C,mob,xiaomi,小米,F10,davinci,Redmi K20,运营商全网通版
@@ -10510,6 +10516,7 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 2410FPCC5I,mob,xiaomi,小米,C3NP,lake,POCO C75,印度版
 24116PCC1I,mob,xiaomi,小米,C3F2,warm,POCO C75 5G,印度版
 25128PC17G,mob,xiaomi,小米,P25A,arctic,POCO C81 Pro,国际版
+25128PC17Y,mob,xiaomi,小米,P25A,arctic,POCO C81 Pro,国际版
 25128PC17L,mob,xiaomi,小米,P25A,arctic,POCO C81 Pro,拉美版
 25128PC17I,mob,xiaomi,小米,P25A,arctic,POCO C81,印度版
 26020PCB4I,mob,xiaomi,小米,C3ZR,serenity,POCO C81x,印度版
@@ -10521,6 +10528,7 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 24074PCD2I,pad,xiaomi,小米,N83U,ruan,POCO Pad 5G,印度版
 25099RP08G,pad,xiaomi,小米,O82P,uke,POCO Pad X1,国际版
 2509ARPBDG,pad,xiaomi,小米,P83P,flute,POCO Pad M1,国际版
+2603APC14G,pad,xiaomi,小米,P85,guitar,POCO Pad C1,国际版
 FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
 21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,
 2405AVPB7C,pad,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra
@@ -10613,6 +10621,7 @@ M2101K9C,mob,xiaomi,小米,K9,renoir,小米 11 青春版,
 2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,
 2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra by Leica,非卫星
 25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica,卫星通讯
+2605EPN8EC,mob,xiaomi,小米,,byron,Xiaomi 17 Max,
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版
@@ -11068,6 +11077,7 @@ A402XM,mob,xiaomi,Xiaomi,N12,rothko,Xiaomi 14T Pro,Japan (SoftBank)
 2512BPNDAI,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,India
 25128PNA1G,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,Global
 25128PNA1C,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,"China, Tiantong & Beidou satellites"
+2605EPN8EC,mob,xiaomi,Xiaomi,,byron,Xiaomi 17 Max,
 2602DPT53G,mob,xiaomi,Xiaomi,P12A,chagall,Xiaomi 17T,Global
 2602EPTC0G,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Global
 2602EPTC0R,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Japan (SIM Free)
@@ -11554,6 +11564,7 @@ M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,China
 24129RT7CC,mob,xiaomi,Xiaomi,O10S,rodin,REDMI Turbo 4,China
 25053RT47C,mob,xiaomi,Xiaomi,O10U,onyx,REDMI Turbo 4 Pro,China
 2511FRT34C,mob,xiaomi,Xiaomi,P10,klee,REDMI Turbo 5,China
+2606FRT34I,mob,xiaomi,Xiaomi,P10,klee,REDMI Turbo 5,India
 2602BRT18C,mob,xiaomi,Xiaomi,P10U,dash,REDMI Turbo 5 Max,China
 M1903F10A,mob,xiaomi,Xiaomi,F10,davinci,Redmi K20,China
 M1903F10C,mob,xiaomi,Xiaomi,F10,davinci,Redmi K20,Chinese Carrier Version
@@ -11751,6 +11762,7 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 2410FPCC5I,mob,xiaomi,Xiaomi,C3NP,lake,POCO C75,India
 24116PCC1I,mob,xiaomi,Xiaomi,C3F2,warm,POCO C75 5G,India
 25128PC17G,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81 Pro,Global
+25128PC17Y,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81 Pro,Global
 25128PC17L,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81 Pro,Latin America
 25128PC17I,mob,xiaomi,Xiaomi,P25A,arctic,POCO C81,India
 26020PCB4I,mob,xiaomi,Xiaomi,C3ZR,serenity,POCO C81x,India
@@ -11829,6 +11841,7 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China
 24074PCD2I,pad,xiaomi,Xiaomi,N83U,ruan,POCO Pad 5G,India
 25099RP08G,pad,xiaomi,Xiaomi,O82P,uke,POCO Pad X1,Global
 2509ARPBDG,pad,xiaomi,Xiaomi,P83P,flute,POCO Pad M1,Global
+2603APC14G,pad,xiaomi,Xiaomi,P85,guitar,POCO Pad C1,Global
 FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,
 21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,Bio-inspired Quadruped Robot
 2405AVPB7C,pad,xiaomi,Xiaomi,,,Xiaomi EV Cockpit,SU7 2024/SU7 Ultra
