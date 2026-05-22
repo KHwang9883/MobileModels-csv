@@ -9501,6 +9501,8 @@ M2402B1,band,xiaomi,小米,N67,,小米手环 9 Pro,国际版
 M2435B1,band,xiaomi,小米,N69,,小米手环 9 Active,国际版
 M2457B1,band,xiaomi,小米,O66,,小米手环 10,
 M2456B1,band,xiaomi,小米,O66,,小米手环 10,NFC 版 / 陶瓷版
+M2551B1,band,xiaomi,小米,P67,,小米手环 10 Pro,金属版
+M2553B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,
 M2320W1,watch,xiaomi,小米,M61C,axolotlaxie,Xiaomi Watch 2,
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版
@@ -9568,6 +9570,7 @@ M2540E1,watch,xiaomi,小米,P75,,Xiaomi Buds 6,
 M2503E1,watch,xiaomi,小米,O74,,Xiaomi 开放式耳机 Pro,
 GCDEJ01LS,watch,xiaomi,小米,,,Xiaomi 骨传导耳机,
 M2447E1,watch,xiaomi,小米,O73,,Xiaomi 骨传导耳机 2,
+M2529E1,watch,xiaomi,小米,O70C,,Xiaomi 耳夹式耳机,
 TWSEJ01ZM,watch,xiaomi,小米,K76,,Redmi AirDots 3 Pro,
 M2104E1,watch,xiaomi,小米,K77,,Redmi Buds 3,
 M2110E1,watch,xiaomi,小米,K79,,Redmi Buds 3 青春版,
@@ -9772,8 +9775,11 @@ A402XM,mob,xiaomi,小米,N12,rothko,Xiaomi 14T Pro,日本版 (SoftBank)
 2512BPNDAI,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,印度版
 25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国行版 (卫星通讯)
 25128PNA1G,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica / Leica Leitzphone powered by Xiaomi,国际版
-2605EPN8EC,mob,xiaomi,小米,,byron,Xiaomi 17 Max,
+2605EPN8EC,mob,xiaomi,小米,P3S,byron,Xiaomi 17 Max,
+M531DA,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,国行版
 2602DPT53G,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,国际版
+2602DPT53I,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,印度版
+M025EC,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,国行版
 2602EPTC0G,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,国际版
 2602EPTC0R,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,日本版 (无锁)
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
@@ -10538,7 +10544,7 @@ FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
 21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,
 2405AVPB7C,pad,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra
 25033VP3FC,pad,xiaomi,小米,,suiren,小米澎湃智能座舱,YU7/新一代 SU7
-2503CVPC6C,pad,xiaomi,小米,P802,konghou,Xiaomi YU7 后排移动控制屏,
+2503CVPC6C,pad,xiaomi,小米,P802,konghou,小米汽车后排移动控制屏,
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,联通版
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,电信版
 MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,青春版
@@ -10626,7 +10632,9 @@ M2101K9C,mob,xiaomi,小米,K9,renoir,小米 11 青春版,
 2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra,
 2512BPNDAC,mob,xiaomi,小米,P1,nezha,Xiaomi 17 Ultra by Leica,非卫星
 25128PNA1C,mob,xiaomi,小米,P1S,nezha,Xiaomi 17 Ultra by Leica,卫星通讯
-2605EPN8EC,mob,xiaomi,小米,,byron,Xiaomi 17 Max,
+2605EPN8EC,mob,xiaomi,小米,P3S,byron,Xiaomi 17 Max,
+M531DA,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,
+M025EC,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版
@@ -10915,7 +10923,7 @@ FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,
 21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,
 2405AVPB7C,pad,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra
 25033VP3FC,pad,xiaomi,小米,,suiren,小米澎湃智能座舱,YU7/新一代 SU7
-2503CVPC6C,pad,xiaomi,小米,P802,konghou,Xiaomi YU7 后排移动控制屏,
+2503CVPC6C,pad,xiaomi,小米,P802,konghou,小米汽车后排移动控制屏,
 MI-ONE PLUS,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,WCDMA
 MI-ONE C1,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,CDMA
 MI-ONE,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,Lite
@@ -11082,10 +11090,13 @@ A402XM,mob,xiaomi,Xiaomi,N12,rothko,Xiaomi 14T Pro,Japan (SoftBank)
 2512BPNDAI,mob,xiaomi,Xiaomi,P1,nezha,Xiaomi 17 Ultra,India
 25128PNA1G,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,Global
 25128PNA1C,mob,xiaomi,Xiaomi,P1S,nezha,Leica Leitzphone powered by Xiaomi / Xiaomi 17 Ultra by Leica,"China, Tiantong & Beidou satellites"
-2605EPN8EC,mob,xiaomi,Xiaomi,,byron,Xiaomi 17 Max,
+2605EPN8EC,mob,xiaomi,Xiaomi,P3S,byron,Xiaomi 17 Max,
 2602DPT53G,mob,xiaomi,Xiaomi,P12A,chagall,Xiaomi 17T,Global
+2602DPT53I,mob,xiaomi,Xiaomi,P12A,chagall,Xiaomi 17T,India
+M531DA,mob,xiaomi,Xiaomi,P12A,chagall,Xiaomi 17T,China
 2602EPTC0G,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Global
 2602EPTC0R,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Japan (SIM Free)
+M025EC,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,China
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,Global
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Dual-network)
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Full-network)
@@ -11851,7 +11862,7 @@ FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,
 21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,Bio-inspired Quadruped Robot
 2405AVPB7C,pad,xiaomi,Xiaomi,,,Xiaomi EV Cockpit,SU7 2024/SU7 Ultra
 25033VP3FC,pad,xiaomi,Xiaomi,,suiren,Xiaomi EV Cockpit,YU7/SU7 2026
-2503CVPC6C,mob,xiaomi,Xiaomi,P802,konghou,Xiaomi YU7 Back Row Mobile Control Screen,
+2503CVPC6C,mob,xiaomi,Xiaomi,P802,konghou,Xiaomi EV Back Row Mobile Control Screen,
 VP001,device,zhixuan,华为智选,,,优畅享 20 Plus,5G
 VP002,device,zhixuan,华为智选,,,优畅享 20,5G
 VP003,device,zhixuan,华为智选,,,优畅享 30e,5G
