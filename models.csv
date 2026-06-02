@@ -116,19 +116,15 @@ A2108,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,中国大陆 & 港澳
 A2107,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,中国移动
 A2111,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,北美
 A2223,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,中国大陆 & 港澳
-A2222,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,中国移动
 A2221,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,其他国家和地区
 A2160,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,北美
 A2217,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,中国大陆 & 港澳
-A2216,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,中国移动
 A2215,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,其他国家和地区
 A2161,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,北美
 A2220,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,中国大陆 & 港澳
-A2219,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,中国移动
 A2218,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,其他国家和地区
 A2275,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (第 2 代),北美
 A2298,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (第 2 代),中国大陆
-A2297,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (第 2 代),中国移动
 A2296,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (第 2 代),其他国家和地区
 A2176,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,美国
 A2398,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,加拿大，日本
@@ -605,19 +601,15 @@ A2108,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,"China mainland, Hong Kong, 
 A2107,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,China Mobile
 A2111,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,North America
 A2223,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,"China mainland, Hong Kong, Macao"
-A2222,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,China Mobile
 A2221,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,Rest of the world
 A2160,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,North America
 A2217,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,"China mainland, Hong Kong, Macao"
-A2216,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,China Mobile
 A2215,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,Rest of the world
 A2161,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,North America
 A2220,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,"China mainland, Hong Kong, Macao"
-A2219,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,China Mobile
 A2218,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,Rest of the world
 A2275,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (2nd generation),North America
 A2298,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (2nd generation),China mainland
-A2297,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (2nd generation),China Mobile
 A2296,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (2nd generation),Rest of the world
 A2176,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,United States
 A2398,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,"Canada, Japan"
@@ -1059,13 +1051,9 @@ A2103,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,中国移动
 A2108,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,
 A2107,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,中国移动
 A2223,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,
-A2222,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,中国移动
 A2217,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,
-A2216,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,中国移动
 A2220,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,
-A2219,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,中国移动
 A2298,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (第 2 代),
-A2297,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (第 2 代),中国移动
 A2400,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,
 A2404,mob,apple,Apple,D53gAP,"iPhone13,2",iPhone 12,
 A2408,mob,apple,Apple,D53pAP,"iPhone13,3",iPhone 12 Pro,
@@ -2413,6 +2401,8 @@ VKJ-NX9,mob,honor,HONOR,,Vicky,HONOR 600,
 VKP-NX9,mob,honor,HONOR,,VickyP,HONOR 600 Pro,
 LNA-NX1,mob,honor,HONOR,,Luna,HONOR 600 Lite,
 LNA-NX3,mob,honor,HONOR,,Luna,HONOR 600e,
+MRK-NX1,mob,honor,HONOR,,,HONOR 600 Smart,
+MRK-NX1,mob,honor,HONOR,,,HONOR 600 Lite s,
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,
@@ -2493,6 +2483,8 @@ LGN-LX1,mob,honor,HONOR,,Logan,HONOR X7d,
 LGN-LX2,mob,honor,HONOR,,Logan,HONOR X7d,
 LGN-LX3,mob,honor,HONOR,,Logan,HONOR X7d,
 LGN-NX1,mob,honor,HONOR,,Logan,HONOR X7d 5G,
+LAB-LX2,mob,honor,HONOR,,,HONOR X7e,
+MRK-NX1,mob,honor,HONOR,,,HONOR X7e Plus 5G,
 TFY-LX1,mob,honor,HONOR,,Tiffany,HONOR X8,
 TFY-LX2,mob,honor,HONOR,,Tiffany,HONOR X8,
 TFY-LX3,mob,honor,HONOR,,Tiffany,HONOR X8,
@@ -2528,6 +2520,7 @@ HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,Wi-Fi
 HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,5G
 HEY3-W00,pad,honor,HONOR,,Hendry3,HONOR Pad 10,Wi-Fi
 HEY3-N09,pad,honor,HONOR,,Hendry3,HONOR Pad 10,5G
+HEY4-W09,pad,honor,HONOR,,Hendry4,HONOR Pad 20,Wi-Fi
 ROL-W00,pad,honor,HONOR,,Rowling,HONOR Pad V9,
 ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,
 CGA-W00,pad,honor,HONOR,,Changan,HONOR MagicPad3,
@@ -2626,8 +2619,8 @@ PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,
 PLU-AL10,mob,huawei,华为,,PillarU,HUAWEI Mate 70 RS 非凡大师,
 SUP-AL90,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,
 VYG-AL00,mob,huawei,华为,,Voyager,HUAWEI Mate 80,
-SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,12GB 内存
-SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,16GB 内存
+SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030
+SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030 Pro
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,风驰版
 SGU-AL10,mob,huawei,华为,,SagittariusU,HUAWEI Mate 80 RS 非凡大师,
@@ -2819,6 +2812,10 @@ PSD-AL80,mob,huawei,华为,,Poseidon,HUAWEI nova Flip S,
 PSN-AL00,mob,huawei,华为,,Pushkin,HUAWEI nova 15,
 KLE-AL00U,mob,huawei,华为,,Klee,HUAWEI nova 15 Pro,
 SLY-AL00,mob,huawei,华为,,Shelley,HUAWEI nova 15 Ultra,
+EMA-AL00U,mob,huawei,华为,,Emilia,HUAWEI nova 16,
+CRS-AL00,mob,huawei,华为,,Chris,HUAWEI nova 16 Pro,
+HIP-AL00,mob,huawei,华为,,,HUAWEI nova 16 Ultra,
+PKN-AL00,mob,huawei,华为,,Pushkin,HUAWEI nova 16z,
 HUAWEI G6-T00,mob,huawei,华为,,,华为 Ascend G6,移动版
 HUAWEI G6-U00,mob,huawei,华为,,,华为 Ascend G6,联通版
 HUAWEI G6-C00,mob,huawei,华为,,,华为 Ascend G6,电信版
@@ -3005,6 +3002,9 @@ WEB-AL10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,2025 SIM 卡版
 MRDI-W00,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 版
 MRDI-W10,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版
 MRDI-W20,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版 (16GB+1TB)
+GEM-W00,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版
+GEM-W10,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版 (20GB+1TB)
+GEM-W40,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 悦享款 Wi-Fi 版
 QXS-W00,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,
 QXS-W10,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,24GB+1TB
 QXS-W20,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,液冷版
