@@ -7040,6 +7040,7 @@ RMX5108,mob,realme,realme,,suzuki,P4x,5G
 RMX5107,mob,realme,realme,,casio-m,P4 Power,5G
 RMX5313,mob,realme,realme,,dhaka,P4 Lite,
 RMX5261,mob,realme,realme,,mumbai-c2,P4 Lite 5G,
+RMX5266,mob,realme,realme,,,P4R 5G,
 RMX2002,mob,realme,realme,,nemo,Narzo,Indonesia
 RMX2040,mob,realme,realme,,,Narzo 10,India
 RMX2020,mob,realme,realme,,,Narzo 10A,India
@@ -8656,6 +8657,12 @@ XQ-FE72,mob,sony,Sony,,PDX-257,Xperia 10 VII,Asia Pacific
 A502SO,mob,sony,Sony,,PDX-257,Xperia 10 VII,Japan (SoftBank)
 SO-52F,mob,sony,Sony,,PDX-257,Xperia 10 VII,Japan (NTT Docomo)
 SOG16,mob,sony,Sony,,PDX-257,Xperia 10 VII,Japan (KDDI)
+XQ-GE44,mob,sony,Sony,,PDX-267,Xperia 1 VIII,Japan (SIM Free)
+XQ-GE54,mob,sony,Sony,,PDX-267,Xperia 1 VIII,Global
+XQ-GE74,mob,sony,Sony,,PDX-267,Xperia 1 VIII,Asia Pacific
+A601SO,mob,sony,Sony,,PDX-267,Xperia 1 VIII,Japan (SoftBank)
+SO-51G,mob,sony,Sony,,PDX-267,Xperia 1 VIII,Japan (NTT Docomo)
+SOG17,mob,sony,Sony,,PDX-267,Xperia 1 VIII,Japan (KDDI)
 SGP712,pad,sony,Sony,,Karin,Xperia Z4 Tablet,Wi-Fi
 SGP771,pad,sony,Sony,,Karin,Xperia Z4 Tablet,LTE
 SO-05G,pad,sony,Sony,,Karin,Xperia Z4 Tablet,LTE Japan (NTT Docomo)
