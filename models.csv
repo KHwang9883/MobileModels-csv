@@ -3423,6 +3423,9 @@ HD6XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,65
 HD7XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,75
 HD8XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,85
 HD9XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,98
+HD1XQINA,tv,huawei,华为,,,华为智慧屏 S7X Pro,65
+HD77QINA,tv,huawei,华为,,,华为智慧屏 S7X Pro,75
+HD85QINA,tv,huawei,华为,,,华为智慧屏 S7X Pro,85
 HD55DESA,tv,huawei,华为,,,华为智慧屏 SE 系列,55 (2GB+16GB)
 HD55DESZ,tv,huawei,华为,,,华为智慧屏 SE 系列,55 畅连通话版 1080P (2GB+16GB)
 HD55DESY,tv,huawei,华为,,,华为智慧屏 SE 系列,55 畅连通话版 1080P 金属底座 (2GB+16GB)
@@ -3624,6 +3627,9 @@ LEA-B29B,band,huawei,华为,,,华为手环 BA-570,
 ASK-B29B,band,huawei,华为,,,华为擎云 HA580,
 KIM-B19B,band,huawei,华为,,Kimi,华为擎云 HA590,
 KIM-B29B,band,huawei,华为,,Kimi,华为擎云 HA590,
+NOR-B39B,band,huawei,华为,,,华为擎云 HA5A0,
+CDY-B19B,band,huawei,华为,,,华为擎云 HA5B0,
+NOR-B19,band,huawei,华为,,,华为擎云 HAY20,
 SIM-AL00,watch,huawei,华为,,Simba,华为儿童手表 3 Pro,
 NEO-AL10,watch,huawei,华为,,Nemo,华为儿童手表 3s,
 ALX-AL10,watch,huawei,华为,,Alex,华为儿童手表 3X,
@@ -3891,6 +3897,10 @@ MGA-LX9N,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y71,
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y71,
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y72,
 MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y73,
+MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y73S,
+MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y74,
+MGA-LX3,mob,huawei,HUAWEI,,Mega,HUAWEI nova Y74S,
+GFY-LX1,mob,huawei,HUAWEI,,Goofy,HUAWEI nova Y63,
 GFY-LX1,mob,huawei,HUAWEI,,Goofy,HUAWEI nova Y72S,
 CTR-LX1,mob,huawei,HUAWEI,,Cartier,HUAWEI nova Y90,
 CTR-LX2,mob,huawei,HUAWEI,,Cartier,HUAWEI nova Y90,
