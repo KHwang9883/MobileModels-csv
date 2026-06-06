@@ -5815,6 +5815,8 @@ CPH2795,mob,oneplus,一加,,volkswagen,一加 Nord 6,国际版
 PLY110,mob,oneplus,一加,,prado,一加 Turbo 6V,国行版
 CPH2805,mob,oneplus,一加,,prado,一加 Nord CE 6,印度版
 CPH2807,mob,oneplus,一加,,prado,一加 Nord CE 6,国际版
+PYS110,mob,oneplus,一加,,,一加 Turbo 6X,国行版
+PYR110,mob,oneplus,一加,,,一加 Turbo 6X Pro,国行版
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版
@@ -6017,6 +6019,8 @@ CPH2795,mob,oneplus,OnePlus,,volkswagen,OnePlus Nord 6,Global
 PLY110,mob,oneplus,OnePlus,,prado,OnePlus Turbo 6V,China
 CPH2805,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,India
 CPH2807,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,Global
+PYS110,mob,oneplus,OnePlus,,,OnePlus Turbo 6X,China
+PYR110,mob,oneplus,OnePlus,,,OnePlus Turbo 6X Pro,China
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India
@@ -8886,7 +8890,9 @@ V2279A,mob,vivo,vivo,,PD2279,Y55t,5G
 V2559A,mob,vivo,vivo,,PD2559,Y60,5G
 V2559A,mob,vivo,vivo,,PD2559,Y6t,5G
 V2559BA,mob,vivo,vivo,,PD2559,Y60m,5G
+V2559BA,mob,vivo,vivo,,PD2559,Y60s m 版,
 V2532BA,mob,vivo,vivo,,PD2532,Y6m,
+V2542A,mob,vivo,vivo,,PD2542,Y6t m 版,
 V2002A,mob,vivo,vivo,,PD2002,Y70s,5G
 V2002A,mob,vivo,vivo,,PD2019,Y70t,5G
 V1731CA,mob,vivo,vivo,,PD1731C,Y71s,
@@ -9136,6 +9142,7 @@ V2515,mob,vivo,vivo,,PD2509F,X300,
 V2514,mob,vivo,vivo,,PD2502F,X300 Pro,
 V2537,mob,vivo,vivo,,PD2527F,X300 FE,
 V2542,mob,vivo,vivo,,PD2527F,X300 FE,
+V2633,mob,vivo,vivo,,PD2527F,X300 FE,
 V2562,mob,vivo,vivo,,PD2547F,X300 Ultra,
 vivo 1819,mob,vivo,vivo,,PD1831F,V15,
 vivo 1920,mob,vivo,vivo,,PD1948F,V17,
@@ -9240,7 +9247,9 @@ V2509,mob,vivo,vivo,,PD2443F,T4 Lite 5G,
 V2518,mob,vivo,vivo,,PD2438F,T4R 5G,
 V2510,mob,vivo,vivo,,PD2503F,T4 Pro,
 V2504,mob,vivo,vivo,,PD2430F,T4 Ultra,
+V2583,mob,vivo,vivo,,,T5,
 V2568,mob,vivo,vivo,,PD2553F,T5 Pro,
+V2602,mob,vivo,vivo,,PD2553F,T5 Pro,
 V2545,mob,vivo,vivo,,PD2532F,T5x 5G,
 V2603,mob,vivo,vivo,,PD2542F,T5 Lite 5G,
 V2557,mob,vivo,vivo,,,T5 Lite 44W 5G,
@@ -9378,6 +9387,7 @@ V2611,mob,vivo,vivo,,PD2533F,Y31d,
 V2636,mob,vivo,vivo,,PD2533F,Y31d,
 V2543,mob,vivo,vivo,,PD2533F,Y31d Pro,
 V2533,mob,vivo,vivo,,PD2511F,Y31e 5G,
+V2614,mob,vivo,vivo,,PD2511F,Y31s 5G,
 V2057,mob,vivo,vivo,,PD2103F,Y33,
 V2109-EG,mob,vivo,vivo,,PD2142F,Y33A,
 V2109,mob,vivo,vivo,,PD2147F,Y33s,
@@ -9484,6 +9494,7 @@ J2510,mob,vivo,vivo,,PD2547F,JOVI X300 Ultra,
 V2427,mob,vivo,vivo,,PD2437F,JOVI V50,
 V2440,mob,vivo,vivo,,PD2447F,JOVI V50 Lite 5G,
 J2507,mob,vivo,vivo,,PD2529F,JOVI V70 5G,
+J2502,mob,vivo,vivo,,,JOVI T1 5G,
 V2425,mob,vivo,vivo,,PD2420F,JOVI Y19s,
 V2454,mob,vivo,vivo,,PD2420F,JOVI Y19s,
 J2503,mob,vivo,vivo,,PD2510DF,JOVI Y21,
