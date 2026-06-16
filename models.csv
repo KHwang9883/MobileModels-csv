@@ -1839,6 +1839,7 @@ LYN-AN00,mob,honor,荣耀,,LilyN,荣耀 X60i,
 AGI-AN00,mob,honor,荣耀,,MinaGTI,荣耀 X60 GT,
 MTN-AN00,mob,honor,荣耀,,,荣耀 X70,
 MTN-AN80,mob,honor,荣耀,,,荣耀 X70,12GB+512GB
+MTN-AN00,mob,honor,荣耀,,,荣耀 X70 Pro Max,
 ABR-AN00,mob,honor,荣耀,,Amber,荣耀 X70i,
 BSN-AN00,mob,honor,荣耀,,,荣耀 X80 Pro Max,
 LNA-AN00,mob,honor,荣耀,,Luna,荣耀 X80i,
@@ -1961,7 +1962,7 @@ ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,5G
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70 Plus,5G
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70m Plus,5G
 NLA-AL00,mob,honor,荣耀,,Nala,荣耀畅玩 70C,
-LAB-AN00,mob,honor,荣耀,,,荣耀畅玩 80 Plus,5G
+LAB-AN00,mob,honor,荣耀,,Labu,荣耀畅玩 80 Plus,5G
 LOG-AN10,mob,honor,荣耀,,Logan,荣耀畅玩 80 Pro,5G
 S8-701w,pad,honor,荣耀,,,荣耀平板,Wi-Fi 版
 S8-701u,pad,honor,荣耀,,,荣耀平板,3G 版
@@ -8778,6 +8779,7 @@ V2502DA,mob,vivo,vivo,,PD2502,X300 Pro,卫星通信版
 V2548A,mob,vivo,vivo,,PD2548,X300s,
 V2547A,mob,vivo,vivo,,PD2547,X300 Ultra,
 V2547DA,mob,vivo,vivo,,PD2547,X300 Ultra,卫星通信版
+V2545A,mob,vivo,vivo,,PD2545,X Fold6,
 V1831A,mob,vivo,vivo,,PD1831,S1,全网通版
 V1831T,mob,vivo,vivo,,PD1831,S1,移动全网通版
 V1832A,mob,vivo,vivo,,PD1832,S1 Pro,全网通版
@@ -9067,6 +9069,7 @@ V2445A,mob,vivo,vivo,,PD2445,iQOO Z10x,
 V2536A,mob,vivo,vivo,,PD2536,iQOO Z11 Turbo,
 V2551A,mob,vivo,vivo,,PD2551,iQOO Z11,
 V2532A,mob,vivo,vivo,,PD2532,iQOO Z11x,
+V2559UA,mob,vivo,vivo,,PD2559,iQOO Z11i,
 V2023A,mob,vivo,vivo,,PD2023,iQOO U1,
 V2065A,mob,vivo,vivo,,PD2065,iQOO U1x,
 V2061A,mob,vivo,vivo,,PD2061,iQOO U3,5G
@@ -10373,6 +10376,7 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
 25102RKBEC,mob,xiaomi,小米,P11U,myron,REDMI K90 Pro Max,
 25102RK69C,mob,xiaomi,小米,P11UIP,myron,REDMI K90 Pro Max,冠军版
 2604FRK1EC,mob,xiaomi,小米,P12,prague,REDMI K90 Max,
+M332BF,mob,xiaomi,小米,P12X,warsaw,REDMI K90 至尊版,
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
@@ -10935,6 +10939,7 @@ M2012K10C,mob,xiaomi,小米,K10,ares,Redmi K40 游戏增强版,
 25102RKBEC,mob,xiaomi,小米,P11U,myron,REDMI K90 Pro Max,
 25102RK69C,mob,xiaomi,小米,P11UIP,myron,REDMI K90 Pro Max,冠军版
 2604FRK1EC,mob,xiaomi,小米,P12,prague,REDMI K90 Max,
+M332BF,mob,xiaomi,小米,P12X,warsaw,REDMI K90 至尊版,
 2016020,mob,xiaomi,小米,H3C,omega,红米 Pro,标准版
 2016021,mob,xiaomi,小米,H3C,omega,红米 Pro,高配版 / 尊享版
 M1803E6E,mob,xiaomi,小米,E6,ysl,红米 S2,全网通版
