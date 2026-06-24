@@ -7031,8 +7031,10 @@ RMX5256,mob,realme,realme,,mumbai,C83,5G
 RMX5566,mob,realme,realme,,moscow-b,C85,
 RMX5253,mob,realme,realme,,mumbai,C85 5G,
 RMX5555,mob,realme,realme,,moscow,C85 Pro,
+RMX5353,mob,realme,realme,,,C100,
 RMX5258,mob,realme,realme,,,C100,5G
 RMX5377,mob,realme,realme,,,C100i,
+RMX5366,mob,realme,realme,,,C100x,
 RMX3834,mob,realme,realme,,hulk,Note 50,
 RMX3933,mob,realme,realme,,latte,Note 60,
 RMX3938,mob,realme,realme,,latte,Note 60x,
@@ -7054,7 +7056,8 @@ RMX5031,mob,realme,realme,,yamaha,P3 Ultra,5G
 RMX3943,mob,realme,realme,,rado,P3 Lite,5G
 RMX5110,mob,realme,realme,,casio-p,P4,5G
 RMX5116,mob,realme,realme,,neutron-p,P4 Pro,5G
-RMX5108,mob,realme,realme,,suzuki,P4x,5G
+RMX5367,mob,realme,realme,,,P4x,
+RMX5108,mob,realme,realme,,suzuki,P4x 5G,
 RMX5107,mob,realme,realme,,casio-m,P4 Power,5G
 RMX5313,mob,realme,realme,,dhaka,P4 Lite,
 RMX5261,mob,realme,realme,,mumbai-c2,P4 Lite 5G,
@@ -8090,6 +8093,11 @@ SM-A266U,mob,samsung,Samsung,,a26x,Galaxy A26 5G,US Carrier
 SM-A266U1,mob,samsung,Samsung,,a26x,Galaxy A26 5G,US Unlocked
 SM-S266V,mob,samsung,Samsung,,a26x,Galaxy A26 5G,TracFone
 SM-A266M,mob,samsung,Samsung,,a26xs,Galaxy A26 5G,Latin America
+SM-A276B,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,Global
+SM-A276U,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,US Carrier
+SM-A276U1,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,US Unlocked
+SM-S276V,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,TracFone
+SM-A2760,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,HK
 SM-A305F,mob,samsung,Samsung,,a30,Galaxy A30,Global
 SM-A305FN,mob,samsung,Samsung,,a30,Galaxy A30,EU
 SM-A305G,mob,samsung,Samsung,,a30,Galaxy A30,Latin America
@@ -10085,6 +10093,7 @@ A401XM,mob,xiaomi,小米,M19J,sky,Redmi 12 5G,日本版 (SoftBank)
 23124RN87I,mob,xiaomi,小米,C3V,air,Redmi 13C 5G,印度版
 23124RN87G,mob,xiaomi,小米,C3V,air,Redmi 13C 5G,国际版
 2409BRN2CC,mob,xiaomi,小米,C3N,lake,Redmi 14C,国行版
+2409BRN2CC,mob,xiaomi,小米,C3N,lake,REDMI 17C,国行版
 2409BRN2CA,mob,xiaomi,小米,C3N,lake,Redmi 14C,国际版
 2409BRN2CI,mob,xiaomi,小米,C3N,lake,Redmi 14C,印度版
 2409BRN2CL,mob,xiaomi,小米,C3N,lake,Redmi 14C,拉美版 / 日韩版
@@ -10810,6 +10819,7 @@ M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A,
 23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13C 5G,
 23124RN87C,mob,xiaomi,小米,C3V,air,Redmi 13R 5G,
 2409BRN2CC,mob,xiaomi,小米,C3N,lake,Redmi 14C,
+2409BRN2CC,mob,xiaomi,小米,C3N,lake,REDMI 17C,
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,
 2508CRN2BC,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,
@@ -11377,6 +11387,7 @@ A401XM,mob,xiaomi,Xiaomi,M19J,sky,Redmi 12 5G,Japan (SoftBank)
 2409BRN2CI,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,India
 2409BRN2CL,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,Latin America / Japan / Korea
 2409BRN2CC,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,China
+2409BRN2CC,mob,xiaomi,Xiaomi,C3N,lake,REDMI 17C,China
 2409BRN2CY,mob,xiaomi,Xiaomi,C3N,lake,Redmi 14C,Global (NFC)
 2411DRN47G,mob,xiaomi,Xiaomi,C3F,flame,Redmi 14C 5G,Global
 2411DRN47R,mob,xiaomi,Xiaomi,C3F,flame,Redmi 14C 5G,Japan
@@ -11421,20 +11432,20 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank)
 2015052,mob,xiaomi,Xiaomi,H3Y,hermes,Redmi Note 2,(16GB) China Mobile
 2015055,mob,xiaomi,Xiaomi,H3Y,hermes,Redmi Note 2,(16GB) China Mobile
 2015056,mob,xiaomi,Xiaomi,H3Y,hermes,Redmi Note 2,(32GB) China Mobile
-2015617,mob,xiaomi,Xiaomi,H3Z,hennessy,Redmi Note 3,(Mediatek) China
-2015611,mob,xiaomi,Xiaomi,H3Z,hennessy,Redmi Note 3,(Mediatek) China Mobile
+2015617,mob,xiaomi,Xiaomi,H3Z,hennessy,Redmi Note 3,(MediaTek) China
+2015611,mob,xiaomi,Xiaomi,H3Z,hennessy,Redmi Note 3,(MediaTek) China Mobile
 2015116,mob,xiaomi,Xiaomi,H3A,kenzo,Redmi Note 3,(Qualcomm) Global
 2015112,mob,xiaomi,Xiaomi,H3A,kenzo,Redmi Note 3,(Qualcomm) China
 2015115,mob,xiaomi,Xiaomi,H3A,kenzo,Redmi Note 3,(Qualcomm) China
 2015161,mob,xiaomi,Xiaomi,H3B,kate,Redmi Note 3,(Special Edition) Taiwan
-2016050,mob,xiaomi,Xiaomi,B6L,nikel,Redmi Note 4,(Mediatek) China / Global
-2016051,mob,xiaomi,Xiaomi,B6L,nikel,Redmi Note 4,(Mediatek) China Mobile
+2016050,mob,xiaomi,Xiaomi,B6L,nikel,Redmi Note 4,(MediaTek) China / Global
+2016051,mob,xiaomi,Xiaomi,B6L,nikel,Redmi Note 4,(MediaTek) China Mobile
 2016100,mob,xiaomi,Xiaomi,C6,mido,Redmi Note 4,(Qualcomm) Global
 2016102,mob,xiaomi,Xiaomi,C6,mido,Redmi Note 4,(Qualcomm) Global
 2016101,mob,xiaomi,Xiaomi,C6,mido,Redmi Note 4X,(Qualcomm) China
 2016130,mob,xiaomi,Xiaomi,C6,mido,Redmi Note 4X,(Qualcomm) China Mobile
-MBE6A5,mob,xiaomi,Xiaomi,B6A,nikel,Redmi Note 4X,(Mediatek) China
-MBT6A5,mob,xiaomi,Xiaomi,B6A,nikel,Redmi Note 4X,(Mediatek) China Mobile
+MBE6A5,mob,xiaomi,Xiaomi,B6A,nikel,Redmi Note 4X,(MediaTek) China
+MBT6A5,mob,xiaomi,Xiaomi,B6A,nikel,Redmi Note 4X,(MediaTek) China Mobile
 MEI7,mob,xiaomi,Xiaomi,E7,vince,Redmi Note 5,India
 M1803E7SG,mob,xiaomi,Xiaomi,E7S,whyred,Redmi Note 5,Global
 M1803E7SH,mob,xiaomi,Xiaomi,E7S,whyred,Redmi Note 5,Global
