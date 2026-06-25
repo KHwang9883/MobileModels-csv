@@ -3149,7 +3149,7 @@ VGHH-16,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,16GB
 VGHH-32,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,32GB 内存
 HAD-W24,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,24GB 内存
 HAD-W32,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,32GB 内存
-HPR-W72,computer,huawei,华为,,Hooper,HUAWEI MateBook Fold 非凡大师,32GB 内存
+HPR-W72,computer,huawei,华为,,Hopper,HUAWEI MateBook Fold 非凡大师,32GB 内存
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5 Linux 版
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i7
@@ -9267,6 +9267,7 @@ V2583,mob,vivo,vivo,,,T5,
 V2568,mob,vivo,vivo,,PD2553F,T5 Pro,
 V2602,mob,vivo,vivo,,PD2553F,T5 Pro,
 V2545,mob,vivo,vivo,,PD2532F,T5x 5G,
+V2628,mob,vivo,vivo,,,T5e,
 V2603,mob,vivo,vivo,,PD2542F,T5 Lite 5G,
 V2557,mob,vivo,vivo,,,T5 Lite 44W 5G,
 vivo 1929,mob,vivo,vivo,,PD2014F,Y1s,
@@ -9299,11 +9300,13 @@ V2532,mob,vivo,vivo,,PD2442F,Y04e,
 V2531,mob,vivo,vivo,,PD2442F,Y04s,
 V2556,mob,vivo,vivo,,PD2541F,Y05,
 V2565,mob,vivo,vivo,,PD2541F,Y05,
+V2606,mob,vivo,vivo,,,Y05e,
 V2575,mob,vivo,vivo,,PD2542F,Y11 5G,
 V2028,mob,vivo,vivo,,PD2042F,Y11s,
 V2555,mob,vivo,vivo,,PD2541F,Y11d,
 V2578,mob,vivo,vivo,,PD2541F,Y11d,
 V2580,mob,vivo,vivo,,PD2541F,Y11d,
+V2646,mob,vivo,vivo,,PD2541F,Y11d,
 V2577,mob,vivo,vivo,,PD2541F,Y11e,
 vivo 1904,mob,vivo,vivo,,PD1901F,Y12,
 V2026,mob,vivo,vivo,,PD2060F,Y12A,
@@ -9550,8 +9553,11 @@ M2402B1,band,xiaomi,小米,N67,,小米手环 9 Pro,国际版
 M2435B1,band,xiaomi,小米,N69,,小米手环 9 Active,国际版
 M2457B1,band,xiaomi,小米,O66,,小米手环 10,
 M2456B1,band,xiaomi,小米,O66,,小米手环 10,NFC 版 / 陶瓷版
-M2551B1,band,xiaomi,小米,P67,,小米手环 10 Pro,金属版
-M2553B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版
+M2551B1,band,xiaomi,小米,P67,,小米手环 10 Pro,金属版 国行版
+M2553B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国行版
+M2552B1,band,xiaomi,小米,P67,,小米手环 10 Pro,国际版
+M2558B1,band,xiaomi,小米,P67,,小米手环 10 Pro,NFC 版 国际版
+M2559B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国际版
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,
 M2320W1,watch,xiaomi,小米,M61C,axolotlaxie,Xiaomi Watch 2,
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版
@@ -11680,6 +11686,7 @@ M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,China
 25102RKBEC,mob,xiaomi,Xiaomi,P11U,myron,REDMI K90 Pro Max,China
 25102RK69C,mob,xiaomi,Xiaomi,P11UIP,myron,REDMI K90 Pro Max,Automobili Lamborghini Squadra Corse China
 2604FRK1EC,mob,xiaomi,Xiaomi,P12,prague,REDMI K90 Max,
+M332BF,mob,xiaomi,Xiaomi,P12X,warsaw,REDMI K90 Ultra,
 2016020,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,32GB
 2016021,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,64GB & 128GB
 M1803E6G,mob,xiaomi,Xiaomi,E6,ysl,Redmi S2,Global
