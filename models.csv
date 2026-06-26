@@ -6490,6 +6490,9 @@ CPH2801,mob,oppo,OPPO,,,OPPO Reno15 F,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 FS,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15c,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 A,
+CPH2859,mob,oppo,OPPO,,,OPPO Reno16 F,5G
+CPH2859,mob,oppo,OPPO,,,OPPO Reno16 FS,5G
+CPH2859,mob,oppo,OPPO,,,OPPO Reno16c,5G
 CPH1819,mob,oppo,OPPO,,,OPPO F7,
 CPH1821,mob,oppo,OPPO,,,OPPO F7,
 CPH1859,mob,oppo,OPPO,,,OPPO F7 Youth,
@@ -11974,11 +11977,11 @@ JLG-AN80,mob,zhixuan,华为智选,,Jiaolong,Hi 畅享 80 GT,5G
 SHR-AN00,mob,zhixuan,华为智选,,Shera,Hi 畅享 80 Pro,5G
 SNP-AN00,mob,zhixuan,华为智选,,Snoopy,Hi 畅享 80 Plus,5G
 CHE-AN00,mob,zhixuan,华为智选,,Change,WIKO X70,
-MASH-16,mob,zhixuan,华为智选,,,Hi MateBook 14,16GB 内存
-MASH-32,mob,zhixuan,华为智选,,,Hi MateBook 14,32GB 内存
-MASI-16,mob,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (16GB 内存) (方形键盘)
-MASC-24,mob,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (24GB 内存) (圆形键盘)
-MASC-32,mob,zhixuan,华为智选,,,Hi MateBook 14,酷睿 Ultra 2 (32GB 内存) (圆形键盘)
+MASH-16,mob,zhixuan,华为智选,,MarseilleH,Hi MateBook 14,16GB 内存
+MASH-32,mob,zhixuan,华为智选,,MarseilleH,Hi MateBook 14,32GB 内存
+MASI-16,mob,zhixuan,华为智选,,MarseilleI,Hi MateBook 14,酷睿 Ultra 2 (16GB 内存) (方形键盘)
+MASC-24,mob,zhixuan,华为智选,,MarseilleC,Hi MateBook 14,酷睿 Ultra 2 (24GB 内存) (圆形键盘)
+MASC-32,mob,zhixuan,华为智选,,MarseilleC,Hi MateBook 14,酷睿 Ultra 2 (32GB 内存) (圆形键盘)
 MNCAA-16,mob,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (16GB 内存) (方形键盘)
 MNCAA-32,mob,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (32GB 内存) (方形键盘)
 MNCAC-32,mob,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (32GB 内存) (圆形键盘)
