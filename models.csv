@@ -7033,17 +7033,17 @@ RMX5020,mob,realme,realme,,oris-a,C75x,
 RMX5256,mob,realme,realme,,mumbai,C83,5G
 RMX5566,mob,realme,realme,,moscow-b,C85,
 RMX5253,mob,realme,realme,,mumbai,C85 5G,
-RMX5555,mob,realme,realme,,moscow,C85 Pro,
-RMX5353,mob,realme,realme,,,C100,
-RMX5258,mob,realme,realme,,,C100,5G
-RMX5377,mob,realme,realme,,,C100i,
-RMX5366,mob,realme,realme,,,C100x,
+RMX5555,mob,realme,realme,,moscow-a,C85 Pro,
+RMX5353,mob,realme,realme,,madrid,C100,
+RMX5258,mob,realme,realme,,mumbai-d,C100 5G,
+RMX5377,mob,realme,realme,,nairobi,C100i,
+RMX5366,mob,realme,realme,,nairobi,C100x,
 RMX3834,mob,realme,realme,,hulk,Note 50,
 RMX3933,mob,realme,realme,,latte,Note 60,
 RMX3938,mob,realme,realme,,latte,Note 60x,
 RMX5313,mob,realme,realme,,dhaka,Note 70,
 RMX5313,mob,realme,realme,,dhaka,Note 70T,
-RMX5388,mob,realme,realme,,,Note 80,
+RMX5388,mob,realme,realme,,dhaka,Note 80,
 RMX1831,mob,realme,realme,,,U1,
 RMX1833,mob,realme,realme,,,U1,
 RMX3870,mob,realme,realme,,tacoo-c,P1,5G
@@ -7057,9 +7057,10 @@ RMX5032,mob,realme,realme,,piaget-p,P3 Pro,5G
 RMX5030,mob,realme,realme,,yamaha,P3 Ultra,5G
 RMX5031,mob,realme,realme,,yamaha,P3 Ultra,5G
 RMX3943,mob,realme,realme,,rado,P3 Lite,5G
-RMX5110,mob,realme,realme,,casio-p,P4,5G
+RMX5555,mob,realme,realme,,moscow-a,P4,
+RMX5110,mob,realme,realme,,casio-p,P4 5G,
 RMX5116,mob,realme,realme,,neutron-p,P4 Pro,5G
-RMX5367,mob,realme,realme,,,P4x,
+RMX5367,mob,realme,realme,,nairobi,P4x,
 RMX5108,mob,realme,realme,,suzuki,P4x 5G,
 RMX5107,mob,realme,realme,,casio-m,P4 Power,5G
 RMX5313,mob,realme,realme,,dhaka,P4 Lite,
@@ -8903,12 +8904,14 @@ V2230A,mob,vivo,vivo,,PD2230,Y53t,5G
 V2045A,mob,vivo,vivo,,PD2045,Y54s,5G
 V2164A,mob,vivo,vivo,,PD2164,Y55s,5G
 V2279A,mob,vivo,vivo,,PD2279,Y55t,5G
-V2559A,mob,vivo,vivo,,PD2559,Y60,5G
-V2559A,mob,vivo,vivo,,PD2559,Y6t,5G
-V2559A,mob,vivo,vivo,,PD2559,Y6e,5G
-V2559BA,mob,vivo,vivo,,PD2559,Y60m,5G
+V2559A,mob,vivo,vivo,,PD2559,Y60,
+V2559A,mob,vivo,vivo,,PD2559,Y6t,
+V2559A,mob,vivo,vivo,,PD2559,Y6e,
+V2559BA,mob,vivo,vivo,,PD2559,Y60m,
 V2559BA,mob,vivo,vivo,,PD2559,Y60s m 版,
 V2532BA,mob,vivo,vivo,,PD2532,Y6m,
+V2542A,mob,vivo,vivo,,PD2542,Y60i,
+V2542A,mob,vivo,vivo,,PD2542,Y60i m 版,
 V2542A,mob,vivo,vivo,,PD2542,Y6t m 版,
 V2002A,mob,vivo,vivo,,PD2002,Y70s,5G
 V2002A,mob,vivo,vivo,,PD2019,Y70t,5G
@@ -9007,6 +9010,8 @@ V1928T,mob,vivo,vivo,,PD1928,U3x,移动全网通版
 V1962BA,mob,vivo,vivo,,PD1962B,G1,
 V2318A,mob,vivo,vivo,,PD2318,G2,
 V2443A,mob,vivo,vivo,,PD2443,G3,
+V2531A,mob,vivo,vivo,,PD2531,G5i,
+V2531A,mob,vivo,vivo,,PD2531,G5z,
 V1824BA,mob,vivo,vivo,,PD1824,iQOO,6GB+128GB
 V1824A,mob,vivo,vivo,,PD1824,iQOO,8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB
 V1922A,mob,vivo,vivo,,PD1922,iQOO Pro,全网通版
@@ -9510,7 +9515,8 @@ I2505,mob,vivo,vivo,,,iQOO Z10R 5G,Global
 I2512,mob,vivo,vivo,,PD2553F,iQOO Z11 5G,
 I2507,mob,vivo,vivo,,PD2532F,iQOO Z11x 5G,
 I2510,mob,vivo,vivo,,PD2542F,iQOO Z11 Lite 5G,
-I2515,mob,vivo,vivo,,,iQOO Z11 Lite 44W 5G,
+I2510,mob,vivo,vivo,,PD2542F,iQOO Z11 Lite 44W 5G,
+I2515,mob,vivo,vivo,,PD2542F,iQOO Z11 Lite 44W 5G,
 J2505,mob,vivo,vivo,,PD2527F,JOVI X300 FE,
 J2510,mob,vivo,vivo,,PD2547F,JOVI X300 Ultra,
 V2427,mob,vivo,vivo,,PD2437F,JOVI V50,
