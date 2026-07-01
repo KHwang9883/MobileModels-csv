@@ -4152,7 +4152,7 @@ TB323FU,pad,lenovo,联想,,baldur,联想 AI 平板 拯救者 Y700 五代,
 TB570FU,pad,lenovo,联想,,inception,拯救者平板 Y900,
 TB570ZU,pad,lenovo,联想,,inception,拯救者平板 Y900,
 TB711FU,pad,lenovo,联想,,beryl,联想 AI 平板 拯救者 Y900 11,
-TB522FU,pad,lenovo,联想,,,联想 AI 平板 拯救者 Y900 13,
+TB522FU,pad,lenovo,联想,,mojito,联想 AI 平板 拯救者 Y900 13,
 Lenovo TB-J616F,pad,lenovo,联想,,p11_plus,联想天骄平板电脑,
 Lenovo TB-J616N,pad,lenovo,联想,,p11_plus,联想天骄平板电脑,
 Lenovo TB-8504F,pad,lenovo,联想,,,联想 TAB4,8 英寸 Wi-Fi 版
@@ -5847,6 +5847,7 @@ CPH2621,mob,oneplus,一加,,camry,一加 Nord CE 4 Lite,欧洲版 / 国际版
 CPH2717,mob,oneplus,一加,,honda,一加 Nord CE 5,印度版
 CPH2719,mob,oneplus,一加,,honda,一加 Nord CE 5,国际版
 CPH2943,mob,oneplus,一加,,,一加 Nord CE 6 Lite,印度版
+CPH2955,mob,oneplus,一加,,,一加 N6,印度版
 BE2025,mob,oneplus,一加,,billie8,一加 Nord N10,Metro 版
 BE2026,mob,oneplus,一加,,billie8,一加 Nord N10,北美版
 BE2029,mob,oneplus,一加,,billie8,一加 Nord N10,欧洲版 / 国际版
@@ -6051,6 +6052,7 @@ CPH2621,mob,oneplus,OnePlus,,camry,OnePlus Nord CE 4 Lite,Europe / Global
 CPH2717,mob,oneplus,OnePlus,,honda,OnePlus Nord CE 5,India
 CPH2719,mob,oneplus,OnePlus,,honda,OnePlus Nord CE 5,Global
 CPH2943,mob,oneplus,OnePlus,,,OnePlus Nord CE 6 Lite,India
+CPH2955,mob,oneplus,OnePlus,,,OnePlus N6,India
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,Metro
 BE2026,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,North America
 BE2029,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,Europe / Global
@@ -8097,11 +8099,11 @@ SM-A266U,mob,samsung,Samsung,,a26x,Galaxy A26 5G,US Carrier
 SM-A266U1,mob,samsung,Samsung,,a26x,Galaxy A26 5G,US Unlocked
 SM-S266V,mob,samsung,Samsung,,a26x,Galaxy A26 5G,TracFone
 SM-A266M,mob,samsung,Samsung,,a26xs,Galaxy A26 5G,Latin America
-SM-A276B,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,Global
-SM-A276U,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,US Carrier
-SM-A276U1,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,US Unlocked
-SM-S276V,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,TracFone
-SM-A2760,mob,samsung,Samsung,,a26xq,Galaxy A27 5G,HK
+SM-A276B,mob,samsung,Samsung,,a27xq,Galaxy A27 5G,Global
+SM-A276U,mob,samsung,Samsung,,a27xq,Galaxy A27 5G,US Carrier
+SM-A276U1,mob,samsung,Samsung,,a27xq,Galaxy A27 5G,US Unlocked
+SM-S276V,mob,samsung,Samsung,,a27xq,Galaxy A27 5G,TracFone
+SM-A2760,mob,samsung,Samsung,,a27xq,Galaxy A27 5G,HK
 SM-A305F,mob,samsung,Samsung,,a30,Galaxy A30,Global
 SM-A305FN,mob,samsung,Samsung,,a30,Galaxy A30,EU
 SM-A305G,mob,samsung,Samsung,,a30,Galaxy A30,Latin America
@@ -9634,7 +9636,7 @@ M2540E1,watch,xiaomi,小米,P75,,Xiaomi Buds 6,
 M2503E1,watch,xiaomi,小米,O74,,Xiaomi 开放式耳机 Pro,
 GCDEJ01LS,watch,xiaomi,小米,,,Xiaomi 骨传导耳机,
 M2447E1,watch,xiaomi,小米,O73,,Xiaomi 骨传导耳机 2,
-M2529E1,watch,xiaomi,小米,O70C,,Xiaomi 耳夹式耳机,
+M2529E1,watch,xiaomi,小米,Q74U,,Xiaomi 耳夹式耳机,
 TWSEJ01ZM,watch,xiaomi,小米,K76,,Redmi AirDots 3 Pro,
 M2104E1,watch,xiaomi,小米,K77,,Redmi Buds 3,
 M2110E1,watch,xiaomi,小米,K79,,Redmi Buds 3 青春版,
@@ -9668,6 +9670,8 @@ M2537E1,watch,xiaomi,小米,P79,,REDMI Buds 8 活力版,
 M2537E1,watch,xiaomi,小米,P79,,REDMI Buds 8 Active,国际版
 M2539E1,watch,xiaomi,小米,P79A,,REDMI Buds 8 青春版,
 M2539E1,watch,xiaomi,小米,P79A,,REDMI Buds 8 Lite,国际版
+M2546E1,watch,xiaomi,小米,O70C,,REDMI 头戴降噪耳机,
+M2546E1,watch,xiaomi,小米,O70C,,REDMI Headphones Neo,国际版
 TWSEJ01ZM,watch,xiaomi,小米,K76,,POCO Buds Pro Genshin Impact Edition,国际版
 M2237E1,pod,xiaomi,小米,M79A,,POCO Pods,印度版
 M2350E1,pod,xiaomi,小米,N79A,,POCO Buds X1,印度版
