@@ -5846,7 +5846,7 @@ CPH2619,mob,oneplus,一加,,camry,一加 Nord CE 4 Lite,印度版
 CPH2621,mob,oneplus,一加,,camry,一加 Nord CE 4 Lite,欧洲版 / 国际版
 CPH2717,mob,oneplus,一加,,honda,一加 Nord CE 5,印度版
 CPH2719,mob,oneplus,一加,,honda,一加 Nord CE 5,国际版
-CPH2943,mob,oneplus,一加,,,一加 Nord CE 6 Lite,印度版
+CPH2943,mob,oneplus,一加,,suzuki-o,一加 Nord CE 6 Lite,印度版
 CPH2955,mob,oneplus,一加,,,一加 N6,印度版
 BE2025,mob,oneplus,一加,,billie8,一加 Nord N10,Metro 版
 BE2026,mob,oneplus,一加,,billie8,一加 Nord N10,北美版
@@ -5872,13 +5872,13 @@ OPD2404,pad,oneplus,一加,,rainbow,一加平板 Pro,国行版
 OPD2403,pad,oneplus,一加,,rainbow,一加平板 2 (2024),国际版
 OPD2413,pad,oneplus,一加,,erhai-o,一加平板 2 Pro,国行版
 OPD2415,pad,oneplus,一加,,erhai-o,一加平板 3,国际版
-OPD2480,pad,oneplus,一加,,,一加平板 Lite,Wi-Fi
-OPD2481,pad,oneplus,一加,,,一加平板 Lite,LTE
-OPD2504,pad,oneplus,一加,,,一加平板 Go 2,Wi-Fi
-OPD2505,pad,oneplus,一加,,,一加平板 Go 2,5G
-OPD2508,pad,oneplus,一加,,himalaya-o,一加平板 2 (2025),国行版
-OPD2513,pad,oneplus,一加,,,一加平板 3 Pro,国行版
-OPD2514,pad,oneplus,一加,,,一加平板 4,国际版
+OPD2480,pad,oneplus,一加,,fiji-o,一加平板 Lite,Wi-Fi
+OPD2481,pad,oneplus,一加,,fiji-o,一加平板 Lite,LTE
+OPD2504,pad,oneplus,一加,,greenland-o,一加平板 Go 2,Wi-Fi
+OPD2505,pad,oneplus,一加,,greenland-o,一加平板 Go 2,5G
+OPD2508,pad,oneplus,一加,,himalayan-o,一加平板 2 (2025),国行版
+OPD2513,pad,oneplus,一加,,iceland-o,一加平板 3 Pro,国行版
+OPD2514,pad,oneplus,一加,,iceland-o,一加平板 4,国际版
 W101IN,band,oneplus,一加,,audio,一加 Band,印度版
 OPBBE221,watch,oneplus,一加,,newton,一加 Nord Watch,
 W301CN,watch,oneplus,一加,,,一加手表,国行版 / Cyberpunk 2077 限定版
@@ -6051,7 +6051,7 @@ CPH2619,mob,oneplus,OnePlus,,camry,OnePlus Nord CE 4 Lite,India
 CPH2621,mob,oneplus,OnePlus,,camry,OnePlus Nord CE 4 Lite,Europe / Global
 CPH2717,mob,oneplus,OnePlus,,honda,OnePlus Nord CE 5,India
 CPH2719,mob,oneplus,OnePlus,,honda,OnePlus Nord CE 5,Global
-CPH2943,mob,oneplus,OnePlus,,,OnePlus Nord CE 6 Lite,India
+CPH2943,mob,oneplus,OnePlus,,suzuki-o,OnePlus Nord CE 6 Lite,India
 CPH2955,mob,oneplus,OnePlus,,,OnePlus N6,India
 BE2025,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,Metro
 BE2026,mob,oneplus,OnePlus,,billie8,OnePlus Nord N10,North America
@@ -6077,13 +6077,13 @@ OPD2404,pad,oneplus,OnePlus,,rainbow,OnePlus Pad Pro,China
 OPD2403,pad,oneplus,OnePlus,,rainbow,OnePlus Pad 2 (2024),Global
 OPD2413,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 2 Pro,China
 OPD2415,pad,oneplus,OnePlus,,erhai-o,OnePlus Pad 3,Global
-OPD2480,pad,oneplus,OnePlus,,,OnePlus Pad Lite,Wi-Fi
-OPD2481,pad,oneplus,OnePlus,,,OnePlus Pad Lite,LTE
-OPD2504,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,Wi-Fi
-OPD2505,pad,oneplus,OnePlus,,,OnePlus Pad Go 2,5G
-OPD2508,pad,oneplus,OnePlus,,himalaya-o,OnePlus Pad 2 (2025),China
-OPD2513,pad,oneplus,OnePlus,,,OnePlus Pad 3 Pro,China
-OPD2514,pad,oneplus,OnePlus,,,OnePlus Pad 4,Global
+OPD2480,pad,oneplus,OnePlus,,fiji-o,OnePlus Pad Lite,Wi-Fi
+OPD2481,pad,oneplus,OnePlus,,fiji-o,OnePlus Pad Lite,LTE
+OPD2504,pad,oneplus,OnePlus,,greenland-o,OnePlus Pad Go 2,Wi-Fi
+OPD2505,pad,oneplus,OnePlus,,greenland-o,OnePlus Pad Go 2,5G
+OPD2508,pad,oneplus,OnePlus,,himalayan-o,OnePlus Pad 2 (2025),China
+OPD2513,pad,oneplus,OnePlus,,iceland-o,OnePlus Pad 3 Pro,China
+OPD2514,pad,oneplus,OnePlus,,iceland-o,OnePlus Pad 4,Global
 W101IN,band,oneplus,OnePlus,,audio,OnePlus Band,India
 OPBBE221,watch,oneplus,OnePlus,,newton,OnePlus Nord Watch,
 W301CN,watch,oneplus,OnePlus,,,OnePlus Watch,China / Cyberpunk 2077 Limited Edition
@@ -6492,6 +6492,7 @@ CPH2801,mob,oppo,OPPO,,,OPPO Reno15 F,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 FS,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15c,5G
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 A,
+CPH2865,mob,oppo,OPPO,,,OPPO Reno16,5G
 CPH2859,mob,oppo,OPPO,,,OPPO Reno16 F,5G
 CPH2859,mob,oppo,OPPO,,,OPPO Reno16 FS,5G
 CPH2859,mob,oppo,OPPO,,,OPPO Reno16c,5G
