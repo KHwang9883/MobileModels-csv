@@ -7000,31 +7000,31 @@ RMX3195,mob,realme,realme,,,C25s,
 RMX3197,mob,realme,realme,,,C25s,
 RMX3265,mob,realme,realme,,,C25Y,
 RMX3269,mob,realme,realme,,,C25Y,
-RMX3581,mob,realme,realme,,,C30,
-RMX3623,mob,realme,realme,,,C30,
+RMX3581,mob,realme,realme,,nico-c,C30,
+RMX3623,mob,realme,realme,,nico-c,C30,
 RMX3690,mob,realme,realme,,,C30s,
-RMX3501,mob,realme,realme,,,C31,
-RMX3502,mob,realme,realme,,,C31,
-RMX3503,mob,realme,realme,,,C31,
+RMX3501,mob,realme,realme,,nico-a,C31,
+RMX3502,mob,realme,realme,,nico-a,C31,
+RMX3503,mob,realme,realme,,nico-a,C31,
 RMX3624,mob,realme,realme,,,C33,
 RMX3627,mob,realme,realme,,,C33 2023,
-RMX3511,mob,realme,realme,,,C35,
-RMX3512,mob,realme,realme,,,C35,
-RMX3513,mob,realme,realme,,,C35,
-RMX3830,mob,realme,realme,,,C51,
-RMX3765,mob,realme,realme,,,C51s,
-RMX3760,mob,realme,realme,,,C53,Global
-RMX3762,mob,realme,realme,,,C53,India
+RMX3511,mob,realme,realme,,nicky,C35,
+RMX3512,mob,realme,realme,,nicky,C35,
+RMX3513,mob,realme,realme,,nicky,C35,
+RMX3830,mob,realme,realme,,hulk,C51,
+RMX3765,mob,realme,realme,,hulk-m,C51s,
+RMX3760,mob,realme,realme,,hulk-b,C53,Global
+RMX3762,mob,realme,realme,,hulk-d,C53,India
 RMX3710,mob,realme,realme,,miami-b,C55,
-RMX3834,mob,realme,realme,,hulk,C60,
-RMX3939,mob,realme,realme,,latte,C61,Global
+RMX3834,mob,realme,realme,,hulk-k,C60,
 RMX3930,mob,realme,realme,,latte,C61,Global
-RMX3933,mob,realme,realme,,latte,C61,India
-RMX3939,mob,realme,realme,,latte,C63,
+RMX3939,mob,realme,realme,,latte-h,C61,Global
+RMX3933,mob,realme,realme,,latte-a,C61,India
+RMX3939,mob,realme,realme,,latte-b,C63,
 RMX3950,mob,realme,realme,,barley-d,C63 5G,
 RMX3910,mob,realme,realme,,,C65,
 RMX3997,mob,realme,realme,,barley-e,C65 5G,
-RMX3939,mob,realme,realme,,latte,C65s,
+RMX3939,mob,realme,realme,,latte-b,C65s,
 RMX3890,mob,realme,realme,,,C67,
 RMX3782,mob,realme,realme,,chongqing,C67 5G,
 RMX5303,mob,realme,realme,,dhaka,C71,
@@ -7039,14 +7039,17 @@ RMX5253,mob,realme,realme,,mumbai,C85 5G,
 RMX5555,mob,realme,realme,,moscow-a,C85 Pro,
 RMX5353,mob,realme,realme,,madrid,C100,
 RMX5258,mob,realme,realme,,mumbai-d,C100 5G,
-RMX5377,mob,realme,realme,,nairobi,C100i,
+RMX5377,mob,realme,realme,,nairobi-a,C100i,
 RMX5366,mob,realme,realme,,nairobi,C100x,
-RMX3834,mob,realme,realme,,hulk,Note 50,
-RMX3933,mob,realme,realme,,latte,Note 60,
-RMX3938,mob,realme,realme,,latte,Note 60x,
-RMX5313,mob,realme,realme,,dhaka,Note 70,
-RMX5313,mob,realme,realme,,dhaka,Note 70T,
-RMX5388,mob,realme,realme,,dhaka,Note 80,
+RMX3834,mob,realme,realme,,hulk-k,Note 50,
+RMX3933,mob,realme,realme,,latte-a,Note 60,
+RMX3933,mob,realme,realme,,latte-a,Note 60s,
+RMX3938,mob,realme,realme,,latte-k,Note 60x,
+RMX5313,mob,realme,realme,,latte-t,Note 70,
+RMX5313,mob,realme,realme,,latte-t,Note 70T,
+RMX5313,mob,realme,realme,,latte-t,Note 70s,
+RMX5388,mob,realme,realme,,latte-m,Note 80,
+RMX5388,mob,realme,realme,,latte-m,Note 80s,
 RMX1831,mob,realme,realme,,,U1,
 RMX1833,mob,realme,realme,,,U1,
 RMX3870,mob,realme,realme,,tacoo-c,P1,5G
@@ -7059,14 +7062,15 @@ RMX3944,mob,realme,realme,,rado-f,P3x,5G
 RMX5032,mob,realme,realme,,piaget-p,P3 Pro,5G
 RMX5030,mob,realme,realme,,yamaha,P3 Ultra,5G
 RMX5031,mob,realme,realme,,yamaha,P3 Ultra,5G
-RMX3943,mob,realme,realme,,rado,P3 Lite,5G
+RMX5300,mob,realme,realme,,dhaka-a,P3 Lite,
+RMX3943,mob,realme,realme,,rado,P3 Lite 5G,
 RMX5555,mob,realme,realme,,moscow-a,P4,
 RMX5110,mob,realme,realme,,casio-p,P4 5G,
 RMX5116,mob,realme,realme,,neutron-p,P4 Pro,5G
-RMX5367,mob,realme,realme,,nairobi,P4x,
+RMX5367,mob,realme,realme,,nairobi-p,P4x,
 RMX5108,mob,realme,realme,,suzuki,P4x 5G,
 RMX5107,mob,realme,realme,,casio-m,P4 Power,5G
-RMX5313,mob,realme,realme,,dhaka,P4 Lite,
+RMX5313,mob,realme,realme,,latte-t,P4 Lite,
 RMX5261,mob,realme,realme,,mumbai-c2,P4 Lite 5G,
 RMX5266,mob,realme,realme,,,P4R 5G,
 RMX2002,mob,realme,realme,,nemo,Narzo,Indonesia
@@ -7087,18 +7091,18 @@ RMX3572,mob,realme,realme,,alice,Narzo 50 5G,Global
 RMX3395,mob,realme,realme,,,Narzo 50 Pro,5G India
 RMX3396,mob,realme,realme,,,Narzo 50 Pro,5G Global
 RMX3430,mob,realme,realme,,,Narzo 50A,
-RMX3516,mob,realme,realme,,,Narzo 50A Prime,
-RMX3517,mob,realme,realme,,,Narzo 50A Prime,
+RMX3516,mob,realme,realme,,nicky-a,Narzo 50A Prime,
+RMX3517,mob,realme,realme,,nicky-a,Narzo 50A Prime,
 RMX3231,mob,realme,realme,,,Narzo 50i,India
 RMX3235,mob,realme,realme,,,Narzo 50i,Global
-RMX3506,mob,realme,realme,,,Narzo 50i Prime,
-RMX3761,mob,realme,realme,,hulk,Narzo N53,
+RMX3506,mob,realme,realme,,nico-b,Narzo 50i Prime,
+RMX3761,mob,realme,realme,,hulk-c,Narzo N53,
 RMX3710,mob,realme,realme,,miami-b,Narzo N55,
 RMX3750,mob,realme,realme,,hawaii,Narzo 60,5G
 RMX3771,mob,realme,realme,,chengdu-b,Narzo 60 Pro,5G
 RMX3782,mob,realme,realme,,chongqing,Narzo 60x,5G
-RMX3933,mob,realme,realme,,latte,NARZO N61,
-RMX3939,mob,realme,realme,,latte,NARZO N63,
+RMX3933,mob,realme,realme,,latte-a,NARZO N61,
+RMX3939,mob,realme,realme,,latte-c,NARZO N63,
 RMX3997,mob,realme,realme,,barley-e,NARZO N65,5G
 RMX3869,mob,realme,realme,,tacoo-b,NARZO 70,5G
 RMX3868,mob,realme,realme,,tacoo,NARZO 70 Pro,5G
@@ -7106,20 +7110,21 @@ RMX3998,mob,realme,realme,,,NARZO 70x,5G
 RMX5003,mob,realme,realme,,casio,NARZO 70 Turbo,5G
 RMX5033,mob,realme,realme,,casio-x,NARZO 80 Pro,5G
 RMX3944,mob,realme,realme,,rado-f,NARZO 80x,5G
-RMX3945,mob,realme,realme,,rado-c,NARZO 80 Lite,5G
+RMX5313,mob,realme,realme,,latte-t,NARZO 80 Lite,
+RMX3945,mob,realme,realme,,rado-c,NARZO 80 Lite 5G,
 RMX5111,mob,realme,realme,,chopard-a,NARZO 90,5G
 RMX5264,mob,realme,realme,,mumbai,NARZO 90x,5G
 RMX5107,mob,realme,realme,,casio-m,NARZO Power,5G
 RMX5261,mob,realme,realme,,mumbai-c2,NARZO 100 Lite,5G
 RMP2102,pad,realme,realme,,,Pad,LTE
 RMP2103,pad,realme,realme,,,Pad,Wi-Fi
-RMP2105,pad,realme,realme,,freyia,Pad mini,LTE
-RMP2106,pad,realme,realme,,freyia,Pad mini,Wi-Fi
+RMP2105,pad,realme,realme,,na500,Pad mini,LTE
+RMP2106,pad,realme,realme,,na500,Pad mini,Wi-Fi
 RMP2107,pad,realme,realme,,tyr,Pad X,5G
 RMP2108,pad,realme,realme,,tyr,Pad X,Wi-Fi
-RMP2204,pad,realme,realme,,,Pad 2,LTE
-RMP2205,pad,realme,realme,,,Pad 2,Wi-Fi
-RMP2402,pad,realme,realme,,,Pad 2 Lite,
+RMP2204,pad,realme,realme,,sonic,Pad 2,LTE
+RMP2205,pad,realme,realme,,sonic,Pad 2,Wi-Fi
+RMP2402,pad,realme,realme,,sonic-s,Pad 2 Lite,
 RMP2501,pad,realme,realme,,chrome,Pad 3,5G
 RMP2502,pad,realme,realme,,chrome,Pad 3,Wi-Fi
 GT-I9000,mob,samsung,三星,,,Galaxy S,公开版
