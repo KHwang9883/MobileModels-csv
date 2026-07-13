@@ -6883,8 +6883,8 @@ RMX3474,mob,realme,realme,,oscar,9 5G,EU
 RMX3612,mob,realme,realme,,blade,9i 5G,
 RMX3471,mob,realme,realme,,oscar,9 Pro 5G,India
 RMX3472,mob,realme,realme,,oscar,9 Pro 5G,Global
-RMX3392,mob,realme,realme,,,9 Pro+ 5G,India
-RMX3393,mob,realme,realme,,,9 Pro+ 5G,Global
+RMX3392,mob,realme,realme,,moss,9 Pro+ 5G,India
+RMX3393,mob,realme,realme,,moss,9 Pro+ 5G,Global
 RMX3461,mob,realme,realme,,ice,9 5G Speed Edition,India
 RMX3630,mob,realme,realme,,doki,10,
 RMX3660,mob,realme,realme,,luigi,10 Pro 5G,India
@@ -6994,20 +6994,20 @@ RMX3203,mob,realme,realme,,,C21,
 RMX3261,mob,realme,realme,,,C21Y,
 RMX3262,mob,realme,realme,,,C21Y,
 RMX3263,mob,realme,realme,,,C21Y,
-RMX3191,mob,realme,realme,,,C25,
-RMX3193,mob,realme,realme,,,C25,
-RMX3195,mob,realme,realme,,,C25s,
-RMX3197,mob,realme,realme,,,C25s,
+RMX3191,mob,realme,realme,,even,C25,
+RMX3193,mob,realme,realme,,even,C25,
+RMX3195,mob,realme,realme,,even,C25s,
+RMX3197,mob,realme,realme,,even,C25s,
 RMX3265,mob,realme,realme,,,C25Y,
 RMX3269,mob,realme,realme,,,C25Y,
 RMX3581,mob,realme,realme,,nico-c,C30,
 RMX3623,mob,realme,realme,,nico-c,C30,
-RMX3690,mob,realme,realme,,,C30s,
+RMX3690,mob,realme,realme,,milan,C30s,
 RMX3501,mob,realme,realme,,nico-a,C31,
 RMX3502,mob,realme,realme,,nico-a,C31,
 RMX3503,mob,realme,realme,,nico-a,C31,
-RMX3624,mob,realme,realme,,,C33,
-RMX3627,mob,realme,realme,,,C33 2023,
+RMX3624,mob,realme,realme,,beidou-b,C33,
+RMX3627,mob,realme,realme,,beidou-e,C33 2023,
 RMX3511,mob,realme,realme,,nicky,C35,
 RMX3512,mob,realme,realme,,nicky,C35,
 RMX3513,mob,realme,realme,,nicky,C35,
@@ -7022,10 +7022,10 @@ RMX3939,mob,realme,realme,,latte-h,C61,Global
 RMX3933,mob,realme,realme,,latte-a,C61,India
 RMX3939,mob,realme,realme,,latte-b,C63,
 RMX3950,mob,realme,realme,,barley-d,C63 5G,
-RMX3910,mob,realme,realme,,,C65,
+RMX3910,mob,realme,realme,,ark,C65,
 RMX3997,mob,realme,realme,,barley-e,C65 5G,
 RMX3939,mob,realme,realme,,latte-b,C65s,
-RMX3890,mob,realme,realme,,,C67,
+RMX3890,mob,realme,realme,,zoe,C67,
 RMX3782,mob,realme,realme,,chongqing,C67 5G,
 RMX5303,mob,realme,realme,,dhaka,C71,
 RMX3945,mob,realme,realme,,rado-c,C73,5G
@@ -7088,9 +7088,9 @@ RMX3171,mob,realme,realme,,,Narzo 30A,
 RMX3286,mob,realme,realme,,spaced,Narzo 50,
 RMX3571,mob,realme,realme,,alice,Narzo 50 5G,India
 RMX3572,mob,realme,realme,,alice,Narzo 50 5G,Global
-RMX3395,mob,realme,realme,,,Narzo 50 Pro,5G India
-RMX3396,mob,realme,realme,,,Narzo 50 Pro,5G Global
-RMX3430,mob,realme,realme,,,Narzo 50A,
+RMX3395,mob,realme,realme,,moss,Narzo 50 Pro,5G India
+RMX3396,mob,realme,realme,,moss,Narzo 50 Pro,5G Global
+RMX3430,mob,realme,realme,,even,Narzo 50A,
 RMX3516,mob,realme,realme,,nicky-a,Narzo 50A Prime,
 RMX3517,mob,realme,realme,,nicky-a,Narzo 50A Prime,
 RMX3231,mob,realme,realme,,,Narzo 50i,India
@@ -7118,8 +7118,8 @@ RMX5107,mob,realme,realme,,casio-m,NARZO Power,5G
 RMX5261,mob,realme,realme,,mumbai-c2,NARZO 100 Lite,5G
 RMP2102,pad,realme,realme,,,Pad,LTE
 RMP2103,pad,realme,realme,,,Pad,Wi-Fi
-RMP2105,pad,realme,realme,,na500,Pad mini,LTE
-RMP2106,pad,realme,realme,,na500,Pad mini,Wi-Fi
+RMP2105,pad,realme,realme,,freya,Pad mini,LTE
+RMP2106,pad,realme,realme,,freya,Pad mini,Wi-Fi
 RMP2107,pad,realme,realme,,tyr,Pad X,5G
 RMP2108,pad,realme,realme,,tyr,Pad X,Wi-Fi
 RMP2204,pad,realme,realme,,sonic,Pad 2,LTE
