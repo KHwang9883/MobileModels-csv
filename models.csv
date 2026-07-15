@@ -3794,6 +3794,8 @@ HBP-LX9,mob,huawei,HUAWEI,,HepburnP,HUAWEI Pura 70 Ultra,
 HED-LX9,mob,huawei,HUAWEI,,Hedy,HUAWEI Pura 80,
 LMR-LX9,mob,huawei,HUAWEI,,Lamarr,HUAWEI Pura 80 Pro,
 LMU-LX9,mob,huawei,HUAWEI,,LamarrU,HUAWEI Pura 80 Ultra,
+MLN-LX9,mob,huawei,HUAWEI,,Malena,HUAWEI Pura 90s Pro,
+SCA-LX9,mob,huawei,HUAWEI,,Sicilia,HUAWEI Pura 90s Pro Max,
 FIG-LA1,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
 FIG-LX1,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
 FIG-LX2,mob,huawei,HUAWEI,,Figo,HUAWEI P smart,
@@ -5545,6 +5547,7 @@ A059P,mob,nothing,Nothing,,Asteroids,Nothing Phone (3a) Pro,
 A001T,mob,nothing,Nothing,,Galaxian,Nothing Phone (3a) Lite,
 A069,mob,nothing,Nothing,,Frogger,Nothing Phone (4a),
 A069P,mob,nothing,Nothing,,FroggerPro,Nothing Phone (4a) Pro,
+A009P,mob,nothing,Nothing,,SuperContra,Nothing Phone (4b),
 A015,mob,nothing,Nothing,,Tetris,CMF Phone 1,
 A001,mob,nothing,Nothing,,Galaga,CMF Phone 2 Pro,
 NX501,mob,nubia,努比亚,,,Z5,
@@ -5621,6 +5624,7 @@ Z2352N,mob,nubia,努比亚,,,Neo 2,5G
 Z2461,mob,nubia,努比亚,,,Neo 3,
 Z2464N,mob,nubia,努比亚,,,Neo 3,5G
 Z2465N,mob,nubia,努比亚,,,Neo 3 GT,5G
+Z2571N,mob,nubia,努比亚,,,Neo 5,5G
 Z2570N,mob,nubia,努比亚,,,Neo 5 GT,5G
 Z2353,mob,nubia,努比亚,,,Music,
 Z2460,mob,nubia,努比亚,,,Music 2,
@@ -10362,6 +10366,8 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 2510ERA8BT,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,5G 沙特版
 25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版
 25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,
+26021RN18C,mob,xiaomi,小米,P19,mist,REDMI Note 17,国行版
+2607DRA18C,mob,xiaomi,小米,Q17,iolite,REDMI Note 17 Pro,国行版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
@@ -10930,6 +10936,8 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,
 2510ERA8BC,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,
 25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版
 25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,
+26021RN18C,mob,xiaomi,小米,P19,mist,REDMI Note 17,
+2607DRA18C,mob,xiaomi,小米,Q17,iolite,REDMI Note 17 Pro,
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
@@ -11654,6 +11662,8 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 2510ERA8BT,mob,xiaomi,Xiaomi,P16U,flourite,REDMI Note 15 Pro+ 5G,Saudi Arabia
 25104RADAC,mob,xiaomi,Xiaomi,P16US,flourite,REDMI Note 15 Pro+ 5G,Satellite China
 25057RA09C,mob,xiaomi,Xiaomi,O19,spring,REDMI Note 15R,China
+26021RN18C,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,China
+2607DRA18C,mob,xiaomi,Xiaomi,Q17,iolite,REDMI Note 17 Pro 5G,China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,China
@@ -11706,8 +11716,8 @@ M2012K10C,mob,xiaomi,Xiaomi,K10,ares,Redmi K40 Gaming,China
 2510DRK44C,mob,xiaomi,Xiaomi,P11,annibale,REDMI K90,China
 25102RKBEC,mob,xiaomi,Xiaomi,P11U,myron,REDMI K90 Pro Max,China
 25102RK69C,mob,xiaomi,Xiaomi,P11UIP,myron,REDMI K90 Pro Max,Automobili Lamborghini Squadra Corse China
-2604FRK1EC,mob,xiaomi,Xiaomi,P12,prague,REDMI K90 Max,
-M332BF,mob,xiaomi,Xiaomi,P12X,warsaw,REDMI K90 Ultra,
+2604FRK1EC,mob,xiaomi,Xiaomi,P12,prague,REDMI K90 Max,China
+M332BF,mob,xiaomi,Xiaomi,P12X,warsaw,REDMI K90 Ultra,Chin
 2016020,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,32GB
 2016021,mob,xiaomi,Xiaomi,H3C,omega,Redmi Pro,64GB & 128GB
 M1803E6G,mob,xiaomi,Xiaomi,E6,ysl,Redmi S2,Global
