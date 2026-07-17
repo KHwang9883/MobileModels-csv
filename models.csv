@@ -4019,6 +4019,7 @@ DBY2-W09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,Wi-Fi
 DBY2-L09,pad,huawei,HUAWEI,,Debussy2,HUAWEI MatePad Air,LTE
 BKY-W09,pad,huawei,HUAWEI,,Banksy,HUAWEI MatePad 12 X,Wi-Fi
 LRT-W09,pad,huawei,HUAWEI,,Laurent,HUAWEI MatePad 12 X,2025 Wi-Fi
+WKI-W09,pad,huawei,HUAWEI,,,HUAWEI MatePad Air 2026,Wi-Fi
 MRX-W09,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,10.8 Wi-Fi
 MRX-W29,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,10.8 Wi-Fi
 MRX-AL09,pad,huawei,HUAWEI,,Marx,HUAWEI MatePad Pro,10.8 LTE
@@ -10367,7 +10368,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版
 25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,
 26021RN18C,mob,xiaomi,小米,P19,mist,REDMI Note 17,国行版
-2607DRA18C,mob,xiaomi,小米,Q17,iolite,REDMI Note 17 Pro,国行版
+2607DRA18C,mob,xiaomi,小米,Q16,iolite,REDMI Note 17 Pro,国行版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
@@ -10937,7 +10938,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,
 25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版
 25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,
 26021RN18C,mob,xiaomi,小米,P19,mist,REDMI Note 17,
-2607DRA18C,mob,xiaomi,小米,Q17,iolite,REDMI Note 17 Pro,
+2607DRA18C,mob,xiaomi,小米,Q16,iolite,REDMI Note 17 Pro,
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
@@ -11663,7 +11664,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 25104RADAC,mob,xiaomi,Xiaomi,P16US,flourite,REDMI Note 15 Pro+ 5G,Satellite China
 25057RA09C,mob,xiaomi,Xiaomi,O19,spring,REDMI Note 15R,China
 26021RN18C,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,China
-2607DRA18C,mob,xiaomi,Xiaomi,Q17,iolite,REDMI Note 17 Pro 5G,China
+2607DRA18C,mob,xiaomi,Xiaomi,Q16,iolite,REDMI Note 17 Pro 5G,China
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,China
