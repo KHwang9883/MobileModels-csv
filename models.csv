@@ -1990,6 +1990,7 @@ ROL-W00,pad,honor,荣耀,,Rowling,荣耀平板 10 Pro,11.5 英寸 Wi-Fi 版
 ROL-W10,pad,honor,荣耀,,Rowling,荣耀平板 10 Pro,柔光版 11.5 英寸 Wi-Fi 版
 HEY4-W09,pad,honor,荣耀,,Hendry4,荣耀平板 20,12.1 英寸 Wi-Fi 版
 HEY4-W19,pad,honor,荣耀,,Hendry4,荣耀平板 20,柔光版 12.1 英寸 Wi-Fi 版
+HEY4-AN00,pad,honor,荣耀,,Hendry4,荣耀平板 20,12.1 英寸 5G 版
 KRJ-W09,pad,honor,荣耀,,Karajan,荣耀平板 V6,10.4 英寸 Wi-Fi 版 (华为终端)
 KRJ-AN00,pad,honor,荣耀,,Karajan,荣耀平板 V6,10.4 英寸 5G 版 (华为终端)
 KJR-W09,pad,honor,荣耀,,KarajanR,荣耀平板 V6,10.4 英寸 Wi-Fi 版 (荣耀终端)
@@ -2406,6 +2407,7 @@ LNA-NX1,mob,honor,HONOR,,Luna,HONOR 600 Lite,
 LNA-NX3,mob,honor,HONOR,,Luna,HONOR 600e,
 MRK-NX1,mob,honor,HONOR,,,HONOR 600 Smart,
 MRK-NX1,mob,honor,HONOR,,,HONOR 600 Lite s,
+MRK-NX3,mob,honor,HONOR,,,HONOR 600 Elite,
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,
@@ -2486,7 +2488,9 @@ LGN-LX1,mob,honor,HONOR,,Logan,HONOR X7d,
 LGN-LX2,mob,honor,HONOR,,Logan,HONOR X7d,
 LGN-LX3,mob,honor,HONOR,,Logan,HONOR X7d,
 LGN-NX1,mob,honor,HONOR,,Logan,HONOR X7d 5G,
-LAB-LX2,mob,honor,HONOR,,,HONOR X7e,
+LAB-LX1,mob,honor,HONOR,,Labu,HONOR X7e,
+LAB-LX2,mob,honor,HONOR,,Labu,HONOR X7e,
+LAB-LX3,mob,honor,HONOR,,Labu,HONOR X7e,
 MRK-NX1,mob,honor,HONOR,,,HONOR X7e Plus 5G,
 TFY-LX1,mob,honor,HONOR,,Tiffany,HONOR X8,
 TFY-LX2,mob,honor,HONOR,,Tiffany,HONOR X8,
@@ -6330,6 +6334,7 @@ PLL110,mob,oppo,OPPO,,baikal-h,OPPO K13s,
 PKV110,mob,oppo,OPPO,,alpha-l5,OPPO K13x,
 PLM110,mob,oppo,OPPO,,knight,OPPO K13 Turbo,
 PLE110,mob,oppo,OPPO,,knight-h,OPPO K13 Turbo Pro,
+PYD110,mob,oppo,OPPO,,,OPPO K15,
 PMH110,mob,oppo,OPPO,,lux-m,OPPO K15 Pro,
 PMG110,mob,oppo,OPPO,,lux-h,OPPO K15 Pro+,
 OPD2101,pad,oppo,OPPO,,oslo,OPPO Pad,
