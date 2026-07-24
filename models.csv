@@ -10371,7 +10371,13 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI)
 25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版
 25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,
 26021RN18C,mob,xiaomi,小米,P19,mist,REDMI Note 17,国行版
+26021RN18I,mob,xiaomi,小米,P19,mist,REDMI Note 17,5G 印度版
+26081RA18G,mob,xiaomi,小米,P19,mist,REDMI Note 17,5G 国际版
+26081RA18L,mob,xiaomi,小米,P19,mist,REDMI Note 17,5G 拉美版
 2607DRA18C,mob,xiaomi,小米,Q16,iolite,REDMI Note 17 Pro,国行版
+2607DRA18G,mob,xiaomi,小米,Q16,iolite,REDMI Note 17 Pro,5G 国际版
+2607DRA18I,mob,xiaomi,小米,Q16,iolite,REDMI Note 17 Pro,5G 印度版
+2607DRA18T,mob,xiaomi,小米,Q16,iolite,REDMI Note 17 Pro,5G 沙特版
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,
@@ -10555,6 +10561,8 @@ M2102J20SI,mob,xiaomi,小米,J20S,vayu,POCO X3 Pro,印度版
 24095PCADI,mob,xiaomi,小米,O16P,malachite,POCO X7,印度版
 2412DPC0AG,mob,xiaomi,小米,O10,rodin,POCO X7 Pro,国际版
 2412DPC0AI,mob,xiaomi,小米,O10,rodin,POCO X7 Pro,印度版
+2607DPC18G,mob,xiaomi,小米,Q16,iolite,POCO X8,国际版
+2607DPC18I,mob,xiaomi,小米,Q16,iolite,POCO X8,印度版
 2511FPC34G,mob,xiaomi,小米,P10,klee,POCO X8 Pro,国际版
 2511FPC34I,mob,xiaomi,小米,P10,klee,POCO X8 Pro,印度版
 2602BPC18G,mob,xiaomi,小米,P10U,dash,POCO X8 Pro Max,国际版
@@ -10591,6 +10599,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,印度版
 25118PC98G,mob,xiaomi,小米,P17,kunzite,POCO M8 5G,国际版
 25118PC98I,mob,xiaomi,小米,P17,kunzite,POCO M8 5G,印度版
 2510EPC8BG,mob,xiaomi,小米,P16U,flourite,POCO M8 Pro 5G,国际版
+26021PC18I,mob,xiaomi,小米,P19P,mist,POCO M8 Power,印度版
 M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,印度版
 220333QPG,mob,xiaomi,小米,C3QP,frost,POCO C40,国际版
@@ -11666,8 +11675,14 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI)
 2510ERA8BT,mob,xiaomi,Xiaomi,P16U,flourite,REDMI Note 15 Pro+ 5G,Saudi Arabia
 25104RADAC,mob,xiaomi,Xiaomi,P16US,flourite,REDMI Note 15 Pro+ 5G,Satellite China
 25057RA09C,mob,xiaomi,Xiaomi,O19,spring,REDMI Note 15R,China
+26081RA18G,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,Global
 26021RN18C,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,China
+26021RN18I,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,India
+26081RA18L,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,Latin America
+2607DRA18G,mob,xiaomi,Xiaomi,Q16,iolite,REDMI Note 17 Pro 5G,Global
 2607DRA18C,mob,xiaomi,Xiaomi,Q16,iolite,REDMI Note 17 Pro 5G,China
+2607DRA18I,mob,xiaomi,Xiaomi,Q16,iolite,REDMI Note 17 Pro 5G,India
+2607DRA18T,mob,xiaomi,Xiaomi,Q16,iolite,REDMI Note 17 Pro 5G,Saudi Arabia
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,China
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,China
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,China
@@ -11814,6 +11829,8 @@ M2102J20SI,mob,xiaomi,Xiaomi,J20S,vayu,POCO X3 Pro,India
 24095PCADI,mob,xiaomi,Xiaomi,O16P,malachite,POCO X7,India
 2412DPC0AG,mob,xiaomi,Xiaomi,O10,rodin,POCO X7 Pro,Global
 2412DPC0AI,mob,xiaomi,Xiaomi,O10,rodin,POCO X7 Pro,India
+2607DPC18G,mob,xiaomi,Xiaomi,Q16,iolite,POCO X8,Global
+2607DPC18I,mob,xiaomi,Xiaomi,Q16,iolite,POCO X8,India
 2511FPC34G,mob,xiaomi,Xiaomi,P10,klee,POCO X8 Pro,Global
 2511FPC34I,mob,xiaomi,Xiaomi,P10,klee,POCO X8 Pro,India
 2602BPC18G,mob,xiaomi,Xiaomi,P10U,dash,POCO X8 Pro Max,Global
@@ -11850,6 +11867,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,India
 25118PC98G,mob,xiaomi,Xiaomi,P17,kunzite,POCO M8 5G,Global
 25118PC98I,mob,xiaomi,Xiaomi,P17,kunzite,POCO M8 5G,India
 2510EPC8BG,mob,xiaomi,Xiaomi,P16U,flourite,POCO M8 Pro 5G,Global
+26021PC18I,mob,xiaomi,Xiaomi,P19P,mist,POCO M8 Power,India
 M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,India
 220333QPG,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,Global
