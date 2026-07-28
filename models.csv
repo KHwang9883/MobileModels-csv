@@ -3490,8 +3490,11 @@ HD7XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,75
 HD8XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,85
 HD9XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,98
 HD55KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,55
+HD55KLY26E,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,RGB 55
 HD65KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,65
+HD65KLY26E,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,RGB 65
 HD75KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,75
+HD75KLY26E,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,RGB 75
 HD85KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,85
 HD1XAJMS,tv,huawei,华为,,,华为 Vision 智慧屏 6 Pro,65
 HD77AJMS,tv,huawei,华为,,,华为 Vision 智慧屏 6 Pro,75
@@ -6309,6 +6312,7 @@ PLT130,mob,oppo,OPPO,,baikal-b5,OPPO A6v,
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6x,
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6m,
 PMC110,mob,oppo,OPPO,,baikal-b4,OPPO A6c,
+PYC110,mob,oppo,OPPO,,,OPPO A7 Pro Max,
 PBCM30,mob,oppo,OPPO,,,OPPO K1,
 PCGM00,mob,oppo,OPPO,,,OPPO K3,全网通版
 PCGT00,mob,oppo,OPPO,,,OPPO K3,移动版
