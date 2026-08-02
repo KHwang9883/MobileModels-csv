@@ -1653,6 +1653,7 @@ LDY-AN00,mob,honor,荣耀,,Lindy,荣耀 Magic8 Pro Air,
 BKQ-AN20,mob,honor,荣耀,,,荣耀 Magic8 RSR 保时捷设计,
 PNM-AN10,mob,honor,荣耀,,Phenom,荣耀 Magic V6,
 PNM-AN20,mob,honor,荣耀,,Phenom,荣耀 Magic V6,16GB+1TB
+APH-AN00,mob,honor,荣耀,,Alpha,荣耀 Robot Phone,
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,移动版
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,联通版
 H60-L03,mob,honor,荣耀,,Mogolia,荣耀 6,移动定制版
@@ -1871,7 +1872,7 @@ DIO-AN00,mob,honor,荣耀,,Dior,荣耀 Play7T Pro,5G
 CLK-AN00,mob,honor,荣耀,,Clark,荣耀 Play8T,5G
 LLY-AN00,mob,honor,荣耀,,Lily,荣耀 Play8T Pro,5G
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀 Play9T,5G
-LYN-AN00,mob,honor,荣耀,,,荣耀 Play9T Pro,5G
+LYN-AN00,mob,honor,荣耀,,LilyN,荣耀 Play9T Pro,5G
 JDY-AN00,mob,honor,荣耀,,Judy,荣耀 Play9C,5G
 LOG-AN10,mob,honor,荣耀,,Logan,荣耀 Play10,5G
 LOG-AN10,mob,honor,荣耀,,Logan,荣耀 Play10T,5G
@@ -1879,6 +1880,7 @@ NIC-AN00,mob,honor,荣耀,,Nick,荣耀 Play10C,5G
 NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play10A,5G
 NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play11C,5G
 LNA-AN00,mob,honor,荣耀,,Luna,荣耀 Play11 Plus,5G
+LNA-AN00,mob,honor,荣耀,,Luna,荣耀 Play11 Pro,5G
 DVD-AN00,mob,honor,荣耀,,David,荣耀 Power,
 DVD-AN80,mob,honor,荣耀,,David,荣耀 Power,卫星版
 SER-AN00,mob,honor,荣耀,,Saber,荣耀 Power2,
