@@ -42,6 +42,7 @@ devc_code: Optional[str] = None  # 设备型号代码
 devc_code_alias: Optional[str] = None  # 设备型号昵称
 devc_model_names: List[str] = []  # 设备型号正式名
 devc_code_aliases: List[str] = []  # per-model 代号，与 devc_model_names 一一对应
+source_file: Optional[str] = None  # 原始品牌文件名（不含扩展名）
 
 
 _re_title = re.compile(r'^#+')
@@ -53,7 +54,7 @@ _re_non_word = re.compile(r'[\W_]+')
 _re_model_ver = re.compile(r'^`(([^`]+)`\s*)+:\s*')
 _re_model_item = re.compile(r'`([^`]+)`')
 # 匹配设备类型的正则
-_re_device_type = re.compile(r'(手机|手表|手环|平板|电视主机|盒子|(智能)?电视|笔记本电脑|设备|穿戴|眼镜|Apple Vision|Mobile|Phone|Pad|Pod|Tablet|Watch|Band|WATCH|Device|Glass|Eyewear|\bTV\b|学习智慧屏|智慧屏|Buds|Headphone|Book)')
+_re_device_type = re.compile(r'(手机|手表|手环|平板|电视主机|盒子|(智能)?电视|笔记本电脑|设备|穿戴|眼镜|Apple Vision|Mobile|Phone|Pad|Pod|Tablet|Watch|Band|WATCH|Device|Glass|Eyewear|\bTV\b|学习智慧屏|智慧屏|Buds|Headphone|Book|Tag)')
 _device_map = {
     '手机': 'mob',
     'mobile': 'mob',
@@ -79,9 +80,10 @@ _device_map = {
     'apple vision': 'glass',
     'buds': 'pod',
     'headphone': 'pod',
+    'tag': 'accessory',
 }
 
-pd_cols = 'model,dtype,brand,brand_title,code,code_alias,model_name,ver_name'.split(',')
+pd_cols = 'model,dtype,brand,brand_title,code,code_alias,model_name,ver_name,source_file'.split(',')
 pd_rows = []
 
 
@@ -295,7 +297,7 @@ def _try_split_by_splash(type_name: str):
 
 
 def _process_model_ver(line: str, mat: re.Match):
-    global device_type, root_brand, root_brand_title, devc_code, devc_code_alias, devc_model_names, devc_code_aliases
+    global device_type, root_brand, root_brand_title, devc_code, devc_code_alias, devc_model_names, devc_code_aliases, source_file
     model_text = mat.group()
     models = [m.group(1) for m in _re_model_item.finditer(model_text)]
     ver_full = _strip_text(line[mat.end():])
@@ -327,7 +329,7 @@ def _process_model_ver(line: str, mat: re.Match):
         code_alias = devc_code_aliases[matched_idx] if devc_code_aliases else devc_code_alias
         for model in models:
             pd_rows.append((model, device_type, root_brand, root_brand_title, devc_code, code_alias,
-                           mname, ver_name))
+                           mname, ver_name, source_file))
 
 
 def _process_line(line: str):
@@ -361,10 +363,11 @@ def _reset_context(level: str):
     :param level:
     :return:
     '''
-    global device_type, root_brand_title, devc_code, devc_code_alias, devc_model_names, devc_code_aliases
+    global device_type, root_brand_title, devc_code, devc_code_alias, devc_model_names, devc_code_aliases, source_file
     if level == 'brand' or level == 'all':
         device_type = None
         root_brand_title = None
+        source_file = None
     if level == 'code' or level == 'all':
         devc_code = None
         devc_code_alias = None
@@ -373,8 +376,9 @@ def _reset_context(level: str):
 
 
 def sync_brands(name: str):
-    global root_brand
+    global root_brand, source_file
     _reset_context('all')
+    source_file = os.path.splitext(name)[0]
     root_brand = re.split(r'[\W_]+', name)[0].replace('shouji', '')
     full_path = os.path.join(source_dir, name)
     with open(full_path, 'r', encoding='utf-8') as fdata:
