@@ -522,491 +522,491 @@ A1421,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),
 A1509,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),16GB
 A1574,pod,apple,Apple,N102AP,"iPod7,1",iPod touch (第 6 代),
 A2178,pod,apple,Apple,N112AP,"iPod9,1",iPod touch (第 7 代),
-A1203,mob,apple,,M68AP,"iPhone1,1",iPhone,
-A1241,mob,apple,,N82AP,"iPhone1,2",iPhone 3G,
-A1324,mob,apple,,N82AP,"iPhone1,2",iPhone 3G,China mainland
-A1303,mob,apple,,N88AP,"iPhone2,1",iPhone 3GS,
-A1325,mob,apple,,N88AP,"iPhone2,1",iPhone 3GS,China mainland
-A1332,mob,apple,,N90AP,"iPhone3,1",iPhone 4,GSM
-A1332,mob,apple,,N90BAP,"iPhone3,2",iPhone 4,"GSM, 2011"
-A1349,mob,apple,,N92AP,"iPhone3,3",iPhone 4,CDMA
-A1431,mob,apple,,N94AP,"iPhone4,1",iPhone 4S,GSM
-A1387,mob,apple,,N94AP,"iPhone4,1",iPhone 4S,CDMA
-A1428,mob,apple,,N41AP,"iPhone5,1",iPhone 5,GSM
-A1429,mob,apple,,N42AP,"iPhone5,2",iPhone 5,GSM
-A1442,mob,apple,,N42AP,"iPhone5,2",iPhone 5,CDMA
-A1453,mob,apple,,N51AP,"iPhone6,1",iPhone 5s,CDMA
-A1533,mob,apple,,N51AP,"iPhone6,1",iPhone 5s,CDMA
-A1457,mob,apple,,N53AP,"iPhone6,2",iPhone 5s,GSM
-A1528,mob,apple,,N53AP,"iPhone6,2",iPhone 5s,GSM
-A1530,mob,apple,,N53AP,"iPhone6,2",iPhone 5s,GSM
-A1518,mob,apple,,N53AP,"iPhone6,2",iPhone 5s,China Mobile
-A1456,mob,apple,,N48AP,"iPhone5,3",iPhone 5c,CDMA
-A1532,mob,apple,,N48AP,"iPhone5,3",iPhone 5c,CDMA
-A1507,mob,apple,,N49AP,"iPhone5,4",iPhone 5c,GSM
-A1526,mob,apple,,N49AP,"iPhone5,4",iPhone 5c,GSM
-A1529,mob,apple,,N49AP,"iPhone5,4",iPhone 5c,GSM
-A1516,mob,apple,,N49AP,"iPhone5,4",iPhone 5c,China Mobile
-A1549,mob,apple,,N61AP,"iPhone7,2",iPhone 6,
-A1586,mob,apple,,N61AP,"iPhone7,2",iPhone 6,
-A1589,mob,apple,,N61AP,"iPhone7,2",iPhone 6,China Mobile
-A1522,mob,apple,,N56AP,"iPhone7,1",iPhone 6 Plus,
-A1524,mob,apple,,N56AP,"iPhone7,1",iPhone 6 Plus,
-A1593,mob,apple,,N56AP,"iPhone7,1",iPhone 6 Plus,China Mobile
-A1633,mob,apple,,N71AP,"iPhone8,1",iPhone 6s,
-A1688,mob,apple,,N71AP,"iPhone8,1",iPhone 6s,
-A1700,mob,apple,,N71AP,"iPhone8,1",iPhone 6s,China mainland
-A1691,mob,apple,,N71AP,"iPhone8,1",iPhone 6s,China Mobile
-A1634,mob,apple,,N66AP,"iPhone8,2",iPhone 6s Plus,
-A1687,mob,apple,,N66AP,"iPhone8,2",iPhone 6s Plus,
-A1699,mob,apple,,N66AP,"iPhone8,2",iPhone 6s Plus,China mainland
-A1690,mob,apple,,N66AP,"iPhone8,2",iPhone 6s Plus,China Mobile
-A1662,mob,apple,,N69AP,"iPhone8,4",iPhone SE,
-A1723,mob,apple,,N69AP,"iPhone8,4",iPhone SE,
-A1724,mob,apple,,N69AP,"iPhone8,4",iPhone SE,China Mobile
-A1660,mob,apple,,D10AP,"iPhone9,1",iPhone 7,
-A1779,mob,apple,,D10AP,"iPhone9,1",iPhone 7,Japan
-A1780,mob,apple,,D10AP,"iPhone9,1",iPhone 7,China Mobile
-A1778,mob,apple,,D101AP,"iPhone9,3",iPhone 7,GSM
-A1661,mob,apple,,D11AP,"iPhone9,2",iPhone 7 Plus,
-A1785,mob,apple,,D11AP,"iPhone9,2",iPhone 7 Plus,Japan
-A1786,mob,apple,,D11AP,"iPhone9,2",iPhone 7 Plus,China Mobile
-A1784,mob,apple,,D111AP,"iPhone9,4",iPhone 7 Plus,GSM
-A1863,mob,apple,,D20AP,"iPhone10,1",iPhone 8,
-A1906,mob,apple,,D20AP,"iPhone10,1",iPhone 8,Japan
-A1907,mob,apple,,D20AP,"iPhone10,1",iPhone 8,China Mobile
-A1905,mob,apple,,D201AP,"iPhone10,4",iPhone 8,GSM
-A1864,mob,apple,,D21AP,"iPhone10,2",iPhone 8 Plus,
-A1898,mob,apple,,D21AP,"iPhone10,2",iPhone 8 Plus,Japan
-A1899,mob,apple,,D21AP,"iPhone10,2",iPhone 8 Plus,China Mobile
-A1897,mob,apple,,D211AP,"iPhone10,5",iPhone 8 Plus,GSM
-A1865,mob,apple,,D22AP,"iPhone10,3",iPhone X,
-A1903,mob,apple,,D22AP,"iPhone10,3",iPhone X,China Mobile
-A1902,mob,apple,,D22AP,"iPhone10,3",iPhone X,Japan
-A1901,mob,apple,,D221AP,"iPhone10,6",iPhone X,GSM
-A1920,mob,apple,,D321AP,"iPhone11,2",iPhone XS,North America
-A2097,mob,apple,,D321AP,"iPhone11,2",iPhone XS,GSM
-A2098,mob,apple,,D321AP,"iPhone11,2",iPhone XS,Japan
-A2100,mob,apple,,D321AP,"iPhone11,2",iPhone XS,China mainland
-A2099,mob,apple,,D321AP,"iPhone11,2",iPhone XS,China Mobile
-A1921,mob,apple,,D331pAP,"iPhone11,6",iPhone XS Max,North America
-A2101,mob,apple,,D331pAP,"iPhone11,6",iPhone XS Max,GSM
-A2102,mob,apple,,D331pAP,"iPhone11,6",iPhone XS Max,Japan
-A2104,mob,apple,,D331pAP,"iPhone11,6",iPhone XS Max,"China mainland, Hong Kong, Macao"
-A2103,mob,apple,,D331AP,"iPhone11,4",iPhone XS Max,China Mobile
-A1984,mob,apple,,N841AP,"iPhone11,8",iPhone XR,North America
-A2105,mob,apple,,N841AP,"iPhone11,8",iPhone XR,GSM
-A2106,mob,apple,,N841AP,"iPhone11,8",iPhone XR,Japan
-A2108,mob,apple,,N841AP,"iPhone11,8",iPhone XR,"China mainland, Hong Kong, Macao"
-A2107,mob,apple,,N841AP,"iPhone11,8",iPhone XR,China Mobile
-A2111,mob,apple,,N104AP,"iPhone12,1",iPhone 11,North America
-A2223,mob,apple,,N104AP,"iPhone12,1",iPhone 11,"China mainland, Hong Kong, Macao"
-A2221,mob,apple,,N104AP,"iPhone12,1",iPhone 11,Rest of the world
-A2160,mob,apple,,D421AP,"iPhone12,3",iPhone 11 Pro,North America
-A2217,mob,apple,,D421AP,"iPhone12,3",iPhone 11 Pro,"China mainland, Hong Kong, Macao"
-A2215,mob,apple,,D421AP,"iPhone12,3",iPhone 11 Pro,Rest of the world
-A2161,mob,apple,,D431AP,"iPhone12,5",iPhone 11 Pro Max,North America
-A2220,mob,apple,,D431AP,"iPhone12,5",iPhone 11 Pro Max,"China mainland, Hong Kong, Macao"
-A2218,mob,apple,,D431AP,"iPhone12,5",iPhone 11 Pro Max,Rest of the world
-A2275,mob,apple,,D79AP,"iPhone12,8",iPhone SE (2nd generation),North America
-A2298,mob,apple,,D79AP,"iPhone12,8",iPhone SE (2nd generation),China mainland
-A2296,mob,apple,,D79AP,"iPhone12,8",iPhone SE (2nd generation),Rest of the world
-A2176,mob,apple,,D52gAP,"iPhone13,1",iPhone 12 mini,United States
-A2398,mob,apple,,D52gAP,"iPhone13,1",iPhone 12 mini,"Canada, Japan"
-A2400,mob,apple,,D52gAP,"iPhone13,1",iPhone 12 mini,China mainland
-A2399,mob,apple,,D52gAP,"iPhone13,1",iPhone 12 mini,Rest of the world
-A2172,mob,apple,,D53gAP,"iPhone13,2",iPhone 12,United States
-A2402,mob,apple,,D53gAP,"iPhone13,2",iPhone 12,"Canada, Japan"
-A2404,mob,apple,,D53gAP,"iPhone13,2",iPhone 12,"China mainland, Hong Kong, Macao"
-A2403,mob,apple,,D53gAP,"iPhone13,2",iPhone 12,Rest of the world
-A2341,mob,apple,,D53pAP,"iPhone13,3",iPhone 12 Pro,United States
-A2406,mob,apple,,D53pAP,"iPhone13,3",iPhone 12 Pro,"Canada, Japan"
-A2408,mob,apple,,D53pAP,"iPhone13,3",iPhone 12 Pro,"China mainland, Hong Kong, Macao"
-A2407,mob,apple,,D53pAP,"iPhone13,3",iPhone 12 Pro,Rest of the world
-A2342,mob,apple,,D54pAP,"iPhone13,4",iPhone 12 Pro Max,United States
-A2410,mob,apple,,D54pAP,"iPhone13,4",iPhone 12 Pro Max,"Canada, Japan"
-A2412,mob,apple,,D54pAP,"iPhone13,4",iPhone 12 Pro Max,"China mainland, Hong Kong, Macao"
-A2411,mob,apple,,D54pAP,"iPhone13,4",iPhone 12 Pro Max,Rest of the world
-A2481,mob,apple,,D16AP,"iPhone14,4",iPhone 13 mini,United States
-A2626,mob,apple,,D16AP,"iPhone14,4",iPhone 13 mini,"Canada, Japan, Mexico, Saudi Arabia"
-A2629,mob,apple,,D16AP,"iPhone14,4",iPhone 13 mini,China mainland
-A2630,mob,apple,,D16AP,"iPhone14,4",iPhone 13 mini,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2628,mob,apple,,D16AP,"iPhone14,4",iPhone 13 mini,Rest of the world
-A2482,mob,apple,,D17AP,"iPhone14,5",iPhone 13,United States
-A2631,mob,apple,,D17AP,"iPhone14,5",iPhone 13,"Canada, Japan, Mexico, Saudi Arabia"
-A2634,mob,apple,,D17AP,"iPhone14,5",iPhone 13,"China mainland, Hong Kong, Macao"
-A2635,mob,apple,,D17AP,"iPhone14,5",iPhone 13,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2633,mob,apple,,D17AP,"iPhone14,5",iPhone 13,Rest of the world
-A2483,mob,apple,,D63AP,"iPhone14,2",iPhone 13 Pro,United States
-A2636,mob,apple,,D63AP,"iPhone14,2",iPhone 13 Pro,"Canada, Japan, Mexico, Saudi Arabia"
-A2639,mob,apple,,D63AP,"iPhone14,2",iPhone 13 Pro,"China mainland, Hong Kong, Macao"
-A2640,mob,apple,,D63AP,"iPhone14,2",iPhone 13 Pro,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2638,mob,apple,,D63AP,"iPhone14,2",iPhone 13 Pro,Rest of the world
-A2484,mob,apple,,D64AP,"iPhone14,3",iPhone 13 Pro Max,United States
-A2641,mob,apple,,D64AP,"iPhone14,3",iPhone 13 Pro Max,"Canada, Japan, Mexico, Saudi Arabia"
-A2644,mob,apple,,D64AP,"iPhone14,3",iPhone 13 Pro Max,"China mainland, Hong Kong, Macao"
-A2645,mob,apple,,D64AP,"iPhone14,3",iPhone 13 Pro Max,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2643,mob,apple,,D64AP,"iPhone14,3",iPhone 13 Pro Max,Rest of the world
-A2595,mob,apple,,D49AP,"iPhone14,6",iPhone SE (3rd generation),North America
-A2782,mob,apple,,D49AP,"iPhone14,6",iPhone SE (3rd generation),Japan
-A2784,mob,apple,,D49AP,"iPhone14,6",iPhone SE (3rd generation),"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2785,mob,apple,,D49AP,"iPhone14,6",iPhone SE (3rd generation),China mainland
-A2783,mob,apple,,D49AP,"iPhone14,6",iPhone SE (3rd generation),Rest of the world
-A2649,mob,apple,,D27AP,"iPhone14,7",iPhone 14,United States
-A2881,mob,apple,,D27AP,"iPhone14,7",iPhone 14,"Canada, Japan, Mexico, Saudi Arabia"
-A2883,mob,apple,,D27AP,"iPhone14,7",iPhone 14,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2884,mob,apple,,D27AP,"iPhone14,7",iPhone 14,"China mainland, Hong Kong, Macao"
-A2882,mob,apple,,D27AP,"iPhone14,7",iPhone 14,Rest of the world
-A2632,mob,apple,,D28AP,"iPhone14,8",iPhone 14 Plus,United States
-A2885,mob,apple,,D28AP,"iPhone14,8",iPhone 14 Plus,"Canada, Japan, Mexico, Saudi Arabia"
-A2887,mob,apple,,D28AP,"iPhone14,8",iPhone 14 Plus,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2888,mob,apple,,D28AP,"iPhone14,8",iPhone 14 Plus,"China mainland, Hong Kong, Macao"
-A2886,mob,apple,,D28AP,"iPhone14,8",iPhone 14 Plus,Rest of the world
-A2650,mob,apple,,D73AP,"iPhone15,2",iPhone 14 Pro,United States
-A2889,mob,apple,,D73AP,"iPhone15,2",iPhone 14 Pro,"Canada, Japan, Mexico, Saudi Arabia"
-A2891,mob,apple,,D73AP,"iPhone15,2",iPhone 14 Pro,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2892,mob,apple,,D73AP,"iPhone15,2",iPhone 14 Pro,"China mainland, Hong Kong, Macao"
-A2890,mob,apple,,D73AP,"iPhone15,2",iPhone 14 Pro,Rest of the world
-A2651,mob,apple,,D74AP,"iPhone15,3",iPhone 14 Pro Max,United States
-A2893,mob,apple,,D74AP,"iPhone15,3",iPhone 14 Pro Max,"Canada, Japan, Mexico, Saudi Arabia"
-A2895,mob,apple,,D74AP,"iPhone15,3",iPhone 14 Pro Max,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
-A2896,mob,apple,,D74AP,"iPhone15,3",iPhone 14 Pro Max,"China mainland, Hong Kong, Macao"
-A2894,mob,apple,,D74AP,"iPhone15,3",iPhone 14 Pro Max,Rest of the world
-A2846,mob,apple,,D37AP,"iPhone15,4",iPhone 15,United States
-A3089,mob,apple,,D37AP,"iPhone15,4",iPhone 15,"Canada, Japan, Mexico, Saudi Arabia"
-A3092,mob,apple,,D37AP,"iPhone15,4",iPhone 15,"China mainland, Hong Kong, Macao"
-A3090,mob,apple,,D37AP,"iPhone15,4",iPhone 15,Rest of the world
-A2847,mob,apple,,D38AP,"iPhone15,5",iPhone 15 Plus,United States
-A3093,mob,apple,,D38AP,"iPhone15,5",iPhone 15 Plus,"Canada, Japan, Mexico, Saudi Arabia"
-A3096,mob,apple,,D38AP,"iPhone15,5",iPhone 15 Plus,"China mainland, Hong Kong, Macao"
-A3094,mob,apple,,D38AP,"iPhone15,5",iPhone 15 Plus,Rest of the world
-A2848,mob,apple,,D83AP,"iPhone16,1",iPhone 15 Pro,United States
-A3101,mob,apple,,D83AP,"iPhone16,1",iPhone 15 Pro,"Canada, Japan, Mexico, Saudi Arabia"
-A3104,mob,apple,,D83AP,"iPhone16,1",iPhone 15 Pro,"China mainland, Hong Kong, Macao"
-A3102,mob,apple,,D83AP,"iPhone16,1",iPhone 15 Pro,Rest of the world
-A2849,mob,apple,,D84AP,"iPhone16,2",iPhone 15 Pro Max,United States
-A3105,mob,apple,,D84AP,"iPhone16,2",iPhone 15 Pro Max,"Canada, Japan, Mexico, Saudi Arabia"
-A3108,mob,apple,,D84AP,"iPhone16,2",iPhone 15 Pro Max,"China mainland, Hong Kong, Macao"
-A3106,mob,apple,,D84AP,"iPhone16,2",iPhone 15 Pro Max,Rest of the world
-A3081,mob,apple,,D47AP,"iPhone17,3",iPhone 16,United States
-A3286,mob,apple,,D47AP,"iPhone17,3",iPhone 16,"Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3288,mob,apple,,D47AP,"iPhone17,3",iPhone 16,"China mainland, Hong Kong, Macao"
-A3287,mob,apple,,D47AP,"iPhone17,3",iPhone 16,Rest of the world
-A3082,mob,apple,,D48AP,"iPhone17,4",iPhone 16 Plus,United States
-A3289,mob,apple,,D48AP,"iPhone17,4",iPhone 16 Plus,"Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3291,mob,apple,,D48AP,"iPhone17,4",iPhone 16 Plus,"China mainland, Hong Kong, Macao"
-A3290,mob,apple,,D48AP,"iPhone17,4",iPhone 16 Plus,Rest of the world
-A3083,mob,apple,,D93AP,"iPhone17,1",iPhone 16 Pro,United States
-A3292,mob,apple,,D93AP,"iPhone17,1",iPhone 16 Pro,"Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3294,mob,apple,,D93AP,"iPhone17,1",iPhone 16 Pro,"China mainland, Hong Kong, Macao"
-A3293,mob,apple,,D93AP,"iPhone17,1",iPhone 16 Pro,Rest of the world
-A3084,mob,apple,,D94AP,"iPhone17,2",iPhone 16 Pro Max,United States
-A3295,mob,apple,,D94AP,"iPhone17,2",iPhone 16 Pro Max,"Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3297,mob,apple,,D94AP,"iPhone17,2",iPhone 16 Pro Max,"China mainland, Hong Kong, Macao"
-A3296,mob,apple,,D94AP,"iPhone17,2",iPhone 16 Pro Max,Rest of the world
-A3212,mob,apple,,V59AP,"iPhone17,5",iPhone 16e,United States
-A3408,mob,apple,,V59AP,"iPhone17,5",iPhone 16e,"Bahrain, Canada, Iraq, Guam, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3410,mob,apple,,V59AP,"iPhone17,5",iPhone 16e,China mainland
-A3409,mob,apple,,V59AP,"iPhone17,5",iPhone 16e,Rest of the world
-A3258,mob,apple,,V57AP,"iPhone18,3",iPhone 17,United States
-A3519,mob,apple,,V57AP,"iPhone18,3",iPhone 17,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3521,mob,apple,,V57AP,"iPhone18,3",iPhone 17,China mainland
-A3520,mob,apple,,V57AP,"iPhone18,3",iPhone 17,Rest of the world
-A3260,mob,apple,,D23AP,"iPhone18,4",iPhone Air,"United States, Bahrain, Canada, Guam, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3518,mob,apple,,D23AP,"iPhone18,4",iPhone Air,China mainland
-A3516,mob,apple,,D23AP,"iPhone18,4",iPhone Air,Japan
-A3517,mob,apple,,D23AP,"iPhone18,4",iPhone Air,Rest of the world
-A3256,mob,apple,,V53AP,"iPhone18,1",iPhone 17 Pro,United States
-A3522,mob,apple,,V53AP,"iPhone18,1",iPhone 17 Pro,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3524,mob,apple,,V53AP,"iPhone18,1",iPhone 17 Pro,China mainland
-A3523,mob,apple,,V53AP,"iPhone18,1",iPhone 17 Pro,Rest of the world
-A3257,mob,apple,,V54AP,"iPhone18,2",iPhone 17 Pro Max,United States
-A3525,mob,apple,,V54AP,"iPhone18,2",iPhone 17 Pro Max,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3527,mob,apple,,V54AP,"iPhone18,2",iPhone 17 Pro Max,China mainland
-A3526,mob,apple,,V54AP,"iPhone18,2",iPhone 17 Pro Max,Rest of the world
-A3575,mob,apple,,V159AP,"iPhone18,5",iPhone 17e,"United States, Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
-A3635,mob,apple,,V159AP,"iPhone18,5",iPhone 17e,China mainland
-A3634,mob,apple,,V159AP,"iPhone18,5",iPhone 17e,Rest of the world
-A1219,pad,apple,,K48AP,"iPad1,1",iPad,Wi-Fi
-A1337,pad,apple,,K48AP,"iPad1,1",iPad,Wi-Fi + 3G
-A1395,pad,apple,,K93AP,"iPad2,1",iPad 2,Wi-Fi
-A1396,pad,apple,,K94AP,"iPad2,2",iPad 2,Wi-Fi + 3G (GSM)
-A1397,pad,apple,,K95AP,"iPad2,3",iPad 2,Wi-Fi + 3G (CDMA)
-A1395,pad,apple,,K93AAP,"iPad2,4",iPad 2,Wi-Fi (2012)
-A1416,pad,apple,,J1AP,"iPad3,1",iPad (3rd generation),Wi-Fi
-A1403,pad,apple,,J2AP,"iPad3,2",iPad (3rd generation),Wi-Fi + Cellular (VZ)
-A1430,pad,apple,,J2AAP,"iPad3,3",iPad (3rd generation),Wi-Fi + Cellular
-A1458,pad,apple,,P101AP,"iPad3,4",iPad (4th generation),Wi-Fi
-A1459,pad,apple,,P102AP,"iPad3,5",iPad (4th generation),Wi-Fi + Cellular
-A1460,pad,apple,,P103AP,"iPad3,6",iPad (4th generation),Wi-Fi + Cellular (China mainland)
-A1822,pad,apple,,J71sAP,"iPad6,11",iPad (5th generation),Wi-Fi
-A1823,pad,apple,,J72sAP,"iPad6,12",iPad (5th generation),Wi-Fi + Cellular
-A1893,pad,apple,,J71bAP,"iPad7,5",iPad (6th generation),Wi-Fi
-A1954,pad,apple,,J72bAP,"iPad7,6",iPad (6th generation),Wi-Fi + Cellular
-A2197,pad,apple,,J171AP,"iPad7,11",iPad (7th generation),Wi-Fi
-A2198,pad,apple,,J172AP,"iPad7,12",iPad (7th generation),Wi-Fi + Cellular
-A2200,pad,apple,,J172AP,"iPad7,12",iPad (7th generation),Wi-Fi + Cellular
-A2199,pad,apple,,J172AP,"iPad7,12",iPad (7th generation),Wi-Fi + Cellular (China mainland)
-A2270,pad,apple,,J171aAP,"iPad11,6",iPad (8th generation),Wi-Fi
-A2428,pad,apple,,J172aAP,"iPad11,7",iPad (8th generation),Wi-Fi + Cellular
-A2429,pad,apple,,J172aAP,"iPad11,7",iPad (8th generation),Wi-Fi + Cellular
-A2430,pad,apple,,J172aAP,"iPad11,7",iPad (8th generation),Wi-Fi + Cellular (China mainland)
-A2602,pad,apple,,J181AP,"iPad12,1",iPad (9th generation),Wi-Fi
-A2603,pad,apple,,J182AP,"iPad12,2",iPad (9th generation),Wi-Fi + Cellular
-A2604,pad,apple,,J182AP,"iPad12,2",iPad (9th generation),Wi-Fi + Cellular
-A2605,pad,apple,,J182AP,"iPad12,2",iPad (9th generation),Wi-Fi + Cellular (China mainland)
-A2696,pad,apple,,J271AP,"iPad13,18",iPad (10th generation),Wi-Fi
-A2757,pad,apple,,J272AP,"iPad13,19",iPad (10th generation),Wi-Fi + Cellular
-A2777,pad,apple,,J272AP,"iPad13,19",iPad (10th generation),Wi-Fi + Cellular (China mainland)
-A3162,pad,apple,,J272AP,"iPad13,19",iPad (10th generation),"Wi-Fi + Cellular (eSIM, China mainland)"
-A3354,pad,apple,,J481AP,"iPad15,7",iPad (A16),Wi-Fi
-A3355,pad,apple,,J482AP,"iPad15,8",iPad (A16),Wi-Fi + Cellular
-A3356,pad,apple,,J482AP,"iPad15,8",iPad (A16),Wi-Fi + Cellular (China mainland)
-A1474,pad,apple,,J71AP,"iPad4,1",iPad Air,Wi-Fi
-A1475,pad,apple,,J72AP,"iPad4,2",iPad Air,Wi-Fi + Cellular
-A1476,pad,apple,,J73AP,"iPad4,3",iPad Air,Wi-Fi + Cellular (TD-LTE)
-A1566,pad,apple,,J81AP,"iPad5,3",iPad Air 2,Wi-Fi
-A1567,pad,apple,,J82AP,"iPad5,4",iPad Air 2,Wi-Fi + Cellular
-A2152,pad,apple,,J217AP,"iPad11,3",iPad Air (3rd generation),Wi-Fi
-A2123,pad,apple,,J218AP,"iPad11,4",iPad Air (3rd generation),Wi-Fi + Cellular
-A2153,pad,apple,,J218AP,"iPad11,4",iPad Air (3rd generation),Wi-Fi + Cellular
-A2154,pad,apple,,J218AP,"iPad11,4",iPad Air (3rd generation),Wi-Fi + Cellular (China mainland)
-A2316,pad,apple,,J307AP,"iPad13,1",iPad Air (4th generation),Wi-Fi
-A2072,pad,apple,,J308AP,"iPad13,2",iPad Air (4th generation),Wi-Fi + Cellular
-A2324,pad,apple,,J308AP,"iPad13,2",iPad Air (4th generation),Wi-Fi + Cellular
-A2325,pad,apple,,J308AP,"iPad13,2",iPad Air (4th generation),Wi-Fi + Cellular (China mainland)
-A2588,pad,apple,,J407AP,"iPad13,16",iPad Air (5th generation),Wi-Fi
-A2589,pad,apple,,J408AP,"iPad13,17",iPad Air (5th generation),Wi-Fi + Cellular
-A2591,pad,apple,,J408AP,"iPad13,17",iPad Air (5th generation),Wi-Fi + Cellular (China mainland)
-A2902,pad,apple,,J507AP,"iPad14,8","iPad Air (11-inch, M2)",Wi-Fi
-A2903,pad,apple,,J508AP,"iPad14,9","iPad Air (11-inch, M2)",Wi-Fi + Cellular
-A2904,pad,apple,,J508AP,"iPad14,9","iPad Air (11-inch, M2)",Wi-Fi + Cellular (China mainland)
-A2898,pad,apple,,J537AP,"iPad14,10","iPad Air (13-inch, M2)",Wi-Fi
-A2899,pad,apple,,J538AP,"iPad14,11","iPad Air (13-inch, M2)",Wi-Fi + Cellular
-A2900,pad,apple,,J538AP,"iPad14,11","iPad Air (13-inch, M2)",Wi-Fi + Cellular (China mainland)
-A3266,pad,apple,,J607AP,"iPad15,3","iPad Air (11-inch, M3)",Wi-Fi
-A3267,pad,apple,,J608AP,"iPad15,4","iPad Air (11-inch, M3)",Wi-Fi + Cellular
-A3270,pad,apple,,J608AP,"iPad15,4","iPad Air (11-inch, M3)",Wi-Fi + Cellular (China mainland)
-A3268,pad,apple,,J637AP,"iPad15,5","iPad Air (13-inch, M3)",Wi-Fi
-A3269,pad,apple,,J638AP,"iPad15,6","iPad Air (13-inch, M3)",Wi-Fi + Cellular
-A3271,pad,apple,,J638AP,"iPad15,6","iPad Air (13-inch, M3)",Wi-Fi + Cellular (China mainland)
-A3459,pad,apple,,J707AP,"iPad16,8","iPad Air (11-inch, M4)",Wi-Fi
-A3460,pad,apple,,J708AP,"iPad16,9","iPad Air (11-inch, M4)",Wi-Fi + Cellular
-A3463,pad,apple,,J708AP,"iPad16,9","iPad Air (11-inch, M4)",Wi-Fi + Cellular (China mainland)
-A3461,pad,apple,,J737AP,"iPad16,10","iPad Air (13-inch, M4)",Wi-Fi
-A3462,pad,apple,,J738AP,"iPad16,11","iPad Air (13-inch, M4)",Wi-Fi + Cellular
-A3464,pad,apple,,J738AP,"iPad16,11","iPad Air (13-inch, M4)",Wi-Fi + Cellular (China mainland)
-A1584,pad,apple,,J98aAP,"iPad6,7",iPad Pro (12.9-inch),Wi-Fi
-A1652,pad,apple,,J99aAP,"iPad6,8",iPad Pro (12.9-inch),Wi-Fi + Cellular
-A1673,pad,apple,,J127AP,"iPad6,3",iPad Pro (9.7-inch),Wi-Fi
-A1674,pad,apple,,J128AP,"iPad6,4",iPad Pro (9.7-inch),Wi-Fi + Cellular
-A1675,pad,apple,,J128AP,"iPad6,4",iPad Pro (9.7-inch),Wi-Fi + Cellular (China mainland)
-A1670,pad,apple,,J120AP,"iPad7,1","iPad Pro (12.9-inch, 2nd generation)",Wi-Fi
-A1671,pad,apple,,J121AP,"iPad7,2","iPad Pro (12.9-inch, 2nd generation)",Wi-Fi + Cellular
-A1821,pad,apple,,J121AP,"iPad7,2","iPad Pro (12.9-inch, 2nd generation)",Wi-Fi + Cellular (China mainland)
-A1701,pad,apple,,J207AP,"iPad7,3",iPad Pro (10.5-inch),Wi-Fi
-A1709,pad,apple,,J208AP,"iPad7,4",iPad Pro (10.5-inch),Wi-Fi + Cellular
-A1852,pad,apple,,J208AP,"iPad7,4",iPad Pro (10.5-inch),Wi-Fi + Cellular (China mainland)
-A1980,pad,apple,,J317AP,"iPad8,1",iPad Pro (11-inch),Wi-Fi
-A1980,pad,apple,,J317xAP,"iPad8,2",iPad Pro (11-inch),Wi-Fi (1TB)
-A1934,pad,apple,,J318AP,"iPad8,3",iPad Pro (11-inch),Wi-Fi + Cellular
-A2013,pad,apple,,J318AP,"iPad8,3",iPad Pro (11-inch),Wi-Fi + Cellular
-A1979,pad,apple,,J318AP,"iPad8,3",iPad Pro (11-inch),Wi-Fi + Cellular (China mainland)
-A1934,pad,apple,,J318xAP,"iPad8,4",iPad Pro (11-inch),Wi-Fi + Cellular (1TB)
-A2013,pad,apple,,J318xAP,"iPad8,4",iPad Pro (11-inch),Wi-Fi + Cellular (1TB)
-A1979,pad,apple,,J318xAP,"iPad8,4",iPad Pro (11-inch),Wi-Fi + Cellular (1TB) (China mainland)
-A1876,pad,apple,,J320AP,"iPad8,5","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi
-A1876,pad,apple,,J320xAP,"iPad8,6","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi (1TB)
-A1895,pad,apple,,J321AP,"iPad8,7","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular
-A2014,pad,apple,,J321AP,"iPad8,7","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular
-A1983,pad,apple,,J321AP,"iPad8,7","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular (China mainland)
-A1895,pad,apple,,J321xAP,"iPad8,8","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular (1TB)
-A2014,pad,apple,,J321xAP,"iPad8,8","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular (1TB)
-A1983,pad,apple,,J321xAP,"iPad8,8","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular (1TB) (China mainland)
-A2228,pad,apple,,J417AP,"iPad8,9","iPad Pro (11-inch, 2nd generation)",Wi-Fi
-A2068,pad,apple,,J418AP,"iPad8,10","iPad Pro (11-inch, 2nd generation)",Wi-Fi + Cellular
-A2230,pad,apple,,J418AP,"iPad8,10","iPad Pro (11-inch, 2nd generation)",Wi-Fi + Cellular
-A2231,pad,apple,,J418AP,"iPad8,10","iPad Pro (11-inch, 2nd generation)",Wi-Fi + Cellular (China mainland)
-A2229,pad,apple,,J420AP,"iPad8,11","iPad Pro (12.9-inch, 4th generation)",Wi-Fi
-A2069,pad,apple,,J421AP,"iPad8,12","iPad Pro (12.9-inch, 4th generation)",Wi-Fi + Cellular
-A2232,pad,apple,,J421AP,"iPad8,12","iPad Pro (12.9-inch, 4th generation)",Wi-Fi + Cellular
-A2233,pad,apple,,J421AP,"iPad8,12","iPad Pro (12.9-inch, 4th generation)",Wi-Fi + Cellular (China mainland)
-A2377,pad,apple,,J517AP,"iPad13,4","iPad Pro (11-inch, 3rd generation)",Wi-Fi (8GB RAM)
-A2377,pad,apple,,J517xAP,"iPad13,5","iPad Pro (11-inch, 3rd generation)",Wi-Fi (16GB RAM)
-A2459,pad,apple,,J518AP,"iPad13,6","iPad Pro (11-inch, 3rd generation)",Wi-Fi + Cellular (8GB RAM)
-A2301,pad,apple,,J518AP,"iPad13,6","iPad Pro (11-inch, 3rd generation)","Wi-Fi + Cellular (8GB RAM, mmWave)"
-A2460,pad,apple,,J518AP,"iPad13,6","iPad Pro (11-inch, 3rd generation)","Wi-Fi + Cellular (8GB RAM, China mainland)"
-A2459,pad,apple,,J518xAP,"iPad13,7","iPad Pro (11-inch, 3rd generation)",Wi-Fi + Cellular (16GB RAM)
-A2301,pad,apple,,J518xAP,"iPad13,7","iPad Pro (11-inch, 3rd generation)","Wi-Fi + Cellular (16GB RAM, mmWave)"
-A2460,pad,apple,,J518xAP,"iPad13,7","iPad Pro (11-inch, 3rd generation)","Wi-Fi + Cellular (16GB RAM, China mainland)"
-A2378,pad,apple,,J522AP,"iPad13,8","iPad Pro (12.9-inch, 5th generation)",Wi-Fi (8GB RAM)
-A2378,pad,apple,,J522xAP,"iPad13,9","iPad Pro (12.9-inch, 5th generation)",Wi-Fi (16GB RAM)
-A2461,pad,apple,,J523AP,"iPad13,10","iPad Pro (12.9-inch, 5th generation)",Wi-Fi + Cellular (8GB RAM)
-A2379,pad,apple,,J523AP,"iPad13,10","iPad Pro (12.9-inch, 5th generation)","Wi-Fi + Cellular (8GB RAM, mmWave)"
-A2462,pad,apple,,J523AP,"iPad13,10","iPad Pro (12.9-inch, 5th generation)","Wi-Fi + Cellular (8GB RAM, China mainland)"
-A2461,pad,apple,,J523xAP,"iPad13,11","iPad Pro (12.9-inch, 5th generation)",Wi-Fi + Cellular (16GB RAM)
-A2379,pad,apple,,J523xAP,"iPad13,11","iPad Pro (12.9-inch, 5th generation)","Wi-Fi + Cellular (16GB RAM, mmWave)"
-A2462,pad,apple,,J523xAP,"iPad13,11","iPad Pro (12.9-inch, 5th generation)","Wi-Fi + Cellular (16GB RAM, China mainland)"
-A2759,pad,apple,,J617AP,"iPad14,3","iPad Pro (11-inch, 4th generation)",Wi-Fi
-A2761,pad,apple,,J618AP,"iPad14,4","iPad Pro (11-inch, 4th generation)",Wi-Fi + Cellular
-A2435,pad,apple,,J618AP,"iPad14,4","iPad Pro (11-inch, 4th generation)",Wi-Fi + Cellular (mmWave)
-A2762,pad,apple,,J618AP,"iPad14,4","iPad Pro (11-inch, 4th generation)",Wi-Fi + Cellular (China mainland)
-A2436,pad,apple,,J620AP,"iPad14,5","iPad Pro (12.9-inch, 6th generation)",Wi-Fi
-A2437,pad,apple,,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",Wi-Fi + Cellular
-A2764,pad,apple,,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",Wi-Fi + Cellular (mmWave)
-A2766,pad,apple,,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",Wi-Fi + Cellular (China mainland)
-A2836,pad,apple,,J717AP,"iPad16,3","iPad Pro (11-inch, M4)",Wi-Fi
-A2837,pad,apple,,J718AP,"iPad16,4","iPad Pro (11-inch, M4)",Wi-Fi + Cellular
-A3006,pad,apple,,J718AP,"iPad16,4","iPad Pro (11-inch, M4)",Wi-Fi + Cellular (China mainland)
-A2925,pad,apple,,J720AP,"iPad16,5","iPad Pro (13-inch, M4)",Wi-Fi
-A2926,pad,apple,,J721AP,"iPad16,6","iPad Pro (13-inch, M4)",Wi-Fi + Cellular
-A3007,pad,apple,,J721AP,"iPad16,6","iPad Pro (13-inch, M4)",Wi-Fi + Cellular (China mainland)
-A3357,pad,apple,,J817AP,"iPad17,1","iPad Pro (11-inch, M5)",Wi-Fi
-A3358,pad,apple,,J818AP,"iPad17,2","iPad Pro (11-inch, M5)",Wi-Fi + Cellular
-A3359,pad,apple,,J818AP,"iPad17,2","iPad Pro (11-inch, M5)",Wi-Fi + Cellular (China mainland)
-A3360,pad,apple,,J820AP,"iPad18,1","iPad Pro (13-inch, M5)",Wi-Fi
-A3361,pad,apple,,J821AP,"iPad18,2","iPad Pro (13-inch, M5)",Wi-Fi + Cellular
-A3362,pad,apple,,J821AP,"iPad18,2","iPad Pro (13-inch, M5)",Wi-Fi + Cellular (China mainland)
-A1432,pad,apple,,P105AP,"iPad2,5",iPad mini,Wi-Fi
-A1454,pad,apple,,P106AP,"iPad2,6",iPad mini,Wi-Fi + Cellular
-A1455,pad,apple,,P107AP,"iPad2,7",iPad mini,Wi-Fi + Cellular (China mainland)
-A1489,pad,apple,,J85AP,"iPad4,4",iPad mini 2,Wi-Fi
-A1490,pad,apple,,J86AP,"iPad4,5",iPad mini 2,Wi-Fi + Cellular
-A1491,pad,apple,,J87AP,"iPad4,6",iPad mini 2,Wi-Fi + Cellular (TD-LTE)
-A1599,pad,apple,,J85mAP,"iPad4,7",iPad mini 3,Wi-Fi
-A1600,pad,apple,,J86mAP,"iPad4,8",iPad mini 3,Wi-Fi + Cellular
-A1601,pad,apple,,J87mAP,"iPad4,9",iPad mini 3,Wi-Fi + Cellular (TD-LTE)
-A1538,pad,apple,,J96AP,"iPad5,1",iPad mini 4,Wi-Fi
-A1550,pad,apple,,J97AP,"iPad5,2",iPad mini 4,Wi-Fi + Cellular
-A2133,pad,apple,,J210AP,"iPad11,1",iPad mini (5th generation),Wi-Fi
-A2124,pad,apple,,J211AP,"iPad11,2",iPad mini (5th generation),Wi-Fi + Cellular
-A2126,pad,apple,,J211AP,"iPad11,2",iPad mini (5th generation),Wi-Fi + Cellular
-A2125,pad,apple,,J211AP,"iPad11,2",iPad mini (5th generation),Wi-Fi + Cellular (China mainland)
-A2567,pad,apple,,J310AP,"iPad14,1",iPad mini (6th generation),Wi-Fi
-A2568,pad,apple,,J311AP,"iPad14,2",iPad mini (6th generation),Wi-Fi + Cellular
-A2569,pad,apple,,J311AP,"iPad14,2",iPad mini (6th generation),Wi-Fi + Cellular (China mainland)
-A2993,pad,apple,,J410AP,"iPad16,1",iPad mini (A17 Pro),Wi-Fi
-A2995,pad,apple,,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular
-A2996,pad,apple,,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular (China mainland)
-A1553,watch,apple,,N27aAP,"Watch1,1",Apple Watch (1st generation),38mm case
-A1554,watch,apple,,N28aAP,"Watch1,2",Apple Watch (1st generation),42mm case
-A1802,watch,apple,,N27dAP,"Watch2,6",Apple Watch Series 1,38mm case
-A1803,watch,apple,,N28dAP,"Watch2,7",Apple Watch Series 1,42mm case
-A1757,watch,apple,,N74AP,"Watch2,3",Apple Watch Series 2,38mm case
-A1816,watch,apple,,N74AP,"Watch2,3",Apple Watch Series 2,Edition (38mm case)
-A1758,watch,apple,,N75AP,"Watch2,4",Apple Watch Series 2,42mm case
-A1817,watch,apple,,N75AP,"Watch2,4",Apple Watch Series 2,Edition (42mm case)
-A1860,watch,apple,,N111sAP,"Watch3,1",Apple Watch Series 3,(GPS + Cellular) (38mm case) (North America)
-A1889,watch,apple,,N111sAP,"Watch3,1",Apple Watch Series 3,(GPS + Cellular) (38mm case) (Europe and Asia Pacific)
-A1890,watch,apple,,N111sAP,"Watch3,1",Apple Watch Series 3,(GPS + Cellular) (38mm case) (China mainland)
-A1861,watch,apple,,N111bAP,"Watch3,2",Apple Watch Series 3,(GPS + Cellular) (42mm case) (North America)
-A1891,watch,apple,,N111bAP,"Watch3,2",Apple Watch Series 3,(GPS + Cellular) (42mm case) (Europe and Asia Pacific)
-A1892,watch,apple,,N111bAP,"Watch3,2",Apple Watch Series 3,(GPS + Cellular) (42mm case) (China mainland)
-A1858,watch,apple,,N121sAP,"Watch3,3",Apple Watch Series 3,(GPS) (38mm case)
-A1859,watch,apple,,N121bAP,"Watch3,4",Apple Watch Series 3,(GPS) (42mm case)
-A1977,watch,apple,,N131sAP,"Watch4,1",Apple Watch Series 4,(GPS) (40mm case)
-A1978,watch,apple,,N131bAP,"Watch4,2",Apple Watch Series 4,(GPS) (44mm case)
-A1975,watch,apple,,N141sAP,"Watch4,3",Apple Watch Series 4,(GPS + Cellular) (40mm case) (North America)
-A2007,watch,apple,,N141sAP,"Watch4,3",Apple Watch Series 4,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-A1976,watch,apple,,N141bAP,"Watch4,4",Apple Watch Series 4,(GPS + Cellular) (44mm case) (North America)
-A2008,watch,apple,,N141bAP,"Watch4,4",Apple Watch Series 4,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-A2092,watch,apple,,N144sAP,"Watch5,1",Apple Watch Series 5,(GPS) (40mm case)
-A2093,watch,apple,,N144bAP,"Watch5,2",Apple Watch Series 5,(GPS) (44mm case)
-A2094,watch,apple,,N146sAP,"Watch5,3",Apple Watch Series 5,(GPS + Cellular) (40mm case) (North America)
-A2156,watch,apple,,N146sAP,"Watch5,3",Apple Watch Series 5,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-A2095,watch,apple,,N146bAP,"Watch5,4",Apple Watch Series 5,(GPS + Cellular) (44mm case) (North America)
-A2157,watch,apple,,N146bAP,"Watch5,4",Apple Watch Series 5,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-A2291,watch,apple,,N157sAP,"Watch6,1",Apple Watch Series 6,(GPS) (40mm case)
-A2292,watch,apple,,N157bAP,"Watch6,2",Apple Watch Series 6,(GPS) (44mm case)
-A2293,watch,apple,,N158sAP,"Watch6,3",Apple Watch Series 6,(GPS + Cellular) (40mm case) (North America)
-A2375,watch,apple,,N158sAP,"Watch6,3",Apple Watch Series 6,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-A2294,watch,apple,,N158bAP,"Watch6,4",Apple Watch Series 6,(GPS + Cellular) (44mm case) (North America)
-A2376,watch,apple,,N158bAP,"Watch6,4",Apple Watch Series 6,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-A2473,watch,apple,,N187sAP,"Watch6,6",Apple Watch Series 7,(GPS) (41mm case)
-A2474,watch,apple,,N187bAP,"Watch6,7",Apple Watch Series 7,(GPS) (45mm case)
-A2475,watch,apple,,N188sAP,"Watch6,8",Apple Watch Series 7,(GPS + Cellular) (41mm case) (North America)
-A2476,watch,apple,,N188sAP,"Watch6,8",Apple Watch Series 7,"(GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)"
-A2477,watch,apple,,N188bAP,"Watch6,9",Apple Watch Series 7,(GPS + Cellular) (45mm case) (North America)
-A2478,watch,apple,,N188bAP,"Watch6,9",Apple Watch Series 7,"(GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
-A2770,watch,apple,,N197sAP,"Watch6,14",Apple Watch Series 8,(GPS) (41mm case)
-A2771,watch,apple,,N197bAP,"Watch6,15",Apple Watch Series 8,(GPS) (45mm case)
-A2772,watch,apple,,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + Cellular) (41mm case) (North America)
-A2857,watch,apple,,N198sAP,"Watch6,16",Apple Watch Series 8,"(GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
-A2773,watch,apple,,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + Cellular) (41mm case) (Rest of the world)
-A2774,watch,apple,,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + Cellular) (45mm case) (North America)
-A2858,watch,apple,,N198bAP,"Watch6,17",Apple Watch Series 8,"(GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
-A2775,watch,apple,,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + Cellular) (45mm case) (Rest of the world)
-A2978,watch,apple,,N207sAP,"Watch7,1",Apple Watch Series 9,(GPS) (41mm case)
-A2980,watch,apple,,N207bAP,"Watch7,2",Apple Watch Series 9,(GPS) (45mm case)
-A2982,watch,apple,,N208sAP,"Watch7,3",Apple Watch Series 9,(GPS + Cellular) (41mm case) (Global)
-A2983,watch,apple,,N208sAP,"Watch7,3",Apple Watch Series 9,"(GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
-A2984,watch,apple,,N208bAP,"Watch7,4",Apple Watch Series 9,(GPS + Cellular) (45mm case) (Global)
-A2985,watch,apple,,N208bAP,"Watch7,4",Apple Watch Series 9,"(GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
-A2997,watch,apple,,N217sAP,"Watch7,8",Apple Watch Series 10,(GPS) (42mm case) (Global)
-A2998,watch,apple,,N217sAP,"Watch7,8",Apple Watch Series 10,"(GPS) (42mm case) (China mainland, Indonesia)"
-A2999,watch,apple,,N217bAP,"Watch7,9",Apple Watch Series 10,(GPS) (46mm case) (Global)
-A3000,watch,apple,,N217bAP,"Watch7,9",Apple Watch Series 10,"(GPS) (46mm case) (China mainland, Indonesia)"
-A3001,watch,apple,,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + Cellular) (42mm case) (Global)
-A3002,watch,apple,,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + Cellular) (42mm case) (China mainland)
-A3003,watch,apple,,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + Cellular) (46mm case) (Global)
-A3206,watch,apple,,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + Cellular) (46mm case) (China mainland)
-A3331,watch,apple,,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42mm case) (Global)
-A3450,watch,apple,,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42mm case) (China mainland)
-A3333,watch,apple,,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46mm case) (Global)
-A3451,watch,apple,,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46mm case) (China mainland)
-A3335,watch,apple,,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + Cellular) (42mm case) (Global)
-A3452,watch,apple,,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + Cellular) (42mm case) (China mainland)
-A3337,watch,apple,,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + Cellular) (46mm case) (Global)
-A3453,watch,apple,,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + Cellular) (46mm case) (China mainland)
-A2351,watch,apple,,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40mm case)
-A2352,watch,apple,,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44mm case)
-A2353,watch,apple,,N142sAP,"Watch5,11",Apple Watch SE,(GPS + Cellular) (40mm case) (North America)
-A2355,watch,apple,,N142sAP,"Watch5,11",Apple Watch SE,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-A2354,watch,apple,,N142bAP,"Watch5,12",Apple Watch SE,(GPS + Cellular) (44mm case) (North America)
-A2356,watch,apple,,N142bAP,"Watch5,12",Apple Watch SE,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-A2722,watch,apple,,N143sAP,"Watch6,10",Apple Watch SE 2,(GPS) (40mm case)
-A2723,watch,apple,,N143bAP,"Watch6,11",Apple Watch SE 2,(GPS) (44mm case)
-A2726,watch,apple,,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + Cellular) (40mm case) (North America)
-A2855,watch,apple,,N149sAP,"Watch6,12",Apple Watch SE 2,"(GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
-A2725,watch,apple,,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + Cellular) (40mm case) (Rest of the world)
-A2727,watch,apple,,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + Cellular) (44mm case) (North America)
-A2856,watch,apple,,N149bAP,"Watch6,13",Apple Watch SE 2,"(GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
-A2724,watch,apple,,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + Cellular) (44mm case) (Rest of the world)
-A3324,watch,apple,,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40mm case) (Global)
-A3391,watch,apple,,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40mm case) (China mainland)
-A3325,watch,apple,,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44mm case) (Global)
-A3392,watch,apple,,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44mm case) (China mainland)
-A3326,watch,apple,,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + Cellular) (40mm case) (Global)
-A3327,watch,apple,,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + Cellular) (44mm case) (China mainland)
-A3328,watch,apple,,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + Cellular) (44mm case) (Global)
-A3329,watch,apple,,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + Cellular) (44mm case) (China mainland)
-A2622,watch,apple,,N199AP,"Watch6,18",Apple Watch Ultra,North America
-A2859,watch,apple,,N199AP,"Watch6,18",Apple Watch Ultra,"China mainland, Hong Kong, Macao"
-A2684,watch,apple,,N199AP,"Watch6,18",Apple Watch Ultra,Rest of the world
-A2986,watch,apple,,N210AP,"Watch7,5",Apple Watch Ultra 2,Global
-A2987,watch,apple,,N210AP,"Watch7,5",Apple Watch Ultra 2,"China mainland, Hong Kong, Macao"
-A3281,watch,apple,,N230AP,"Watch7,12",Apple Watch Ultra 3,Global
-A3282,watch,apple,,N230AP,"Watch7,12",Apple Watch Ultra 3,China mainland
-A1218,tv,apple,,Mac-F4228DC8,"AppleTV1,1",Apple TV (1st generation),
-A1378,tv,apple,,K66AP,"AppleTV2,1",Apple TV (2nd generation),
-A1427,tv,apple,,J33AP,"AppleTV3,1",Apple TV (3rd generation),
-A1469,tv,apple,,J33IAP,"AppleTV3,2",Apple TV (3rd generation),Rev A
-A1625,tv,apple,,J42dAP,"AppleTV5,3",Apple TV HD,
-A1842,tv,apple,,J105aAP,"AppleTV6,2",Apple TV 4K,
-A2169,tv,apple,,J305AP,"AppleTV11,1",Apple TV 4K (2nd generation),
-A2737,tv,apple,,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi
-A2843,tv,apple,,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi + Ethernet
-A2117,tv,apple,,N301AP,"RealityDevice14,1",Apple Vision Pro,
-A3416,tv,apple,,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
-A1213,pod,apple,,N45AP,"iPod1,1",iPod touch (1st generation),
-A1288,pod,apple,,N72AP,"iPod2,1",iPod touch (2nd generation),
-A1319,pod,apple,,N72AP,"iPod2,1",iPod touch (2nd generation),China mainland
-A1318,pod,apple,,N18AP,"iPod3,1",iPod touch (3rd generation),
-A1367,pod,apple,,N81AP,"iPod4,1",iPod touch (4th generation),
-A1421,pod,apple,,N78AP,"iPod5,1",iPod touch (5th generation),
-A1509,pod,apple,,N78AP,"iPod5,1",iPod touch (5th generation),16GB
-A1574,pod,apple,,N102AP,"iPod7,1",iPod touch (6th generation),
-A2178,pod,apple,,N112AP,"iPod9,1",iPod touch (7th generation),
+A1203,mob,apple,Apple,M68AP,"iPhone1,1",iPhone,
+A1241,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,
+A1324,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,China mainland
+A1303,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,
+A1325,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,China mainland
+A1332,mob,apple,Apple,N90AP,"iPhone3,1",iPhone 4,GSM
+A1332,mob,apple,Apple,N90BAP,"iPhone3,2",iPhone 4,"GSM, 2011"
+A1349,mob,apple,Apple,N92AP,"iPhone3,3",iPhone 4,CDMA
+A1431,mob,apple,Apple,N94AP,"iPhone4,1",iPhone 4S,GSM
+A1387,mob,apple,Apple,N94AP,"iPhone4,1",iPhone 4S,CDMA
+A1428,mob,apple,Apple,N41AP,"iPhone5,1",iPhone 5,GSM
+A1429,mob,apple,Apple,N42AP,"iPhone5,2",iPhone 5,GSM
+A1442,mob,apple,Apple,N42AP,"iPhone5,2",iPhone 5,CDMA
+A1453,mob,apple,Apple,N51AP,"iPhone6,1",iPhone 5s,CDMA
+A1533,mob,apple,Apple,N51AP,"iPhone6,1",iPhone 5s,CDMA
+A1457,mob,apple,Apple,N53AP,"iPhone6,2",iPhone 5s,GSM
+A1528,mob,apple,Apple,N53AP,"iPhone6,2",iPhone 5s,GSM
+A1530,mob,apple,Apple,N53AP,"iPhone6,2",iPhone 5s,GSM
+A1518,mob,apple,Apple,N53AP,"iPhone6,2",iPhone 5s,China Mobile
+A1456,mob,apple,Apple,N48AP,"iPhone5,3",iPhone 5c,CDMA
+A1532,mob,apple,Apple,N48AP,"iPhone5,3",iPhone 5c,CDMA
+A1507,mob,apple,Apple,N49AP,"iPhone5,4",iPhone 5c,GSM
+A1526,mob,apple,Apple,N49AP,"iPhone5,4",iPhone 5c,GSM
+A1529,mob,apple,Apple,N49AP,"iPhone5,4",iPhone 5c,GSM
+A1516,mob,apple,Apple,N49AP,"iPhone5,4",iPhone 5c,China Mobile
+A1549,mob,apple,Apple,N61AP,"iPhone7,2",iPhone 6,
+A1586,mob,apple,Apple,N61AP,"iPhone7,2",iPhone 6,
+A1589,mob,apple,Apple,N61AP,"iPhone7,2",iPhone 6,China Mobile
+A1522,mob,apple,Apple,N56AP,"iPhone7,1",iPhone 6 Plus,
+A1524,mob,apple,Apple,N56AP,"iPhone7,1",iPhone 6 Plus,
+A1593,mob,apple,Apple,N56AP,"iPhone7,1",iPhone 6 Plus,China Mobile
+A1633,mob,apple,Apple,N71AP,"iPhone8,1",iPhone 6s,
+A1688,mob,apple,Apple,N71AP,"iPhone8,1",iPhone 6s,
+A1700,mob,apple,Apple,N71AP,"iPhone8,1",iPhone 6s,China mainland
+A1691,mob,apple,Apple,N71AP,"iPhone8,1",iPhone 6s,China Mobile
+A1634,mob,apple,Apple,N66AP,"iPhone8,2",iPhone 6s Plus,
+A1687,mob,apple,Apple,N66AP,"iPhone8,2",iPhone 6s Plus,
+A1699,mob,apple,Apple,N66AP,"iPhone8,2",iPhone 6s Plus,China mainland
+A1690,mob,apple,Apple,N66AP,"iPhone8,2",iPhone 6s Plus,China Mobile
+A1662,mob,apple,Apple,N69AP,"iPhone8,4",iPhone SE,
+A1723,mob,apple,Apple,N69AP,"iPhone8,4",iPhone SE,
+A1724,mob,apple,Apple,N69AP,"iPhone8,4",iPhone SE,China Mobile
+A1660,mob,apple,Apple,D10AP,"iPhone9,1",iPhone 7,
+A1779,mob,apple,Apple,D10AP,"iPhone9,1",iPhone 7,Japan
+A1780,mob,apple,Apple,D10AP,"iPhone9,1",iPhone 7,China Mobile
+A1778,mob,apple,Apple,D101AP,"iPhone9,3",iPhone 7,GSM
+A1661,mob,apple,Apple,D11AP,"iPhone9,2",iPhone 7 Plus,
+A1785,mob,apple,Apple,D11AP,"iPhone9,2",iPhone 7 Plus,Japan
+A1786,mob,apple,Apple,D11AP,"iPhone9,2",iPhone 7 Plus,China Mobile
+A1784,mob,apple,Apple,D111AP,"iPhone9,4",iPhone 7 Plus,GSM
+A1863,mob,apple,Apple,D20AP,"iPhone10,1",iPhone 8,
+A1906,mob,apple,Apple,D20AP,"iPhone10,1",iPhone 8,Japan
+A1907,mob,apple,Apple,D20AP,"iPhone10,1",iPhone 8,China Mobile
+A1905,mob,apple,Apple,D201AP,"iPhone10,4",iPhone 8,GSM
+A1864,mob,apple,Apple,D21AP,"iPhone10,2",iPhone 8 Plus,
+A1898,mob,apple,Apple,D21AP,"iPhone10,2",iPhone 8 Plus,Japan
+A1899,mob,apple,Apple,D21AP,"iPhone10,2",iPhone 8 Plus,China Mobile
+A1897,mob,apple,Apple,D211AP,"iPhone10,5",iPhone 8 Plus,GSM
+A1865,mob,apple,Apple,D22AP,"iPhone10,3",iPhone X,
+A1903,mob,apple,Apple,D22AP,"iPhone10,3",iPhone X,China Mobile
+A1902,mob,apple,Apple,D22AP,"iPhone10,3",iPhone X,Japan
+A1901,mob,apple,Apple,D221AP,"iPhone10,6",iPhone X,GSM
+A1920,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,North America
+A2097,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,GSM
+A2098,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,Japan
+A2100,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,China mainland
+A2099,mob,apple,Apple,D321AP,"iPhone11,2",iPhone XS,China Mobile
+A1921,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,North America
+A2101,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,GSM
+A2102,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,Japan
+A2104,mob,apple,Apple,D331pAP,"iPhone11,6",iPhone XS Max,"China mainland, Hong Kong, Macao"
+A2103,mob,apple,Apple,D331AP,"iPhone11,4",iPhone XS Max,China Mobile
+A1984,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,North America
+A2105,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,GSM
+A2106,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,Japan
+A2108,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,"China mainland, Hong Kong, Macao"
+A2107,mob,apple,Apple,N841AP,"iPhone11,8",iPhone XR,China Mobile
+A2111,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,North America
+A2223,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,"China mainland, Hong Kong, Macao"
+A2221,mob,apple,Apple,N104AP,"iPhone12,1",iPhone 11,Rest of the world
+A2160,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,North America
+A2217,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,"China mainland, Hong Kong, Macao"
+A2215,mob,apple,Apple,D421AP,"iPhone12,3",iPhone 11 Pro,Rest of the world
+A2161,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,North America
+A2220,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,"China mainland, Hong Kong, Macao"
+A2218,mob,apple,Apple,D431AP,"iPhone12,5",iPhone 11 Pro Max,Rest of the world
+A2275,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (2nd generation),North America
+A2298,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (2nd generation),China mainland
+A2296,mob,apple,Apple,D79AP,"iPhone12,8",iPhone SE (2nd generation),Rest of the world
+A2176,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,United States
+A2398,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,"Canada, Japan"
+A2400,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,China mainland
+A2399,mob,apple,Apple,D52gAP,"iPhone13,1",iPhone 12 mini,Rest of the world
+A2172,mob,apple,Apple,D53gAP,"iPhone13,2",iPhone 12,United States
+A2402,mob,apple,Apple,D53gAP,"iPhone13,2",iPhone 12,"Canada, Japan"
+A2404,mob,apple,Apple,D53gAP,"iPhone13,2",iPhone 12,"China mainland, Hong Kong, Macao"
+A2403,mob,apple,Apple,D53gAP,"iPhone13,2",iPhone 12,Rest of the world
+A2341,mob,apple,Apple,D53pAP,"iPhone13,3",iPhone 12 Pro,United States
+A2406,mob,apple,Apple,D53pAP,"iPhone13,3",iPhone 12 Pro,"Canada, Japan"
+A2408,mob,apple,Apple,D53pAP,"iPhone13,3",iPhone 12 Pro,"China mainland, Hong Kong, Macao"
+A2407,mob,apple,Apple,D53pAP,"iPhone13,3",iPhone 12 Pro,Rest of the world
+A2342,mob,apple,Apple,D54pAP,"iPhone13,4",iPhone 12 Pro Max,United States
+A2410,mob,apple,Apple,D54pAP,"iPhone13,4",iPhone 12 Pro Max,"Canada, Japan"
+A2412,mob,apple,Apple,D54pAP,"iPhone13,4",iPhone 12 Pro Max,"China mainland, Hong Kong, Macao"
+A2411,mob,apple,Apple,D54pAP,"iPhone13,4",iPhone 12 Pro Max,Rest of the world
+A2481,mob,apple,Apple,D16AP,"iPhone14,4",iPhone 13 mini,United States
+A2626,mob,apple,Apple,D16AP,"iPhone14,4",iPhone 13 mini,"Canada, Japan, Mexico, Saudi Arabia"
+A2629,mob,apple,Apple,D16AP,"iPhone14,4",iPhone 13 mini,China mainland
+A2630,mob,apple,Apple,D16AP,"iPhone14,4",iPhone 13 mini,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2628,mob,apple,Apple,D16AP,"iPhone14,4",iPhone 13 mini,Rest of the world
+A2482,mob,apple,Apple,D17AP,"iPhone14,5",iPhone 13,United States
+A2631,mob,apple,Apple,D17AP,"iPhone14,5",iPhone 13,"Canada, Japan, Mexico, Saudi Arabia"
+A2634,mob,apple,Apple,D17AP,"iPhone14,5",iPhone 13,"China mainland, Hong Kong, Macao"
+A2635,mob,apple,Apple,D17AP,"iPhone14,5",iPhone 13,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2633,mob,apple,Apple,D17AP,"iPhone14,5",iPhone 13,Rest of the world
+A2483,mob,apple,Apple,D63AP,"iPhone14,2",iPhone 13 Pro,United States
+A2636,mob,apple,Apple,D63AP,"iPhone14,2",iPhone 13 Pro,"Canada, Japan, Mexico, Saudi Arabia"
+A2639,mob,apple,Apple,D63AP,"iPhone14,2",iPhone 13 Pro,"China mainland, Hong Kong, Macao"
+A2640,mob,apple,Apple,D63AP,"iPhone14,2",iPhone 13 Pro,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2638,mob,apple,Apple,D63AP,"iPhone14,2",iPhone 13 Pro,Rest of the world
+A2484,mob,apple,Apple,D64AP,"iPhone14,3",iPhone 13 Pro Max,United States
+A2641,mob,apple,Apple,D64AP,"iPhone14,3",iPhone 13 Pro Max,"Canada, Japan, Mexico, Saudi Arabia"
+A2644,mob,apple,Apple,D64AP,"iPhone14,3",iPhone 13 Pro Max,"China mainland, Hong Kong, Macao"
+A2645,mob,apple,Apple,D64AP,"iPhone14,3",iPhone 13 Pro Max,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2643,mob,apple,Apple,D64AP,"iPhone14,3",iPhone 13 Pro Max,Rest of the world
+A2595,mob,apple,Apple,D49AP,"iPhone14,6",iPhone SE (3rd generation),North America
+A2782,mob,apple,Apple,D49AP,"iPhone14,6",iPhone SE (3rd generation),Japan
+A2784,mob,apple,Apple,D49AP,"iPhone14,6",iPhone SE (3rd generation),"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2785,mob,apple,Apple,D49AP,"iPhone14,6",iPhone SE (3rd generation),China mainland
+A2783,mob,apple,Apple,D49AP,"iPhone14,6",iPhone SE (3rd generation),Rest of the world
+A2649,mob,apple,Apple,D27AP,"iPhone14,7",iPhone 14,United States
+A2881,mob,apple,Apple,D27AP,"iPhone14,7",iPhone 14,"Canada, Japan, Mexico, Saudi Arabia"
+A2883,mob,apple,Apple,D27AP,"iPhone14,7",iPhone 14,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2884,mob,apple,Apple,D27AP,"iPhone14,7",iPhone 14,"China mainland, Hong Kong, Macao"
+A2882,mob,apple,Apple,D27AP,"iPhone14,7",iPhone 14,Rest of the world
+A2632,mob,apple,Apple,D28AP,"iPhone14,8",iPhone 14 Plus,United States
+A2885,mob,apple,Apple,D28AP,"iPhone14,8",iPhone 14 Plus,"Canada, Japan, Mexico, Saudi Arabia"
+A2887,mob,apple,Apple,D28AP,"iPhone14,8",iPhone 14 Plus,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2888,mob,apple,Apple,D28AP,"iPhone14,8",iPhone 14 Plus,"China mainland, Hong Kong, Macao"
+A2886,mob,apple,Apple,D28AP,"iPhone14,8",iPhone 14 Plus,Rest of the world
+A2650,mob,apple,Apple,D73AP,"iPhone15,2",iPhone 14 Pro,United States
+A2889,mob,apple,Apple,D73AP,"iPhone15,2",iPhone 14 Pro,"Canada, Japan, Mexico, Saudi Arabia"
+A2891,mob,apple,Apple,D73AP,"iPhone15,2",iPhone 14 Pro,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2892,mob,apple,Apple,D73AP,"iPhone15,2",iPhone 14 Pro,"China mainland, Hong Kong, Macao"
+A2890,mob,apple,Apple,D73AP,"iPhone15,2",iPhone 14 Pro,Rest of the world
+A2651,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,United States
+A2893,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,"Canada, Japan, Mexico, Saudi Arabia"
+A2895,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,"Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia"
+A2896,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,"China mainland, Hong Kong, Macao"
+A2894,mob,apple,Apple,D74AP,"iPhone15,3",iPhone 14 Pro Max,Rest of the world
+A2846,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,United States
+A3089,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,"Canada, Japan, Mexico, Saudi Arabia"
+A3092,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,"China mainland, Hong Kong, Macao"
+A3090,mob,apple,Apple,D37AP,"iPhone15,4",iPhone 15,Rest of the world
+A2847,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,United States
+A3093,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,"Canada, Japan, Mexico, Saudi Arabia"
+A3096,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,"China mainland, Hong Kong, Macao"
+A3094,mob,apple,Apple,D38AP,"iPhone15,5",iPhone 15 Plus,Rest of the world
+A2848,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,United States
+A3101,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,"Canada, Japan, Mexico, Saudi Arabia"
+A3104,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,"China mainland, Hong Kong, Macao"
+A3102,mob,apple,Apple,D83AP,"iPhone16,1",iPhone 15 Pro,Rest of the world
+A2849,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,United States
+A3105,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,"Canada, Japan, Mexico, Saudi Arabia"
+A3108,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,"China mainland, Hong Kong, Macao"
+A3106,mob,apple,Apple,D84AP,"iPhone16,2",iPhone 15 Pro Max,Rest of the world
+A3081,mob,apple,Apple,D47AP,"iPhone17,3",iPhone 16,United States
+A3286,mob,apple,Apple,D47AP,"iPhone17,3",iPhone 16,"Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3288,mob,apple,Apple,D47AP,"iPhone17,3",iPhone 16,"China mainland, Hong Kong, Macao"
+A3287,mob,apple,Apple,D47AP,"iPhone17,3",iPhone 16,Rest of the world
+A3082,mob,apple,Apple,D48AP,"iPhone17,4",iPhone 16 Plus,United States
+A3289,mob,apple,Apple,D48AP,"iPhone17,4",iPhone 16 Plus,"Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3291,mob,apple,Apple,D48AP,"iPhone17,4",iPhone 16 Plus,"China mainland, Hong Kong, Macao"
+A3290,mob,apple,Apple,D48AP,"iPhone17,4",iPhone 16 Plus,Rest of the world
+A3083,mob,apple,Apple,D93AP,"iPhone17,1",iPhone 16 Pro,United States
+A3292,mob,apple,Apple,D93AP,"iPhone17,1",iPhone 16 Pro,"Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3294,mob,apple,Apple,D93AP,"iPhone17,1",iPhone 16 Pro,"China mainland, Hong Kong, Macao"
+A3293,mob,apple,Apple,D93AP,"iPhone17,1",iPhone 16 Pro,Rest of the world
+A3084,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,United States
+A3295,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,"Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3297,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,"China mainland, Hong Kong, Macao"
+A3296,mob,apple,Apple,D94AP,"iPhone17,2",iPhone 16 Pro Max,Rest of the world
+A3212,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,United States
+A3408,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,"Bahrain, Canada, Iraq, Guam, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3410,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,China mainland
+A3409,mob,apple,Apple,V59AP,"iPhone17,5",iPhone 16e,Rest of the world
+A3258,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,United States
+A3519,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3521,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,China mainland
+A3520,mob,apple,Apple,V57AP,"iPhone18,3",iPhone 17,Rest of the world
+A3260,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,"United States, Bahrain, Canada, Guam, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3518,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,China mainland
+A3516,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,Japan
+A3517,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,Rest of the world
+A3256,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,United States
+A3522,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3524,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,China mainland
+A3523,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,Rest of the world
+A3257,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,United States
+A3525,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3527,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,China mainland
+A3526,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,Rest of the world
+A3575,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,"United States, Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands"
+A3635,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,China mainland
+A3634,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,Rest of the world
+A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,Wi-Fi
+A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,Wi-Fi + 3G
+A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,Wi-Fi
+A1396,pad,apple,Apple,K94AP,"iPad2,2",iPad 2,Wi-Fi + 3G (GSM)
+A1397,pad,apple,Apple,K95AP,"iPad2,3",iPad 2,Wi-Fi + 3G (CDMA)
+A1395,pad,apple,Apple,K93AAP,"iPad2,4",iPad 2,Wi-Fi (2012)
+A1416,pad,apple,Apple,J1AP,"iPad3,1",iPad (3rd generation),Wi-Fi
+A1403,pad,apple,Apple,J2AP,"iPad3,2",iPad (3rd generation),Wi-Fi + Cellular (VZ)
+A1430,pad,apple,Apple,J2AAP,"iPad3,3",iPad (3rd generation),Wi-Fi + Cellular
+A1458,pad,apple,Apple,P101AP,"iPad3,4",iPad (4th generation),Wi-Fi
+A1459,pad,apple,Apple,P102AP,"iPad3,5",iPad (4th generation),Wi-Fi + Cellular
+A1460,pad,apple,Apple,P103AP,"iPad3,6",iPad (4th generation),Wi-Fi + Cellular (China mainland)
+A1822,pad,apple,Apple,J71sAP,"iPad6,11",iPad (5th generation),Wi-Fi
+A1823,pad,apple,Apple,J72sAP,"iPad6,12",iPad (5th generation),Wi-Fi + Cellular
+A1893,pad,apple,Apple,J71bAP,"iPad7,5",iPad (6th generation),Wi-Fi
+A1954,pad,apple,Apple,J72bAP,"iPad7,6",iPad (6th generation),Wi-Fi + Cellular
+A2197,pad,apple,Apple,J171AP,"iPad7,11",iPad (7th generation),Wi-Fi
+A2198,pad,apple,Apple,J172AP,"iPad7,12",iPad (7th generation),Wi-Fi + Cellular
+A2200,pad,apple,Apple,J172AP,"iPad7,12",iPad (7th generation),Wi-Fi + Cellular
+A2199,pad,apple,Apple,J172AP,"iPad7,12",iPad (7th generation),Wi-Fi + Cellular (China mainland)
+A2270,pad,apple,Apple,J171aAP,"iPad11,6",iPad (8th generation),Wi-Fi
+A2428,pad,apple,Apple,J172aAP,"iPad11,7",iPad (8th generation),Wi-Fi + Cellular
+A2429,pad,apple,Apple,J172aAP,"iPad11,7",iPad (8th generation),Wi-Fi + Cellular
+A2430,pad,apple,Apple,J172aAP,"iPad11,7",iPad (8th generation),Wi-Fi + Cellular (China mainland)
+A2602,pad,apple,Apple,J181AP,"iPad12,1",iPad (9th generation),Wi-Fi
+A2603,pad,apple,Apple,J182AP,"iPad12,2",iPad (9th generation),Wi-Fi + Cellular
+A2604,pad,apple,Apple,J182AP,"iPad12,2",iPad (9th generation),Wi-Fi + Cellular
+A2605,pad,apple,Apple,J182AP,"iPad12,2",iPad (9th generation),Wi-Fi + Cellular (China mainland)
+A2696,pad,apple,Apple,J271AP,"iPad13,18",iPad (10th generation),Wi-Fi
+A2757,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),Wi-Fi + Cellular
+A2777,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),Wi-Fi + Cellular (China mainland)
+A3162,pad,apple,Apple,J272AP,"iPad13,19",iPad (10th generation),"Wi-Fi + Cellular (eSIM, China mainland)"
+A3354,pad,apple,Apple,J481AP,"iPad15,7",iPad (A16),Wi-Fi
+A3355,pad,apple,Apple,J482AP,"iPad15,8",iPad (A16),Wi-Fi + Cellular
+A3356,pad,apple,Apple,J482AP,"iPad15,8",iPad (A16),Wi-Fi + Cellular (China mainland)
+A1474,pad,apple,Apple,J71AP,"iPad4,1",iPad Air,Wi-Fi
+A1475,pad,apple,Apple,J72AP,"iPad4,2",iPad Air,Wi-Fi + Cellular
+A1476,pad,apple,Apple,J73AP,"iPad4,3",iPad Air,Wi-Fi + Cellular (TD-LTE)
+A1566,pad,apple,Apple,J81AP,"iPad5,3",iPad Air 2,Wi-Fi
+A1567,pad,apple,Apple,J82AP,"iPad5,4",iPad Air 2,Wi-Fi + Cellular
+A2152,pad,apple,Apple,J217AP,"iPad11,3",iPad Air (3rd generation),Wi-Fi
+A2123,pad,apple,Apple,J218AP,"iPad11,4",iPad Air (3rd generation),Wi-Fi + Cellular
+A2153,pad,apple,Apple,J218AP,"iPad11,4",iPad Air (3rd generation),Wi-Fi + Cellular
+A2154,pad,apple,Apple,J218AP,"iPad11,4",iPad Air (3rd generation),Wi-Fi + Cellular (China mainland)
+A2316,pad,apple,Apple,J307AP,"iPad13,1",iPad Air (4th generation),Wi-Fi
+A2072,pad,apple,Apple,J308AP,"iPad13,2",iPad Air (4th generation),Wi-Fi + Cellular
+A2324,pad,apple,Apple,J308AP,"iPad13,2",iPad Air (4th generation),Wi-Fi + Cellular
+A2325,pad,apple,Apple,J308AP,"iPad13,2",iPad Air (4th generation),Wi-Fi + Cellular (China mainland)
+A2588,pad,apple,Apple,J407AP,"iPad13,16",iPad Air (5th generation),Wi-Fi
+A2589,pad,apple,Apple,J408AP,"iPad13,17",iPad Air (5th generation),Wi-Fi + Cellular
+A2591,pad,apple,Apple,J408AP,"iPad13,17",iPad Air (5th generation),Wi-Fi + Cellular (China mainland)
+A2902,pad,apple,Apple,J507AP,"iPad14,8","iPad Air (11-inch, M2)",Wi-Fi
+A2903,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11-inch, M2)",Wi-Fi + Cellular
+A2904,pad,apple,Apple,J508AP,"iPad14,9","iPad Air (11-inch, M2)",Wi-Fi + Cellular (China mainland)
+A2898,pad,apple,Apple,J537AP,"iPad14,10","iPad Air (13-inch, M2)",Wi-Fi
+A2899,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13-inch, M2)",Wi-Fi + Cellular
+A2900,pad,apple,Apple,J538AP,"iPad14,11","iPad Air (13-inch, M2)",Wi-Fi + Cellular (China mainland)
+A3266,pad,apple,Apple,J607AP,"iPad15,3","iPad Air (11-inch, M3)",Wi-Fi
+A3267,pad,apple,Apple,J608AP,"iPad15,4","iPad Air (11-inch, M3)",Wi-Fi + Cellular
+A3270,pad,apple,Apple,J608AP,"iPad15,4","iPad Air (11-inch, M3)",Wi-Fi + Cellular (China mainland)
+A3268,pad,apple,Apple,J637AP,"iPad15,5","iPad Air (13-inch, M3)",Wi-Fi
+A3269,pad,apple,Apple,J638AP,"iPad15,6","iPad Air (13-inch, M3)",Wi-Fi + Cellular
+A3271,pad,apple,Apple,J638AP,"iPad15,6","iPad Air (13-inch, M3)",Wi-Fi + Cellular (China mainland)
+A3459,pad,apple,Apple,J707AP,"iPad16,8","iPad Air (11-inch, M4)",Wi-Fi
+A3460,pad,apple,Apple,J708AP,"iPad16,9","iPad Air (11-inch, M4)",Wi-Fi + Cellular
+A3463,pad,apple,Apple,J708AP,"iPad16,9","iPad Air (11-inch, M4)",Wi-Fi + Cellular (China mainland)
+A3461,pad,apple,Apple,J737AP,"iPad16,10","iPad Air (13-inch, M4)",Wi-Fi
+A3462,pad,apple,Apple,J738AP,"iPad16,11","iPad Air (13-inch, M4)",Wi-Fi + Cellular
+A3464,pad,apple,Apple,J738AP,"iPad16,11","iPad Air (13-inch, M4)",Wi-Fi + Cellular (China mainland)
+A1584,pad,apple,Apple,J98aAP,"iPad6,7",iPad Pro (12.9-inch),Wi-Fi
+A1652,pad,apple,Apple,J99aAP,"iPad6,8",iPad Pro (12.9-inch),Wi-Fi + Cellular
+A1673,pad,apple,Apple,J127AP,"iPad6,3",iPad Pro (9.7-inch),Wi-Fi
+A1674,pad,apple,Apple,J128AP,"iPad6,4",iPad Pro (9.7-inch),Wi-Fi + Cellular
+A1675,pad,apple,Apple,J128AP,"iPad6,4",iPad Pro (9.7-inch),Wi-Fi + Cellular (China mainland)
+A1670,pad,apple,Apple,J120AP,"iPad7,1","iPad Pro (12.9-inch, 2nd generation)",Wi-Fi
+A1671,pad,apple,Apple,J121AP,"iPad7,2","iPad Pro (12.9-inch, 2nd generation)",Wi-Fi + Cellular
+A1821,pad,apple,Apple,J121AP,"iPad7,2","iPad Pro (12.9-inch, 2nd generation)",Wi-Fi + Cellular (China mainland)
+A1701,pad,apple,Apple,J207AP,"iPad7,3",iPad Pro (10.5-inch),Wi-Fi
+A1709,pad,apple,Apple,J208AP,"iPad7,4",iPad Pro (10.5-inch),Wi-Fi + Cellular
+A1852,pad,apple,Apple,J208AP,"iPad7,4",iPad Pro (10.5-inch),Wi-Fi + Cellular (China mainland)
+A1980,pad,apple,Apple,J317AP,"iPad8,1",iPad Pro (11-inch),Wi-Fi
+A1980,pad,apple,Apple,J317xAP,"iPad8,2",iPad Pro (11-inch),Wi-Fi (1TB)
+A1934,pad,apple,Apple,J318AP,"iPad8,3",iPad Pro (11-inch),Wi-Fi + Cellular
+A2013,pad,apple,Apple,J318AP,"iPad8,3",iPad Pro (11-inch),Wi-Fi + Cellular
+A1979,pad,apple,Apple,J318AP,"iPad8,3",iPad Pro (11-inch),Wi-Fi + Cellular (China mainland)
+A1934,pad,apple,Apple,J318xAP,"iPad8,4",iPad Pro (11-inch),Wi-Fi + Cellular (1TB)
+A2013,pad,apple,Apple,J318xAP,"iPad8,4",iPad Pro (11-inch),Wi-Fi + Cellular (1TB)
+A1979,pad,apple,Apple,J318xAP,"iPad8,4",iPad Pro (11-inch),Wi-Fi + Cellular (1TB) (China mainland)
+A1876,pad,apple,Apple,J320AP,"iPad8,5","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi
+A1876,pad,apple,Apple,J320xAP,"iPad8,6","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi (1TB)
+A1895,pad,apple,Apple,J321AP,"iPad8,7","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular
+A2014,pad,apple,Apple,J321AP,"iPad8,7","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular
+A1983,pad,apple,Apple,J321AP,"iPad8,7","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular (China mainland)
+A1895,pad,apple,Apple,J321xAP,"iPad8,8","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular (1TB)
+A2014,pad,apple,Apple,J321xAP,"iPad8,8","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular (1TB)
+A1983,pad,apple,Apple,J321xAP,"iPad8,8","iPad Pro (12.9-inch, 3rd generation)",Wi-Fi + Cellular (1TB) (China mainland)
+A2228,pad,apple,Apple,J417AP,"iPad8,9","iPad Pro (11-inch, 2nd generation)",Wi-Fi
+A2068,pad,apple,Apple,J418AP,"iPad8,10","iPad Pro (11-inch, 2nd generation)",Wi-Fi + Cellular
+A2230,pad,apple,Apple,J418AP,"iPad8,10","iPad Pro (11-inch, 2nd generation)",Wi-Fi + Cellular
+A2231,pad,apple,Apple,J418AP,"iPad8,10","iPad Pro (11-inch, 2nd generation)",Wi-Fi + Cellular (China mainland)
+A2229,pad,apple,Apple,J420AP,"iPad8,11","iPad Pro (12.9-inch, 4th generation)",Wi-Fi
+A2069,pad,apple,Apple,J421AP,"iPad8,12","iPad Pro (12.9-inch, 4th generation)",Wi-Fi + Cellular
+A2232,pad,apple,Apple,J421AP,"iPad8,12","iPad Pro (12.9-inch, 4th generation)",Wi-Fi + Cellular
+A2233,pad,apple,Apple,J421AP,"iPad8,12","iPad Pro (12.9-inch, 4th generation)",Wi-Fi + Cellular (China mainland)
+A2377,pad,apple,Apple,J517AP,"iPad13,4","iPad Pro (11-inch, 3rd generation)",Wi-Fi (8GB RAM)
+A2377,pad,apple,Apple,J517xAP,"iPad13,5","iPad Pro (11-inch, 3rd generation)",Wi-Fi (16GB RAM)
+A2459,pad,apple,Apple,J518AP,"iPad13,6","iPad Pro (11-inch, 3rd generation)",Wi-Fi + Cellular (8GB RAM)
+A2301,pad,apple,Apple,J518AP,"iPad13,6","iPad Pro (11-inch, 3rd generation)","Wi-Fi + Cellular (8GB RAM, mmWave)"
+A2460,pad,apple,Apple,J518AP,"iPad13,6","iPad Pro (11-inch, 3rd generation)","Wi-Fi + Cellular (8GB RAM, China mainland)"
+A2459,pad,apple,Apple,J518xAP,"iPad13,7","iPad Pro (11-inch, 3rd generation)",Wi-Fi + Cellular (16GB RAM)
+A2301,pad,apple,Apple,J518xAP,"iPad13,7","iPad Pro (11-inch, 3rd generation)","Wi-Fi + Cellular (16GB RAM, mmWave)"
+A2460,pad,apple,Apple,J518xAP,"iPad13,7","iPad Pro (11-inch, 3rd generation)","Wi-Fi + Cellular (16GB RAM, China mainland)"
+A2378,pad,apple,Apple,J522AP,"iPad13,8","iPad Pro (12.9-inch, 5th generation)",Wi-Fi (8GB RAM)
+A2378,pad,apple,Apple,J522xAP,"iPad13,9","iPad Pro (12.9-inch, 5th generation)",Wi-Fi (16GB RAM)
+A2461,pad,apple,Apple,J523AP,"iPad13,10","iPad Pro (12.9-inch, 5th generation)",Wi-Fi + Cellular (8GB RAM)
+A2379,pad,apple,Apple,J523AP,"iPad13,10","iPad Pro (12.9-inch, 5th generation)","Wi-Fi + Cellular (8GB RAM, mmWave)"
+A2462,pad,apple,Apple,J523AP,"iPad13,10","iPad Pro (12.9-inch, 5th generation)","Wi-Fi + Cellular (8GB RAM, China mainland)"
+A2461,pad,apple,Apple,J523xAP,"iPad13,11","iPad Pro (12.9-inch, 5th generation)",Wi-Fi + Cellular (16GB RAM)
+A2379,pad,apple,Apple,J523xAP,"iPad13,11","iPad Pro (12.9-inch, 5th generation)","Wi-Fi + Cellular (16GB RAM, mmWave)"
+A2462,pad,apple,Apple,J523xAP,"iPad13,11","iPad Pro (12.9-inch, 5th generation)","Wi-Fi + Cellular (16GB RAM, China mainland)"
+A2759,pad,apple,Apple,J617AP,"iPad14,3","iPad Pro (11-inch, 4th generation)",Wi-Fi
+A2761,pad,apple,Apple,J618AP,"iPad14,4","iPad Pro (11-inch, 4th generation)",Wi-Fi + Cellular
+A2435,pad,apple,Apple,J618AP,"iPad14,4","iPad Pro (11-inch, 4th generation)",Wi-Fi + Cellular (mmWave)
+A2762,pad,apple,Apple,J618AP,"iPad14,4","iPad Pro (11-inch, 4th generation)",Wi-Fi + Cellular (China mainland)
+A2436,pad,apple,Apple,J620AP,"iPad14,5","iPad Pro (12.9-inch, 6th generation)",Wi-Fi
+A2437,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",Wi-Fi + Cellular
+A2764,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",Wi-Fi + Cellular (mmWave)
+A2766,pad,apple,Apple,J621AP,"iPad14,6","iPad Pro (12.9-inch, 6th generation)",Wi-Fi + Cellular (China mainland)
+A2836,pad,apple,Apple,J717AP,"iPad16,3","iPad Pro (11-inch, M4)",Wi-Fi
+A2837,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11-inch, M4)",Wi-Fi + Cellular
+A3006,pad,apple,Apple,J718AP,"iPad16,4","iPad Pro (11-inch, M4)",Wi-Fi + Cellular (China mainland)
+A2925,pad,apple,Apple,J720AP,"iPad16,5","iPad Pro (13-inch, M4)",Wi-Fi
+A2926,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13-inch, M4)",Wi-Fi + Cellular
+A3007,pad,apple,Apple,J721AP,"iPad16,6","iPad Pro (13-inch, M4)",Wi-Fi + Cellular (China mainland)
+A3357,pad,apple,Apple,J817AP,"iPad17,1","iPad Pro (11-inch, M5)",Wi-Fi
+A3358,pad,apple,Apple,J818AP,"iPad17,2","iPad Pro (11-inch, M5)",Wi-Fi + Cellular
+A3359,pad,apple,Apple,J818AP,"iPad17,2","iPad Pro (11-inch, M5)",Wi-Fi + Cellular (China mainland)
+A3360,pad,apple,Apple,J820AP,"iPad18,1","iPad Pro (13-inch, M5)",Wi-Fi
+A3361,pad,apple,Apple,J821AP,"iPad18,2","iPad Pro (13-inch, M5)",Wi-Fi + Cellular
+A3362,pad,apple,Apple,J821AP,"iPad18,2","iPad Pro (13-inch, M5)",Wi-Fi + Cellular (China mainland)
+A1432,pad,apple,Apple,P105AP,"iPad2,5",iPad mini,Wi-Fi
+A1454,pad,apple,Apple,P106AP,"iPad2,6",iPad mini,Wi-Fi + Cellular
+A1455,pad,apple,Apple,P107AP,"iPad2,7",iPad mini,Wi-Fi + Cellular (China mainland)
+A1489,pad,apple,Apple,J85AP,"iPad4,4",iPad mini 2,Wi-Fi
+A1490,pad,apple,Apple,J86AP,"iPad4,5",iPad mini 2,Wi-Fi + Cellular
+A1491,pad,apple,Apple,J87AP,"iPad4,6",iPad mini 2,Wi-Fi + Cellular (TD-LTE)
+A1599,pad,apple,Apple,J85mAP,"iPad4,7",iPad mini 3,Wi-Fi
+A1600,pad,apple,Apple,J86mAP,"iPad4,8",iPad mini 3,Wi-Fi + Cellular
+A1601,pad,apple,Apple,J87mAP,"iPad4,9",iPad mini 3,Wi-Fi + Cellular (TD-LTE)
+A1538,pad,apple,Apple,J96AP,"iPad5,1",iPad mini 4,Wi-Fi
+A1550,pad,apple,Apple,J97AP,"iPad5,2",iPad mini 4,Wi-Fi + Cellular
+A2133,pad,apple,Apple,J210AP,"iPad11,1",iPad mini (5th generation),Wi-Fi
+A2124,pad,apple,Apple,J211AP,"iPad11,2",iPad mini (5th generation),Wi-Fi + Cellular
+A2126,pad,apple,Apple,J211AP,"iPad11,2",iPad mini (5th generation),Wi-Fi + Cellular
+A2125,pad,apple,Apple,J211AP,"iPad11,2",iPad mini (5th generation),Wi-Fi + Cellular (China mainland)
+A2567,pad,apple,Apple,J310AP,"iPad14,1",iPad mini (6th generation),Wi-Fi
+A2568,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (6th generation),Wi-Fi + Cellular
+A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (6th generation),Wi-Fi + Cellular (China mainland)
+A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),Wi-Fi
+A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular
+A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular (China mainland)
+A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (1st generation),38mm case
+A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (1st generation),42mm case
+A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,38mm case
+A1803,watch,apple,Apple,N28dAP,"Watch2,7",Apple Watch Series 1,42mm case
+A1757,watch,apple,Apple,N74AP,"Watch2,3",Apple Watch Series 2,38mm case
+A1816,watch,apple,Apple,N74AP,"Watch2,3",Apple Watch Series 2,Edition (38mm case)
+A1758,watch,apple,Apple,N75AP,"Watch2,4",Apple Watch Series 2,42mm case
+A1817,watch,apple,Apple,N75AP,"Watch2,4",Apple Watch Series 2,Edition (42mm case)
+A1860,watch,apple,Apple,N111sAP,"Watch3,1",Apple Watch Series 3,(GPS + Cellular) (38mm case) (North America)
+A1889,watch,apple,Apple,N111sAP,"Watch3,1",Apple Watch Series 3,(GPS + Cellular) (38mm case) (Europe and Asia Pacific)
+A1890,watch,apple,Apple,N111sAP,"Watch3,1",Apple Watch Series 3,(GPS + Cellular) (38mm case) (China mainland)
+A1861,watch,apple,Apple,N111bAP,"Watch3,2",Apple Watch Series 3,(GPS + Cellular) (42mm case) (North America)
+A1891,watch,apple,Apple,N111bAP,"Watch3,2",Apple Watch Series 3,(GPS + Cellular) (42mm case) (Europe and Asia Pacific)
+A1892,watch,apple,Apple,N111bAP,"Watch3,2",Apple Watch Series 3,(GPS + Cellular) (42mm case) (China mainland)
+A1858,watch,apple,Apple,N121sAP,"Watch3,3",Apple Watch Series 3,(GPS) (38mm case)
+A1859,watch,apple,Apple,N121bAP,"Watch3,4",Apple Watch Series 3,(GPS) (42mm case)
+A1977,watch,apple,Apple,N131sAP,"Watch4,1",Apple Watch Series 4,(GPS) (40mm case)
+A1978,watch,apple,Apple,N131bAP,"Watch4,2",Apple Watch Series 4,(GPS) (44mm case)
+A1975,watch,apple,Apple,N141sAP,"Watch4,3",Apple Watch Series 4,(GPS + Cellular) (40mm case) (North America)
+A2007,watch,apple,Apple,N141sAP,"Watch4,3",Apple Watch Series 4,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+A1976,watch,apple,Apple,N141bAP,"Watch4,4",Apple Watch Series 4,(GPS + Cellular) (44mm case) (North America)
+A2008,watch,apple,Apple,N141bAP,"Watch4,4",Apple Watch Series 4,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+A2092,watch,apple,Apple,N144sAP,"Watch5,1",Apple Watch Series 5,(GPS) (40mm case)
+A2093,watch,apple,Apple,N144bAP,"Watch5,2",Apple Watch Series 5,(GPS) (44mm case)
+A2094,watch,apple,Apple,N146sAP,"Watch5,3",Apple Watch Series 5,(GPS + Cellular) (40mm case) (North America)
+A2156,watch,apple,Apple,N146sAP,"Watch5,3",Apple Watch Series 5,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+A2095,watch,apple,Apple,N146bAP,"Watch5,4",Apple Watch Series 5,(GPS + Cellular) (44mm case) (North America)
+A2157,watch,apple,Apple,N146bAP,"Watch5,4",Apple Watch Series 5,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+A2291,watch,apple,Apple,N157sAP,"Watch6,1",Apple Watch Series 6,(GPS) (40mm case)
+A2292,watch,apple,Apple,N157bAP,"Watch6,2",Apple Watch Series 6,(GPS) (44mm case)
+A2293,watch,apple,Apple,N158sAP,"Watch6,3",Apple Watch Series 6,(GPS + Cellular) (40mm case) (North America)
+A2375,watch,apple,Apple,N158sAP,"Watch6,3",Apple Watch Series 6,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+A2294,watch,apple,Apple,N158bAP,"Watch6,4",Apple Watch Series 6,(GPS + Cellular) (44mm case) (North America)
+A2376,watch,apple,Apple,N158bAP,"Watch6,4",Apple Watch Series 6,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+A2473,watch,apple,Apple,N187sAP,"Watch6,6",Apple Watch Series 7,(GPS) (41mm case)
+A2474,watch,apple,Apple,N187bAP,"Watch6,7",Apple Watch Series 7,(GPS) (45mm case)
+A2475,watch,apple,Apple,N188sAP,"Watch6,8",Apple Watch Series 7,(GPS + Cellular) (41mm case) (North America)
+A2476,watch,apple,Apple,N188sAP,"Watch6,8",Apple Watch Series 7,"(GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)"
+A2477,watch,apple,Apple,N188bAP,"Watch6,9",Apple Watch Series 7,(GPS + Cellular) (45mm case) (North America)
+A2478,watch,apple,Apple,N188bAP,"Watch6,9",Apple Watch Series 7,"(GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
+A2770,watch,apple,Apple,N197sAP,"Watch6,14",Apple Watch Series 8,(GPS) (41mm case)
+A2771,watch,apple,Apple,N197bAP,"Watch6,15",Apple Watch Series 8,(GPS) (45mm case)
+A2772,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + Cellular) (41mm case) (North America)
+A2857,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,"(GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
+A2773,watch,apple,Apple,N198sAP,"Watch6,16",Apple Watch Series 8,(GPS + Cellular) (41mm case) (Rest of the world)
+A2774,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + Cellular) (45mm case) (North America)
+A2858,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,"(GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
+A2775,watch,apple,Apple,N198bAP,"Watch6,17",Apple Watch Series 8,(GPS + Cellular) (45mm case) (Rest of the world)
+A2978,watch,apple,Apple,N207sAP,"Watch7,1",Apple Watch Series 9,(GPS) (41mm case)
+A2980,watch,apple,Apple,N207bAP,"Watch7,2",Apple Watch Series 9,(GPS) (45mm case)
+A2982,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,(GPS + Cellular) (41mm case) (Global)
+A2983,watch,apple,Apple,N208sAP,"Watch7,3",Apple Watch Series 9,"(GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
+A2984,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,(GPS + Cellular) (45mm case) (Global)
+A2985,watch,apple,Apple,N208bAP,"Watch7,4",Apple Watch Series 9,"(GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
+A2997,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,(GPS) (42mm case) (Global)
+A2998,watch,apple,Apple,N217sAP,"Watch7,8",Apple Watch Series 10,"(GPS) (42mm case) (China mainland, Indonesia)"
+A2999,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,(GPS) (46mm case) (Global)
+A3000,watch,apple,Apple,N217bAP,"Watch7,9",Apple Watch Series 10,"(GPS) (46mm case) (China mainland, Indonesia)"
+A3001,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + Cellular) (42mm case) (Global)
+A3002,watch,apple,Apple,N218sAP,"Watch7,10",Apple Watch Series 10,(GPS + Cellular) (42mm case) (China mainland)
+A3003,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + Cellular) (46mm case) (Global)
+A3206,watch,apple,Apple,N218bAP,"Watch7,11",Apple Watch Series 10,(GPS + Cellular) (46mm case) (China mainland)
+A3331,watch,apple,Apple,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42mm case) (Global)
+A3450,watch,apple,Apple,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42mm case) (China mainland)
+A3333,watch,apple,Apple,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46mm case) (Global)
+A3451,watch,apple,Apple,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46mm case) (China mainland)
+A3335,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + Cellular) (42mm case) (Global)
+A3452,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + Cellular) (42mm case) (China mainland)
+A3337,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + Cellular) (46mm case) (Global)
+A3453,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + Cellular) (46mm case) (China mainland)
+A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40mm case)
+A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44mm case)
+A2353,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + Cellular) (40mm case) (North America)
+A2355,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,"(GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+A2354,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,(GPS + Cellular) (44mm case) (North America)
+A2356,watch,apple,Apple,N142bAP,"Watch5,12",Apple Watch SE,"(GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+A2722,watch,apple,Apple,N143sAP,"Watch6,10",Apple Watch SE 2,(GPS) (40mm case)
+A2723,watch,apple,Apple,N143bAP,"Watch6,11",Apple Watch SE 2,(GPS) (44mm case)
+A2726,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + Cellular) (40mm case) (North America)
+A2855,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,"(GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
+A2725,watch,apple,Apple,N149sAP,"Watch6,12",Apple Watch SE 2,(GPS + Cellular) (40mm case) (Rest of the world)
+A2727,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + Cellular) (44mm case) (North America)
+A2856,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,"(GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
+A2724,watch,apple,Apple,N149bAP,"Watch6,13",Apple Watch SE 2,(GPS + Cellular) (44mm case) (Rest of the world)
+A3324,watch,apple,Apple,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40mm case) (Global)
+A3391,watch,apple,Apple,N243sAP,"Watch7,13",Apple Watch SE 3,(GPS) (40mm case) (China mainland)
+A3325,watch,apple,Apple,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44mm case) (Global)
+A3392,watch,apple,Apple,N243bAP,"Watch7,14",Apple Watch SE 3,(GPS) (44mm case) (China mainland)
+A3326,watch,apple,Apple,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + Cellular) (40mm case) (Global)
+A3327,watch,apple,Apple,N244sAP,"Watch7,15",Apple Watch SE 3,(GPS + Cellular) (44mm case) (China mainland)
+A3328,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + Cellular) (44mm case) (Global)
+A3329,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + Cellular) (44mm case) (China mainland)
+A2622,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,North America
+A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,"China mainland, Hong Kong, Macao"
+A2684,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,Rest of the world
+A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,Global
+A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,"China mainland, Hong Kong, Macao"
+A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,Global
+A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,China mainland
+A1218,tv,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (1st generation),
+A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (2nd generation),
+A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (3rd generation),
+A1469,tv,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (3rd generation),Rev A
+A1625,tv,apple,Apple,J42dAP,"AppleTV5,3",Apple TV HD,
+A1842,tv,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,
+A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (2nd generation),
+A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi
+A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi + Ethernet
+A2117,tv,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
+A3416,tv,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
+A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch (1st generation),
+A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),
+A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),China mainland
+A1318,pod,apple,Apple,N18AP,"iPod3,1",iPod touch (3rd generation),
+A1367,pod,apple,Apple,N81AP,"iPod4,1",iPod touch (4th generation),
+A1421,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (5th generation),
+A1509,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (5th generation),16GB
+A1574,pod,apple,Apple,N102AP,"iPod7,1",iPod touch (6th generation),
+A2178,pod,apple,Apple,N112AP,"iPod9,1",iPod touch (7th generation),
 A1324,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,
 A1303,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,
 A1325,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,无 WLAN 功能
@@ -12026,69 +12026,69 @@ FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,
 2405AVPB7C,pad,xiaomi,Xiaomi,,,Xiaomi EV Cockpit,SU7 2024/SU7 Ultra
 25033VP3FC,pad,xiaomi,Xiaomi,,suiren,Xiaomi EV Cockpit,YU7/SU7 2026
 2503CVPC6C,mob,xiaomi,Xiaomi,P802,konghou,Xiaomi EV Back Row Mobile Control Screen,
-VP001,,zhixuan,,,,优畅享 20 Plus,5G
-VP002,,zhixuan,,,,优畅享 20,5G
-VP003,,zhixuan,,,,优畅享 30e,5G
-VP004,,zhixuan,,,,优畅享 30e,5G 消息版
-VP003,,zhixuan,,,,优畅享 50,5G
-VP005,,zhixuan,,,,优畅享 50 Plus,5G
-TYH601M,,zhixuan,,,,麦芒 9,5G
-TYH611M,,zhixuan,,,,麦芒 10 SE,5G
-TYH612M,,zhixuan,,,,麦芒 10,5G
-TYH612M,,zhixuan,,,,麦芒 · 十年臻爱版,
-TYH622M,,zhixuan,,,,麦芒 11,5G
-TYH631M,,zhixuan,,,,麦芒 20,5G
-TYH632M,,zhixuan,,,,麦芒 A20,5G
-TYH641M,,zhixuan,,,,麦芒 30,5G
-TYH651M-02,,zhixuan,,,,麦芒 40,5G
-SP100,,zhixuan,,,Giant,NZONE S7,5G
-SP200,,zhixuan,,,Coco,NZONE S7 Pro,5G
-SP300,,zhixuan,,,Monica,NZONE S7 Pro+,5G
-SP210,,zhixuan,,,Ballon,NZONE 50 Pro,5G
-SP210T,,zhixuan,,,Ballon,NZONE 50 Pro,5G
-Hera-BD00,,zhixuan,,,,Hi nova 9,5G
-Hebe-BD00,,zhixuan,,,,Hi nova 9 Pro,5G
-FIO-BD00,,zhixuan,,,,Hi nova 9 SE,5G
-FIO-TL00,,zhixuan,,,,Hi nova 9 SE,5G
-MNT-BD00,,zhixuan,,,,Hi nova 9z,5G
-ALH-BD00,,zhixuan,,,,Hi nova 10,5G
-MGZ-BD00,,zhixuan,,,,Hi nova 10 Pro,5G
-MRK-BD00,,zhixuan,,,,Hi nova 10 SE,5G
-MIZ-BD00,,zhixuan,,,,Hi nova 11,5G
-SUP-BD00,,zhixuan,,,,Hi nova 12 SE,5G
-SPR-BD00,,zhixuan,,,,Hi nova 12z,5G
-BRO-W00,pad,zhixuan,,,,Hi MatePad,
-F810,mob,zhixuan,,,,雷鸟 FF1,5G
-NAT-TN70,mob,zhixuan,,,,TD Tech N8 Pro,
-TDT-MA01,mob,zhixuan,,,,TD Tech M40,
-AVA-PA00,mob,zhixuan,,,,TD Tech P50,
-LFT-AN00,mob,zhixuan,,,,WIKO 5G,
-GAR-AN00,mob,zhixuan,,,Garcia,Hi 畅享 60,5G
-GAR-AN60,mob,zhixuan,,,Garcia,Hi 畅享 60s,5G
-LGN-AN00,mob,zhixuan,,,Logan,Hi 畅享 60 Pro,5G
-MKY-AN20,mob,zhixuan,,,Mickey,Hi 畅享 70,5G
-MKY-AN20,mob,zhixuan,,,Mickey,Hi 畅享 70m,5G
-BAL-AN20,mob,zhixuan,,,Ballon+,Hi 畅享 70 Pro,5G
-JEY-AN00,mob,zhixuan,,,Jerry,Hi 畅享 70 Plus,5G
-JLG-AN00,mob,zhixuan,,,Jiaolong,Hi 畅享 80,5G
-JLG-AN00,mob,zhixuan,,,Jiaolong,Hi 畅享 80S,5G
-JLG-AN80,mob,zhixuan,,,Jiaolong,Hi 畅享 80 GT,5G
-SHR-AN00,mob,zhixuan,,,Shera,Hi 畅享 80 Pro,5G
-SNP-AN00,mob,zhixuan,,,Snoopy,Hi 畅享 80 Plus,5G
-CHE-AN00,mob,zhixuan,,,Change,WIKO X70,
-MASH-16,computer,zhixuan,,,MarseilleH,Hi MateBook 14,16GB 内存
-MASH-32,computer,zhixuan,,,MarseilleH,Hi MateBook 14,32GB 内存
-MASI-16,computer,zhixuan,,,MarseilleI,Hi MateBook 14,酷睿 Ultra 2 (16GB 内存) (方形键盘)
-MASC-24,computer,zhixuan,,,MarseilleC,Hi MateBook 14,酷睿 Ultra 2 (24GB 内存) (圆形键盘)
-MASC-32,computer,zhixuan,,,MarseilleC,Hi MateBook 14,酷睿 Ultra 2 (32GB 内存) (圆形键盘)
-MNCAA-16,computer,zhixuan,,,MunichA,Hi MateBook 14,锐龙 200 (16GB 内存) (方形键盘)
-MNCAA-32,computer,zhixuan,,,MunichA,Hi MateBook 14,锐龙 200 (32GB 内存) (方形键盘)
-MNCAC-32,computer,zhixuan,,,MunichA,Hi MateBook 14,锐龙 200 (32GB 内存) (圆形键盘)
-LYOI-16,computer,zhixuan,,,LyonI,Hi MateBook D 14,16GB 内存
-LYOI-32,computer,zhixuan,,,LyonI,Hi MateBook D 14,32GB 内存
-NICG-16,computer,zhixuan,,,NiceG,Hi MateBook D 16,(13 代酷睿) (16GB 内存)
-NICI-16,computer,zhixuan,,,NiceI,Hi MateBook D 16,16GB 内存
-NICI-32,computer,zhixuan,,,NiceI,Hi MateBook D 16,32GB 内存
+VP001,mob,zhixuan,华为智选,,,优畅享 20 Plus,5G
+VP002,mob,zhixuan,华为智选,,,优畅享 20,5G
+VP003,mob,zhixuan,华为智选,,,优畅享 30e,5G
+VP004,mob,zhixuan,华为智选,,,优畅享 30e,5G 消息版
+VP003,mob,zhixuan,华为智选,,,优畅享 50,5G
+VP005,mob,zhixuan,华为智选,,,优畅享 50 Plus,5G
+TYH601M,mob,zhixuan,华为智选,,,麦芒 9,5G
+TYH611M,mob,zhixuan,华为智选,,,麦芒 10 SE,5G
+TYH612M,mob,zhixuan,华为智选,,,麦芒 10,5G
+TYH612M,mob,zhixuan,华为智选,,,麦芒 · 十年臻爱版,
+TYH622M,mob,zhixuan,华为智选,,,麦芒 11,5G
+TYH631M,mob,zhixuan,华为智选,,,麦芒 20,5G
+TYH632M,mob,zhixuan,华为智选,,,麦芒 A20,5G
+TYH641M,mob,zhixuan,华为智选,,,麦芒 30,5G
+TYH651M-02,mob,zhixuan,华为智选,,,麦芒 40,5G
+SP100,mob,zhixuan,华为智选,,Giant,NZONE S7,5G
+SP200,mob,zhixuan,华为智选,,Coco,NZONE S7 Pro,5G
+SP300,mob,zhixuan,华为智选,,Monica,NZONE S7 Pro+,5G
+SP210,mob,zhixuan,华为智选,,Ballon,NZONE 50 Pro,5G
+SP210T,mob,zhixuan,华为智选,,Ballon,NZONE 50 Pro,5G
+Hera-BD00,mob,zhixuan,华为智选,,,Hi nova 9,5G
+Hebe-BD00,mob,zhixuan,华为智选,,,Hi nova 9 Pro,5G
+FIO-BD00,mob,zhixuan,华为智选,,,Hi nova 9 SE,5G
+FIO-TL00,mob,zhixuan,华为智选,,,Hi nova 9 SE,5G
+MNT-BD00,mob,zhixuan,华为智选,,,Hi nova 9z,5G
+ALH-BD00,mob,zhixuan,华为智选,,,Hi nova 10,5G
+MGZ-BD00,mob,zhixuan,华为智选,,,Hi nova 10 Pro,5G
+MRK-BD00,mob,zhixuan,华为智选,,,Hi nova 10 SE,5G
+MIZ-BD00,mob,zhixuan,华为智选,,,Hi nova 11,5G
+SUP-BD00,mob,zhixuan,华为智选,,,Hi nova 12 SE,5G
+SPR-BD00,mob,zhixuan,华为智选,,,Hi nova 12z,5G
+BRO-W00,pad,zhixuan,华为智选,,,Hi MatePad,
+F810,mob,zhixuan,华为智选,,,雷鸟 FF1,5G
+NAT-TN70,mob,zhixuan,华为智选,,,TD Tech N8 Pro,
+TDT-MA01,mob,zhixuan,华为智选,,,TD Tech M40,
+AVA-PA00,mob,zhixuan,华为智选,,,TD Tech P50,
+LFT-AN00,mob,zhixuan,华为智选,,,WIKO 5G,
+GAR-AN00,mob,zhixuan,华为智选,,Garcia,Hi 畅享 60,5G
+GAR-AN60,mob,zhixuan,华为智选,,Garcia,Hi 畅享 60s,5G
+LGN-AN00,mob,zhixuan,华为智选,,Logan,Hi 畅享 60 Pro,5G
+MKY-AN20,mob,zhixuan,华为智选,,Mickey,Hi 畅享 70,5G
+MKY-AN20,mob,zhixuan,华为智选,,Mickey,Hi 畅享 70m,5G
+BAL-AN20,mob,zhixuan,华为智选,,Ballon+,Hi 畅享 70 Pro,5G
+JEY-AN00,mob,zhixuan,华为智选,,Jerry,Hi 畅享 70 Plus,5G
+JLG-AN00,mob,zhixuan,华为智选,,Jiaolong,Hi 畅享 80,5G
+JLG-AN00,mob,zhixuan,华为智选,,Jiaolong,Hi 畅享 80S,5G
+JLG-AN80,mob,zhixuan,华为智选,,Jiaolong,Hi 畅享 80 GT,5G
+SHR-AN00,mob,zhixuan,华为智选,,Shera,Hi 畅享 80 Pro,5G
+SNP-AN00,mob,zhixuan,华为智选,,Snoopy,Hi 畅享 80 Plus,5G
+CHE-AN00,mob,zhixuan,华为智选,,Change,WIKO X70,
+MASH-16,computer,zhixuan,华为智选,,MarseilleH,Hi MateBook 14,16GB 内存
+MASH-32,computer,zhixuan,华为智选,,MarseilleH,Hi MateBook 14,32GB 内存
+MASI-16,computer,zhixuan,华为智选,,MarseilleI,Hi MateBook 14,酷睿 Ultra 2 (16GB 内存) (方形键盘)
+MASC-24,computer,zhixuan,华为智选,,MarseilleC,Hi MateBook 14,酷睿 Ultra 2 (24GB 内存) (圆形键盘)
+MASC-32,computer,zhixuan,华为智选,,MarseilleC,Hi MateBook 14,酷睿 Ultra 2 (32GB 内存) (圆形键盘)
+MNCAA-16,computer,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (16GB 内存) (方形键盘)
+MNCAA-32,computer,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (32GB 内存) (方形键盘)
+MNCAC-32,computer,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (32GB 内存) (圆形键盘)
+LYOI-16,computer,zhixuan,华为智选,,LyonI,Hi MateBook D 14,16GB 内存
+LYOI-32,computer,zhixuan,华为智选,,LyonI,Hi MateBook D 14,32GB 内存
+NICG-16,computer,zhixuan,华为智选,,NiceG,Hi MateBook D 16,(13 代酷睿) (16GB 内存)
+NICI-16,computer,zhixuan,华为智选,,NiceI,Hi MateBook D 16,16GB 内存
+NICI-32,computer,zhixuan,华为智选,,NiceI,Hi MateBook D 16,32GB 内存
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,
