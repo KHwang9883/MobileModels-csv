@@ -511,8 +511,8 @@ A1842,tv,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,
 A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (第 2 代),
 A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网
 A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网 + 以太网
-A2117,tv,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
-A3416,tv,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
+A2117,glass,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
+A3416,glass,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,
 A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),中国大陆
@@ -996,8 +996,8 @@ A1842,tv,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,
 A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (2nd generation),
 A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi
 A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi + Ethernet
-A2117,tv,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
-A3416,tv,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
+A2117,glass,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
+A3416,glass,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch (1st generation),
 A1288,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (2nd generation),China mainland
@@ -1244,8 +1244,8 @@ A3329,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + 蜂窝网络
 A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,
-A2117,watch,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
-A3416,watch,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
+A2117,glass,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,
+A3416,glass,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,
 A1319,pod,apple,Apple,N72AP,"iPod2,1",iPod touch (第 2 代),
 A1318,pod,apple,Apple,N18AP,"iPod3,1",iPod touch (第 3 代),
