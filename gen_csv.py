@@ -52,27 +52,30 @@ _re_non_word = re.compile(r'[\W_]+')
 _re_model_ver = re.compile(r'^`(([^`]+)`\s*)+:\s*')
 _re_model_item = re.compile(r'`([^`]+)`')
 # 匹配设备类型的正则
-_re_device_type = re.compile(r'(手机|手表|手环|平板|电视主机|盒子|(智能)?电视|笔记本电脑|设备|穿戴|眼镜|Mobile|Phone|Pad|Pod|Tablet|Watch|Band|WATCH|Device|Glass|Eyewear|\bTV\b|学习智慧屏|智慧屏)')
+_re_device_type = re.compile(r'(手机|手表|手环|平板|电视主机|盒子|(智能)?电视|笔记本电脑|设备|穿戴|眼镜|Mobile|Phone|Pad|Pod|Tablet|Watch|Band|WATCH|Glass|Eyewear|\bTV\b|学习智慧屏|智慧屏|Buds|Headphone|Book)')
 _device_map = dict(
     手机='mob',
     mobile='mob',
     phone='mob',
+    smartphone='mob',
     电视='tv',
     智能电视='tv',
     学习智慧屏='pad',
     智慧屏='tv',
-    设备='device',
     手表='watch',
     手环='band',
-    Band='band',
+    band='band',
     笔记本电脑='computer',
+    book='computer',
     tablet='pad',
     平板='pad',
     电视主机='tv_hub',
     盒子='tv_hub',
     眼镜='glass',
-    Glass='glass',
-    Eyewear='glass'
+    glass='glass',
+    eyewear='glass',
+    buds='pod',
+    headphone='pod'
 )
 
 pd_cols = 'model,dtype,brand,brand_title,code,code_alias,model_name,ver_name'.split(',')
