@@ -41,6 +41,7 @@ root_brand_title: Optional[str] = None  # 品牌名
 devc_code: Optional[str] = None  # 设备型号代码
 devc_code_alias: Optional[str] = None  # 设备型号昵称
 devc_model_names: List[str] = []  # 设备型号正式名
+devc_code_aliases: List[str] = []  # per-model 代号，与 devc_model_names 一一对应
 
 
 _re_title = re.compile(r'^#+')
@@ -124,17 +125,71 @@ def _process_bold_model(line: str):
     :param line:
     :return:
     '''
-    global device_type, devc_code, devc_code_alias, devc_model_names
+    global device_type, devc_code, devc_code_alias, devc_model_names, devc_code_aliases
     _reset_context('code')
+    # 去除末尾的冒号，支持 **型号 (`code`):** 格式
+    line = line.rstrip(':').strip()
+
+    # 处理多段 / 分割的型号（如：Ace 3 / 12R (`aston`) / 定制机 (`martin`)）
+    # 每段可能是纯型号名（共享前一个代号），或型号名 + (`代号`)
+    if ' / ' in line:
+        segments = [s.strip() for s in line.split(' / ')]
+        has_code = any(re.search(r'\(\`([^`]+)\`\)', s) for s in segments)
+        if has_code:
+            model_names = []
+            code_aliases = []
+            cur_code = None
+            pending_names = []  # 暂存尚未分配代号的型号名
+            for seg in segments:
+                # 提取 [\`code\`] 设置 devc_code
+                code_mat = re.search(r'\[\`([^`]+)\`\]', seg)
+                if code_mat:
+                    devc_code = code_mat.group(1)
+                    seg = seg[:code_mat.start()] + seg[code_mat.end():]
+                code_m = re.search(r'\(\`([^`]+)\`\)', seg)
+                if code_m:
+                    mname = _strip_text(seg[:code_m.start()])
+                    cur_code = code_m.group(1)
+                    if devc_code_alias is None:
+                        devc_code_alias = cur_code
+                    # 为所有 pending 型号和当前型号分配此代号
+                    for pn in pending_names:
+                        model_names.append(pn)
+                        code_aliases.append(cur_code)
+                    model_names.append(mname)
+                    code_aliases.append(cur_code)
+                    pending_names = []
+                else:
+                    pending_names.append(_strip_text(seg))
+            # 末尾剩余的 pending 型号（无代号段，沿用最后一个代号）
+            for pn in pending_names:
+                model_names.append(pn)
+                code_aliases.append(cur_code if cur_code else '')
+            # 去除品牌前缀
+            devc_model_names = []
+            devc_code_aliases = []
+            for i, mname in enumerate(model_names):
+                brand_start = mname.find(root_brand)
+                if brand_start >= 0:
+                    mname = _strip_text(mname[brand_start + len(root_brand):])
+                devc_model_names.append(mname)
+                devc_code_aliases.append(code_aliases[i])
+            # 检查设备类型
+            dtype = _read_device_type(model_names[0], False)[1]
+            if dtype and dtype != device_type:
+                device_type = dtype
+            return
+
     code_mat = re.search(r'\[\`([^`]+)\`\]', line)
-    code_nmat = re.search(r'\(\`([^`]+)\`\)', line)
+    code_aliases_found = re.findall(r'\(\`([^`]+)\`\)', line)
+    if code_aliases_found:
+        devc_code_alias = ', '.join(code_aliases_found)
     md_start, md_end = 0, len(line)
     if code_mat:
         devc_code = code_mat.group(1)
         md_start = code_mat.end()
-    if code_nmat:
-        devc_code_alias = code_nmat.group(1)
-        md_end = code_nmat.start()
+    if code_aliases_found:
+        md_end = line.find(f'(`{code_aliases_found[0]}`)')
     model_name = _strip_text(line[md_start: md_end])
     # 检查设备类型是否变化
     dtype = _read_device_type(model_name, False)[1]
@@ -238,7 +293,7 @@ def _try_split_by_splash(type_name: str):
 
 
 def _process_model_ver(line: str, mat: re.Match):
-    global device_type, root_brand, root_brand_title, devc_code, devc_code_alias, devc_model_names
+    global device_type, root_brand, root_brand_title, devc_code, devc_code_alias, devc_model_names, devc_code_aliases
     model_text = mat.group()
     models = [m.group(1) for m in _re_model_item.finditer(model_text)]
     ver_full = _strip_text(line[mat.end():])
@@ -267,8 +322,9 @@ def _process_model_ver(line: str, mat: re.Match):
             matched_idx = best_idx
         mname = devc_model_names[matched_idx]
         ver_name = _get_ver_name_with_model(full_name, mname)
+        code_alias = devc_code_aliases[matched_idx] if devc_code_aliases else devc_code_alias
         for model in models:
-            pd_rows.append((model, device_type, root_brand, root_brand_title, devc_code, devc_code_alias,
+            pd_rows.append((model, device_type, root_brand, root_brand_title, devc_code, code_alias,
                            mname, ver_name))
 
 
@@ -303,7 +359,7 @@ def _reset_context(level: str):
     :param level:
     :return:
     '''
-    global device_type, root_brand_title, devc_code, devc_code_alias, devc_model_names
+    global device_type, root_brand_title, devc_code, devc_code_alias, devc_model_names, devc_code_aliases
     if level == 'brand' or level == 'all':
         device_type = None
         root_brand_title = None
@@ -311,6 +367,7 @@ def _reset_context(level: str):
         devc_code = None
         devc_code_alias = None
         devc_model_names = []
+        devc_code_aliases = []
 
 
 def sync_brands(name: str):
