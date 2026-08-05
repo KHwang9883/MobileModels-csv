@@ -502,15 +502,15 @@ A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,全球,apple_all
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,中国大陆 & 港澳,apple_all
 A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,全球,apple_all
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,中国大陆,apple_all
-A1218,tv,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (第 1 代),,apple_all
-A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (第 2 代),,apple_all
-A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (第 3 代),,apple_all
-A1469,tv,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (第 3 代),Rev A,apple_all
-A1625,tv,apple,Apple,J42dAP,"AppleTV5,3",Apple TV HD,,apple_all
-A1842,tv,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,,apple_all
-A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (第 2 代),,apple_all
-A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网,apple_all
-A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网 + 以太网,apple_all
+A1218,tv_hub,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (第 1 代),,apple_all
+A1378,tv_hub,apple,Apple,K66AP,"AppleTV2,1",Apple TV (第 2 代),,apple_all
+A1427,tv_hub,apple,Apple,J33AP,"AppleTV3,1",Apple TV (第 3 代),,apple_all
+A1469,tv_hub,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (第 3 代),Rev A,apple_all
+A1625,tv_hub,apple,Apple,J42dAP,"AppleTV5,3",Apple TV HD,,apple_all
+A1842,tv_hub,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,,apple_all
+A2169,tv_hub,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (第 2 代),,apple_all
+A2737,tv_hub,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网,apple_all
+A2843,tv_hub,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网 + 以太网,apple_all
 A2117,glass,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,,apple_all
 A3416,glass,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),,apple_all
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,,apple_all
@@ -987,15 +987,15 @@ A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,Global,apple_all_e
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,"China mainland, Hong Kong, Macao",apple_all_en
 A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,Global,apple_all_en
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,China mainland,apple_all_en
-A1218,tv,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (1st generation),,apple_all_en
-A1378,tv,apple,Apple,K66AP,"AppleTV2,1",Apple TV (2nd generation),,apple_all_en
-A1427,tv,apple,Apple,J33AP,"AppleTV3,1",Apple TV (3rd generation),,apple_all_en
-A1469,tv,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (3rd generation),Rev A,apple_all_en
-A1625,tv,apple,Apple,J42dAP,"AppleTV5,3",Apple TV HD,,apple_all_en
-A1842,tv,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,,apple_all_en
-A2169,tv,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (2nd generation),,apple_all_en
-A2737,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi,apple_all_en
-A2843,tv,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi + Ethernet,apple_all_en
+A1218,tv_hub,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (1st generation),,apple_all_en
+A1378,tv_hub,apple,Apple,K66AP,"AppleTV2,1",Apple TV (2nd generation),,apple_all_en
+A1427,tv_hub,apple,Apple,J33AP,"AppleTV3,1",Apple TV (3rd generation),,apple_all_en
+A1469,tv_hub,apple,Apple,J33IAP,"AppleTV3,2",Apple TV (3rd generation),Rev A,apple_all_en
+A1625,tv_hub,apple,Apple,J42dAP,"AppleTV5,3",Apple TV HD,,apple_all_en
+A1842,tv_hub,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,,apple_all_en
+A2169,tv_hub,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (2nd generation),,apple_all_en
+A2737,tv_hub,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi,apple_all_en
+A2843,tv_hub,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi + Ethernet,apple_all_en
 A2117,glass,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,,apple_all_en
 A3416,glass,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),,apple_all_en
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch (1st generation),,apple_all_en
@@ -5105,7 +5105,7 @@ L32MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,32 2024,mitv_global_en
 L43R8-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,43,mitv_global_en
 L43MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,4K 43 2024,mitv_global_en
 L55MA-FVIN,tv,mitv,Xiaomi,,,Redmi Smart Fire TV,4K 55 2024,mitv_global_en
-MDZ-22-AB,tv,mitv,Xiaomi,,,Mi Box,4K,mitv_global_en
+MDZ-22-AB,tv_hub,mitv,Xiaomi,,,Mi Box,4K,mitv_global_en
 L32M5-AN,tv,mitv,Xiaomi,,,Mi TV 4 (Indonesia),32,mitv_global_en
 L43M5-AN,tv,mitv,Xiaomi,,,Mi TV 4 (Indonesia),43,mitv_global_en
 L55M5-5XIN,tv,mitv,Xiaomi,,,Mi TV 4 (Indonesia),55,mitv_global_en
@@ -5455,17 +5455,17 @@ L85MA-MAXEA,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (East Asia),85,mitv_global_en
 L100MA-MAXEA,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (East Asia),100,mitv_global_en
 L85MA-MAXME,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Ukraine/Middle East),85,mitv_global_en
 L100MA-MAXME,tv,mitv,Xiaomi,N36,,Xiaomi TV Max (Ukraine/Middle East),100,mitv_global_en
-MDZ-16-AA,tv,mitv,Xiaomi,,,Mi Box,,mitv_global_en
-MDZ-16-AB,tv,mitv,Xiaomi,,,Mi Box,,mitv_global_en
-MDZ-22-AB,tv,mitv,Xiaomi,,,Mi Box,S,mitv_global_en
-MDZ-28-AA,tv,mitv,Xiaomi,,,Xiaomi TV Box,,mitv_global_en
-MDZ-28-AA,tv,mitv,Xiaomi,,,Xiaomi TV Box,S (2nd Gen),mitv_global_en
-MDZ-32-AA,tv,mitv,Xiaomi,,,Xiaomi TV Box,S (3rd Gen),mitv_global_en
-MDZ-24-AA,tv,mitv,Xiaomi,,,Mi TV Stick,,mitv_global_en
-MDZ-24-AB,tv,mitv,Xiaomi,,,Mi TV Stick,,mitv_global_en
-MDZ-27-AA,tv,mitv,Xiaomi,,,Xiaomi TV Stick,4K,mitv_global_en
-MDZ-34-AA,tv,mitv,Xiaomi,,,Xiaomi TV Stick,4K (2nd Gen),mitv_global_en
-MDZ-33-AA,tv,mitv,Xiaomi,,,Xiaomi TV Stick,4K (2nd Gen),mitv_global_en
+MDZ-16-AA,tv_hub,mitv,Xiaomi,,,Mi Box,,mitv_global_en
+MDZ-16-AB,tv_hub,mitv,Xiaomi,,,Mi Box,,mitv_global_en
+MDZ-22-AB,tv_hub,mitv,Xiaomi,,,Mi Box,S,mitv_global_en
+MDZ-28-AA,tv_hub,mitv,Xiaomi,,,Xiaomi TV Box,,mitv_global_en
+MDZ-28-AA,tv_hub,mitv,Xiaomi,,,Xiaomi TV Box,S (2nd Gen),mitv_global_en
+MDZ-32-AA,tv_hub,mitv,Xiaomi,,,Xiaomi TV Box,S (3rd Gen),mitv_global_en
+MDZ-24-AA,tv_hub,mitv,Xiaomi,,,Mi TV Stick,,mitv_global_en
+MDZ-24-AB,tv_hub,mitv,Xiaomi,,,Mi TV Stick,,mitv_global_en
+MDZ-27-AA,tv_hub,mitv,Xiaomi,,,Xiaomi TV Stick,4K,mitv_global_en
+MDZ-34-AA,tv_hub,mitv,Xiaomi,,,Xiaomi TV Stick,4K (2nd Gen),mitv_global_en
+MDZ-33-AA,tv_hub,mitv,Xiaomi,,,Xiaomi TV Stick,4K (2nd Gen),mitv_global_en
 XT1085,mob,motorola,Motorola,,victara,Moto X,,motorola_cn
 XT1079,mob,motorola,Motorola,,thea_ds,Moto G LTE,移动/联通版,motorola_cn
 XT1077,mob,motorola,Motorola,,thea_ds,Moto G LTE,电信/联通版,motorola_cn
@@ -10686,11 +10686,11 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版,xiaomi
 25099RP08G,pad,xiaomi,小米,O82P,uke,POCO Pad X1,国际版,xiaomi
 2509ARPBDG,pad,xiaomi,小米,P83P,flute,POCO Pad M1,国际版,xiaomi
 2603APC14G,pad,xiaomi,小米,P85,guitar,POCO Pad C1,国际版,xiaomi
-FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,,xiaomi
-21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,,xiaomi
-2405AVPB7C,pad,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra,xiaomi
-25033VP3FC,pad,xiaomi,小米,,suiren,小米澎湃智能座舱,YU7/新一代 SU7,xiaomi
-2503CVPC6C,pad,xiaomi,小米,P802,konghou,小米汽车后排移动控制屏,,xiaomi
+FYJ01QP,mob,xiaomi,小米,,Babel,小米米家翻译机,,xiaomi
+21051191C,accessory,xiaomi,小米,K91,,CyberDog 仿生四足机器人,,xiaomi
+2405AVPB7C,ivi,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra,xiaomi
+25033VP3FC,ivi,xiaomi,小米,,suiren,小米澎湃智能座舱,YU7/新一代 SU7,xiaomi
+2503CVPC6C,mob,xiaomi,小米,P802,konghou,小米汽车后排移动控制屏,,xiaomi
 MI-ONE PLUS,mob,xiaomi,小米,X1,mione_plus,小米 1,联通版,xiaomi_cn
 MI-ONE C1,mob,xiaomi,小米,X1,mione_plus,小米 1,电信版,xiaomi_cn
 MI-ONE,mob,xiaomi,小米,X1,mione_plus,小米 1,青春版,xiaomi_cn
@@ -11069,11 +11069,11 @@ M1803E6C,mob,xiaomi,小米,E6,ysl,红米 S2,联通电信定制版,xiaomi_cn
 2604ERP4DC,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 SE 4G,,xiaomi_cn
 25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,,xiaomi_cn
 26048RP6AC,pad,xiaomi,小米,P88,yili,REDMI K Pad 2,,xiaomi_cn
-FYJ01QP,pad,xiaomi,小米,,Babel,小米米家翻译机,,xiaomi_cn
-21051191C,pad,xiaomi,小米,K91,,CyberDog 仿生四足机器人,,xiaomi_cn
-2405AVPB7C,pad,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra,xiaomi_cn
-25033VP3FC,pad,xiaomi,小米,,suiren,小米澎湃智能座舱,YU7/新一代 SU7,xiaomi_cn
-2503CVPC6C,pad,xiaomi,小米,P802,konghou,小米汽车后排移动控制屏,,xiaomi_cn
+FYJ01QP,mob,xiaomi,小米,,Babel,小米米家翻译机,,xiaomi_cn
+21051191C,accessory,xiaomi,小米,K91,,CyberDog 仿生四足机器人,,xiaomi_cn
+2405AVPB7C,ivi,xiaomi,小米,,,小米澎湃智能座舱,第一代 SU7/SU7 Ultra,xiaomi_cn
+25033VP3FC,ivi,xiaomi,小米,,suiren,小米澎湃智能座舱,YU7/新一代 SU7,xiaomi_cn
+2503CVPC6C,mob,xiaomi,小米,P802,konghou,小米汽车后排移动控制屏,,xiaomi_cn
 MI-ONE PLUS,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,WCDMA,xiaomi_en
 MI-ONE C1,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,CDMA,xiaomi_en
 MI-ONE,mob,xiaomi,Xiaomi,X1,mione_plus,Mi 1,Lite,xiaomi_en
@@ -12021,10 +12021,10 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China,xiaomi_en
 25099RP08G,pad,xiaomi,Xiaomi,O82P,uke,POCO Pad X1,Global,xiaomi_en
 2509ARPBDG,pad,xiaomi,Xiaomi,P83P,flute,POCO Pad M1,Global,xiaomi_en
 2603APC14G,pad,xiaomi,Xiaomi,P85,guitar,POCO Pad C1,Global,xiaomi_en
-FYJ01QP,pad,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,,xiaomi_en
-21051191C,pad,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,Bio-inspired Quadruped Robot,xiaomi_en
-2405AVPB7C,pad,xiaomi,Xiaomi,,,Xiaomi EV Cockpit,SU7 2024/SU7 Ultra,xiaomi_en
-25033VP3FC,pad,xiaomi,Xiaomi,,suiren,Xiaomi EV Cockpit,YU7/SU7 2026,xiaomi_en
+FYJ01QP,mob,xiaomi,Xiaomi,,Babel,Xiaomi Mijia Translator,,xiaomi_en
+21051191C,accessory,xiaomi,Xiaomi,K91,,Xiaomi CyberDog,Bio-inspired Quadruped Robot,xiaomi_en
+2405AVPB7C,ivi,xiaomi,Xiaomi,,,Xiaomi EV Cockpit,SU7 2024/SU7 Ultra,xiaomi_en
+25033VP3FC,ivi,xiaomi,Xiaomi,,suiren,Xiaomi EV Cockpit,YU7/SU7 2026,xiaomi_en
 2503CVPC6C,mob,xiaomi,Xiaomi,P802,konghou,Xiaomi EV Back Row Mobile Control Screen,,xiaomi_en
 VP001,mob,zhixuan,华为智选,,,优畅享 20 Plus,5G,zhixuan
 VP002,mob,zhixuan,华为智选,,,优畅享 20,5G,zhixuan
