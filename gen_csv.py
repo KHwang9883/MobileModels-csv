@@ -84,6 +84,7 @@ _device_map = {
     'apple vision': 'glass',
     'buds': 'pod',
     'headphone': 'pod',
+    '耳机': 'pod',
     'tag': 'accessory',
 }
 
