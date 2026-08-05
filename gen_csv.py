@@ -163,10 +163,11 @@ def _process_bold_model(line: str):
                 if code_mat:
                     devc_code = code_mat.group(1)
                     seg = seg[:code_mat.start()] + seg[code_mat.end():]
-                code_m = re.search(r'\(\`([^`]+)\`\)', seg)
-                if code_m:
-                    mname = _strip_text(seg[:code_m.start()])
-                    cur_code = code_m.group(1)
+                codes = re.findall(r'\(\`([^`]+)\`\)', seg)
+                if codes:
+                    first_code_start = seg.find(f'(`{codes[0]}`)')
+                    mname = _strip_text(seg[:first_code_start])
+                    cur_code = ', '.join(codes)
                     if devc_code_alias is None:
                         devc_code_alias = cur_code
                     # 为所有 pending 型号和当前型号分配此代号
