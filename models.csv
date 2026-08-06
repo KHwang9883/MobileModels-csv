@@ -9319,12 +9319,21 @@ V2550,mob,vivo,vivo,,PD2539F,V70 FE,,vivo_global_en
 V2551,mob,vivo,vivo,,PD2539F,V70 FE,,vivo_global_en
 V2552,mob,vivo,vivo,,PD2539F,V70 FE,,vivo_global_en
 V2558,mob,vivo,vivo,,PD2539F,V70 FE,,vivo_global_en
+V2584,mob,vivo,vivo,,,V70 Lite,,vivo_global_en
+V2604,mob,vivo,vivo,,,V70 Lite,,vivo_global_en
+V2627,mob,vivo,vivo,,,V70 Lite,,vivo_global_en
+V2634,mob,vivo,vivo,,,V70 Lite,,vivo_global_en
+V2635,mob,vivo,vivo,,,V70 Lite,,vivo_global_en
 V2615,mob,vivo,vivo,,PD2512F,V70 Lite 5G,,vivo_global_en
 V2637,mob,vivo,vivo,,PD2512F,V70 Lite 5G,,vivo_global_en
+V2576,mob,vivo,vivo,,,V80 Lite 5G,,vivo_global_en
+V2643,mob,vivo,vivo,,,V80 Lite 5G,,vivo_global_en
+V2644,mob,vivo,vivo,,,V80 Lite 5G,,vivo_global_en
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,,vivo_global_en
 V1937,mob,vivo,vivo,,PD1982F,S1 Prime,,vivo_global_en
 vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,,vivo_global_en
 vivo 1920_20,mob,vivo,vivo,,PD1945F,S1 Pro,,vivo_global_en
+V2576,mob,vivo,vivo,,,S2,,vivo_global_en
 V2153,mob,vivo,vivo,,PD2201F,T1,,vivo_global_en
 V2168,mob,vivo,vivo,,PD2201F,T1,,vivo_global_en
 V2141,mob,vivo,vivo,,PD2165F,T1 5G,,vivo_global_en
@@ -9545,6 +9554,11 @@ V2402,mob,vivo,vivo,,,Y300 Pro 5G,,vivo_global_en
 V2455,mob,vivo,vivo,,PD2470F,Y400,,vivo_global_en
 V2506,mob,vivo,vivo,,PD2469F,Y400 5G,,vivo_global_en
 V2439,mob,vivo,vivo,,PD2451F,Y400 Pro 5G,,vivo_global_en
+V2570,mob,vivo,vivo,,,Y500,,vivo_global_en
+V2584,mob,vivo,vivo,,,Y500,,vivo_global_en
+V2627,mob,vivo,vivo,,,Y500,,vivo_global_en
+V2634,mob,vivo,vivo,,,Y500,,vivo_global_en
+V2635,mob,vivo,vivo,,,Y500,,vivo_global_en
 I1927,mob,vivo,vivo,,PD1964F,iQOO 3,4G,vivo_global_en
 I1928,mob,vivo,vivo,,PD1955F,iQOO 3 5G,,vivo_global_en
 I2009,mob,vivo,vivo,,PD2049F,iQOO 7,Global,vivo_global_en
@@ -9696,8 +9710,8 @@ M2352W1,watch,xiaomi,小米,N65B,,Redmi Watch 5 Lite,印度版,xiaomi-wear
 M2460W1,watch,xiaomi,小米,N65C,,Redmi Watch Move,印度版,xiaomi-wear
 M2523W1,watch,xiaomi,小米,P65,,REDMI Watch 6,,xiaomi-wear
 M2131W1,watch,xiaomi,小米,K65,,POCO Watch,,xiaomi-wear
-M2111E1,watch,xiaomi,小米,K75,,Xiaomi 真无线降噪耳机 3,,xiaomi-wear
-M2103E1,watch,xiaomi,小米,K73,,Xiaomi 真无线降噪耳机 3 Pro,,xiaomi-wear
+M2111E1,pod,xiaomi,小米,K75,,Xiaomi 真无线降噪耳机 3,,xiaomi-wear
+M2103E1,pod,xiaomi,小米,K73,,Xiaomi 真无线降噪耳机 3 Pro,,xiaomi-wear
 M2115E1,pod,xiaomi,小米,K73A,,Xiaomi Buds 3T Pro,国际版,xiaomi-wear
 M2301E1,pod,xiaomi,小米,M79B,,Xiaomi Air3 SE,,xiaomi-wear
 M2224E1,pod,xiaomi,小米,M75A,,Xiaomi Buds 4,,xiaomi-wear
@@ -10209,13 +10223,13 @@ A501XM,mob,xiaomi,小米,O19,spring,REDMI 15 5G,日本版 (SoftBank),xiaomi
 25078RA3EY,mob,xiaomi,小米,P15A,dew,REDMI 15C,国际版 (NFC),xiaomi
 25078RA3EE,mob,xiaomi,小米,P15A,dew,REDMI 15C,欧洲版,xiaomi
 25078RA3EL,mob,xiaomi,小米,P15A,dew,REDMI 15C,拉美版,xiaomi
-2508CRN2BC,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,国行版,xiaomi
 2508CRN2BG,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,国际版,xiaomi
 2508CRN2BE,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,欧洲版,xiaomi
 2508CRN2BI,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,印度版,xiaomi
 2508CRN2BR,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,日本版,xiaomi
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,,xiaomi
 2602BRNA4I,mob,xiaomi,小米,P25,somalia,REDMI 15A 5G,印度版,xiaomi
+2602BRNA4C,mob,xiaomi,小米,P25,somalia,REDMI 17 5G,国行版,xiaomi
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版,xiaomi
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版,xiaomi
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版,xiaomi
@@ -10926,8 +10940,8 @@ M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A,,xiaomi_cn
 2409BRN2CC,mob,xiaomi,小米,C3N,"lake, pond",Redmi 14C,,xiaomi_cn
 2409BRN2CC,mob,xiaomi,小米,C3N,"lake, pond",REDMI 17C,,xiaomi_cn
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,,xiaomi_cn
-2508CRN2BC,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,,xiaomi_cn
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,,xiaomi_cn
+2602BRNA4C,mob,xiaomi,小米,P25,somalia,REDMI 17 5G,,xiaomi_cn
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版,xiaomi_cn
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版,xiaomi_cn
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版,xiaomi_cn
@@ -11516,10 +11530,10 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank),xiaomi_en
 2508CRN2BG,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Global,xiaomi_en
 2508CRN2BE,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Europe,xiaomi_en
 2508CRN2BI,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,India,xiaomi_en
-2508CRN2BC,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,China,xiaomi_en
 2508CRN2BR,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Japan,xiaomi_en
 25082RNC1C,mob,xiaomi,Xiaomi,P15X,tornado,REDMI 15R 5G,China,xiaomi_en
 2602BRNA4I,mob,xiaomi,Xiaomi,P25,somalia,REDMI 15A 5G,India,xiaomi_en
+2602BRNA4C,mob,xiaomi,Xiaomi,P25,somalia,REDMI 17 5G,China,xiaomi_en
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (1GB RAM),xiaomi_en
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (2GB RAM),xiaomi_en
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,TD-SCDMA (1GB RAM),xiaomi_en
