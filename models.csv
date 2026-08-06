@@ -2195,7 +2195,8 @@ BRG-765,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i7 (16GB+512GB),ho
 BRG-761,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2025,i7 (16GB+1TB),honor_cn
 BRG-X,computer,honor,荣耀,,BornG,荣耀笔记本 X16 2026,,honor_cn
 GOG-X,computer,honor,荣耀,,,荣耀笔记本 X16 2026 战斗版,,honor_cn
-GOH-X,computer,honor,荣耀,,,荣耀笔记本 X16 锐龙版 2026,,honor_cn
+DNH-X,computer,honor,荣耀,,,荣耀笔记本 X16 锐龙版 2026,R5,honor_cn
+GOH-X,computer,honor,荣耀,,,荣耀笔记本 X16 锐龙版 2026,R7,honor_cn
 BRI-76,computer,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,R7 (16GB+512GB),honor_cn
 BRI-721,computer,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,R7 (32GB+1TB),honor_cn
 BRB-X,computer,honor,荣耀,,BornB,荣耀笔记本 X16 Plus 2025,,honor_cn
@@ -3015,6 +3016,8 @@ MRDI-W20,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi �
 GEM-W00,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版,huawei_cn
 GEM-W10,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版 (20GB+1TB),huawei_cn
 GEM-W40,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 悦享款 Wi-Fi 版,huawei_cn
+DAL-W00,pad,huawei,华为,,Dali,HUAWEI MatePad Pro 12 英寸,Wi-Fi 版,huawei_cn
+DAL-W20,pad,huawei,华为,,Dali,HUAWEI MatePad Pro 12 英寸,悦享款 Wi-Fi 版,huawei_cn
 QXS-W00,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,,huawei_cn
 QXS-W10,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,24GB+1TB,huawei_cn
 QXS-W20,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,液冷版,huawei_cn
@@ -3156,7 +3159,11 @@ VGHH-16,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,16GB
 VGHH-32,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,32GB 内存,huawei_cn
 HAD-W24,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,24GB 内存,huawei_cn
 HAD-W32,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,32GB 内存,huawei_cn
-HPR-W72,computer,huawei,华为,,Hopper,HUAWEI MateBook Fold 非凡大师,32GB 内存,huawei_cn
+MOR-M1,computer,huawei,华为,,,HUAWEI MateBook Pro S,标准版 / 防窥版 / 柔光版,huawei_cn
+MOR-M2,computer,huawei,华为,,,HUAWEI MateBook Pro S,典藏版,huawei_cn
+HPR-W72,computer,huawei,华为,,Hopper,HUAWEI MateBook Fold 非凡大师,(麒麟 X90) (32GB 内存),huawei_cn
+SLM-W24,computer,huawei,华为,,,HUAWEI MateBook Fold 非凡大师,(麒麟 X90 Plus) (24GB 内存),huawei_cn
+SLM-W32,computer,huawei,华为,,,HUAWEI MateBook Fold 非凡大师,(麒麟 X90 Plus) (32GB 内存),huawei_cn
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5,huawei_cn
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5 Linux 版,huawei_cn
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i7,huawei_cn
@@ -3567,6 +3574,9 @@ KSU-B19,watch,huawei,华为,,Konsu,HUAWEI WATCH GT 6,41mm,huawei_cn
 ATM-B19,watch,huawei,华为,,Atum,HUAWEI WATCH GT 6,46mm,huawei_cn
 KSU-B29,watch,huawei,华为,,Konsu,HUAWEI WATCH GT 6 Pro,42mm,huawei_cn
 ATM-B29,watch,huawei,华为,,Atum,HUAWEI WATCH GT 6 Pro,46mm,huawei_cn
+NSU-B39,watch,huawei,华为,,,HUAWEI WATCH GT 7,41mm,huawei_cn
+TUM-B39,watch,huawei,华为,,,HUAWEI WATCH GT 7,46mm,huawei_cn
+TUM-B49,watch,huawei,华为,,,HUAWEI WATCH GT 7 Pro,46mm,huawei_cn
 RUN-B19,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,,huawei_cn
 RUN-B29,watch,huawei,华为,,Runner,HUAWEI WATCH GT Runner,,huawei_cn
 CHT-B19,watch,huawei,华为,,Chitu,HUAWEI WATCH GT Runner 2,,huawei_cn
@@ -12089,6 +12099,7 @@ LYOI-32,computer,zhixuan,华为智选,,LyonI,Hi MateBook D 14,32GB 内存,zhixua
 NICG-16,computer,zhixuan,华为智选,,NiceG,Hi MateBook D 16,(13 代酷睿) (16GB 内存),zhixuan
 NICI-16,computer,zhixuan,华为智选,,NiceI,Hi MateBook D 16,16GB 内存,zhixuan
 NICI-32,computer,zhixuan,华为智选,,NiceI,Hi MateBook D 16,32GB 内存,zhixuan
+RMA-X,computer,zhixuan,华为智选,,RomeA,Hi MateBook D 16,锐龙版,zhixuan
 ZTE A2017,mob,zte,中兴,,,中兴天机 7,,zte_cn
 ZTE A2018,mob,zte,中兴,,,中兴天机 7S,,zte_cn
 ZTE C2017,mob,zte,中兴,,,中兴天机 7 MAX,,zte_cn
