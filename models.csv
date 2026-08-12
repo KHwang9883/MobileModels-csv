@@ -10234,8 +10234,8 @@ A501XM,mob,xiaomi,小米,O19,spring,REDMI 15 5G,日本版 (SoftBank),xiaomi
 2602BRNA4C,mob,xiaomi,小米,P25X,somalia,REDMI 17 5G,国行版,xiaomi
 26062RN92G,mob,xiaomi,小米,Q15,"steppe, leeds",REDMI 17 5G,国际版,xiaomi
 26062RN92I,mob,xiaomi,小米,Q15,"steppe, leeds",REDMI 17 5G,印度版,xiaomi
-2606FRN72Y,mob,xiaomi,小米,Q15A,,REDMI 17,国际版,xiaomi
-2606FRN72L,mob,xiaomi,小米,Q15A,,REDMI 17,拉美版,xiaomi
+2606FRN72Y,mob,xiaomi,小米,Q15A,leedsa,REDMI 17,国际版,xiaomi
+2606FRN72L,mob,xiaomi,小米,Q15A,leedsa,REDMI 17,拉美版 / 日本版,xiaomi
 2607FRNEAG,mob,xiaomi,小米,P15R,tornado,REDMI 17C 5G,国际版,xiaomi
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版,xiaomi
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版,xiaomi
@@ -10716,6 +10716,8 @@ M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版,xiaomi
 25078PC3EE,mob,xiaomi,小米,P15A,dew,POCO C85,欧洲版,xiaomi
 2508CPC2BI,mob,xiaomi,小米,P15,tornado,POCO C85 5G,印度版,xiaomi
 26020PC1AI,mob,xiaomi,小米,P25,somalia,POCO C85x 5G,印度版,xiaomi
+2606FPC72Y,mob,xiaomi,小米,Q15A,leedsa,POCO C95 Pro,国际版,xiaomi
+2606FPC72L,mob,xiaomi,小米,Q15A,leedsa,POCO C95 Pro,拉美版,xiaomi
 2405CPCFBG,pad,xiaomi,小米,N83P,dizi,POCO Pad,Wi-Fi 国际版,xiaomi
 24074PCD2I,pad,xiaomi,小米,N83U,ruan,POCO Pad 5G,印度版,xiaomi
 25099RP08G,pad,xiaomi,小米,O82P,uke,POCO Pad X1,国际版,xiaomi
@@ -11550,8 +11552,8 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank),xiaomi_en
 2602BRNA4C,mob,xiaomi,Xiaomi,P25X,somalia,REDMI 17 5G,China,xiaomi_en
 26062RN92G,mob,xiaomi,Xiaomi,Q15,"steppe, leeds",REDMI 17 5G,Global,xiaomi_en
 26062RN92I,mob,xiaomi,Xiaomi,Q15,"steppe, leeds",REDMI 17 5G,India,xiaomi_en
-2606FRN72Y,mob,xiaomi,Xiaomi,Q15A,,REDMI 17,Global,xiaomi_en
-2606FRN72L,mob,xiaomi,Xiaomi,Q15A,,REDMI 17,Latin America,xiaomi_en
+2606FRN72Y,mob,xiaomi,Xiaomi,Q15A,leedsa,REDMI 17,Global,xiaomi_en
+2606FRN72L,mob,xiaomi,Xiaomi,Q15A,leedsa,REDMI 17,Latin America / Japan,xiaomi_en
 2607FRNEAG,mob,xiaomi,Xiaomi,P15R,tornado,REDMI 17C 5G,Global,xiaomi_en
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (1GB RAM),xiaomi_en
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (2GB RAM),xiaomi_en
@@ -11996,6 +11998,8 @@ M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India,xiaomi_en
 25078PC3EE,mob,xiaomi,Xiaomi,P15A,dew,POCO C85,Europe,xiaomi_en
 2508CPC2BI,mob,xiaomi,Xiaomi,P15,tornado,POCO C85 5G,India,xiaomi_en
 26020PC1AI,mob,xiaomi,Xiaomi,P25,somalia,POCO C85x 5G,India,xiaomi_en
+2606FPC72Y,mob,xiaomi,Xiaomi,Q15A,leedsa,POCO C95 Pro,Global,xiaomi_en
+2606FPC72L,mob,xiaomi,Xiaomi,Q15A,leedsa,POCO C95 Pro,Latin America,xiaomi_en
 A0101,pad,xiaomi,Xiaomi,X6,mocha,Mi Pad,,xiaomi_en
 2015716,pad,xiaomi,Xiaomi,A3,latte,Mi Pad 2,,xiaomi_en
 MCE91,pad,xiaomi,Xiaomi,C9,cappu,Mi Pad 3,,xiaomi_en
