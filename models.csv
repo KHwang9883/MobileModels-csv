@@ -1879,6 +1879,7 @@ LOG-AN10,mob,honor,荣耀,,Logan,荣耀 Play10T,5G,honor_cn
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀 Play10C,5G,honor_cn
 NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play10A,5G,honor_cn
 NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play11C,5G,honor_cn
+LAB-AN00,mob,honor,荣耀,,Labu,荣耀 Play11T,5G,honor_cn
 LNA-AN00,mob,honor,荣耀,,Luna,荣耀 Play11 Plus,5G,honor_cn
 LNA-AN00,mob,honor,荣耀,,Luna,荣耀 Play11 Pro,5G,honor_cn
 DVD-AN00,mob,honor,荣耀,,David,荣耀 Power,,honor_cn
@@ -1959,7 +1960,8 @@ CLK-AN00,mob,honor,荣耀,,Clark,荣耀畅玩 50 Plus,5G,honor_cn
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60,5G,honor_cn
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀畅玩 60m,5G,honor_cn
 NLA-AN00,mob,honor,荣耀,,Nala,荣耀畅玩 60A,5G,honor_cn
-NLA-AN00,mob,honor,荣耀,,Nala,荣耀畅玩 80,,honor_cn
+NLA-AN00,mob,honor,荣耀,,Nala,荣耀畅玩 80,5G,honor_cn
+NLA-AN00,mob,honor,荣耀,,Nala,荣耀畅玩 80m,5G,honor_cn
 ALT-AN00,mob,honor,荣耀,,Alita,荣耀畅玩 60 Plus,5G,honor_cn
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70 Plus,5G,honor_cn
 LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70m Plus,5G,honor_cn
@@ -2278,6 +2280,8 @@ RHE-B19,band,honor,荣耀,,,荣耀手环 9,标准版,honor_cn
 RHE-B39,band,honor,荣耀,,,荣耀手环 9,NFC 版,honor_cn
 VNE-B19,band,honor,荣耀,,,荣耀手环 10,标准版,honor_cn
 VNE-B39,band,honor,荣耀,,,荣耀手环 10,NFC 版,honor_cn
+MLA-B19,band,honor,荣耀,,,荣耀手环 11,标准版,honor_cn
+MLA-B39,band,honor,荣耀,,,荣耀手环 11,Pro,honor_cn
 CGN-A00,glass,honor,荣耀,,,荣耀观影眼镜,,honor_cn
 HUAWEI U8860,mob,honor,荣耀,,,荣耀 Honor,联通版,honor_cn
 HUAWEI C8860E,mob,honor,荣耀,,,荣耀 Honor,电信版,honor_cn
@@ -10621,6 +10625,8 @@ M2104K10I,mob,xiaomi,小米,K10,"ares, aresin",POCO F3 GT,印度版,xiaomi
 24122RKC7G,mob,xiaomi,小米,O11U,miro,POCO F7 Ultra,国际版,xiaomi
 2510DPC44G,mob,xiaomi,小米,P11,annibale,POCO F8 Pro,国际版,xiaomi
 25102PCBEG,mob,xiaomi,小米,P11U,myron,POCO F8 Ultra,国际版,xiaomi
+2607APCA5G,mob,xiaomi,小米,Q11,athens,POCO F9 Pro,国际版,xiaomi
+26077PC53G,mob,xiaomi,小米,Q11X,songyuan,POCO F9 Ultra,国际版,xiaomi
 M1912G7BI,mob,xiaomi,小米,G7B,phoenixin,POCO X2,印度版,xiaomi
 M2007J20CI,mob,xiaomi,小米,J20C,"surya, karna",POCO X3,印度版,xiaomi
 M2007J20CG,mob,xiaomi,小米,J20C,surya,POCO X3 NFC,国际版,xiaomi
@@ -11903,6 +11909,8 @@ M2104K10I,mob,xiaomi,Xiaomi,K10,"ares, aresin",POCO F3 GT,India,xiaomi_en
 24122RKC7G,mob,xiaomi,Xiaomi,O11U,miro,POCO F7 Ultra,Global,xiaomi_en
 2510DPC44G,mob,xiaomi,Xiaomi,P11,annibale,POCO F8 Pro,Global,xiaomi_en
 25102PCBEG,mob,xiaomi,Xiaomi,P11U,myron,POCO F8 Ultra,Global,xiaomi_en
+2607APCA5G,mob,xiaomi,Xiaomi,Q11,athens,POCO F9 Pro,Global,xiaomi_en
+26077PC53G,mob,xiaomi,Xiaomi,Q11X,songyuan,POCO F9 Ultra,Global,xiaomi_en
 M1912G7BI,mob,xiaomi,Xiaomi,G7B,phoenixin,POCO X2,India,xiaomi_en
 M2007J20CI,mob,xiaomi,Xiaomi,J20C,"surya, karna",POCO X3,India,xiaomi_en
 M2007J20CG,mob,xiaomi,Xiaomi,J20C,surya,POCO X3 NFC,Global,xiaomi_en
