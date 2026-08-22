@@ -2034,6 +2034,8 @@ ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版,hon
 NDL2-W09,pad,honor,荣耀,,Nadal2,荣耀平板 X10,11 英寸 Wi-Fi 版,honor_cn
 ELE2-W00,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,11.5 英寸 Wi-Fi 版,honor_cn
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,柔光版 11.5 英寸 Wi-Fi 版,honor_cn
+YAG-W09,pad,honor,荣耀,,,荣耀平板 X10 Pro Max,10 Pro Max 13 英寸 Wi-Fi 版,honor_cn
+YAG-W19,pad,honor,荣耀,,,荣耀平板 X10 Pro Max,10 Pro Max 柔光版 13 英寸 Wi-Fi 版,honor_cn
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀护眼学习机 火火兔版,11.5 英寸 Wi-Fi 版,honor_cn
 AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版,honor_cn
 AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版,honor_cn
@@ -2419,9 +2421,9 @@ VKJ-NX9,mob,honor,HONOR,,Vicky,HONOR 600,,honor_global_en
 VKP-NX9,mob,honor,HONOR,,VickyP,HONOR 600 Pro,,honor_global_en
 LNA-NX1,mob,honor,HONOR,,Luna,HONOR 600 Lite,,honor_global_en
 LNA-NX3,mob,honor,HONOR,,Luna,HONOR 600e,,honor_global_en
-MRK-NX1,mob,honor,HONOR,,,HONOR 600 Smart,,honor_global_en
-MRK-NX1,mob,honor,HONOR,,,HONOR 600 Lite s,,honor_global_en
-MRK-NX3,mob,honor,HONOR,,,HONOR 600 Elite,,honor_global_en
+MRK-NX1,mob,honor,HONOR,,Mark,HONOR 600 Smart,,honor_global_en
+MRK-NX1,mob,honor,HONOR,,Mark,HONOR 600 Lite s,,honor_global_en
+MRK-NX3,mob,honor,HONOR,,Mark,HONOR 600 Elite,,honor_global_en
 LGE-NX9,mob,honor,HONOR,,Lange,HONOR Magic4 Pro,,honor_global_en
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,,honor_global_en
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR Magic4 Lite,,honor_global_en
@@ -2482,6 +2484,9 @@ NIC-LX2,mob,honor,HONOR,,Nick,HONOR X6c,,honor_global_en
 NIC-LX3,mob,honor,HONOR,,Nick,HONOR X6c,,honor_global_en
 NLA-NX1,mob,honor,HONOR,,Nala,HONOR X6d 5G,,honor_global_en
 NLA-NX3,mob,honor,HONOR,,Nala,HONOR X6d 5G,,honor_global_en
+LBU-LX1,mob,honor,HONOR,,Labu,HONOR X6e,,honor_global_en
+LBU-LX2,mob,honor,HONOR,,Labu,HONOR X6e,,honor_global_en
+LBU-LX3,mob,honor,HONOR,,Labu,HONOR X6e,,honor_global_en
 CMA-LX1,mob,honor,HONOR,,Carmella,HONOR X7,,honor_global_en
 CMA-LX2,mob,honor,HONOR,,Carmella,HONOR X7,,honor_global_en
 CMA-LX3,mob,honor,HONOR,,Carmella,HONOR X7,,honor_global_en
@@ -2505,7 +2510,9 @@ LGN-NX1,mob,honor,HONOR,,Logan,HONOR X7d 5G,,honor_global_en
 LAB-LX1,mob,honor,HONOR,,Labu,HONOR X7e,,honor_global_en
 LAB-LX2,mob,honor,HONOR,,Labu,HONOR X7e,,honor_global_en
 LAB-LX3,mob,honor,HONOR,,Labu,HONOR X7e,,honor_global_en
-MRK-NX1,mob,honor,HONOR,,,HONOR X7e Plus 5G,,honor_global_en
+MRK-LX1,mob,honor,HONOR,,Mark,HONOR X7e Plus,,honor_global_en
+MRK-LX2,mob,honor,HONOR,,Mark,HONOR X7e Plus,,honor_global_en
+MRK-NX1,mob,honor,HONOR,,Mark,HONOR X7e Plus 5G,,honor_global_en
 TFY-LX1,mob,honor,HONOR,,Tiffany,HONOR X8,,honor_global_en
 TFY-LX2,mob,honor,HONOR,,Tiffany,HONOR X8,,honor_global_en
 TFY-LX3,mob,honor,HONOR,,Tiffany,HONOR X8,,honor_global_en
@@ -2522,6 +2529,8 @@ ABR-LX2,mob,honor,HONOR,,Amber,HONOR X8c,,honor_global_en
 ABR-LX3,mob,honor,HONOR,,Amber,HONOR X8c,,honor_global_en
 LNA-LX2,mob,honor,HONOR,,Luna,HONOR X8d,,honor_global_en
 LNA-LX3,mob,honor,HONOR,,Luna,HONOR X8d,,honor_global_en
+MRK-LX1,mob,honor,HONOR,,Mark,HONOR X8e,,honor_global_en
+MRK-LX3,mob,honor,HONOR,,Mark,HONOR X8e,s,honor_global_en
 ANY-LX1,mob,honor,HONOR,,Andy,HONOR X9,,honor_global_en
 ANY-LX2,mob,honor,HONOR,,Andy,HONOR X9,,honor_global_en
 ANY-LX3,mob,honor,HONOR,,Andy,HONOR X9,,honor_global_en
@@ -2532,6 +2541,8 @@ ALI-NX3P,mob,honor,HONOR,,Ali,HONOR X9b 5G,,honor_global_en
 BRP-NX1,mob,honor,HONOR,,BruceP,HONOR X9c,,honor_global_en
 BRC-NX1,mob,honor,HONOR,,Bruce,HONOR X9c Smart,,honor_global_en
 MTN-NX1,mob,honor,HONOR,,,HONOR X9d,,honor_global_en
+MTN-NX1,mob,honor,HONOR,,,HONOR X9e s,,honor_global_en
+MTN-NX3,mob,honor,HONOR,,,HONOR X9e s,,honor_global_en
 GFY-LX3,mob,honor,HONOR,,Goofy,HONOR Play9A,,honor_global_en
 NIC-LX3P,mob,honor,HONOR,,Nick,HONOR Play9C,,honor_global_en
 ELA-LX2,mob,honor,HONOR,,Elsa,HONOR Play10,,honor_global_en
@@ -2542,6 +2553,7 @@ HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,5G,honor_global_en
 HEY3-W00,pad,honor,HONOR,,Hendry3,HONOR Pad 10,Wi-Fi,honor_global_en
 HEY3-N09,pad,honor,HONOR,,Hendry3,HONOR Pad 10,5G,honor_global_en
 HEY4-W09,pad,honor,HONOR,,Hendry4,HONOR Pad 20,Wi-Fi,honor_global_en
+MLA-W09,pad,honor,HONOR,,,HONOR Pad 20 Pro,Wi-Fi,honor_global_en
 ROL-W00,pad,honor,HONOR,,Rowling,HONOR Pad V9,,honor_global_en
 ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,,honor_global_en
 CGA-W00,pad,honor,HONOR,,Changan,HONOR MagicPad3,,honor_global_en
@@ -2563,6 +2575,8 @@ ELN-L09,pad,honor,HONOR,,Eileen,HONOR Pad X9,LTE,honor_global_en
 ELN2-W29,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,Wi-Fi,honor_global_en
 ELN2-L23,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,LTE,honor_global_en
 ELN2-L29,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,LTE,honor_global_en
+YAG-W09,pad,honor,HONOR,,,HONOR Pad X9b Max,Wi-Fi,honor_global_en
+YAG-W19,pad,honor,HONOR,,,HONOR Pad X9b Max,Paperlike Edition Wi-Fi,honor_global_en
 HUAWEI MT1-T00,mob,huawei,华为,,,华为 Ascend Mate,移动版,huawei_cn
 HUAWEI MT1-U06,mob,huawei,华为,,,华为 Ascend Mate,联通版,huawei_cn
 HUAWEI MT2-U071,mob,huawei,华为,,,华为 Ascend Mate 2,联通 3G 版,huawei_cn
@@ -9409,6 +9423,8 @@ V2531,mob,vivo,vivo,,PD2442F,Y04s,,vivo_global_en
 V2556,mob,vivo,vivo,,PD2541F,Y05,,vivo_global_en
 V2565,mob,vivo,vivo,,PD2541F,Y05,,vivo_global_en
 V2606,mob,vivo,vivo,,,Y05e,,vivo_global_en
+V2556,mob,vivo,vivo,,PD2541F,Y05i,,vivo_global_en
+V2650,mob,vivo,vivo,,PD2541F,Y05i,,vivo_global_en
 V2575,mob,vivo,vivo,,PD2542F,Y11 5G,,vivo_global_en
 V2028,mob,vivo,vivo,,PD2042F,Y11s,,vivo_global_en
 V2555,mob,vivo,vivo,,PD2541F,Y11d,,vivo_global_en
