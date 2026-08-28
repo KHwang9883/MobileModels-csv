@@ -10480,6 +10480,9 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI),xiaomi
 2510ERA8BT,mob,xiaomi,小米,P16U,flourite,REDMI Note 15 Pro+,5G 沙特版,xiaomi
 25104RADAC,mob,xiaomi,小米,P16US,flourite,REDMI Note 15 Pro+,卫星消息版,xiaomi
 25057RA09C,mob,xiaomi,小米,O19,spring,REDMI Note 15R,,xiaomi
+26012RN62A,mob,xiaomi,小米,P19A,zephyr,REDMI Note 17,国际版,xiaomi
+26012RN62Y,mob,xiaomi,小米,P19A,zephyr,REDMI Note 17,国际版 (NFC),xiaomi
+26012RN62L,mob,xiaomi,小米,P19A,zephyr,REDMI Note 17,拉美版,xiaomi
 26021RN18C,mob,xiaomi,小米,P19,mist,REDMI Note 17,国行版,xiaomi
 26021RN18I,mob,xiaomi,小米,P19,mist,REDMI Note 17,5G 印度版,xiaomi
 26081RA18G,mob,xiaomi,小米,P19,mist,REDMI Note 17,5G 国际版,xiaomi
@@ -10488,6 +10491,9 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI),xiaomi
 2607DRA18G,mob,xiaomi,小米,Q16,"iolite, moscow",REDMI Note 17 Pro,5G 国际版,xiaomi
 2607DRA18I,mob,xiaomi,小米,Q16,"iolite, moscow",REDMI Note 17 Pro,5G 印度版,xiaomi
 2607DRA18T,mob,xiaomi,小米,Q16,"iolite, moscow",REDMI Note 17 Pro,5G 沙特版,xiaomi
+2609FRA74G,mob,xiaomi,小米,Q16U,brussels,REDMI Note 17 Pro Max,5G 国际版,xiaomi
+2609FRA74I,mob,xiaomi,小米,Q16U,brussels,REDMI Note 17 Pro Max,5G 印度版,xiaomi
+2609FRA74T,mob,xiaomi,小米,Q16U,brussels,REDMI Note 17 Pro Max,5G 沙特版,xiaomi
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,,xiaomi
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,,xiaomi
 M2003J15SC,mob,xiaomi,小米,J15S,merlin,Redmi 10X 4G,,xiaomi
@@ -10678,6 +10684,7 @@ M2102J20SI,mob,xiaomi,小米,J20S,"vayu, bhima",POCO X3 Pro,印度版,xiaomi
 2412DPC0AI,mob,xiaomi,小米,O10,rodin,POCO X7 Pro,印度版,xiaomi
 2607DPC18G,mob,xiaomi,小米,Q16,"iolite, moscow",POCO X8,国际版,xiaomi
 2607DPC18I,mob,xiaomi,小米,Q16,"iolite, moscow",POCO X8,印度版,xiaomi
+2609FPC74I,mob,xiaomi,小米,Q16U,brussels,POCO X8 Power,印度版,xiaomi
 2511FPC34G,mob,xiaomi,小米,P10,klee,POCO X8 Pro,国际版,xiaomi
 2511FPC34I,mob,xiaomi,小米,P10,klee,POCO X8 Pro,印度版,xiaomi
 2602BPC18G,mob,xiaomi,小米,P10U,dash,POCO X8 Pro Max,国际版,xiaomi
@@ -11801,6 +11808,9 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI),xiaomi_en
 2510ERA8BT,mob,xiaomi,Xiaomi,P16U,flourite,REDMI Note 15 Pro+ 5G,Saudi Arabia,xiaomi_en
 25104RADAC,mob,xiaomi,Xiaomi,P16US,flourite,REDMI Note 15 Pro+ 5G,Satellite China,xiaomi_en
 25057RA09C,mob,xiaomi,Xiaomi,O19,spring,REDMI Note 15R,China,xiaomi_en
+26012RN62A,mob,xiaomi,Xiaomi,P19A,zephyr,REDMI Note 17,Global,xiaomi_en
+26012RN62Y,mob,xiaomi,Xiaomi,P19A,zephyr,REDMI Note 17,Global (NFC),xiaomi_en
+26012RN62L,mob,xiaomi,Xiaomi,P19A,zephyr,REDMI Note 17,Latin America,xiaomi_en
 26081RA18G,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,Global,xiaomi_en
 26021RN18C,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,China,xiaomi_en
 26021RN18I,mob,xiaomi,Xiaomi,P19,mist,REDMI Note 17 5G,India,xiaomi_en
@@ -11809,6 +11819,9 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI),xiaomi_en
 2607DRA18C,mob,xiaomi,Xiaomi,Q16,"iolite, moscow",REDMI Note 17 Pro 5G,China,xiaomi_en
 2607DRA18I,mob,xiaomi,Xiaomi,Q16,"iolite, moscow",REDMI Note 17 Pro 5G,India,xiaomi_en
 2607DRA18T,mob,xiaomi,Xiaomi,Q16,"iolite, moscow",REDMI Note 17 Pro 5G,Saudi Arabia,xiaomi_en
+2609FRA74G,mob,xiaomi,Xiaomi,Q16U,brussels,REDMI Note 17 Pro Max 5G,Global,xiaomi_en
+2609FRA74I,mob,xiaomi,Xiaomi,Q16U,brussels,REDMI Note 17 Pro Max 5G,India,xiaomi_en
+2609FRA74T,mob,xiaomi,Xiaomi,Q16U,brussels,REDMI Note 17 Pro Max 5G,Saudi Arabia,xiaomi_en
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,China,xiaomi_en
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,China,xiaomi_en
 M2003J15SC,mob,xiaomi,Xiaomi,J15S,merlin,Redmi 10X 4G,China,xiaomi_en
@@ -11962,6 +11975,7 @@ M2102J20SI,mob,xiaomi,Xiaomi,J20S,"vayu, bhima",POCO X3 Pro,India,xiaomi_en
 2412DPC0AI,mob,xiaomi,Xiaomi,O10,rodin,POCO X7 Pro,India,xiaomi_en
 2607DPC18G,mob,xiaomi,Xiaomi,Q16,"iolite, moscow",POCO X8,Global,xiaomi_en
 2607DPC18I,mob,xiaomi,Xiaomi,Q16,"iolite, moscow",POCO X8,India,xiaomi_en
+2609FPC74I,mob,xiaomi,Xiaomi,Q16U,brussels,POCO X8 Power,India,xiaomi_en
 2511FPC34G,mob,xiaomi,Xiaomi,P10,klee,POCO X8 Pro,Global,xiaomi_en
 2511FPC34I,mob,xiaomi,Xiaomi,P10,klee,POCO X8 Pro,India,xiaomi_en
 2602BPC18G,mob,xiaomi,Xiaomi,P10U,dash,POCO X8 Pro Max,Global,xiaomi_en
