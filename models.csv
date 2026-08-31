@@ -4176,7 +4176,7 @@ TB370FU,pad,lenovo,联想,,spruce,小新 Pad Pro 12.7 天玑版,,lenovo_cn
 TB375FC,pad,lenovo,联想,,peridot,小新 Pad Pro 12.7 2025,,lenovo_cn
 TB710FU,pad,lenovo,联想,,topaz,小新平板 Pro GT,,lenovo_cn
 TB376FC,pad,lenovo,联想,,malbec,联想 AI 平板 小新 Pro 13,,lenovo_cn
-TB378FC,pad,lenovo,联想,,,联想 AI 平板 小新 Pro GT 13,,lenovo_cn
+TB378FC,pad,lenovo,联想,,zhiyu,联想 AI 平板 小新 Pro GT 13,,lenovo_cn
 TB351FU,pad,lenovo,联想,,calla,小新 Pad Studio,,lenovo_cn
 TB372FC,pad,lenovo,联想,,spruce,小新学习平板,12.7,lenovo_cn
 Lenovo YT3-850F,pad,lenovo,联想,,,YOGA Tab 3,8” Wi-Fi 版,lenovo_cn
@@ -4278,6 +4278,7 @@ Lenovo TB-J606N,pad,lenovo,联想,,m11,联想平板电脑 K11,11 英寸 LTE 版,
 QBH10,pad,lenovo,联想,,barley,联想平板电脑 S11,10.95 英寸 Wi-Fi 版,lenovo_cn
 QBH11,pad,lenovo,联想,,citrus,联想平板电脑 S11 Pro,11.5 英寸 Wi-Fi 版,lenovo_cn
 TB610FU,computer,lenovo,联想,,gem,ThinkBook Plus Hybrid 2024,平板,lenovo_cn
+TB838,computer,lenovo,联想,,sycamore,ThinkTab T11S,11 英寸 Wi-Fi 版,lenovo_cn
 Letv X600,mob,letv,乐视,,,乐 1,通用版,letv
 Letv X608,mob,letv,乐视,,,乐 1,移动定制版,letv
 Letv X500,mob,letv,乐视,,,乐 1s,通用版,letv
@@ -6979,6 +6980,7 @@ RMX5171,mob,realme,realme,,chopard-b,16 5G,,realme_global_en
 RMX5120,mob,realme,realme,,iwc,16 Pro 5G,,realme_global_en
 RMX5131,mob,realme,realme,,zenith,16 Pro+ 5G,,realme_global_en
 RMX5268,mob,realme,realme,,mumbai-h,16T 5G,,realme_global_en
+RMX5270,mob,realme,realme,,,16x 5G,,realme_global_en
 RMX1901,mob,realme,realme,,,X,,realme_global_en
 RMX1921,mob,realme,realme,,,XT,Global,realme_global_en
 RMX1922,mob,realme,realme,,,XT,India,realme_global_en
@@ -7089,8 +7091,10 @@ RMX5253,mob,realme,realme,,mumbai,C85 5G,,realme_global_en
 RMX5555,mob,realme,realme,,moscow-a,C85 Pro,,realme_global_en
 RMX5353,mob,realme,realme,,madrid,C100,,realme_global_en
 RMX5258,mob,realme,realme,,mumbai-d,C100 5G,,realme_global_en
-RMX5377,mob,realme,realme,,nairobi-a,C100i,,realme_global_en
+RMX5377,mob,realme,realme,,nairobi-a,C100i,Global,realme_global_en
+RMX5399,mob,realme,realme,,nairobi-a,C100i,India,realme_global_en
 RMX5366,mob,realme,realme,,nairobi,C100x,,realme_global_en
+RMX5363,mob,realme,realme,,,C100d,,realme_global_en
 RMX3834,mob,realme,realme,,hulk-k,Note 50,,realme_global_en
 RMX3933,mob,realme,realme,,latte-a,Note 60,,realme_global_en
 RMX3933,mob,realme,realme,,latte-a,Note 60s,,realme_global_en
@@ -7123,6 +7127,7 @@ RMX5107,mob,realme,realme,,casio-m,P4 Power,5G,realme_global_en
 RMX5313,mob,realme,realme,,latte-t,P4 Lite,,realme_global_en
 RMX5261,mob,realme,realme,,mumbai-c2,P4 Lite 5G,,realme_global_en
 RMX5266,mob,realme,realme,,,P4R 5G,,realme_global_en
+RMX5125,mob,realme,realme,,,P4s 5G,,realme_global_en
 RMX2002,mob,realme,realme,,nemo,Narzo,Indonesia,realme_global_en
 RMX2040,mob,realme,realme,,,Narzo 10,India,realme_global_en
 RMX2020,mob,realme,realme,,,Narzo 10A,India,realme_global_en
@@ -9355,14 +9360,14 @@ V2634,mob,vivo,vivo,,,V70 Lite,,vivo_global_en
 V2635,mob,vivo,vivo,,,V70 Lite,,vivo_global_en
 V2615,mob,vivo,vivo,,PD2512F,V70 Lite 5G,,vivo_global_en
 V2637,mob,vivo,vivo,,PD2512F,V70 Lite 5G,,vivo_global_en
-V2576,mob,vivo,vivo,,,V80 Lite 5G,,vivo_global_en
-V2643,mob,vivo,vivo,,,V80 Lite 5G,,vivo_global_en
-V2644,mob,vivo,vivo,,,V80 Lite 5G,,vivo_global_en
+V2576,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
+V2643,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
+V2644,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,,vivo_global_en
 V1937,mob,vivo,vivo,,PD1982F,S1 Prime,,vivo_global_en
 vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,,vivo_global_en
 vivo 1920_20,mob,vivo,vivo,,PD1945F,S1 Pro,,vivo_global_en
-V2576,mob,vivo,vivo,,,S2,,vivo_global_en
+V2576,mob,vivo,vivo,,PD2575F,S2,,vivo_global_en
 V2153,mob,vivo,vivo,,PD2201F,T1,,vivo_global_en
 V2168,mob,vivo,vivo,,PD2201F,T1,,vivo_global_en
 V2141,mob,vivo,vivo,,PD2165F,T1 5G,,vivo_global_en
@@ -9532,6 +9537,8 @@ V2636,mob,vivo,vivo,,PD2533F,Y31d,,vivo_global_en
 V2543,mob,vivo,vivo,,PD2533F,Y31d Pro,,vivo_global_en
 V2533,mob,vivo,vivo,,PD2511F,Y31e 5G,,vivo_global_en
 V2614,mob,vivo,vivo,,PD2511F,Y31s 5G,,vivo_global_en
+V2571,mob,vivo,vivo,,,Y31t 5G,,vivo_global_en
+V2574,mob,vivo,vivo,,,Y31t 5G,,vivo_global_en
 V2057,mob,vivo,vivo,,PD2103F,Y33,,vivo_global_en
 V2109-EG,mob,vivo,vivo,,PD2142F,Y33A,,vivo_global_en
 V2109,mob,vivo,vivo,,PD2147F,Y33s,,vivo_global_en
