@@ -3926,6 +3926,8 @@ STG-LX2,mob,huawei,HUAWEI,,Santiago,HUAWEI nova 14i,,huawei_global_en
 PSN-LX9,mob,huawei,HUAWEI,,Pushkin,HUAWEI nova 15,Pro,huawei_global_en
 KLE-LX9,mob,huawei,HUAWEI,,Klee,HUAWEI nova 15 Pro,,huawei_global_en
 CHZ-LX1,mob,huawei,HUAWEI,,Chenzhen,HUAWEI nova 15 Max,,huawei_global_en
+EMA-LX9,mob,huawei,HUAWEI,,Emilia,HUAWEI nova 16s,,huawei_global_en
+CRS-LX9,mob,huawei,HUAWEI,,Chris,HUAWEI nova 16s Pro,,huawei_global_en
 WKG-LX9,mob,huawei,HUAWEI,,Wukong,HUAWEI nova Y60,,huawei_global_en
 EVE-LX9,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,,huawei_global_en
 EVE-LX9N,mob,huawei,HUAWEI,,Eevee,HUAWEI nova Y61,,huawei_global_en
@@ -4078,6 +4080,7 @@ PCE-W29,pad,huawei,HUAWEI,,Poincare,HUAWEI MatePad Pro 13.2,Wi-Fi,huawei_global_
 WEB-W09,pad,huawei,HUAWEI,,Weber,HUAWEI MatePad Pro 13.2 2025,Wi-Fi,huawei_global_en
 MRO-W09,pad,huawei,HUAWEI,,Miro,HUAWEI MatePad Pro 12.2,Wi-Fi,huawei_global_en
 MRDI-W09,pad,huawei,HUAWEI,,Morandi,HUAWEI MatePad Pro 12.2 2025,Wi-Fi,huawei_global_en
+DAL-W09,pad,huawei,HUAWEI,,Dali,HUAWEI MatePad Pro 12,Wi-Fi,huawei_global_en
 GEM-W09,pad,huawei,HUAWEI,,,HUAWEI MatePad Pro Max,13.2 Wi-Fi,huawei_global_en
 MLR-W09,pad,huawei,HUAWEI,,Mclaren,HUAWEI MatePad Mini,8.8 Wi-Fi,huawei_global_en
 HMW-W09,pad,huawei,HUAWEI,,Hemingway,HUAWEI MatePad Paper,Wi-Fi,huawei_global_en
@@ -4923,6 +4926,14 @@ L65MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,65 Mini LED 2026,mitv
 L75MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,75 Mini LED 2026,mitv_cn
 L85MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,85 Mini LED 2026,mitv_cn
 L98MC-SP,tv,mitv,小米,,,小米电视 S Pro Mini LED 2026,98 Mini LED 2026,mitv_cn
+L65MD-SP,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,65 RGB-Mini LED 2027,mitv_cn
+L65MD-SPD,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,65 RGB-Mini LED 2027 至尊版,mitv_cn
+L75MD-SP,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,75 RGB-Mini LED 2027,mitv_cn
+L75MD-SPD,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,75 RGB-Mini LED 2027 至尊版,mitv_cn
+L85MD-SP,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,85 RGB-Mini LED 2027,mitv_cn
+L85MD-SPD,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,85 RGB-Mini LED 2027 至尊版,mitv_cn
+L98MD-SP,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,98 RGB-Mini LED 2027,mitv_cn
+L98MD-SPD,tv,mitv,小米,,,小米电视 S Pro RGB-Mini LED 2027,98 RGB-Mini LED 2027 至尊版,mitv_cn
 L65M5-BH,tv,mitv,小米,,,小米壁画电视,65 英寸,mitv_cn
 L75M5-BH,tv,mitv,小米,,,小米壁画电视,75 英寸,mitv_cn
 L55M6-TM,tv,mitv,小米,,,小米透明电视,55 英寸,mitv_cn
