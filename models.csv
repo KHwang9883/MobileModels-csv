@@ -1886,6 +1886,7 @@ LOG-AN10,mob,honor,荣耀,,Logan,荣耀 Play10T,5G,honor_cn
 NIC-AN00,mob,honor,荣耀,,Nick,荣耀 Play10C,5G,honor_cn
 NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play10A,5G,honor_cn
 NLA-AN00,mob,honor,荣耀,,Nala,荣耀 Play11C,5G,honor_cn
+MRK-AN00,mob,honor,荣耀,,Mark,荣耀 Play11,5G,honor_cn
 LAB-AN00,mob,honor,荣耀,,Labu,荣耀 Play11T,5G,honor_cn
 LNA-AN00,mob,honor,荣耀,,Luna,荣耀 Play11 Plus,5G,honor_cn
 LNA-AN00,mob,honor,荣耀,,Luna,荣耀 Play11 Pro,5G,honor_cn
@@ -6365,6 +6366,7 @@ PLT130,mob,oppo,OPPO,,baikal-b5,OPPO A6v,,oppo_cn
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6x,,oppo_cn
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6m,,oppo_cn
 PMC110,mob,oppo,OPPO,,baikal-b4,OPPO A6c,,oppo_cn
+PYE110,mob,oppo,OPPO,,,OPPO A7 Pro,,oppo_cn
 PYC110,mob,oppo,OPPO,,doraemon-m,OPPO A7 Pro Max,,oppo_cn
 PBCM30,mob,oppo,OPPO,,,OPPO K1,,oppo_cn
 PCGM00,mob,oppo,OPPO,,,OPPO K3,全网通版,oppo_cn
@@ -9709,6 +9711,8 @@ M2553B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国行版,xiaomi-w
 M2552B1,band,xiaomi,小米,P67,,小米手环 10 Pro,国际版,xiaomi-wear
 M2558B1,band,xiaomi,小米,P67,,小米手环 10 Pro,NFC 版 国际版,xiaomi-wear
 M2559B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国际版,xiaomi-wear
+M2616B1,band,xiaomi,小米,,,小米手环 11,,xiaomi-wear
+M2617B1,band,xiaomi,小米,,,小米手环 11,NFC 版 / 陶瓷版 / 全金属版,xiaomi-wear
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,,xiaomi-wear
 M2320W1,watch,xiaomi,小米,M61C,axolotlaxie,Xiaomi Watch 2,,xiaomi-wear
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版,xiaomi-wear
