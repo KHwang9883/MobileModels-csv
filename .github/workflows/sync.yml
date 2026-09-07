@@ -2,12 +2,11 @@ name: Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
    Task:
     runs-on: ubuntu-latest
-#    if: github.event.repository.owner.id == github.event.sender.id
     steps:
     - name: Checkout repository and submodules
       uses: actions/checkout@v2
@@ -41,7 +40,7 @@ jobs:
     - name: Commit # 提交更新, fork后请自行修改user信息
       run: |
         git config --global user.email huangyf9883@gmail.com
-        git config --global user.name Kevin Huang
+        git config --global user.name "Kevin Huang"
         git add .
         git diff-index --quiet HEAD || git commit -m "Sync with MobileModels $LATEST_COMMIT" -a
     - name: Push changes
