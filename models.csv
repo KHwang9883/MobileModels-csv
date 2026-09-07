@@ -2020,6 +2020,7 @@ CGA-W00,pad,honor,荣耀,,Changan,荣耀平板 MagicPad 3,13.3 英寸 Wi-Fi 版,
 CGL-W00,pad,honor,荣耀,,,荣耀 MagicPad 3 12.5,英寸 Wi-Fi 版,honor_cn
 YLP-W00,pad,honor,荣耀,,,荣耀 MagicPad 3 Pro 13.3,英寸 Wi-Fi 版,honor_cn
 YLE-W09,pad,honor,荣耀,,Yongle,荣耀 MagicPad 3 Pro 12.3,英寸 Wi-Fi 版,honor_cn
+MLA-W09,pad,honor,荣耀,,Mulan,荣耀 MagicPad 4,12.1 英寸 Wi-Fi 版,honor_cn
 ROL-W60,pad,honor,荣耀,,Rowling,荣耀平板 GT,11.5 英寸 Wi-Fi 版,honor_cn
 ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,12.3 英寸 Wi-Fi 版,honor_cn
 CHG-W60,pad,honor,荣耀,,,荣耀平板 GT2 Pro,12.5 英寸 Wi-Fi 版,honor_cn
@@ -2554,7 +2555,7 @@ HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,5G,honor_global_en
 HEY3-W00,pad,honor,HONOR,,Hendry3,HONOR Pad 10,Wi-Fi,honor_global_en
 HEY3-N09,pad,honor,HONOR,,Hendry3,HONOR Pad 10,5G,honor_global_en
 HEY4-W09,pad,honor,HONOR,,Hendry4,HONOR Pad 20,Wi-Fi,honor_global_en
-MLA-W09,pad,honor,HONOR,,,HONOR Pad 20 Pro,Wi-Fi,honor_global_en
+MLA-W09,pad,honor,HONOR,,Mulan,HONOR Pad 20 Pro,Wi-Fi,honor_global_en
 ROL-W00,pad,honor,HONOR,,Rowling,HONOR Pad V9,,honor_global_en
 ROD2-W09,pad,honor,HONOR,,Rolland2,HONOR MagicPad2,,honor_global_en
 CGA-W00,pad,honor,HONOR,,Changan,HONOR MagicPad3,,honor_global_en
@@ -2676,6 +2677,7 @@ ICL-AL20,mob,huawei,华为,,Icelan,HUAWEI Mate X6,典藏版,huawei_cn
 GRL-AL20,mob,huawei,华为,,Greenlan,HUAWEI Mate XTs 非凡大师,,huawei_cn
 DEL-AL10,mob,huawei,华为,,Delphi,HUAWEI Mate X7,,huawei_cn
 DEL-AL20,mob,huawei,华为,,Delphi,HUAWEI Mate X7,典藏版,huawei_cn
+LAP-AL10,mob,huawei,华为,,,HUAWEI Mate XT 2 非凡大师,,huawei_cn
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,,huawei_cn
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,XL,huawei_cn
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,S,huawei_cn
@@ -2758,6 +2760,7 @@ VDE-AL00,mob,huawei,华为,,Verde,HUAWEI Pura X,,huawei_cn
 VDE-AL10,mob,huawei,华为,,Verde,HUAWEI Pura X,典藏版,huawei_cn
 HOP-AL00,mob,huawei,华为,,Hope,HUAWEI Pura X Max,,huawei_cn
 HOP-AL10,mob,huawei,华为,,Hope,HUAWEI Pura X Max,典藏版,huawei_cn
+VOL-AL00,mob,huawei,华为,,,HUAWEI Pura X View,,huawei_cn
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,,huawei_cn
 LEM-AL00,mob,huawei,华为,,Lem,HUAWEI Pocket 2,,huawei_cn
 LEM-AL50,mob,huawei,华为,,Lem,HUAWEI Pocket 2,优享版,huawei_cn
@@ -3056,6 +3059,8 @@ BKY-W21,pad,huawei,华为,,Banksy,HUAWEI MatePad Air,12 英寸 Wi-Fi 柔光版,h
 LRT-W00,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 版 (8GB+256GB),huawei_cn
 LRT-W20,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 版,huawei_cn
 LRT-W30,pad,huawei,华为,,Laurent,HUAWEI MatePad Air,12 英寸 2025 Wi-Fi 柔光版,huawei_cn
+WKI-W00,pad,huawei,华为,,,HUAWEI MatePad Air,12 英寸 2026 悦享款 Wi-Fi 版,huawei_cn
+WKI-W10,pad,huawei,华为,,,HUAWEI MatePad Air,12 英寸 2026 Wi-Fi 版,huawei_cn
 BAH3-W09,pad,huawei,华为,,Bach3,HUAWEI MatePad,10.4 英寸 Wi-Fi 版 (麒麟 810),huawei_cn
 BAH3-W59,pad,huawei,华为,,Bach3,HUAWEI MatePad,10.4 英寸 Wi-Fi 版 (麒麟 820),huawei_cn
 BAH3-AL00,pad,huawei,华为,,Bach3,HUAWEI MatePad,10.4 英寸 LTE 版 (麒麟 810),huawei_cn
@@ -3569,8 +3574,13 @@ SOC-AL00,watch,huawei,华为,,Socrates,HUAWEI WATCH 5,42mm,huawei_cn
 SOC-AL00,watch,huawei,华为,,Socrates,HUAWEI WATCH 十周年款,42mm,huawei_cn
 RTS-AL00,watch,huawei,华为,,,HUAWEI WATCH 5,46mm,huawei_cn
 RTS-AL00,watch,huawei,华为,,,HUAWEI WATCH 十周年款,46mm,huawei_cn
+LEB-AL00,watch,huawei,华为,,,HUAWEI WATCH 6,42mm,huawei_cn
+NIZ-AL00,watch,huawei,华为,,,HUAWEI WATCH 6,46mm,huawei_cn
+LEB-AL10,watch,huawei,华为,,,HUAWEI WATCH 6 Pro,43mm,huawei_cn
+NIZ-AL00,watch,huawei,华为,,,HUAWEI WATCH 6 Pro,46mm,huawei_cn
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH Ultimate,非凡大师,huawei_cn
 WDS-B19,watch,huawei,华为,,Woods,HUAWEI WATCH Ultimate,非凡探索,huawei_cn
+MCH-B39,watch,huawei,华为,,,HUAWEI WATCH Ultimate 2,非凡探索,huawei_cn
 MCH-AL00,watch,huawei,华为,,,HUAWEI WATCH Ultimate 2,非凡探索,huawei_cn
 CLB-B19,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,黄金款,huawei_cn
 EDD-B39,watch,huawei,华为,,,HUAWEI WATCH ULTIMATE DESIGN 非凡大师,蓝宝石黄金款,huawei_cn
@@ -4281,8 +4291,8 @@ Lenovo TB-J606F,pad,lenovo,联想,,m11,联想平板电脑 K11,11 英寸 Wi-Fi �
 Lenovo TB-J606N,pad,lenovo,联想,,m11,联想平板电脑 K11,11 英寸 LTE 版,lenovo_cn
 QBH10,pad,lenovo,联想,,barley,联想平板电脑 S11,10.95 英寸 Wi-Fi 版,lenovo_cn
 QBH11,pad,lenovo,联想,,citrus,联想平板电脑 S11 Pro,11.5 英寸 Wi-Fi 版,lenovo_cn
-TB610FU,computer,lenovo,联想,,gem,ThinkBook Plus Hybrid 2024,平板,lenovo_cn
-TB838,computer,lenovo,联想,,sycamore,ThinkTab T11S,11 英寸 Wi-Fi 版,lenovo_cn
+TB610FU,pad,lenovo,联想,,gem,ThinkBook Plus Hybrid 2024,平板,lenovo_cn
+TB838,pad,lenovo,联想,,sycamore,ThinkTab T11S,11 英寸 Wi-Fi 版,lenovo_cn
 Letv X600,mob,letv,乐视,,,乐 1,通用版,letv
 Letv X608,mob,letv,乐视,,,乐 1,移动定制版,letv
 Letv X500,mob,letv,乐视,,,乐 1s,通用版,letv
@@ -9711,8 +9721,8 @@ M2553B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国行版,xiaomi-w
 M2552B1,band,xiaomi,小米,P67,,小米手环 10 Pro,国际版,xiaomi-wear
 M2558B1,band,xiaomi,小米,P67,,小米手环 10 Pro,NFC 版 国际版,xiaomi-wear
 M2559B1,band,xiaomi,小米,P67,,小米手环 10 Pro,陶瓷版 国际版,xiaomi-wear
-M2616B1,band,xiaomi,小米,,,小米手环 11,,xiaomi-wear
-M2617B1,band,xiaomi,小米,,,小米手环 11,NFC 版 / 陶瓷版 / 全金属版,xiaomi-wear
+M2616B1,band,xiaomi,小米,Q66,,小米手环 11,,xiaomi-wear
+M2617B1,band,xiaomi,小米,Q66,,小米手环 11,NFC 版 / 陶瓷版 / 全金属版,xiaomi-wear
 XMWT01,watch,xiaomi,小米,,baiji,小米手表,,xiaomi-wear
 M2320W1,watch,xiaomi,小米,M61C,axolotlaxie,Xiaomi Watch 2,,xiaomi-wear
 M2234W1,watch,xiaomi,小米,M61,axolotl,Xiaomi Watch 2 Pro,蓝牙版,xiaomi-wear
@@ -9777,6 +9787,7 @@ M2419E1,pod,xiaomi,小米,N79,,小米 Air4 SE,,xiaomi-wear
 M2341E1,pod,xiaomi,小米,N75,,Xiaomi Buds 5,,xiaomi-wear
 M2437E1,pod,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,蓝牙版,xiaomi-wear
 M2438E1,pod,xiaomi,小米,O71,,Xiaomi Buds 5 Pro,Wi-Fi 版,xiaomi-wear
+M2610E1,pod,xiaomi,小米,P76S,,Xiaomi Air5,,xiaomi-wear
 M2540E1,pod,xiaomi,小米,P75,,Xiaomi Buds 6,,xiaomi-wear
 M2503E1,pod,xiaomi,小米,O74,,Xiaomi 开放式耳机 Pro,,xiaomi-wear
 GCDEJ01LS,pod,xiaomi,小米,,,Xiaomi 骨传导耳机,,xiaomi-wear
@@ -9995,6 +10006,7 @@ M531DA,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,国行版,xiaomi
 M025EC,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,国行版,xiaomi
 2602EPTC0G,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,国际版,xiaomi
 2602EPTC0R,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,日本版 (无锁),xiaomi
+2608BPX34C,mob,xiaomi,小米,Q18,lhasa,Xiaomi 18 Fold,,xiaomi
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版,xiaomi
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版,xiaomi
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版,xiaomi
@@ -10088,6 +10100,7 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,,xiaomi
 25097RP43I,pad,xiaomi,小米,P82,yupei,Xiaomi Pad 8,印度版,xiaomi
 25091RP04C,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,国行版,xiaomi
 25091RP04G,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,国际版,xiaomi
+M367FC,pad,xiaomi,小米,Q81A,yingtian,Xiaomi Pad 9 Pro Max,,xiaomi
 2013022,mob,xiaomi,小米,H2TD,"wt93007, HM2013022",红米手机,移动版,xiaomi
 2013023,mob,xiaomi,小米,H2W,"wt98007, HM2013023",红米手机,联通版,xiaomi
 2013029,mob,xiaomi,小米,H2A,armani,红米 1S,联通版,xiaomi
@@ -10218,10 +10231,10 @@ M2010J19SL,mob,xiaomi,小米,J19L,"lime, pomelo",Redmi 9T,拉美版,xiaomi
 220333QBI,mob,xiaomi,小米,C3QB,fog,Redmi 10 Power,印度版,xiaomi
 220333QNY,mob,xiaomi,小米,C3QN,"fog, rain",Redmi 10C,国际版 (NFC),xiaomi
 220333QL,mob,xiaomi,小米,C3QL,"fog, wind",Redmi 10C,拉美版,xiaomi
-220233L2C,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,国行版,xiaomi
-220233L2G,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,国际版,xiaomi
-220233L2I,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,印度版,xiaomi
-220233L2I,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,Sport 印度版,xiaomi
+220233L2C,mob,xiaomi,小米,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,国行版,xiaomi
+220233L2G,mob,xiaomi,小米,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,国际版,xiaomi
+220233L2I,mob,xiaomi,小米,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,印度版,xiaomi
+220233L2I,mob,xiaomi,小米,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,Sport 印度版,xiaomi
 22071219AI,mob,xiaomi,小米,L19A,rock,Redmi 11 Prime,印度版,xiaomi
 23053RN02A,mob,xiaomi,小米,M19A,fire,Redmi 12,国际版,xiaomi
 23053RN02I,mob,xiaomi,小米,M19A,fire,Redmi 12,印度版,xiaomi
@@ -10291,6 +10304,8 @@ A501XM,mob,xiaomi,小米,O19,spring,REDMI 15 5G,日本版 (SoftBank),xiaomi
 2606FRN72Y,mob,xiaomi,小米,Q15A,leedsa,REDMI 17,国际版,xiaomi
 2606FRN72L,mob,xiaomi,小米,Q15A,leedsa,REDMI 17,拉美版 / 日本版,xiaomi
 2607FRNEAG,mob,xiaomi,小米,P15R,tornado,REDMI 17C 5G,国际版,xiaomi
+2607FRNEAI,mob,xiaomi,小米,P15R,tornado,REDMI 17C 5G,印度版,xiaomi
+2612FRNEAR,mob,xiaomi,小米,P15R,tornado,REDMI 17C 5G,日本版,xiaomi
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版,xiaomi
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版,xiaomi
 2014017,mob,xiaomi,小米,H3TD,lcsh92_wet_xm_td,红米 Note,移动 3G 标准版,xiaomi
@@ -10398,7 +10413,7 @@ M2101K6R,mob,xiaomi,小米,K6,sweet,Redmi Note 10 Pro,日本版,xiaomi
 M2101K6P,mob,xiaomi,小米,K6,sweetin,Redmi Note 10 Pro,印度版,xiaomi
 M2101K6I,mob,xiaomi,小米,K6,sweetin,Redmi Note 10 Pro Max,印度版,xiaomi
 M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,5G 国行版,xiaomi
-2109106A1I,mob,xiaomi,小米,J6A1,"curtana, miatoll",Redmi Note 10 Lite,印度版,xiaomi
+2109106A1I,mob,xiaomi,小米,J6A1,"curtana_in_rf, curtana, miatoll",Redmi Note 10 Lite,印度版,xiaomi
 21121119SC,mob,xiaomi,小米,K19S,"selene, selenes",Redmi Note 11 4G,国行版,xiaomi
 2201117TG,mob,xiaomi,小米,K7T,spes,Redmi Note 11,国际版,xiaomi
 2201117TI,mob,xiaomi,小米,K7T,spes,Redmi Note 11,印度版,xiaomi
@@ -10424,7 +10439,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,5G 国行版,xiaomi
 21091116UG,mob,xiaomi,小米,K16U,"pissarro, pissarropro",Redmi Note 11 Pro+,5G 国际版,xiaomi
 22041216C,mob,xiaomi,小米,L16,xaga,Redmi Note 11T Pro,,xiaomi
 22041216UC,mob,xiaomi,小米,L16U,"xaga, xagapro",Redmi Note 11T Pro+,,xiaomi
-22095RA98C,mob,xiaomi,小米,L19X,"light, lightcm",Redmi Note 11R,5G,xiaomi
+22095RA98C,mob,xiaomi,小米,L19X,"lightcm, light",Redmi Note 11R,5G,xiaomi
 23021RAAEG,mob,xiaomi,小米,M7,tapas,Redmi Note 12,国际版,xiaomi
 23027RAD4I,mob,xiaomi,小米,M7U,tapas,Redmi Note 12,印度版,xiaomi
 23028RA60L,mob,xiaomi,小米,M7L,tapas,Redmi Note 12,拉美版,xiaomi
@@ -10437,7 +10452,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,5G 国行版,xiaomi
 2303CRA44A,mob,xiaomi,小米,K7SR,"sea, ocean",Redmi Note 12S,国际版,xiaomi
 2303ERA42L,mob,xiaomi,小米,K7SRL,"sea, ocean",Redmi Note 12S,拉美版,xiaomi
 23030RAC7Y,mob,xiaomi,小米,K7SRN,sea,Redmi Note 12S,国际版 (NFC),xiaomi
-2209116AG,mob,xiaomi,小米,K6A,"sweet, sweet_k6a",Redmi Note 12 Pro,国际版,xiaomi
+2209116AG,mob,xiaomi,小米,K6A,"sweet_k6a, sweet",Redmi Note 12 Pro,国际版,xiaomi
 22101316C,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,国行版,xiaomi
 22101316G,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,5G 国际版,xiaomi
 22101316I,mob,xiaomi,小米,M16,ruby,Redmi Note 12 Pro,5G 印度版,xiaomi
@@ -10475,7 +10490,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI),xiaomi
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,印度版,xiaomi
 24094RAD4I,mob,xiaomi,小米,O17,beryl,Redmi Note 14 SE 5G,印度版,xiaomi
 24094RAD4G,mob,xiaomi,小米,O17,"beryl, citrine",Redmi Note 14 5G,国际版,xiaomi
-2502FRA65G,mob,xiaomi,小米,N6R,"emerald, emerald_r",Redmi Note 14S,国际版,xiaomi
+2502FRA65G,mob,xiaomi,小米,N6R,"emerald_r, emerald",Redmi Note 14S,国际版,xiaomi
 24116RACCG,mob,xiaomi,小米,O6,obsidian,Redmi Note 14 Pro,国际版,xiaomi
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,国行版,xiaomi
 24090RA29G,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,5G 国际版,xiaomi
@@ -10517,6 +10532,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI),xiaomi
 2607DRA18T,mob,xiaomi,小米,Q16,"iolite, moscow",REDMI Note 17 Pro,5G 沙特版,xiaomi
 2609FRA74G,mob,xiaomi,小米,Q16U,brussels,REDMI Note 17 Pro Max,5G 国际版,xiaomi
 2609FRA74I,mob,xiaomi,小米,Q16U,brussels,REDMI Note 17 Pro Max,5G 印度版,xiaomi
+2609FRA56I,mob,xiaomi,小米,Q16U,brussels,REDMI Note 17 Pro Max,5G 印度版,xiaomi
 2609FRA74T,mob,xiaomi,小米,Q16U,brussels,REDMI Note 17 Pro Max,5G 沙特版,xiaomi
 M2004J7AC,mob,xiaomi,小米,J7A,atom,Redmi 10X 5G,,xiaomi
 M2004J7BC,mob,xiaomi,小米,J7B,bomb,Redmi 10X Pro 5G,,xiaomi
@@ -10537,7 +10553,7 @@ M1903F11A,mob,xiaomi,小米,F11,"raphael, raphaels",Redmi K20 Pro 尊享版,,xia
 M2001G7AE,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,,xiaomi
 M2001G7AE,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,极速版,xiaomi
 M2001G7AC,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,,xiaomi
-M2001G7AC,mob,xiaomi,小米,G7A,picasso48m,Redmi K30i 5G,,xiaomi
+M2001G7AC,mob,xiaomi,小米,G7A,"picasso_48m, picasso",Redmi K30i 5G,,xiaomi
 M1912G7BE,mob,xiaomi,小米,G7B,phoenix,Redmi K30 4G,全网通版,xiaomi
 M1912G7BC,mob,xiaomi,小米,G7B,phoenix,Redmi K30 4G,运营商全网通版,xiaomi
 M2001J11C,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,,xiaomi
@@ -10729,7 +10745,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,印度版,xiaomi
 22031116AI,mob,xiaomi,小米,K16A,evergo,POCO M4 Pro 5G,印度版,xiaomi
 22071219CG,mob,xiaomi,小米,L19C,"rock, stone",POCO M5,国际版,xiaomi
 22071219CI,mob,xiaomi,小米,L19C,rock,POCO M5,印度版,xiaomi
-2207117BPG,mob,xiaomi,小米,K7BP,"rosemary, rosemary_p",POCO M5s,国际版,xiaomi
+2207117BPG,mob,xiaomi,小米,K7BP,"rosemary_p, rosemary",POCO M5s,国际版,xiaomi
 2404APC5FG,mob,xiaomi,小米,N19AP,moon,POCO M6,国际版,xiaomi
 23128PC33I,mob,xiaomi,小米,C3VP,air,POCO M6 5G,印度版,xiaomi
 24066PC95I,mob,xiaomi,小米,N19P,breeze,POCO M6 Plus 5G,印度版,xiaomi
@@ -10747,7 +10763,7 @@ M2103K19PI,mob,xiaomi,小米,K19P,camellia,POCO M3 Pro 5G,印度版,xiaomi
 2510EPC8BG,mob,xiaomi,小米,P16U,flourite,POCO M8 Pro 5G,国际版,xiaomi
 26021PC18I,mob,xiaomi,小米,P19P,mist,POCO M8 Power,5G 印度版,xiaomi
 26062PC92I,mob,xiaomi,小米,Q15,"steppe, leedsp",REDMI M8x,POCO M8x 5G 印度版,xiaomi
-M2006C3MI,mob,xiaomi,小米,C3M,angelicain,POCO C3,印度版,xiaomi
+M2006C3MI,mob,xiaomi,小米,C3M,angelica,POCO C3,印度版,xiaomi
 211033MI,mob,xiaomi,小米,C3M2,angelicain,POCO C31,印度版,xiaomi
 220333QPG,mob,xiaomi,小米,C3QP,frost,POCO C40,国际版,xiaomi
 220333QPI,mob,xiaomi,小米,C3QP,frost,POCO C40,印度版,xiaomi
@@ -10881,6 +10897,7 @@ M2101K9C,mob,xiaomi,小米,K9,renoir,小米 11 青春版,,xiaomi_cn
 2605EPN8EC,mob,xiaomi,小米,P3S,byron,Xiaomi 17 Max,,xiaomi_cn
 M531DA,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,,xiaomi_cn
 M025EC,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,,xiaomi_cn
+2608BPX34C,mob,xiaomi,小米,Q18,lhasa,Xiaomi 18 Fold,,xiaomi_cn
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版,xiaomi_cn
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版,xiaomi_cn
 2014618,mob,xiaomi,小米,X5,virgo,小米 Note,移动合约版,xiaomi_cn
@@ -10950,6 +10967,7 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,,xiaomi_cn
 25053RP5CC,pad,xiaomi,小米,O81A,violin,Xiaomi Pad 7S Pro 12.5,,xiaomi_cn
 25097RP43C,pad,xiaomi,小米,P82,yupei,Xiaomi Pad 8,,xiaomi_cn
 25091RP04C,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,,xiaomi_cn
+M367FC,pad,xiaomi,小米,Q81A,yingtian,Xiaomi Pad 9 Pro Max,,xiaomi_cn
 2013022,mob,xiaomi,小米,H2TD,"wt93007, HM2013022",红米手机,移动版,xiaomi_cn
 2013023,mob,xiaomi,小米,H2W,"wt98007, HM2013023",红米手机,联通版,xiaomi_cn
 2013029,mob,xiaomi,小米,H2A,armani,红米 1S,联通版,xiaomi_cn
@@ -11007,7 +11025,7 @@ M1908C3IC,mob,xiaomi,小米,C3I,olive,Redmi 8,运营商全网通版,xiaomi_cn
 M1908C3KE,mob,xiaomi,小米,C3K,olivelite,Redmi 8A,,xiaomi_cn
 M2004J19C,mob,xiaomi,小米,J19,lancelot,Redmi 9,,xiaomi_cn
 M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A,,xiaomi_cn
-220233L2C,mob,xiaomi,小米,C3L2,dandelion,Redmi 10A,,xiaomi_cn
+220233L2C,mob,xiaomi,小米,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,,xiaomi_cn
 23077RABDC,mob,xiaomi,小米,M19P,"sky, river",Redmi 12 5G,,xiaomi_cn
 23076RA4BC,mob,xiaomi,小米,M19,sky,Redmi 12R,,xiaomi_cn
 22120RN86C,mob,xiaomi,小米,C3T,earth,Redmi 12C,,xiaomi_cn
@@ -11073,7 +11091,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,,xiaomi_cn
 21091116UC,mob,xiaomi,小米,K16U,"pissarro, pissarropro",Redmi Note 11 Pro+,,xiaomi_cn
 22041216C,mob,xiaomi,小米,L16,xaga,Redmi Note 11T Pro,,xiaomi_cn
 22041216UC,mob,xiaomi,小米,L16U,"xaga, xagapro",Redmi Note 11T Pro+,,xiaomi_cn
-22095RA98C,mob,xiaomi,小米,L19X,"light, lightcm",Redmi Note 11R,5G,xiaomi_cn
+22095RA98C,mob,xiaomi,小米,L19X,"lightcm, light",Redmi Note 11R,5G,xiaomi_cn
 22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12 5G,,xiaomi_cn
 22101317C,mob,xiaomi,小米,M17,sunstone,Redmi Note 12R Pro,,xiaomi_cn
 23076RA4BC,mob,xiaomi,小米,M19,sky,Redmi Note 12R,,xiaomi_cn
@@ -11116,7 +11134,7 @@ M1903F11A,mob,xiaomi,小米,F11,"raphael, raphaels",Redmi K20 Pro 尊享版,,xia
 M2001G7AE,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,,xiaomi_cn
 M2001G7AE,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,极速版,xiaomi_cn
 M2001G7AC,mob,xiaomi,小米,G7A,picasso,Redmi K30 5G,,xiaomi_cn
-M2001G7AC,mob,xiaomi,小米,G7A,picasso48m,Redmi K30i 5G,,xiaomi_cn
+M2001G7AC,mob,xiaomi,小米,G7A,"picasso_48m, picasso",Redmi K30i 5G,,xiaomi_cn
 M1912G7BE,mob,xiaomi,小米,G7B,phoenix,Redmi K30 4G,全网通版,xiaomi_cn
 M1912G7BC,mob,xiaomi,小米,G7B,phoenix,Redmi K30 4G,运营商全网通版,xiaomi_cn
 M2001J11C,mob,xiaomi,小米,J11,lmi,Redmi K30 Pro,,xiaomi_cn
@@ -11350,6 +11368,7 @@ M531DA,mob,xiaomi,Xiaomi,P12A,chagall,Xiaomi 17T,China,xiaomi_en
 2602EPTC0G,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Global,xiaomi_en
 2602EPTC0R,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Japan (SIM Free),xiaomi_en
 M025EC,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,China,xiaomi_en
+2608BPX34C,mob,xiaomi,Xiaomi,Q18,lhasa,Xiaomi 18 Fold,China,xiaomi_en
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,Global,xiaomi_en
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Dual-network),xiaomi_en
 2014619,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Full-network),xiaomi_en
@@ -11546,10 +11565,10 @@ M2010J19SL,mob,xiaomi,Xiaomi,J19L,"lime, pomelo",Redmi 9T,Latin America,xiaomi_e
 220333QBI,mob,xiaomi,Xiaomi,C3QB,fog,Redmi 10,Power India,xiaomi_en
 220333QNY,mob,xiaomi,Xiaomi,C3QN,"fog, rain",Redmi 10C,Global (NFC),xiaomi_en
 220333QL,mob,xiaomi,Xiaomi,C3QL,"fog, wind",Redmi 10C,Latin America,xiaomi_en
-220233L2G,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,Global,xiaomi_en
-220233L2I,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,India,xiaomi_en
-220233L2I,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,Sport India,xiaomi_en
-220233L2C,mob,xiaomi,Xiaomi,C3L2,dandelion,Redmi 10A,China,xiaomi_en
+220233L2G,mob,xiaomi,Xiaomi,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,Global,xiaomi_en
+220233L2I,mob,xiaomi,Xiaomi,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,India,xiaomi_en
+220233L2I,mob,xiaomi,Xiaomi,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,Sport India,xiaomi_en
+220233L2C,mob,xiaomi,Xiaomi,C3L2,"dandelion_c3l2, dandelion",Redmi 10A,China,xiaomi_en
 22071219AI,mob,xiaomi,Xiaomi,L19A,rock,Redmi 11 Prime,India,xiaomi_en
 23053RN02A,mob,xiaomi,Xiaomi,M19A,fire,Redmi 12,Global,xiaomi_en
 23053RN02I,mob,xiaomi,Xiaomi,M19A,fire,Redmi 12,India,xiaomi_en
@@ -11618,6 +11637,8 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank),xiaomi_en
 2606FRN72Y,mob,xiaomi,Xiaomi,Q15A,leedsa,REDMI 17,Global,xiaomi_en
 2606FRN72L,mob,xiaomi,Xiaomi,Q15A,leedsa,REDMI 17,Latin America / Japan,xiaomi_en
 2607FRNEAG,mob,xiaomi,Xiaomi,P15R,tornado,REDMI 17C 5G,Global,xiaomi_en
+2607FRNEAI,mob,xiaomi,Xiaomi,P15R,tornado,REDMI 17C 5G,India,xiaomi_en
+2612FRNEAR,mob,xiaomi,Xiaomi,P15R,tornado,REDMI 17C 5G,Japan,xiaomi_en
 2014018,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (1GB RAM),xiaomi_en
 2013121,mob,xiaomi,Xiaomi,H3W,lcsh92_wet_gb9,Redmi Note,WCDMA (2GB RAM),xiaomi_en
 2014017,mob,xiaomi,Xiaomi,H3TD,lcsh92_wet_xm_td,Redmi Note,TD-SCDMA (1GB RAM),xiaomi_en
@@ -11725,7 +11746,7 @@ M2101K6R,mob,xiaomi,Xiaomi,K6,sweet,Redmi Note 10 Pro,Japan,xiaomi_en
 M2101K6P,mob,xiaomi,Xiaomi,K6,sweetin,Redmi Note 10 Pro,India,xiaomi_en
 M2101K6I,mob,xiaomi,Xiaomi,K6,sweetin,Redmi Note 10 Pro Max,India,xiaomi_en
 M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,5G China,xiaomi_en
-2109106A1I,mob,xiaomi,Xiaomi,J6A1,"curtana, miatoll",Redmi Note 10 Lite,India,xiaomi_en
+2109106A1I,mob,xiaomi,Xiaomi,J6A1,"curtana_in_rf, curtana, miatoll",Redmi Note 10 Lite,India,xiaomi_en
 21121119SC,mob,xiaomi,Xiaomi,K19S,"selene, selenes",Redmi Note 11 4G,China,xiaomi_en
 2201117TG,mob,xiaomi,Xiaomi,K7T,spes,Redmi Note 11,Global,xiaomi_en
 2201117TI,mob,xiaomi,Xiaomi,K7T,spes,Redmi Note 11,India,xiaomi_en
@@ -11751,7 +11772,7 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,5G China,xiaomi_en
 21091116UC,mob,xiaomi,Xiaomi,K16U,"pissarro, pissarropro",Redmi Note 11 Pro+,5G China,xiaomi_en
 22041216C,mob,xiaomi,Xiaomi,L16,xaga,Redmi Note 11T Pro,5G China,xiaomi_en
 22041216UC,mob,xiaomi,Xiaomi,L16U,"xaga, xagapro",Redmi Note 11T Pro+,5G China,xiaomi_en
-22095RA98C,mob,xiaomi,Xiaomi,L19X,"light, lightcm",Redmi Note 11R,5G China,xiaomi_en
+22095RA98C,mob,xiaomi,Xiaomi,L19X,"lightcm, light",Redmi Note 11R,5G China,xiaomi_en
 23021RAAEG,mob,xiaomi,Xiaomi,M7,tapas,Redmi Note 12,Global,xiaomi_en
 23027RAD4I,mob,xiaomi,Xiaomi,M7U,tapas,Redmi Note 12,India,xiaomi_en
 23028RA60L,mob,xiaomi,Xiaomi,M7L,tapas,Redmi Note 12,Latin America,xiaomi_en
@@ -11765,7 +11786,7 @@ M2104K10AC,mob,xiaomi,Xiaomi,K10A,chopin,Redmi Note 10 Pro,5G China,xiaomi_en
 2303CRA44A,mob,xiaomi,Xiaomi,K7SR,"sea, ocean",Redmi Note 12S,Global,xiaomi_en
 2303ERA42L,mob,xiaomi,Xiaomi,K7SRL,"sea, ocean",Redmi Note 12S,Latin America,xiaomi_en
 23030RAC7Y,mob,xiaomi,Xiaomi,K7SRN,sea,Redmi Note 12S,Global (NFC),xiaomi_en
-2209116AG,mob,xiaomi,Xiaomi,K6A,"sweet, sweet_k6a",Redmi Note 12 Pro,Global,xiaomi_en
+2209116AG,mob,xiaomi,Xiaomi,K6A,"sweet_k6a, sweet",Redmi Note 12 Pro,Global,xiaomi_en
 22101316G,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,Global,xiaomi_en
 22101316I,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,India,xiaomi_en
 22101316C,mob,xiaomi,Xiaomi,M16,ruby,Redmi Note 12 Pro 5G,China,xiaomi_en
@@ -11803,7 +11824,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI),xiaomi_en
 24094RAD4I,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 SE 5G,India,xiaomi_en
 24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,Redmi Note 14 5G,China,xiaomi_en
 24094RAD4C,mob,xiaomi,Xiaomi,O17,beryl,REDMI Note 15R Pro,China,xiaomi_en
-2502FRA65G,mob,xiaomi,Xiaomi,N6R,"emerald, emerald_r",Redmi Note 14S,Global,xiaomi_en
+2502FRA65G,mob,xiaomi,Xiaomi,N6R,"emerald_r, emerald",Redmi Note 14S,Global,xiaomi_en
 24116RACCG,mob,xiaomi,Xiaomi,O6,obsidian,Redmi Note 14 Pro,Global,xiaomi_en
 24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,Global,xiaomi_en
 24090RA29I,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,India,xiaomi_en
@@ -11845,6 +11866,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI),xiaomi_en
 2607DRA18T,mob,xiaomi,Xiaomi,Q16,"iolite, moscow",REDMI Note 17 Pro 5G,Saudi Arabia,xiaomi_en
 2609FRA74G,mob,xiaomi,Xiaomi,Q16U,brussels,REDMI Note 17 Pro Max 5G,Global,xiaomi_en
 2609FRA74I,mob,xiaomi,Xiaomi,Q16U,brussels,REDMI Note 17 Pro Max 5G,India,xiaomi_en
+2609FRA56I,mob,xiaomi,Xiaomi,Q16U,brussels,REDMI Note 17 Pro Max 5G,India,xiaomi_en
 2609FRA74T,mob,xiaomi,Xiaomi,Q16U,brussels,REDMI Note 17 Pro Max 5G,Saudi Arabia,xiaomi_en
 M2004J7AC,mob,xiaomi,Xiaomi,J7A,atom,Redmi 10X 5G,China,xiaomi_en
 M2004J7BC,mob,xiaomi,Xiaomi,J7B,bomb,Redmi 10X Pro 5G,China,xiaomi_en
@@ -11865,7 +11887,7 @@ M1903F11I,mob,xiaomi,Xiaomi,F11,raphaelin,Redmi K20 Pro,India,xiaomi_en
 M2001G7AE,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,China,xiaomi_en
 M2001G7AE,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,Speed China,xiaomi_en
 M2001G7AC,mob,xiaomi,Xiaomi,G7A,picasso,Redmi K30 5G,China,xiaomi_en
-M2001G7AC,mob,xiaomi,Xiaomi,G7A,picasso48m,Redmi K30i 5G,China,xiaomi_en
+M2001G7AC,mob,xiaomi,Xiaomi,G7A,"picasso_48m, picasso",Redmi K30i 5G,China,xiaomi_en
 M1912G7BE,mob,xiaomi,Xiaomi,G7B,phoenix,Redmi K30 4G,China,xiaomi_en
 M1912G7BC,mob,xiaomi,Xiaomi,G7B,phoenix,Redmi K30 4G,Chinese Carrier Version,xiaomi_en
 M2001J11C,mob,xiaomi,Xiaomi,J11,lmi,Redmi K30 Pro,China,xiaomi_en
@@ -12020,7 +12042,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,India,xiaomi_en
 22031116AI,mob,xiaomi,Xiaomi,K16A,evergo,POCO M4 Pro 5G,India,xiaomi_en
 22071219CG,mob,xiaomi,Xiaomi,L19C,"rock, stone",POCO M5,Global,xiaomi_en
 22071219CI,mob,xiaomi,Xiaomi,L19C,rock,POCO M5,India,xiaomi_en
-2207117BPG,mob,xiaomi,Xiaomi,K7BP,"rosemary, rosemary_p",POCO M5s,Global,xiaomi_en
+2207117BPG,mob,xiaomi,Xiaomi,K7BP,"rosemary_p, rosemary",POCO M5s,Global,xiaomi_en
 2404APC5FG,mob,xiaomi,Xiaomi,N19AP,moon,POCO M6,Global,xiaomi_en
 23128PC33I,mob,xiaomi,Xiaomi,C3VP,air,POCO M6 5G,India,xiaomi_en
 24066PC95I,mob,xiaomi,Xiaomi,N19P,breeze,POCO M6 Plus 5G,India,xiaomi_en
@@ -12038,7 +12060,7 @@ M2103K19PI,mob,xiaomi,Xiaomi,K19P,camellia,POCO M3 Pro 5G,India,xiaomi_en
 2510EPC8BG,mob,xiaomi,Xiaomi,P16U,flourite,POCO M8 Pro 5G,Global,xiaomi_en
 26021PC18I,mob,xiaomi,Xiaomi,P19P,mist,POCO M8 Power,5G India,xiaomi_en
 26062PC92I,mob,xiaomi,Xiaomi,Q15,"steppe, leedsp",REDMI M8x,POCO M8x 5G India,xiaomi_en
-M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelicain,POCO C3,India,xiaomi_en
+M2006C3MI,mob,xiaomi,Xiaomi,C3M,angelica,POCO C3,India,xiaomi_en
 211033MI,mob,xiaomi,Xiaomi,C3M2,angelicain,POCO C31,India,xiaomi_en
 220333QPG,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,Global,xiaomi_en
 220333QPI,mob,xiaomi,Xiaomi,C3QP,frost,POCO C40,India,xiaomi_en
@@ -12102,6 +12124,7 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China,xiaomi_en
 25097RP43I,pad,xiaomi,Xiaomi,P82,yupei,Xiaomi Pad 8,India,xiaomi_en
 25091RP04G,pad,xiaomi,Xiaomi,P81,piano,Xiaomi Pad 8 Pro,Global,xiaomi_en
 25091RP04C,pad,xiaomi,Xiaomi,P81,piano,Xiaomi Pad 8 Pro,China,xiaomi_en
+M367FC,pad,xiaomi,Xiaomi,Q81A,yingtian,Xiaomi Pad 9 Pro Max,China,xiaomi_en
 22081283G,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,Global,xiaomi_en
 22081283C,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,China,xiaomi_en
 23073RPBFG,pad,xiaomi,Xiaomi,M84,xun,Redmi Pad SE,Global,xiaomi_en
