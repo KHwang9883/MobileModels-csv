@@ -54,7 +54,7 @@ _re_non_word = re.compile(r'[\W_]+')
 _re_model_ver = re.compile(r'^`(([^`]+)`\s*)+:\s*')
 _re_model_item = re.compile(r'`([^`]+)`')
 # 匹配设备类型的正则
-_re_device_type = re.compile(r'(手机|手表|手环|平板|电视主机|盒子|(智能)?电视|笔记本电脑|设备|穿戴|眼镜|翻译机|控制屏|机器人|座舱|耳机|学习智慧屏|智慧屏|Apple Vision|Apple TV|Mi Box|TV Box|TV Stick|Mobile|Phone|Pad|Pod|Tablet|Watch|Band|WATCH|Device|Glass|Eyewear|Robot(?!\s*Phone)|CyberDog|\bTV\b|Buds|Headphone|Book|Tag|Translator|Cockpit)')
+_re_device_type = re.compile(r'(手机|手表|手环|平板|电视主机|盒子|(智能)?电视|笔记本电脑|设备|穿戴|眼镜|翻译机|控制屏|机器人|座舱|耳机|学习智慧屏|智慧屏|Apple Vision|Apple TV|Mi Box|TV Box|TV Stick|Mobile|Phone|Pad|Pod|Tablet|Watch|Band|WATCH|Device|Glass|Eyewear|Robot(?!\s*Phone)|CyberDog|\bTV\b|Buds|Headphone|ThinkBook Plus Hybrid|Book|Tag|Translator|Cockpit)')
 _device_map = {
     '手机': 'mob',
     'mobile': 'mob',
@@ -66,7 +66,6 @@ _device_map = {
     '智能电视': 'tv',
     '学习智慧屏': 'pad',
     '智慧屏': 'tv',
-    '设备': 'device',
     '手表': 'watch',
     '手环': 'band',
     'band': 'band',
@@ -74,6 +73,7 @@ _device_map = {
     'book': 'computer',
     'tablet': 'pad',
     '平板': 'pad',
+    'thinkbook plus hybrid': 'pad',
     '电视主机': 'tv_hub',
     '盒子': 'tv_hub',
     'apple tv': 'tv_hub',
@@ -93,7 +93,7 @@ _device_map = {
     'cyberdog': 'accessory',
     'cockpit': 'ivi',
     '座舱': 'ivi',
-    '控制屏': 'mob'
+    '控制屏': 'mob',
 }
 
 pd_cols = 'model,dtype,brand,brand_title,code,code_alias,model_name,ver_name,source_file'.split(',')
