@@ -1617,6 +1617,10 @@ GHH4K,watch,google,Google,,meridian_btwifi,Pixel Watch 4,Bluetooth & Wi-Fi (41mm
 GWSQ2,watch,google,Google,,meridian_lte,Pixel Watch 4,LTE (41mm),google
 G8AK3,watch,google,Google,,kenari_btwifi,Pixel Watch 4,Bluetooth & Wi-Fi (45mm),google
 G1KAW,watch,google,Google,,kenari_lte,Pixel Watch 4,LTE (45mm),google
+G1XJ6,watch,google,Google,,godric_btwifi,Pixel Watch 5,Bluetooth & Wi-Fi (41mm),google
+G0F3Y,watch,google,Google,,godric_lte,Pixel Watch 5,LTE (41mm),google
+GFW3R,watch,google,Google,,wisteria_btwifi,Pixel Watch 5,Bluetooth & Wi-Fi (45mm),google
+G25QD,watch,google,Google,,wisteria_lte,Pixel Watch 5,LTE (45mm),google
 NTS-AL00,mob,honor,荣耀,,Natasha,荣耀 Magic,全网通版,honor_cn
 TNY-AL00,mob,honor,荣耀,,Tony,荣耀 Magic2,全网通版,honor_cn
 TNY-AL10,mob,honor,荣耀,,Tony,荣耀 Magic2,3D 感光版,honor_cn
@@ -1976,6 +1980,7 @@ LOG-AN00,mob,honor,荣耀,,Logan,荣耀畅玩 70m Plus,5G,honor_cn
 NLA-AL00,mob,honor,荣耀,,Nala,荣耀畅玩 70C,,honor_cn
 LAB-AN00,mob,honor,荣耀,,Labu,荣耀畅玩 80 Plus,5G,honor_cn
 LOG-AN10,mob,honor,荣耀,,Logan,荣耀畅玩 80 Pro,5G,honor_cn
+MRK-AN00,mob,honor,荣耀,,Mark,荣耀畅玩 90 Plus,,honor_cn
 S8-701w,pad,honor,荣耀,,,荣耀平板,Wi-Fi 版,honor_cn
 S8-701u,pad,honor,荣耀,,,荣耀平板,3G 版,honor_cn
 T1-821w,pad,honor,荣耀,,,荣耀平板,优享版,honor_cn
@@ -2036,8 +2041,8 @@ ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版,hon
 NDL2-W09,pad,honor,荣耀,,Nadal2,荣耀平板 X10,11 英寸 Wi-Fi 版,honor_cn
 ELE2-W00,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,11.5 英寸 Wi-Fi 版,honor_cn
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,柔光版 11.5 英寸 Wi-Fi 版,honor_cn
-YAG-W09,pad,honor,荣耀,,,荣耀平板 X10 Pro Max,10 Pro Max 13 英寸 Wi-Fi 版,honor_cn
-YAG-W19,pad,honor,荣耀,,,荣耀平板 X10 Pro Max,10 Pro Max 柔光版 13 英寸 Wi-Fi 版,honor_cn
+YAG-W09,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,10 Pro Max 13 英寸 Wi-Fi 版,honor_cn
+YAG-W19,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,10 Pro Max 柔光版 13 英寸 Wi-Fi 版,honor_cn
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀护眼学习机 火火兔版,11.5 英寸 Wi-Fi 版,honor_cn
 AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版,honor_cn
 AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版,honor_cn
@@ -2047,6 +2052,7 @@ NDL-W00,pad,honor,荣耀,,Nadal,荣耀平板 Z5a,11 英寸 Wi-Fi 版,honor_cn
 ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 Z6,11.5 英寸 Wi-Fi 版,honor_cn
 ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 Z6 第二代,11.5 英寸 Wi-Fi 版,honor_cn
 HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,12.1 英寸 5G 版,honor_cn
+HEY4-AN00,pad,honor,荣耀,,Hendry4,荣耀平板 Z7 第二代,12.1 英寸 5G 版,honor_cn
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 Wi-Fi 版,honor_cn
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 LTE 版,honor_cn
 HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,8 英寸 Wi-Fi 版,honor_cn
@@ -2215,6 +2221,10 @@ BRI-721,computer,honor,荣耀,,BornI,荣耀笔记本 X16 Plus 2024,R7 (32GB+1TB)
 BRB-X,computer,honor,荣耀,,BornB,荣耀笔记本 X16 Plus 2025,,honor_cn
 LHC-X,computer,honor,荣耀,,,荣耀笔记本 X16 Plus 2026,,honor_cn
 FRI-F56Z,computer,honor,荣耀,,FermiF,荣耀 MagicBook Z3 14 2023,i5,honor_cn
+DNH-565,computer,honor,荣耀,,,荣耀 MagicBook Z3 16,16GB+512GB,honor_cn
+DNH-565H,computer,honor,荣耀,,,荣耀 MagicBook Z3 16,16GB+512GB,honor_cn
+DNH-561,computer,honor,荣耀,,,荣耀 MagicBook Z3 16,16GB+1TB,honor_cn
+DNH-561H,computer,honor,荣耀,,,荣耀 MagicBook Z3 16,16GB+1TB,honor_cn
 FRD-WDG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,i5 (8GB+512GB) (华为终端),honor_cn
 FRD-WFG9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,i5 (16GB+512GB) (华为终端),honor_cn
 FRD-WFD9,computer,honor,荣耀,,,荣耀猎人游戏本 V700,i7 (16GB+512GB) (华为终端),honor_cn
@@ -2422,6 +2432,7 @@ NLA-NX1,mob,honor,HONOR,,Nala,HONOR 500 Smart,,honor_global_en
 VKJ-NX9,mob,honor,HONOR,,Vicky,HONOR 600,,honor_global_en
 VKP-NX9,mob,honor,HONOR,,VickyP,HONOR 600 Pro,,honor_global_en
 LNA-NX1,mob,honor,HONOR,,Luna,HONOR 600 Lite,,honor_global_en
+LNA-NX3,mob,honor,HONOR,,Luna,HONOR 600 Lite,,honor_global_en
 LNA-NX3,mob,honor,HONOR,,Luna,HONOR 600e,,honor_global_en
 MRK-NX1,mob,honor,HONOR,,Mark,HONOR 600 Smart,,honor_global_en
 MRK-NX1,mob,honor,HONOR,,Mark,HONOR 600 Lite s,,honor_global_en
@@ -2545,10 +2556,15 @@ BRC-NX1,mob,honor,HONOR,,Bruce,HONOR X9c Smart,,honor_global_en
 MTN-NX1,mob,honor,HONOR,,,HONOR X9d,,honor_global_en
 MTN-NX1,mob,honor,HONOR,,,HONOR X9e s,,honor_global_en
 MTN-NX3,mob,honor,HONOR,,,HONOR X9e s,,honor_global_en
+BSN-NX1,mob,honor,HONOR,,,HONOR X9e Pro,,honor_global_en
+MTN-NX1,mob,honor,HONOR,,,HONOR Turbo,,honor_global_en
 GFY-LX3,mob,honor,HONOR,,Goofy,HONOR Play9A,,honor_global_en
 NIC-LX3P,mob,honor,HONOR,,Nick,HONOR Play9C,,honor_global_en
 ELA-LX2,mob,honor,HONOR,,Elsa,HONOR Play10,,honor_global_en
 ELA-LX3,mob,honor,HONOR,,Elsa,HONOR Play10,,honor_global_en
+MLD-LX1,mob,honor,HONOR,,,HONOR Play20A,,honor_global_en
+MLD-LX2,mob,honor,HONOR,,,HONOR Play20A,,honor_global_en
+MLD-LX3,mob,honor,HONOR,,,HONOR Play20A,,honor_global_en
 HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,,honor_global_en
 HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,Wi-Fi,honor_global_en
 HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,5G,honor_global_en
@@ -2577,8 +2593,8 @@ ELN-L09,pad,honor,HONOR,,Eileen,HONOR Pad X9,LTE,honor_global_en
 ELN2-W29,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,Wi-Fi,honor_global_en
 ELN2-L23,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,LTE,honor_global_en
 ELN2-L29,pad,honor,HONOR,,Eileen2,HONOR Pad X9a,LTE,honor_global_en
-YAG-W09,pad,honor,HONOR,,,HONOR Pad X9b Max,Wi-Fi,honor_global_en
-YAG-W19,pad,honor,HONOR,,,HONOR Pad X9b Max,Paperlike Edition Wi-Fi,honor_global_en
+YAG-W09,pad,honor,HONOR,,Yaoming,HONOR Pad X9b Max,Wi-Fi,honor_global_en
+YAG-W19,pad,honor,HONOR,,Yaoming,HONOR Pad X9b Max,Paperlike Edition Wi-Fi,honor_global_en
 HUAWEI MT1-T00,mob,huawei,华为,,,华为 Ascend Mate,移动版,huawei_cn
 HUAWEI MT1-U06,mob,huawei,华为,,,华为 Ascend Mate,联通版,huawei_cn
 HUAWEI MT2-U071,mob,huawei,华为,,,华为 Ascend Mate 2,联通 3G 版,huawei_cn
@@ -3424,6 +3440,17 @@ HD75EDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,75 英寸,huawei_cn
 HD8XEDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,85 英寸,huawei_cn
 HD98EDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Pro,98 英寸,huawei_cn
 HD1XEDIJ,tv,huawei,华为,,,华为智慧屏 MateTV Max,110 英寸,huawei_cn
+HD65EDIN,tv,huawei,华为,,,华为智慧屏 MateTV 2,65 英寸,huawei_cn
+HD65FARN,tv,huawei,华为,,,华为智慧屏 MateTV 2,悦享版 65 英寸,huawei_cn
+HD75EDIN,tv,huawei,华为,,,华为智慧屏 MateTV 2,75 英寸,huawei_cn
+HD75FARN,tv,huawei,华为,,,华为智慧屏 MateTV 2,悦享版 75 英寸,huawei_cn
+HD8XEDIN,tv,huawei,华为,,,华为智慧屏 MateTV 2,85 英寸,huawei_cn
+HD8XFARN,tv,huawei,华为,,,华为智慧屏 MateTV 2,悦享版 85 英寸,huawei_cn
+HD98EDIN,tv,huawei,华为,,,华为智慧屏 MateTV 2,98 英寸,huawei_cn
+HD75EDIM,tv,huawei,华为,,,华为智慧屏 MateTV 2 Pro,75 英寸,huawei_cn
+HD8XEDIM,tv,huawei,华为,,,华为智慧屏 MateTV 2 Pro,85 英寸,huawei_cn
+HD98EDIM,tv,huawei,华为,,,华为智慧屏 MateTV 2 Pro,98 英寸,huawei_cn
+HD1XEDIM,tv,huawei,华为,,,华为智慧屏 MateTV 2 Max,110 英寸,huawei_cn
 HD55KANB,tv,huawei,华为,,Kant,华为智慧屏 S 系列,55 60Hz (3GB+16GB),huawei_cn
 HD55KANC,tv,huawei,华为,,Kant,华为智慧屏 S 系列,55 60Hz (3GB+32GB),huawei_cn
 HD55KANS,tv,huawei,华为,,Kant,华为智慧屏 S 系列,Pro 55 120Hz (3GB+16GB),huawei_cn
@@ -3527,9 +3554,13 @@ HD65NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,65,huawei_cn
 HD75NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,75,huawei_cn
 HD85NEWN,tv,huawei,华为,,,华为 Vision 智慧屏 5 Pro,85,huawei_cn
 HD6XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,65,huawei_cn
+HD1XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,悦享版 65,huawei_cn
 HD7XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,75,huawei_cn
+HD77WATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,悦享版 75,huawei_cn
 HD8XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,85,huawei_cn
+HD85WATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,悦享版 85,huawei_cn
 HD9XWATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,98,huawei_cn
+HD98WATN,tv,huawei,华为,,,华为 Vision 智慧屏 6,悦享版 98,huawei_cn
 HD55KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,55,huawei_cn
 HD55KLY26E,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,RGB 55,huawei_cn
 HD65KLY26A,tv,huawei,华为,,,华为 Vision 智慧屏 6 SE,65,huawei_cn
@@ -3644,6 +3675,7 @@ GLL-AL30B,watch,huawei,华为,,Galileo,HUAWEI WATCH B7,536,huawei_cn
 GLL-AL09B,watch,huawei,华为,,GalileoPro,HUAWEI WATCH B7,738,huawei_cn
 MLY-B10,watch,huawei,华为,,,HUAWEI WATCH B9,D10,huawei_cn
 SYA-B19B,watch,huawei,华为,,Seiya,华为擎云 H3540,,huawei_cn
+NKI-B19B,watch,huawei,华为,,,华为擎云 H3550,,huawei_cn
 SLO-B19,watch,huawei,华为,,Solo,华为擎云 H3Y10,,huawei_cn
 PNX-B19B,watch,huawei,华为,,Phoinix,华为擎云 H5546,,huawei_cn
 VLI-B19B,watch,huawei,华为,,Vili,华为擎云 H5556,,huawei_cn
@@ -5151,6 +5183,10 @@ O55M7-Z2IN,tv,mitv,Xiaomi,,,Xiaomi OLED Vision TV,55,mitv_global_en
 L55MC-IN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED,55,mitv_global_en
 L65MC-IN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED,65,mitv_global_en
 L75MC-IN,tv,mitv,Xiaomi,P32,,Xiaomi TV S Mini LED,75,mitv_global_en
+L43MC-FSMIN,tv,mitv,Xiaomi,,,Xiaomi TV FX Mini LED,43,mitv_global_en
+L55MC-FSMIN,tv,mitv,Xiaomi,,,Xiaomi TV FX Mini LED,55,mitv_global_en
+L65MC-FSMIN,tv,mitv,Xiaomi,,,Xiaomi TV FX Mini LED,65,mitv_global_en
+L75MC-FSMIN,tv,mitv,Xiaomi,,,Xiaomi TV FX Mini LED,75,mitv_global_en
 L32M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,32,mitv_global_en
 L32M7-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,32,mitv_global_en
 L43M6-RA,tv,mitv,Xiaomi,,,Redmi Smart TV,43,mitv_global_en
@@ -6376,6 +6412,7 @@ PLT130,mob,oppo,OPPO,,baikal-b5,OPPO A6v,,oppo_cn
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6x,,oppo_cn
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6m,,oppo_cn
 PMC110,mob,oppo,OPPO,,baikal-b4,OPPO A6c,,oppo_cn
+PLT150,mob,oppo,OPPO,,,OPPO A7i,,oppo_cn
 PYE110,mob,oppo,OPPO,,,OPPO A7 Pro,,oppo_cn
 PYC110,mob,oppo,OPPO,,doraemon-m,OPPO A7 Pro Max,,oppo_cn
 PBCM30,mob,oppo,OPPO,,,OPPO K1,,oppo_cn
@@ -6572,6 +6609,7 @@ CPH2801,mob,oppo,OPPO,,,OPPO Reno15 FS,5G,oppo_global_en
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15c,5G,oppo_global_en
 CPH2801,mob,oppo,OPPO,,,OPPO Reno15 A,,oppo_global_en
 CPH2865,mob,oppo,OPPO,,,OPPO Reno16,5G,oppo_global_en
+CPH2863,mob,oppo,OPPO,,,OPPO Reno16 Pro,5G,oppo_global_en
 CPH2859,mob,oppo,OPPO,,,OPPO Reno16 F,5G,oppo_global_en
 CPH2859,mob,oppo,OPPO,,,OPPO Reno16 FS,5G,oppo_global_en
 CPH2859,mob,oppo,OPPO,,,OPPO Reno16c,5G,oppo_global_en
@@ -7006,6 +7044,7 @@ RMX5120,mob,realme,realme,,iwc,16 Pro 5G,,realme_global_en
 RMX5131,mob,realme,realme,,zenith,16 Pro+ 5G,,realme_global_en
 RMX5268,mob,realme,realme,,mumbai-h,16T 5G,,realme_global_en
 RMX5270,mob,realme,realme,,,16x 5G,,realme_global_en
+RMX5366,mob,realme,realme,,,16 Lite,,realme_global_en
 RMX1901,mob,realme,realme,,,X,,realme_global_en
 RMX1921,mob,realme,realme,,,XT,Global,realme_global_en
 RMX1922,mob,realme,realme,,,XT,India,realme_global_en
@@ -7104,7 +7143,8 @@ RMX3997,mob,realme,realme,,barley-e,C65 5G,,realme_global_en
 RMX3939,mob,realme,realme,,latte-b,C65s,,realme_global_en
 RMX3890,mob,realme,realme,,zoe,C67,,realme_global_en
 RMX3782,mob,realme,realme,,chongqing,C67 5G,,realme_global_en
-RMX5303,mob,realme,realme,,dhaka,C71,,realme_global_en
+RMX5303,mob,realme,realme,,dhaka,C71,Global,realme_global_en
+RMX5313,mob,realme,realme,,dhaka,C71,India,realme_global_en
 RMX3945,mob,realme,realme,,rado-c,C73,5G,realme_global_en
 RMX3941,mob,realme,realme,,oris-c,C75,,realme_global_en
 RMX3943,mob,realme,realme,,rado,C75 5G,India,realme_global_en
@@ -7146,10 +7186,12 @@ RMX3943,mob,realme,realme,,rado,P3 Lite 5G,,realme_global_en
 RMX5555,mob,realme,realme,,moscow-a,P4,,realme_global_en
 RMX5110,mob,realme,realme,,casio-p,P4 5G,,realme_global_en
 RMX5116,mob,realme,realme,,neutron-p,P4 Pro,5G,realme_global_en
-RMX5367,mob,realme,realme,,nairobi-p,P4x,,realme_global_en
+RMX5366,mob,realme,realme,,nairobi-p,P4x,Global,realme_global_en
+RMX5367,mob,realme,realme,,nairobi-p,P4x,India,realme_global_en
 RMX5108,mob,realme,realme,,suzuki,P4x 5G,,realme_global_en
 RMX5107,mob,realme,realme,,casio-m,P4 Power,5G,realme_global_en
-RMX5313,mob,realme,realme,,latte-t,P4 Lite,,realme_global_en
+RMX5377,mob,realme,realme,,nairobi-a,P4 Lite,Global,realme_global_en
+RMX5313,mob,realme,realme,,latte-t,P4 Lite,India,realme_global_en
 RMX5261,mob,realme,realme,,mumbai-c2,P4 Lite 5G,,realme_global_en
 RMX5266,mob,realme,realme,,,P4R 5G,,realme_global_en
 RMX5125,mob,realme,realme,,,P4s 5G,,realme_global_en
@@ -9109,6 +9151,8 @@ V2531A,mob,vivo,vivo,,PD2531,Y500i,,vivo_cn
 V2531A,mob,vivo,vivo,,PD2531,Y500s,,vivo_cn
 V2531A,mob,vivo,vivo,,PD2531,Y6,,vivo_cn
 V2531A,mob,vivo,vivo,,PD2531,Y6a,,vivo_cn
+V2607A,mob,vivo,vivo,,PD2607,Y600,,vivo_cn
+V2617A,mob,vivo,vivo,,PD2617,Y600i,,vivo_cn
 V2561A,mob,vivo,vivo,,PD2561,Y600 Pro,,vivo_cn
 V2553A,mob,vivo,vivo,,PD2553,Y600 Turbo,,vivo_cn
 V2115A,mob,vivo,vivo,,PD2115,T1,,vivo_cn
@@ -9169,6 +9213,7 @@ V2408A,mob,vivo,vivo,,PD2408,iQOO 13,,vivo_cn
 V2505A,mob,vivo,vivo,,PD2505,iQOO 15,,vivo_cn
 V2546A,mob,vivo,vivo,,PD2546,iQOO 15 Ultra,,vivo_cn
 V2564A,mob,vivo,vivo,,PD2564,iQOO 15T,,vivo_cn
+V2606A,mob,vivo,vivo,,PD2606,iQOO 16,,vivo_cn
 V1914A,mob,vivo,vivo,,PD1914,iQOO Neo,全网通版,vivo_cn
 V1914T,mob,vivo,vivo,,PD1914,iQOO Neo,移动全网通版,vivo_cn
 V1936A,mob,vivo,vivo,,PD1936,iQOO Neo 855 版,全网通版,vivo_cn
@@ -9388,6 +9433,8 @@ V2637,mob,vivo,vivo,,PD2512F,V70 Lite 5G,,vivo_global_en
 V2576,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
 V2643,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
 V2644,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
+V2626,mob,vivo,vivo,,,V80 Lite 5G,,vivo_global_en
+V2655,mob,vivo,vivo,,,V80 Lite 5G,,vivo_global_en
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,,vivo_global_en
 V1937,mob,vivo,vivo,,PD1982F,S1 Prime,,vivo_global_en
 vivo 1920,mob,vivo,vivo,,PD1945F,S1 Pro,,vivo_global_en
