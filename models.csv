@@ -403,6 +403,10 @@ A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),(无线局域网 +
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),无线局域网,apple_all
 A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),无线局域网 + 蜂窝网络,apple_all
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),(无线局域网 + 蜂窝网络) (中国大陆),apple_all
+A1603,accessory,apple,Apple,B222AP,,Apple Pencil (第 1 代),,apple_all
+A2051,accessory,apple,Apple,B332AP,,Apple Pencil (第 2 代),,apple_all
+A3085,accessory,apple,Apple,B482AP,,Apple Pencil (USB-C),,apple_all
+A2538,accessory,apple,Apple,B532AP,,Apple Pencil Pro,,apple_all
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (第 1 代),38 毫米表壳,apple_all
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (第 1 代),42 毫米表壳,apple_all
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,38 毫米表壳,apple_all
@@ -522,6 +526,105 @@ A1421,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),,apple_all
 A1509,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),16GB,apple_all
 A1574,pod,apple,Apple,N102AP,"iPod7,1",iPod touch (第 6 代),,apple_all
 A2178,pod,apple,Apple,N112AP,"iPod9,1",iPod touch (第 7 代),,apple_all
+A2337,computer,apple,Apple,J313AP,"MacBookAir10,1",MacBook Air (M1),,apple_all
+A2681,computer,apple,Apple,J413AP,"Mac14,2",MacBook Air (M2),,apple_all
+A2941,computer,apple,Apple,J415AP,"Mac14,5","MacBook Air (15 英寸, M2)",,apple_all
+A3113,computer,apple,Apple,J613AP,"Mac15,12","MacBook Air (13 英寸, M3)",,apple_all
+A3114,computer,apple,Apple,J615AP,"Mac15,13","MacBook Air (15 英寸, M3)",,apple_all
+A3240,computer,apple,Apple,J713AP,"Mac16,12","MacBook Air (13 英寸, M4)",,apple_all
+A3241,computer,apple,Apple,J715AP,"Mac16,13","MacBook Air (15 英寸, M4)",,apple_all
+A3449,computer,apple,Apple,J813AP,"Mac17,3","MacBook Air (13 英寸, M5)",,apple_all
+A3448,computer,apple,Apple,J815AP,"Mac17,4","MacBook Air (15 英寸, M5)",,apple_all
+A3404,computer,apple,Apple,J700AP,"Mac17,5",MacBook Neo (A18 Pro),,apple_all
+A2338,computer,apple,Apple,J293AP,"MacBookPro17,1","MacBook Pro (13 英寸, M1)",,apple_all
+A2442,computer,apple,Apple,J314sAP,"MacBookPro18,3","MacBook Pro (14 英寸, M1 Pro)",,apple_all
+A2442,computer,apple,Apple,J314cAP,"MacBookPro18,4","MacBook Pro (14 英寸, M1 Max)",,apple_all
+A2485,computer,apple,Apple,J316sAP,"MacBookPro18,1","MacBook Pro (16 英寸, M1 Pro)",,apple_all
+A2485,computer,apple,Apple,J316cAP,"MacBookPro18,2","MacBook Pro (16 英寸, M1 Max)",,apple_all
+A2338,computer,apple,Apple,J493AP,"Mac14,7","MacBook Pro (13 英寸, M2)",,apple_all
+A2779,computer,apple,Apple,J414sAP,"Mac14,9","MacBook Pro (14 英寸, M2 Pro)",,apple_all
+A2779,computer,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14 英寸, M2 Max)",Pro,apple_all
+A2780,computer,apple,Apple,J416sAP,"Mac14,10","MacBook Pro (16 英寸, M2 Pro)",,apple_all
+A2780,computer,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16 英寸, M2 Max)",Pro,apple_all
+A2918,computer,apple,Apple,J504AP,"Mac15,3","MacBook Pro (14 英寸, M3)",,apple_all
+A2992,computer,apple,Apple,J514sAP,"Mac15,6","MacBook Pro (14 英寸, M3 Pro)",,apple_all
+A2992,computer,apple,Apple,J514mAP,"Mac15,10","MacBook Pro (14 英寸, M3 Max, 14 核)",,apple_all
+A2992,computer,apple,Apple,J514cAP,"Mac15,8","MacBook Pro (14 英寸, M3 Max, 16 核)",,apple_all
+A2991,computer,apple,Apple,J516sAP,"Mac15,7","MacBook Pro (16 英寸, M3 Pro)",,apple_all
+A2991,computer,apple,Apple,J516mAP,"Mac15,11","MacBook Pro (16 英寸, M3 Max, 14 核)",,apple_all
+A2991,computer,apple,Apple,J516cAP,"Mac15,9","MacBook Pro (16 英寸, M3 Max, 16 核)",,apple_all
+A3112,computer,apple,Apple,J604AP,"Mac16,1","MacBook Pro (14 英寸, M4)",,apple_all
+A3401,computer,apple,Apple,J614sAP,"Mac16,8","MacBook Pro (14 英寸, M4 Pro)",,apple_all
+A3185,computer,apple,Apple,J614cAP,"Mac16,6","MacBook Pro (14 英寸, M4 Max)",,apple_all
+A3403,computer,apple,Apple,J616sAP,"Mac16,7","MacBook Pro (16 英寸, M4 Pro)",,apple_all
+A3186,computer,apple,Apple,J616cAP,"Mac16,5","MacBook Pro (16 英寸, M4 Max)",,apple_all
+A3434,computer,apple,Apple,J704AP,"Mac17,2","MacBook Pro (14 英寸, M5)",,apple_all
+A3426,computer,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14 英寸, M5 Pro)",,apple_all
+A3427,computer,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14 英寸, M5 Max)",,apple_all
+A3428,computer,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16 英寸, M5 Pro)",,apple_all
+A3429,computer,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16 英寸, M5 Max)",,apple_all
+A2438,computer,apple,Apple,J456AP,"iMac21,1","iMac (24 英寸, M1)",2 个 USB-C 端口,apple_all
+A2439,computer,apple,Apple,J457AP,"iMac21,2","iMac (24 英寸, M1)",4 个 USB-C 端口,apple_all
+A2874,computer,apple,Apple,J433AP,"Mac15,4","iMac (24 英寸, M3)",2 个 USB-C 端口,apple_all
+A2873,computer,apple,Apple,J434AP,"Mac15,5","iMac (24 英寸, M3)",4 个 USB-C 端口,apple_all
+A3247,computer,apple,Apple,J623AP,"Mac16,2","iMac (24 英寸, M4)",2 个 USB-C 端口,apple_all
+A3137,computer,apple,Apple,J624AP,"Mac16,3","iMac (24 英寸, M4)",4 个 USB-C 端口,apple_all
+A2348,computer,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),,apple_all
+A2686,computer,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),,apple_all
+A2816,computer,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),,apple_all
+A3238,computer,apple,Apple,J773gAP,"Mac16,10",Mac mini (M4),,apple_all
+A3239,computer,apple,Apple,J773sAP,"Mac16,11",Mac mini (M4 Pro),,apple_all
+A3534,computer,apple,Apple,J873gAP,"Mac18,5",Mac mini (M6),,apple_all
+A3535,computer,apple,Apple,J873sAP,"Mac17,16",Mac mini (M5 Pro),,apple_all
+A2615,computer,apple,Apple,J375cAP,"Mac13,1",Mac Studio (M1 Max),,apple_all
+A2615,computer,apple,Apple,J375dAP,"Mac13,2",Mac Studio (M1 Ultra),,apple_all
+A2901,computer,apple,Apple,J475cAP,"Mac14,13",Mac Studio (M2 Max),,apple_all
+A2901,computer,apple,Apple,J475dAP,"Mac14,14",Mac Studio (M2 Ultra),,apple_all
+A3143,computer,apple,Apple,J575cAP,"Mac16,9",Mac Studio (M4 Max),,apple_all
+A3389,computer,apple,Apple,J575dAP,"Mac15,14",Mac Studio (M3 Ultra),,apple_all
+A3545,computer,apple,Apple,J775cAP,"Mac17,14",Mac Studio (M5 Max),,apple_all
+A3546,computer,apple,Apple,J775dAP,"Mac17,15",Mac Studio (M5 Ultra),,apple_all
+A2786,computer,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),塔式,apple_all
+A2787,computer,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),机架式,apple_all
+A1999,computer,apple,Apple,J290AP,"AppleDisplay1,1",Pro Display XDR,,apple_all
+A2525,computer,apple,Apple,J327AP,"AppleDisplay2,1",Studio Display,,apple_all
+A3350,computer,apple,Apple,J527AP,"AppleDisplay18,2",Studio Display (2026),,apple_all
+A3348,computer,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,,apple_all
+A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),右耳塞,apple_all
+A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),左耳塞,apple_all
+A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),充电盒,apple_all
+A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),左耳塞,apple_all
+A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),右耳塞,apple_all
+A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),无线充电盒,apple_all
+A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),左耳塞,apple_all
+A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),右耳塞,apple_all
+A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),MagSafe 充电盒,apple_all
+A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,左耳塞,apple_all
+A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,右耳塞,apple_all
+A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,充电盒,apple_all
+A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (左耳塞),apple_all
+A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (右耳塞),apple_all
+A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (充电盒),apple_all
+A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,左耳塞,apple_all
+A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,右耳塞,apple_all
+A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,MagSafe 充电盒,apple_all
+A2699,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro (第 2 代),左耳塞,apple_all
+A2698,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro (第 2 代),右耳塞,apple_all
+A2700,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro (第 2 代),MagSafe 充电盒,apple_all
+A3047,pod,apple,Apple,B698AP,"AirPodsPro2,1","AirPods Pro (第 2 代, USB-C)",左耳塞,apple_all
+A3048,pod,apple,Apple,B698AP,"AirPodsPro2,1","AirPods Pro (第 2 代, USB-C)",右耳塞,apple_all
+A2968,pod,apple,Apple,B698AP,"AirPodsPro2,1","AirPods Pro (第 2 代, USB-C)",USB-C 充电盒,apple_all
+A3064,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,左耳塞,apple_all
+A3063,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,右耳塞,apple_all
+A3122,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,充电盒,apple_all
+A2096,pod,apple,Apple,B515AP,"AirPodsMax1,1",AirPods Max,闪电接口,apple_all
+A3184,pod,apple,Apple,B515cAP,"AirPodsMax1,1",AirPods Max (USB-C),,apple_all
+A3454,pod,apple,Apple,B515dAP,"AirPodsMax1,2",AirPods Max 2,,apple_all
+A2187,accessory,apple,Apple,B389AP,"AirTag1,1",AirTag,,apple_all
+A2937,accessory,apple,Apple,B589AP,,AirTag (第 2 代),,apple_all
+A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod,,apple_all
+A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,,apple_all
+A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (第 2 代),,apple_all
 A1203,mob,apple,Apple,M68AP,"iPhone1,1",iPhone,,apple_all_en
 A1241,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,,apple_all_en
 A1324,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,China mainland,apple_all_en
@@ -888,6 +991,10 @@ A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (6th generation),Wi-Fi + Cellu
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),Wi-Fi,apple_all_en
 A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular,apple_all_en
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular (China mainland),apple_all_en
+A1603,accessory,apple,Apple,B222AP,,Apple Pencil (1st generation),,apple_all_en
+A2051,accessory,apple,Apple,B332AP,,Apple Pencil (2nd generation),,apple_all_en
+A3085,accessory,apple,Apple,B482AP,,Apple Pencil (USB-C),,apple_all_en
+A2538,accessory,apple,Apple,B532AP,,Apple Pencil Pro,,apple_all_en
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (1st generation),38mm case,apple_all_en
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (1st generation),42mm case,apple_all_en
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,38mm case,apple_all_en
@@ -1007,6 +1114,105 @@ A1421,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (5th generation),,apple_all_en
 A1509,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (5th generation),16GB,apple_all_en
 A1574,pod,apple,Apple,N102AP,"iPod7,1",iPod touch (6th generation),,apple_all_en
 A2178,pod,apple,Apple,N112AP,"iPod9,1",iPod touch (7th generation),,apple_all_en
+A2337,computer,apple,Apple,J313AP,"MacBookAir10,1",MacBook Air (M1),,apple_all_en
+A2681,computer,apple,Apple,J413AP,"Mac14,2",MacBook Air (M2),,apple_all_en
+A2941,computer,apple,Apple,J415AP,"Mac14,5","MacBook Air (15-inch, M2)",,apple_all_en
+A3113,computer,apple,Apple,J613AP,"Mac15,12","MacBook Air (13-inch, M3)",,apple_all_en
+A3114,computer,apple,Apple,J615AP,"Mac15,13","MacBook Air (15-inch, M3)",,apple_all_en
+A3240,computer,apple,Apple,J713AP,"Mac16,12","MacBook Air (13-inch, M4)",,apple_all_en
+A3241,computer,apple,Apple,J715AP,"Mac16,13","MacBook Air (15-inch, M4)",,apple_all_en
+A3449,computer,apple,Apple,J813AP,"Mac17,3","MacBook Air (13-inch, M5)",,apple_all_en
+A3448,computer,apple,Apple,J815AP,"Mac17,4","MacBook Air (15-inch, M5)",,apple_all_en
+A3404,computer,apple,Apple,J700AP,"Mac17,5",MacBook Neo (A18 Pro),,apple_all_en
+A2338,computer,apple,Apple,J293AP,"MacBookPro17,1","MacBook Pro (13-inch, M1)",,apple_all_en
+A2442,computer,apple,Apple,J314sAP,"MacBookPro18,3","MacBook Pro (14-inch, M1 Pro)",,apple_all_en
+A2442,computer,apple,Apple,J314cAP,"MacBookPro18,4","MacBook Pro (14-inch, M1 Max)",,apple_all_en
+A2485,computer,apple,Apple,J316sAP,"MacBookPro18,1","MacBook Pro (16-inch, M1 Pro)",,apple_all_en
+A2485,computer,apple,Apple,J316cAP,"MacBookPro18,2","MacBook Pro (16-inch, M1 Max)",,apple_all_en
+A2338,computer,apple,Apple,J493AP,"Mac14,7","MacBook Pro (13-inch, M2)",,apple_all_en
+A2779,computer,apple,Apple,J414sAP,"Mac14,9","MacBook Pro (14-inch, M2 Pro)",,apple_all_en
+A2779,computer,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14-inch, M2 Max)",,apple_all_en
+A2780,computer,apple,Apple,J416sAP,"Mac14,10","MacBook Pro (16-inch, M2 Pro)",,apple_all_en
+A2780,computer,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16-inch, M2 Max)",,apple_all_en
+A2918,computer,apple,Apple,J504AP,"Mac15,3","MacBook Pro (14-inch, M3)",,apple_all_en
+A2992,computer,apple,Apple,J514sAP,"Mac15,6","MacBook Pro (14-inch, M3 Pro)",,apple_all_en
+A2992,computer,apple,Apple,J514mAP,"Mac15,10","MacBook Pro (14-inch, M3 Max, 14-core)",,apple_all_en
+A2992,computer,apple,Apple,J514cAP,"Mac15,8","MacBook Pro (14-inch, M3 Max, 16-core)",,apple_all_en
+A2991,computer,apple,Apple,J516sAP,"Mac15,7","MacBook Pro (16-inch, M3 Pro)",,apple_all_en
+A2991,computer,apple,Apple,J516mAP,"Mac15,11","MacBook Pro (16-inch, M3 Max, 14-core)",,apple_all_en
+A2991,computer,apple,Apple,J516cAP,"Mac15,9","MacBook Pro (16-inch, M3 Max, 16-core)",,apple_all_en
+A3112,computer,apple,Apple,J604AP,"Mac16,1","MacBook Pro (14-inch, M4)",,apple_all_en
+A3401,computer,apple,Apple,J614sAP,"Mac16,8","MacBook Pro (14-inch, M4 Pro)",,apple_all_en
+A3185,computer,apple,Apple,J614cAP,"Mac16,6","MacBook Pro (14-inch, M4 Max)",,apple_all_en
+A3403,computer,apple,Apple,J616sAP,"Mac16,7","MacBook Pro (16-inch, M4 Pro)",,apple_all_en
+A3186,computer,apple,Apple,J616cAP,"Mac16,5","MacBook Pro (16-inch, M4 Max)",,apple_all_en
+A3434,computer,apple,Apple,J704AP,"Mac17,2","MacBook Pro (14-inch, M5)",,apple_all_en
+A3426,computer,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14-inch, M5 Pro)",,apple_all_en
+A3427,computer,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14-inch, M5 Max)",,apple_all_en
+A3428,computer,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16-inch, M5 Pro)",,apple_all_en
+A3429,computer,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16-inch, M5 Max)",,apple_all_en
+A2438,computer,apple,Apple,J456AP,"iMac21,1","iMac (24-inch, M1)",2 USB-C ports,apple_all_en
+A2439,computer,apple,Apple,J457AP,"iMac21,2","iMac (24-inch, M1)",4 USB-C ports,apple_all_en
+A2874,computer,apple,Apple,J433AP,"Mac15,4","iMac (24-inch, M3)",2 USB-C ports,apple_all_en
+A2873,computer,apple,Apple,J434AP,"Mac15,5","iMac (24-inch, M3)",4 USB-C ports,apple_all_en
+A3247,computer,apple,Apple,J623AP,"Mac16,2","iMac (24-inch, M4)",2 USB-C ports,apple_all_en
+A3137,computer,apple,Apple,J624AP,"Mac16,3","iMac (24-inch, M4)",4 USB-C ports,apple_all_en
+A2348,computer,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),,apple_all_en
+A2686,computer,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),,apple_all_en
+A2816,computer,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),,apple_all_en
+A3238,computer,apple,Apple,J773gAP,"Mac16,10",Mac mini (M4),,apple_all_en
+A3239,computer,apple,Apple,J773sAP,"Mac16,11",Mac mini (M4 Pro),,apple_all_en
+A3534,computer,apple,Apple,J873gAP,"Mac18,5",Mac mini (M6),,apple_all_en
+A3535,computer,apple,Apple,J873sAP,"Mac17,16",Mac mini (M5 Pro),,apple_all_en
+A2615,computer,apple,Apple,J375cAP,"Mac13,1",Mac Studio (M1 Max),,apple_all_en
+A2615,computer,apple,Apple,J375dAP,"Mac13,2",Mac Studio (M1 Ultra),,apple_all_en
+A2901,computer,apple,Apple,J475cAP,"Mac14,13",Mac Studio (M2 Max),,apple_all_en
+A2901,computer,apple,Apple,J475dAP,"Mac14,14",Mac Studio (M2 Ultra),,apple_all_en
+A3143,computer,apple,Apple,J575cAP,"Mac16,9",Mac Studio (M4 Max),,apple_all_en
+A3389,computer,apple,Apple,J575dAP,"Mac15,14",Mac Studio (M3 Ultra),,apple_all_en
+A3545,computer,apple,Apple,J775cAP,"Mac17,14",Mac Studio (M5 Max),,apple_all_en
+A3546,computer,apple,Apple,J775dAP,"Mac17,15",Mac Studio (M5 Ultra),,apple_all_en
+A2786,computer,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),Tower,apple_all_en
+A2787,computer,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),Rack,apple_all_en
+A1999,computer,apple,Apple,J290AP,"AppleDisplay1,1",Pro Display XDR,,apple_all_en
+A2525,computer,apple,Apple,J327AP,"AppleDisplay2,1",Studio Display,,apple_all_en
+A3350,computer,apple,Apple,J527AP,"AppleDisplay18,2",Studio Display (2026),,apple_all_en
+A3348,computer,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,,apple_all_en
+A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),right AirPod,apple_all_en
+A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),left AirPod,apple_all_en
+A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (1st generation),charging case,apple_all_en
+A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),left AirPod,apple_all_en
+A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),right AirPod,apple_all_en
+A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),charging case,apple_all_en
+A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),left AirPod,apple_all_en
+A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),right AirPod,apple_all_en
+A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),charging case,apple_all_en
+A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,left AirPod,apple_all_en
+A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,right AirPod,apple_all_en
+A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,charging case,apple_all_en
+A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (left AirPod),apple_all_en
+A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (right AirPod),apple_all_en
+A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (charging case),apple_all_en
+A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,left AirPod,apple_all_en
+A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,right AirPod,apple_all_en
+A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,charging case,apple_all_en
+A2699,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,left AirPod,apple_all_en
+A2698,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,right AirPod,apple_all_en
+A2700,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,charging case,apple_all_en
+A3047,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),left AirPod,apple_all_en
+A3048,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),right AirPod,apple_all_en
+A2968,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),charging case,apple_all_en
+A3064,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,left AirPod,apple_all_en
+A3063,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,right AirPod,apple_all_en
+A3122,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,charging case,apple_all_en
+A2096,pod,apple,Apple,B515AP,"AirPodsMax1,1",AirPods Max (Lightning),,apple_all_en
+A3184,pod,apple,Apple,B515cAP,"AirPodsMax1,1",AirPods Max (USB-C),,apple_all_en
+A3454,pod,apple,Apple,B515dAP,"AirPodsMax1,2",AirPods Max 2,,apple_all_en
+A2187,accessory,apple,Apple,B389AP,"AirTag1,1",AirTag,,apple_all_en
+A2937,accessory,apple,Apple,B589AP,,AirTag (2nd generation),,apple_all_en
+A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod (1st generation),,apple_all_en
+A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,,apple_all_en
+A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (2nd generation),,apple_all_en
 A1324,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,,apple_cn
 A1303,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,,apple_cn
 A1325,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,无 WLAN 功能,apple_cn
@@ -1185,6 +1391,10 @@ A2567,pad,apple,Apple,J310AP,"iPad14,1",iPad mini (第 6 代),无线局域网,ap
 A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),无线局域网 + 蜂窝网络,apple_cn
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),无线局域网,apple_cn
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),无线局域网 + 蜂窝网络,apple_cn
+A1603,accessory,apple,Apple,B222AP,,Apple Pencil (第 1 代),,apple_cn
+A2051,accessory,apple,Apple,B332AP,,Apple Pencil (第 2 代),,apple_cn
+A3085,accessory,apple,Apple,B482AP,,Apple Pencil (USB-C),,apple_cn
+A2538,accessory,apple,Apple,B532AP,,Apple Pencil Pro,,apple_cn
 A1553,watch,apple,Apple,N27aAP,"Watch1,1",Apple Watch (第 1 代),38 毫米表壳,apple_cn
 A1554,watch,apple,Apple,N28aAP,"Watch1,2",Apple Watch (第 1 代),42 毫米表壳,apple_cn
 A1802,watch,apple,Apple,N27dAP,"Watch2,6",Apple Watch Series 1,38 毫米表壳,apple_cn
@@ -1254,6 +1464,105 @@ A1421,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),,apple_cn
 A1509,pod,apple,Apple,N78AP,"iPod5,1",iPod touch (第 5 代),16GB,apple_cn
 A1574,pod,apple,Apple,N102AP,"iPod7,1",iPod touch (第 6 代),,apple_cn
 A2178,pod,apple,Apple,N112AP,"iPod9,1",iPod touch (第 7 代),,apple_cn
+A2337,computer,apple,Apple,J313AP,"MacBookAir10,1",MacBook Air (M1),,apple_cn
+A2681,computer,apple,Apple,J413AP,"Mac14,2",MacBook Air (M2),,apple_cn
+A2941,computer,apple,Apple,J415AP,"Mac14,5","MacBook Air (15 英寸, M2)",,apple_cn
+A3113,computer,apple,Apple,J613AP,"Mac15,12","MacBook Air (13 英寸, M3)",,apple_cn
+A3114,computer,apple,Apple,J615AP,"Mac15,13","MacBook Air (15 英寸, M3)",,apple_cn
+A3240,computer,apple,Apple,J713AP,"Mac16,12","MacBook Air (13 英寸, M4)",,apple_cn
+A3241,computer,apple,Apple,J715AP,"Mac16,13","MacBook Air (15 英寸, M4)",,apple_cn
+A3449,computer,apple,Apple,J813AP,"Mac17,3","MacBook Air (13 英寸, M5)",,apple_cn
+A3448,computer,apple,Apple,J815AP,"Mac17,4","MacBook Air (15 英寸, M5)",,apple_cn
+A3404,computer,apple,Apple,J700AP,"Mac17,5",MacBook Neo (A18 Pro),,apple_cn
+A2338,computer,apple,Apple,J293AP,"MacBookPro17,1","MacBook Pro (13 英寸, M1)",,apple_cn
+A2442,computer,apple,Apple,J314sAP,"MacBookPro18,3","MacBook Pro (14 英寸, M1 Pro)",,apple_cn
+A2442,computer,apple,Apple,J314cAP,"MacBookPro18,4","MacBook Pro (14 英寸, M1 Max)",,apple_cn
+A2485,computer,apple,Apple,J316sAP,"MacBookPro18,1","MacBook Pro (16 英寸, M1 Pro)",,apple_cn
+A2485,computer,apple,Apple,J316cAP,"MacBookPro18,2","MacBook Pro (16 英寸, M1 Max)",,apple_cn
+A2338,computer,apple,Apple,J493AP,"Mac14,7","MacBook Pro (13 英寸, M2)",,apple_cn
+A2779,computer,apple,Apple,J414sAP,"Mac14,9","MacBook Pro (14 英寸, M2 Pro)",,apple_cn
+A2779,computer,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14 英寸, M2 Max)",Pro,apple_cn
+A2780,computer,apple,Apple,J416sAP,"Mac14,10","MacBook Pro (16 英寸, M2 Pro)",,apple_cn
+A2780,computer,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16 英寸, M2 Max)",Pro,apple_cn
+A2918,computer,apple,Apple,J504AP,"Mac15,3","MacBook Pro (14 英寸, M3)",,apple_cn
+A2992,computer,apple,Apple,J514sAP,"Mac15,6","MacBook Pro (14 英寸, M3 Pro)",,apple_cn
+A2992,computer,apple,Apple,J514mAP,"Mac15,10","MacBook Pro (14 英寸, M3 Max, 14 核)",,apple_cn
+A2992,computer,apple,Apple,J514cAP,"Mac15,8","MacBook Pro (14 英寸, M3 Max, 16 核)",,apple_cn
+A2991,computer,apple,Apple,J516sAP,"Mac15,7","MacBook Pro (16 英寸, M3 Pro)",,apple_cn
+A2991,computer,apple,Apple,J516mAP,"Mac15,11","MacBook Pro (16 英寸, M3 Max, 14 核)",,apple_cn
+A2991,computer,apple,Apple,J516cAP,"Mac15,9","MacBook Pro (16 英寸, M3 Max, 16 核)",,apple_cn
+A3112,computer,apple,Apple,J604AP,"Mac16,1","MacBook Pro (14 英寸, M4)",,apple_cn
+A3401,computer,apple,Apple,J614sAP,"Mac16,8","MacBook Pro (14 英寸, M4 Pro)",,apple_cn
+A3185,computer,apple,Apple,J614cAP,"Mac16,6","MacBook Pro (14 英寸, M4 Max)",,apple_cn
+A3403,computer,apple,Apple,J616sAP,"Mac16,7","MacBook Pro (16 英寸, M4 Pro)",,apple_cn
+A3186,computer,apple,Apple,J616cAP,"Mac16,5","MacBook Pro (16 英寸, M4 Max)",,apple_cn
+A3434,computer,apple,Apple,J704AP,"Mac17,2","MacBook Pro (14 英寸, M5)",,apple_cn
+A3426,computer,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14 英寸, M5 Pro)",,apple_cn
+A3427,computer,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14 英寸, M5 Max)",,apple_cn
+A3428,computer,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16 英寸, M5 Pro)",,apple_cn
+A3429,computer,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16 英寸, M5 Max)",,apple_cn
+A2438,computer,apple,Apple,J456AP,"iMac21,1","iMac (24 英寸, M1)",2 个 USB-C 端口,apple_cn
+A2439,computer,apple,Apple,J457AP,"iMac21,2","iMac (24 英寸, M1)",4 个 USB-C 端口,apple_cn
+A2874,computer,apple,Apple,J433AP,"Mac15,4","iMac (24 英寸, M3)",2 个 USB-C 端口,apple_cn
+A2873,computer,apple,Apple,J434AP,"Mac15,5","iMac (24 英寸, M3)",4 个 USB-C 端口,apple_cn
+A3247,computer,apple,Apple,J623AP,"Mac16,2","iMac (24 英寸, M4)",2 个 USB-C 端口,apple_cn
+A3137,computer,apple,Apple,J624AP,"Mac16,3","iMac (24 英寸, M4)",4 个 USB-C 端口,apple_cn
+A2348,computer,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),,apple_cn
+A2686,computer,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),,apple_cn
+A2816,computer,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),,apple_cn
+A3238,computer,apple,Apple,J773gAP,"Mac16,10",Mac mini (M4),,apple_cn
+A3239,computer,apple,Apple,J773sAP,"Mac16,11",Mac mini (M4 Pro),,apple_cn
+A3534,computer,apple,Apple,J873gAP,"Mac18,5",Mac mini (M6),,apple_cn
+A3535,computer,apple,Apple,J873sAP,"Mac17,16",Mac mini (M5 Pro),,apple_cn
+A2615,computer,apple,Apple,J375cAP,"Mac13,1",Mac Studio (M1 Max),,apple_cn
+A2615,computer,apple,Apple,J375dAP,"Mac13,2",Mac Studio (M1 Ultra),,apple_cn
+A2901,computer,apple,Apple,J475cAP,"Mac14,13",Mac Studio (M2 Max),,apple_cn
+A2901,computer,apple,Apple,J475dAP,"Mac14,14",Mac Studio (M2 Ultra),,apple_cn
+A3143,computer,apple,Apple,J575cAP,"Mac16,9",Mac Studio (M4 Max),,apple_cn
+A3389,computer,apple,Apple,J575dAP,"Mac15,14",Mac Studio (M3 Ultra),,apple_cn
+A3545,computer,apple,Apple,J775cAP,"Mac17,14",Mac Studio (M5 Max),,apple_cn
+A3546,computer,apple,Apple,J775dAP,"Mac17,15",Mac Studio (M5 Ultra),,apple_cn
+A2786,computer,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),塔式,apple_cn
+A2787,computer,apple,Apple,J180dAP,"Mac14,8",Mac Pro (2023),机架式,apple_cn
+A1999,computer,apple,Apple,J290AP,"AppleDisplay1,1",Pro Display XDR,,apple_cn
+A2525,computer,apple,Apple,J327AP,"AppleDisplay2,1",Studio Display,,apple_cn
+A3350,computer,apple,Apple,J527AP,"AppleDisplay18,2",Studio Display (2026),,apple_cn
+A3348,computer,apple,Apple,J427AP,"AppleDisplay18,1",Studio Display XDR,,apple_cn
+A1523,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),右耳塞,apple_cn
+A1722,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),左耳塞,apple_cn
+A1602,pod,apple,Apple,B188AP,"AirPods1,1",AirPods (第 1 代),充电盒,apple_cn
+A2031,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),左耳塞,apple_cn
+A2032,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),右耳塞,apple_cn
+A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),充电盒,apple_cn
+A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),左耳塞,apple_cn
+A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),右耳塞,apple_cn
+A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),充电盒,apple_cn
+A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,左耳塞,apple_cn
+A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,右耳塞,apple_cn
+A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,充电盒,apple_cn
+A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (左耳塞),apple_cn
+A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (右耳塞),apple_cn
+A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (充电盒),apple_cn
+A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,左耳塞,apple_cn
+A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,右耳塞,apple_cn
+A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,充电盒,apple_cn
+A2699,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,左耳塞,apple_cn
+A2698,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,右耳塞,apple_cn
+A2700,pod,apple,Apple,B698AP,"AirPodsPro1,2",AirPods Pro 2,充电盒,apple_cn
+A3047,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),左耳塞,apple_cn
+A3048,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),右耳塞,apple_cn
+A2968,pod,apple,Apple,B698AP,"AirPodsPro2,1",AirPods Pro 2 (USB-C),充电盒,apple_cn
+A3064,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,左耳塞,apple_cn
+A3063,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,右耳塞,apple_cn
+A3122,pod,apple,Apple,B788AP,"AirPodsPro1,3",AirPods Pro 3,充电盒,apple_cn
+A2096,pod,apple,Apple,B515AP,"AirPodsMax1,1",AirPods Max,闪电接口,apple_cn
+A3184,pod,apple,Apple,B515cAP,"AirPodsMax1,1",AirPods Max (USB-C),,apple_cn
+A3454,pod,apple,Apple,B515dAP,"AirPodsMax1,2",AirPods Max 2,,apple_cn
+A2187,accessory,apple,Apple,B389AP,"AirTag1,1",AirTag,,apple_cn
+A2937,accessory,apple,Apple,B589AP,,AirTag (第 2 代),,apple_cn
+A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod,,apple_cn
+A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,,apple_cn
+A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (第 2 代),,apple_cn
 ASUS_Z01QD,mob,asus,华硕,,ZS600KL,ROG 游戏手机,,asus_cn
 ASUS_I001DA,mob,asus,华硕,,ZS660KL,ROG 游戏手机 2,,asus_cn
 ASUS_I001DB,mob,asus,华硕,,ZS660KL,ROG 游戏手机 2,,asus_cn
@@ -2672,6 +2981,7 @@ PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,,huawei_cn
 PLU-AL10,mob,huawei,华为,,PillarU,HUAWEI Mate 70 RS 非凡大师,,huawei_cn
 SUP-AL90,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,,huawei_cn
 VYG-AL00,mob,huawei,华为,,Voyager,HUAWEI Mate 80,,huawei_cn
+VYG-AL30,mob,huawei,华为,,Voyager,HUAWEI Mate 80,,huawei_cn
 SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030,huawei_cn
 SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030 Pro,huawei_cn
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,,huawei_cn
@@ -3490,8 +3800,11 @@ HD7XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,75,huawei_cn
 HD8XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,85,huawei_cn
 HD9XAJMS,tv,huawei,华为,,,华为智慧屏 S6 Pro,98,huawei_cn
 HD55KLY26B,tv,huawei,华为,,,华为智慧屏 S7,55,huawei_cn
+HD55KLY26C,tv,huawei,华为,,,华为智慧屏 S7,RGB 55,huawei_cn
 HD65KLY26B,tv,huawei,华为,,,华为智慧屏 S7,65,huawei_cn
+HD65KLY26C,tv,huawei,华为,,,华为智慧屏 S7,RGB 65,huawei_cn
 HD75KLY26B,tv,huawei,华为,,,华为智慧屏 S7,75,huawei_cn
+HD75KLY26C,tv,huawei,华为,,,华为智慧屏 S7,RGB 75,huawei_cn
 HD85KLY26B,tv,huawei,华为,,,华为智慧屏 S7,85,huawei_cn
 HD98QINA,tv,huawei,华为,,,华为智慧屏 S7,98,huawei_cn
 HD6XNEWN,tv,huawei,华为,,,华为智慧屏 S7 Pro,65,huawei_cn
@@ -5720,6 +6033,7 @@ NX551J,mob,nubia,努比亚,,,M2,,nubia
 NX573J,mob,nubia,努比亚,,,M2 青春版,,nubia
 NX907J,mob,nubia,努比亚,,,M2 畅玩版,,nubia
 P0110,mob,nubia,努比亚,,,M153 豆包手机助手技术预览版,,nubia
+NX888J,mob,nubia,努比亚,,,NaviX Ultra,,nubia
 NX541J,mob,nubia,努比亚,,,N1,,nubia
 NX575J,mob,nubia,努比亚,,,N2,,nubia
 NX608J,mob,nubia,努比亚,,,N3,,nubia
@@ -6412,8 +6726,8 @@ PLT130,mob,oppo,OPPO,,baikal-b5,OPPO A6v,,oppo_cn
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6x,,oppo_cn
 PLT140,mob,oppo,OPPO,,baikal-b5,OPPO A6m,,oppo_cn
 PMC110,mob,oppo,OPPO,,baikal-b4,OPPO A6c,,oppo_cn
-PLT150,mob,oppo,OPPO,,,OPPO A7i,,oppo_cn
-PYE110,mob,oppo,OPPO,,,OPPO A7 Pro,,oppo_cn
+PLT150,mob,oppo,OPPO,,baikal-b5,OPPO A7i,,oppo_cn
+PYE110,mob,oppo,OPPO,,doraemon-b5,OPPO A7 Pro,,oppo_cn
 PYC110,mob,oppo,OPPO,,doraemon-m,OPPO A7 Pro Max,,oppo_cn
 PBCM30,mob,oppo,OPPO,,,OPPO K1,,oppo_cn
 PCGM00,mob,oppo,OPPO,,,OPPO K3,全网通版,oppo_cn
