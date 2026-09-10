@@ -543,9 +543,9 @@ A2485,computer,apple,Apple,J316sAP,"MacBookPro18,1","MacBook Pro (16 英寸, M1 
 A2485,computer,apple,Apple,J316cAP,"MacBookPro18,2","MacBook Pro (16 英寸, M1 Max)",,apple_all
 A2338,computer,apple,Apple,J493AP,"Mac14,7","MacBook Pro (13 英寸, M2)",,apple_all
 A2779,computer,apple,Apple,J414sAP,"Mac14,9","MacBook Pro (14 英寸, M2 Pro)",,apple_all
-A2779,computer,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14 英寸, M2 Max)",Pro,apple_all
+A2779,computer,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14 英寸, M2 Max)",,apple_all
 A2780,computer,apple,Apple,J416sAP,"Mac14,10","MacBook Pro (16 英寸, M2 Pro)",,apple_all
-A2780,computer,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16 英寸, M2 Max)",Pro,apple_all
+A2780,computer,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16 英寸, M2 Max)",,apple_all
 A2918,computer,apple,Apple,J504AP,"Mac15,3","MacBook Pro (14 英寸, M3)",,apple_all
 A2992,computer,apple,Apple,J514sAP,"Mac15,6","MacBook Pro (14 英寸, M3 Pro)",,apple_all
 A2992,computer,apple,Apple,J514mAP,"Mac15,10","MacBook Pro (14 英寸, M3 Max, 14 核)",,apple_all
@@ -1481,9 +1481,9 @@ A2485,computer,apple,Apple,J316sAP,"MacBookPro18,1","MacBook Pro (16 英寸, M1 
 A2485,computer,apple,Apple,J316cAP,"MacBookPro18,2","MacBook Pro (16 英寸, M1 Max)",,apple_cn
 A2338,computer,apple,Apple,J493AP,"Mac14,7","MacBook Pro (13 英寸, M2)",,apple_cn
 A2779,computer,apple,Apple,J414sAP,"Mac14,9","MacBook Pro (14 英寸, M2 Pro)",,apple_cn
-A2779,computer,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14 英寸, M2 Max)",Pro,apple_cn
+A2779,computer,apple,Apple,J414cAP,"Mac14,5","MacBook Pro (14 英寸, M2 Max)",,apple_cn
 A2780,computer,apple,Apple,J416sAP,"Mac14,10","MacBook Pro (16 英寸, M2 Pro)",,apple_cn
-A2780,computer,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16 英寸, M2 Max)",Pro,apple_cn
+A2780,computer,apple,Apple,J416cAP,"Mac14,6","MacBook Pro (16 英寸, M2 Max)",,apple_cn
 A2918,computer,apple,Apple,J504AP,"Mac15,3","MacBook Pro (14 英寸, M3)",,apple_cn
 A2992,computer,apple,Apple,J514sAP,"Mac15,6","MacBook Pro (14 英寸, M3 Pro)",,apple_cn
 A2992,computer,apple,Apple,J514mAP,"Mac15,10","MacBook Pro (14 英寸, M3 Max, 14 核)",,apple_cn
