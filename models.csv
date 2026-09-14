@@ -242,6 +242,18 @@ A3526,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,其他国家和地区
 A3575,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,"北美, 日本, 部分中东国家",apple_all
 A3635,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,中国大陆,apple_all
 A3634,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,其他国家和地区,apple_all
+A3472,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,美国,apple_all
+A3713,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,"加拿大, 日本, 墨西哥, 部分中东国家",apple_all
+A3715,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,中国大陆,apple_all
+A3714,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,其他国家和地区,apple_all
+A3473,mob,apple,Apple,V64AP,"iPhone19,3",iPhone 18 Pro Max,美国,apple_all
+A3716,mob,apple,Apple,V64sAP,"iPhone19,7",iPhone 18 Pro Max,"加拿大, 日本, 墨西哥, 部分中东国家",apple_all
+A3718,mob,apple,Apple,V64sAP,"iPhone19,7",iPhone 18 Pro Max,中国大陆,apple_all
+A3717,mob,apple,Apple,V64sAP,"iPhone19,7",iPhone 18 Pro Max,其他国家和地区,apple_all
+A3447,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,美国,apple_all
+A3719,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,"加拿大, 日本, 墨西哥, 部分中东国家",apple_all
+A3721,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,中国大陆,apple_all
+A3720,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,其他国家和地区,apple_all
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,无线局域网,apple_all
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,无线局域网 + 3G,apple_all
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,无线局域网,apple_all
@@ -477,6 +489,14 @@ A3335,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + 蜂窝�
 A3452,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + 蜂窝网络) (42 毫米表壳) (中国大陆),apple_all
 A3337,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + 蜂窝网络) (46 毫米表壳) (全球),apple_all
 A3453,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + 蜂窝网络) (46 毫米表壳) (中国大陆),apple_all
+A3581,watch,apple,Apple,N237sAP,"Watch8,2",Apple Watch Series 12,(GPS) (42 毫米表壳) (全球),apple_all
+A3583,watch,apple,Apple,N237sAP,"Watch8,2",Apple Watch Series 12,(GPS) (42 毫米表壳) (中国大陆),apple_all
+A3584,watch,apple,Apple,N237bAP,"Watch8,3",Apple Watch Series 12,(GPS) (46 毫米表壳) (全球),apple_all
+A3585,watch,apple,Apple,N237bAP,"Watch8,3",Apple Watch Series 12,(GPS) (46 毫米表壳) (中国大陆),apple_all
+A3582,watch,apple,Apple,N238sAP,"Watch8,4",Apple Watch Series 12,(GPS + 蜂窝网络) (42 毫米表壳) (全球),apple_all
+A3586,watch,apple,Apple,N238sAP,"Watch8,4",Apple Watch Series 12,(GPS + 蜂窝网络) (42 毫米表壳) (中国大陆),apple_all
+A3587,watch,apple,Apple,N238bAP,"Watch8,5",Apple Watch Series 12,(GPS + 蜂窝网络) (46 毫米表壳) (全球),apple_all
+A3588,watch,apple,Apple,N238bAP,"Watch8,5",Apple Watch Series 12,(GPS + 蜂窝网络) (46 毫米表壳) (中国大陆),apple_all
 A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40 毫米表壳),apple_all
 A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44 毫米表壳),apple_all
 A2353,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + 蜂窝网络) (40 毫米表壳) (北美),apple_all
@@ -506,6 +526,8 @@ A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,全球,apple_all
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,中国大陆 & 港澳,apple_all
 A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,全球,apple_all
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,中国大陆,apple_all
+A3579,watch,apple,Apple,N240AP,"Watch8,1",Apple Watch Ultra 4,全球,apple_all
+A3580,watch,apple,Apple,N240AP,"Watch8,1",Apple Watch Ultra 4,中国大陆,apple_all
 A1218,tv_hub,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (第 1 代),,apple_all
 A1378,tv_hub,apple,Apple,K66AP,"AppleTV2,1",Apple TV (第 2 代),,apple_all
 A1427,tv_hub,apple,Apple,J33AP,"AppleTV3,1",Apple TV (第 3 代),,apple_all
@@ -599,12 +621,18 @@ A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),无线充电盒,ap
 A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),左耳塞,apple_all
 A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),右耳塞,apple_all
 A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),MagSafe 充电盒,apple_all
-A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,左耳塞,apple_all
-A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,右耳塞,apple_all
-A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,充电盒,apple_all
-A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (左耳塞),apple_all
-A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (右耳塞),apple_all
-A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (充电盒),apple_all
+A3053,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,左耳塞,apple_all
+A3050,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,右耳塞,apple_all
+A3058,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,充电盒,apple_all
+A3056,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),左耳塞,apple_all
+A3055,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),右耳塞,apple_all
+A3059,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),充电盒,apple_all
+A3531,pod,apple,Apple,B868EAP,,AirPods 5,左耳塞,apple_all
+A3532,pod,apple,Apple,B868EAP,,AirPods 5,右耳塞,apple_all
+A3530,pod,apple,Apple,B868EAP,,AirPods 5,充电盒,apple_all
+A3440,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),左耳塞,apple_all
+A3439,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),右耳塞,apple_all
+A3529,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),充电盒,apple_all
 A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,左耳塞,apple_all
 A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,右耳塞,apple_all
 A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,MagSafe 充电盒,apple_all
@@ -830,6 +858,18 @@ A3526,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,Rest of the world,app
 A3575,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,"United States, Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands",apple_all_en
 A3635,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,China mainland,apple_all_en
 A3634,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,Rest of the world,apple_all_en
+A3472,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,United States,apple_all_en
+A3713,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands",apple_all_en
+A3715,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,China mainland,apple_all_en
+A3714,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,Rest of the world,apple_all_en
+A3473,mob,apple,Apple,V64AP,"iPhone19,3",iPhone 18 Pro Max,United States,apple_all_en
+A3716,mob,apple,Apple,V64sAP,"iPhone19,7",iPhone 18 Pro Max,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands",apple_all_en
+A3718,mob,apple,Apple,V64sAP,"iPhone19,7",iPhone 18 Pro Max,China mainland,apple_all_en
+A3717,mob,apple,Apple,V64sAP,"iPhone19,7",iPhone 18 Pro Max,Rest of the world,apple_all_en
+A3447,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,United States,apple_all_en
+A3719,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,"Bahrain, Canada, Guam, Japan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands",apple_all_en
+A3721,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,China mainland,apple_all_en
+A3720,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,Rest of the world,apple_all_en
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,Wi-Fi,apple_all_en
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,Wi-Fi + 3G,apple_all_en
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,Wi-Fi,apple_all_en
@@ -1065,6 +1105,14 @@ A3335,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + Cellula
 A3452,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + Cellular) (42mm case) (China mainland),apple_all_en
 A3337,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + Cellular) (46mm case) (Global),apple_all_en
 A3453,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + Cellular) (46mm case) (China mainland),apple_all_en
+A3581,watch,apple,Apple,N237sAP,"Watch8,2",Apple Watch Series 12,(GPS) (42mm case) (Global),apple_all_en
+A3583,watch,apple,Apple,N237sAP,"Watch8,2",Apple Watch Series 12,(GPS) (42mm case) (China mainland),apple_all_en
+A3584,watch,apple,Apple,N237bAP,"Watch8,3",Apple Watch Series 12,(GPS) (46mm case) (Global),apple_all_en
+A3585,watch,apple,Apple,N237bAP,"Watch8,3",Apple Watch Series 12,(GPS) (46mm case) (China mainland),apple_all_en
+A3582,watch,apple,Apple,N238sAP,"Watch8,4",Apple Watch Series 12,(GPS + Cellular) (42mm case) (Global),apple_all_en
+A3586,watch,apple,Apple,N238sAP,"Watch8,4",Apple Watch Series 12,(GPS + Cellular) (42mm case) (China mainland),apple_all_en
+A3587,watch,apple,Apple,N238bAP,"Watch8,5",Apple Watch Series 12,(GPS + Cellular) (46mm case) (Global),apple_all_en
+A3588,watch,apple,Apple,N238bAP,"Watch8,5",Apple Watch Series 12,(GPS + Cellular) (46mm case) (China mainland),apple_all_en
 A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40mm case),apple_all_en
 A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44mm case),apple_all_en
 A2353,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + Cellular) (40mm case) (North America),apple_all_en
@@ -1094,6 +1142,8 @@ A2986,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,Global,apple_all_e
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,"China mainland, Hong Kong, Macao",apple_all_en
 A3281,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,Global,apple_all_en
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,China mainland,apple_all_en
+A3579,watch,apple,Apple,N240AP,"Watch8,1",Apple Watch Ultra 4,Global,apple_all_en
+A3580,watch,apple,Apple,N240AP,"Watch8,1",Apple Watch Ultra 4,China mainland,apple_all_en
 A1218,tv_hub,apple,Apple,Mac-F4228DC8,"AppleTV1,1",Apple TV (1st generation),,apple_all_en
 A1378,tv_hub,apple,Apple,K66AP,"AppleTV2,1",Apple TV (2nd generation),,apple_all_en
 A1427,tv_hub,apple,Apple,J33AP,"AppleTV3,1",Apple TV (3rd generation),,apple_all_en
@@ -1187,12 +1237,18 @@ A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (2nd generation),charging case
 A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),left AirPod,apple_all_en
 A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),right AirPod,apple_all_en
 A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (3rd generation),charging case,apple_all_en
-A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,left AirPod,apple_all_en
-A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,right AirPod,apple_all_en
-A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,charging case,apple_all_en
-A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (left AirPod),apple_all_en
-A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (right AirPod),apple_all_en
-A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(ANC) (charging case),apple_all_en
+A3053,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,left AirPod,apple_all_en
+A3050,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,right AirPod,apple_all_en
+A3058,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,charging case,apple_all_en
+A3056,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (ANC),left AirPod,apple_all_en
+A3055,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (ANC),right AirPod,apple_all_en
+A3059,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (ANC),charging case,apple_all_en
+A3531,pod,apple,Apple,B868EAP,,AirPods 5,left AirPod,apple_all_en
+A3532,pod,apple,Apple,B868EAP,,AirPods 5,right AirPod,apple_all_en
+A3530,pod,apple,Apple,B868EAP,,AirPods 5,charging case,apple_all_en
+A3440,pod,apple,Apple,B868MAP,,AirPods 5 (Wireless Charging Case),left AirPod,apple_all_en
+A3439,pod,apple,Apple,B868MAP,,AirPods 5 (Wireless Charging Case),right AirPod,apple_all_en
+A3529,pod,apple,Apple,B868MAP,,AirPods 5 (Wireless Charging Case),charging case,apple_all_en
 A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,left AirPod,apple_all_en
 A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,right AirPod,apple_all_en
 A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,charging case,apple_all_en
@@ -1287,6 +1343,9 @@ A3518,mob,apple,Apple,D23AP,"iPhone18,4",iPhone Air,,apple_cn
 A3524,mob,apple,Apple,V53AP,"iPhone18,1",iPhone 17 Pro,,apple_cn
 A3527,mob,apple,Apple,V54AP,"iPhone18,2",iPhone 17 Pro Max,,apple_cn
 A3635,mob,apple,Apple,V159AP,"iPhone18,5",iPhone 17e,,apple_cn
+A3715,mob,apple,Apple,V63AP,"iPhone19,2",iPhone 18 Pro,,apple_cn
+A3718,mob,apple,Apple,V64sAP,"iPhone19,7",iPhone 18 Pro Max,,apple_cn
+A3721,mob,apple,Apple,V68AP,"iPhone19,4",iPhone Duo,,apple_cn
 A1219,pad,apple,Apple,K48AP,"iPad1,1",iPad,无线局域网,apple_cn
 A1337,pad,apple,Apple,K48AP,"iPad1,1",iPad,无线局域网 + 3G,apple_cn
 A1395,pad,apple,Apple,K93AP,"iPad2,1",iPad 2,无线局域网,apple_cn
@@ -1439,6 +1498,10 @@ A3450,watch,apple,Apple,N227sAP,"Watch7,17",Apple Watch Series 11,(GPS) (42 毫�
 A3451,watch,apple,Apple,N227bAP,"Watch7,18",Apple Watch Series 11,(GPS) (46 毫米表壳),apple_cn
 A3452,watch,apple,Apple,N228sAP,"Watch7,19",Apple Watch Series 11,(GPS + 蜂窝网络) (42 毫米表壳),apple_cn
 A3453,watch,apple,Apple,N228bAP,"Watch7,20",Apple Watch Series 11,(GPS + 蜂窝网络) (46 毫米表壳),apple_cn
+A3583,watch,apple,Apple,N237sAP,"Watch8,2",Apple Watch Series 12,(GPS) (42 毫米表壳),apple_cn
+A3585,watch,apple,Apple,N237bAP,"Watch8,3",Apple Watch Series 12,(GPS) (46 毫米表壳),apple_cn
+A3586,watch,apple,Apple,N238sAP,"Watch8,4",Apple Watch Series 12,(GPS + 蜂窝网络) (42 毫米表壳),apple_cn
+A3588,watch,apple,Apple,N238bAP,"Watch8,5",Apple Watch Series 12,(GPS + 蜂窝网络) (46 毫米表壳),apple_cn
 A2351,watch,apple,Apple,N140sAP,"Watch5,9",Apple Watch SE,(GPS) (40 毫米表壳),apple_cn
 A2352,watch,apple,Apple,N140bAP,"Watch5,10",Apple Watch SE,(GPS) (44 毫米表壳),apple_cn
 A2355,watch,apple,Apple,N142sAP,"Watch5,11",Apple Watch SE,(GPS + 蜂窝网络) (40 毫米表壳),apple_cn
@@ -1454,6 +1517,7 @@ A3329,watch,apple,Apple,N244bAP,"Watch7,16",Apple Watch SE 3,(GPS + 蜂窝网络
 A2859,watch,apple,Apple,N199AP,"Watch6,18",Apple Watch Ultra,,apple_cn
 A2987,watch,apple,Apple,N210AP,"Watch7,5",Apple Watch Ultra 2,,apple_cn
 A3282,watch,apple,Apple,N230AP,"Watch7,12",Apple Watch Ultra 3,,apple_cn
+A3580,watch,apple,Apple,N240AP,"Watch8,1",Apple Watch Ultra 4,,apple_cn
 A2117,glass,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,,apple_cn
 A3416,glass,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),,apple_cn
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,,apple_cn
@@ -1537,12 +1601,18 @@ A1938,pod,apple,Apple,B288AP,"AirPods2,1",AirPods (第 2 代),充电盒,apple_cn
 A2564,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),左耳塞,apple_cn
 A2565,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),右耳塞,apple_cn
 A2566,pod,apple,Apple,B388AP,"AirPods1,3",AirPods (第 3 代),充电盒,apple_cn
-A3053,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,左耳塞,apple_cn
-A3050,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,右耳塞,apple_cn
-A3058,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,充电盒,apple_cn
-A3056,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (左耳塞),apple_cn
-A3055,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (右耳塞),apple_cn
-A3059,pod,apple,Apple,B768AP,"AirPods1,4",AirPods 4,(主动降噪版) (充电盒),apple_cn
+A3053,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,左耳塞,apple_cn
+A3050,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,右耳塞,apple_cn
+A3058,pod,apple,Apple,B768EAP,"AirPods1,4",AirPods 4,充电盒,apple_cn
+A3056,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),左耳塞,apple_cn
+A3055,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),右耳塞,apple_cn
+A3059,pod,apple,Apple,B768MAP,"AirPods1,4",AirPods 4 (主动降噪版),充电盒,apple_cn
+A3531,pod,apple,Apple,B868EAP,,AirPods 5,左耳塞,apple_cn
+A3532,pod,apple,Apple,B868EAP,,AirPods 5,右耳塞,apple_cn
+A3530,pod,apple,Apple,B868EAP,,AirPods 5,充电盒,apple_cn
+A3440,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),左耳塞,apple_cn
+A3439,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),右耳塞,apple_cn
+A3529,pod,apple,Apple,B868MAP,,AirPods 5 (配无线充电盒),无线充电盒,apple_cn
 A2083,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,左耳塞,apple_cn
 A2084,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,右耳塞,apple_cn
 A2190,pod,apple,Apple,B298AP,"AirPodsPro1,1",AirPods Pro,充电盒,apple_cn
