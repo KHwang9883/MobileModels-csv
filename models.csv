@@ -2043,6 +2043,10 @@ LDY-AN00,mob,honor,荣耀,,Lindy,荣耀 Magic8 Pro Air,,honor_cn
 BKQ-AN20,mob,honor,荣耀,,,荣耀 Magic8 RSR 保时捷设计,,honor_cn
 PNM-AN10,mob,honor,荣耀,,Phenom,荣耀 Magic V6,,honor_cn
 PNM-AN20,mob,honor,荣耀,,Phenom,荣耀 Magic V6,16GB+1TB,honor_cn
+MLY-AN00,mob,honor,荣耀,,Molly,荣耀 Magic9,,honor_cn
+MLM-AN00,mob,honor,荣耀,,"MollyM, VickyM",荣耀 Magic9 超能版,,honor_cn
+WKL-AN20,mob,honor,荣耀,,Twinkle,荣耀 Magic9 Pro Max,,honor_cn
+WKL-AN80,mob,honor,荣耀,,Twinkle,荣耀 Magic9 Pro Max,16GB+1TB,honor_cn
 APH-AN00,mob,honor,荣耀,,Alpha,荣耀 Robot Phone,,honor_cn
 H60-L01,mob,honor,荣耀,,Mogolia,荣耀 6,移动版,honor_cn
 H60-L02,mob,honor,荣耀,,Mogolia,荣耀 6,联通版,honor_cn
@@ -2658,7 +2662,9 @@ IVY-B39,watch,honor,荣耀,,,荣耀手表 GS 5,,honor_cn
 IVY-B39,watch,honor,荣耀,,,荣耀手表 Fit,,honor_cn
 LWS-WB10,watch,honor,荣耀,,,荣耀手表 X5,,honor_cn
 WTS-B19,watch,honor,荣耀,,,荣耀手表 X5i,,honor_cn
+WSS-B19,watch,honor,荣耀,,,荣耀手表 X5s,,honor_cn
 ROM-B19,watch,honor,荣耀,,,荣耀手表 6 Plus,,honor_cn
+HLO-B19,watch,honor,荣耀,,,荣耀手表 6 Pro,,honor_cn
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,标准版,honor_cn
 NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,NFC 版,honor_cn
 CRS-B19,band,honor,荣耀,,Crius,荣耀手环 4,标准版,honor_cn
@@ -6623,6 +6629,9 @@ PLG120,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,卫星通信版,oppo_cn
 PME110,mob,oppo,OPPO,,venus,OPPO Find X9s Pro,,oppo_cn
 PMA110,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,,oppo_cn
 PMA120,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,卫星通信版,oppo_cn
+PMW110,mob,oppo,OPPO,,,OPPO Find X10,,oppo_cn
+PNA110,mob,oppo,OPPO,,aurora,OPPO Find X10 E,,oppo_cn
+PMX110,mob,oppo,OPPO,,,OPPO Find X10 Pro Max,,oppo_cn
 PEUM00,mob,oppo,OPPO,,peacock,OPPO Find N,,oppo_cn
 PGU110,mob,oppo,OPPO,,whiteswan,OPPO Find N2,,oppo_cn
 PGT110,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,,oppo_cn
@@ -6876,6 +6885,7 @@ OWW251,watch,oppo,OPPO,,"starriver, xinghe",OPPO Watch X2,,oppo_cn
 OWW262,watch,oppo,OPPO,,,OPPO Watch S,,oppo_cn
 OWW261,watch,oppo,OPPO,,taycan,OPPO Watch X3,,oppo_cn
 OWW263,watch,oppo,OPPO,,,OPPO Watch X3 Mini,,oppo_cn
+OWW265,watch,oppo,OPPO,,,OPPO Watch S2,,oppo_cn
 CPH1871,mob,oppo,OPPO,,,OPPO Find X,,oppo_global_en
 CPH1875,mob,oppo,OPPO,,,OPPO Find X,,oppo_global_en
 CPH2023,mob,oppo,OPPO,,,OPPO Find X2,,oppo_global_en
@@ -8234,6 +8244,11 @@ SM-S948Z,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (SoftBank),samsung_glob
 SM-S948C,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (Rakuten Mobile),samsung_global_en
 SCG37,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (au),samsung_global_en
 SC-53G,mob,samsung,Samsung,,m3q,Galaxy S26 Ultra,Japan (NTT Docomo),samsung_global_en
+SM-S741B,mob,samsung,Samsung,,r14s,Galaxy S26 FE,Global,samsung_global_en
+SM-S741U,mob,samsung,Samsung,,r14s,Galaxy S26 FE,US Carrier,samsung_global_en
+SM-S741U1,mob,samsung,Samsung,,r14s,Galaxy S26 FE,US Unlocked,samsung_global_en
+SM-S741W,mob,samsung,Samsung,,r14s,Galaxy S26 FE,Canada,samsung_global_en
+SM-S741N,mob,samsung,Samsung,,r14s,Galaxy S26 FE,South Korea,samsung_global_en
 SM-N960F,mob,samsung,Samsung,,crownlte,Galaxy Note9,Global,samsung_global_en
 SM-N960U,mob,samsung,Samsung,,crownqltesq,Galaxy Note9,US Carrier,samsung_global_en
 SM-N960U1,mob,samsung,Samsung,,crownqlteue,Galaxy Note9,US Unlocked,samsung_global_en
@@ -8500,6 +8515,10 @@ SM-A075M,mob,samsung,Samsung,,a07,Galaxy A07,Latin America,samsung_global_en
 SM-A076E,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Global,samsung_global_en
 SM-A076B,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Global,samsung_global_en
 SM-A076M,mob,samsung,Samsung,,a07x,Galaxy A07 5G,Latin America,samsung_global_en
+SM-A077F,mob,samsung,Samsung,,a07ve,Galaxy A07s,Global,samsung_global_en
+SM-A077M,mob,samsung,Samsung,,a07ve,Galaxy A07s,Latin America,samsung_global_en
+SM-A085F,mob,samsung,Samsung,,a08,Galaxy A08,Global,samsung_global_en
+SM-A085M,mob,samsung,Samsung,,a08,Galaxy A08,Latin America,samsung_global_en
 SM-A105F,mob,samsung,Samsung,,a10,Galaxy A10,Global,samsung_global_en
 SM-A015FN,mob,samsung,Samsung,,a10,Galaxy A10,Global,samsung_global_en
 SM-A015G,mob,samsung,Samsung,,a10,Galaxy A10,Global,samsung_global_en
@@ -8586,6 +8605,9 @@ SM-A176U1,mob,samsung,Samsung,,a17x,Galaxy A17 5G,US Unlocked,samsung_global_en
 SM-S176V,mob,samsung,Samsung,,a17x,Galaxy A17 5G,TracFone,samsung_global_en
 SM-A176W,mob,samsung,Samsung,,a17x,Galaxy A17 5G,Canada,samsung_global_en
 SM-A1760,mob,samsung,Samsung,,a17x,Galaxy A17 5G,HK & TW,samsung_global_en
+SM-A185F,mob,samsung,Samsung,,a18,Galaxy A18,Global (Exynos),samsung_global_en
+SM-A185N,mob,samsung,Samsung,,a18,Galaxy A18,South Korea,samsung_global_en
+SM-A185G,mob,samsung,Samsung,,a18m,Galaxy A18,Global (MediaTek),samsung_global_en
 SM-A260F,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,Global,samsung_global_en
 SM-A260G,mob,samsung,Samsung,,a2corelte,Galaxy A2 Core,India,samsung_global_en
 SM-A205F,mob,samsung,Samsung,,a20,Galaxy A20,Global,samsung_global_en
@@ -8850,6 +8872,7 @@ SM-M045F,mob,samsung,Samsung,,m04,Galaxy M04,,samsung_global_en
 SM-M055F,mob,samsung,Samsung,,a05m,Galaxy M05,,samsung_global_en
 SM-M066B,mob,samsung,Samsung,,a06x,Galaxy M06 5G,,samsung_global_en
 SM-M075F,mob,samsung,Samsung,,a07,Galaxy M07,,samsung_global_en
+SM-M085F,mob,samsung,Samsung,,a08,Galaxy M08,,samsung_global_en
 SM-M105G,mob,samsung,Samsung,,m10lte,Galaxy M10,Global,samsung_global_en
 SM-M105F,mob,samsung,Samsung,,m10lte,Galaxy M10,India,samsung_global_en
 SM-M105M,mob,samsung,Samsung,,m10lte,Galaxy M10,Latin America,samsung_global_en
@@ -8917,6 +8940,7 @@ SM-E045F,mob,samsung,Samsung,,m04,Galaxy F04,,samsung_global_en
 SM-E055F,mob,samsung,Samsung,,a05m,Galaxy F05,,samsung_global_en
 SM-E066B,mob,samsung,Samsung,,a06x,Galaxy F06 5G,,samsung_global_en
 SM-E075F,mob,samsung,Samsung,,a07,Galaxy F07,,samsung_global_en
+SM-E085F,mob,samsung,Samsung,,a08,Galaxy F08,,samsung_global_en
 SM-F127G,mob,samsung,Samsung,,f12,Galaxy F12,,samsung_global_en
 SM-E135F,mob,samsung,Samsung,,m13,Galaxy F13,,samsung_global_en
 SM-E145F,mob,samsung,Samsung,,a05s,Galaxy F14,,samsung_global_en
@@ -8936,6 +8960,7 @@ SM-E556B,mob,samsung,Samsung,,m55xq,Galaxy F55 5G,,samsung_global_en
 SM-E566B,mob,samsung,Samsung,,m56x,Galaxy F56 5G,,samsung_global_en
 SM-E625F,mob,samsung,Samsung,,f62,Galaxy F62,,samsung_global_en
 SM-E076B,mob,samsung,Samsung,,a07x,Galaxy F70e 5G,,samsung_global_en
+SM-E476B,mob,samsung,Samsung,,,Galaxy F70 Pro 5G,,samsung_global_en
 SM701,mob,smartisan,坚果,,sfo,Smartisan T1,3G 版,smartisan
 SM705,mob,smartisan,坚果,,sfo,Smartisan T1,4G 版,smartisan
 SM801,mob,smartisan,坚果,,icesky,Smartisan T2,,smartisan
@@ -9350,6 +9375,11 @@ V2547A,mob,vivo,vivo,,PD2547,X300 Ultra,,vivo_cn
 V2547DA,mob,vivo,vivo,,PD2547,X300 Ultra,卫星通信版,vivo_cn
 V2612A,mob,vivo,vivo,,PD2612,X300 E,,vivo_cn
 V2545A,mob,vivo,vivo,,PD2545,X Fold6,,vivo_cn
+V2609A,mob,vivo,vivo,,PD2609,X500,,vivo_cn
+V2608A,mob,vivo,vivo,,PD2608,X500 Pro,,vivo_cn
+V2608DA,mob,vivo,vivo,,PD2608,X500 Pro,eSIM 版,vivo_cn
+V2602A,mob,vivo,vivo,,PD2602,X500 Pro Max,,vivo_cn
+V2602DA,mob,vivo,vivo,,PD2602,X500 Pro Max,卫星通信版,vivo_cn
 V1831A,mob,vivo,vivo,,PD1831,S1,全网通版,vivo_cn
 V1831T,mob,vivo,vivo,,PD1831,S1,移动全网通版,vivo_cn
 V1832A,mob,vivo,vivo,,PD1832,S1 Pro,全网通版,vivo_cn
@@ -9680,7 +9710,8 @@ iPA2556,pad,vivo,vivo,,DPD2437,iQOO Pad5,,vivo_cn
 iPA2575,pad,vivo,vivo,,DPD2438,iQOO Pad5 Pro,,vivo_cn
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5e,,vivo_cn
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5c,,vivo_cn
-iPA2673,pad,vivo,vivo,,,iQOO Pad6 Pro,,vivo_cn
+iPA2673,pad,vivo,vivo,,DPD2540,iQOO Pad6 Pro,,vivo_cn
+iPA2691,pad,vivo,vivo,,,iQOO Pad Ultra,,vivo_cn
 WA2052,watch,vivo,vivo,,,WATCH,42mm,vivo_cn
 WA2056,watch,vivo,vivo,,,WATCH,46mm,vivo_cn
 WA2156A,watch,vivo,vivo,,,WATCH 2,eSIM 版,vivo_cn
@@ -9692,6 +9723,8 @@ WA2556A,watch,vivo,vivo,,,WATCH 5,蓝牙版,vivo_cn
 WA2556B,watch,vivo,vivo,,,WATCH 5,eSIM 版,vivo_cn
 WA2536A,watch,vivo,vivo,,,WATCH GT 2,蓝牙版,vivo_cn
 WA2536B,watch,vivo,vivo,,,WATCH GT 2,eSIM 版,vivo_cn
+WA2656A,watch,vivo,vivo,,,WATCH 6,蓝牙版,vivo_cn
+WA2656B,watch,vivo,vivo,,,WATCH 6,eSIM 版,vivo_cn
 iWA2356A,watch,vivo,vivo,,,iQOO WATCH,eSIM 版,vivo_cn
 iWA2356C,watch,vivo,vivo,,,iQOO WATCH,蓝牙版,vivo_cn
 iWA2456A,watch,vivo,vivo,,,iQOO WATCH GT,eSIM 版,vivo_cn
@@ -10533,6 +10566,11 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,,xiaomi
 25097RP43I,pad,xiaomi,小米,P82,yupei,Xiaomi Pad 8,印度版,xiaomi
 25091RP04C,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,国行版,xiaomi
 25091RP04G,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,国际版,xiaomi
+M656BA,pad,xiaomi,小米,Q82,"yupei, yupei_d, donghai",Xiaomi Pad 9,国行版,xiaomi
+26103RP65G,pad,xiaomi,小米,Q82,"yupei, yupei_d, donghai",Xiaomi Pad 9,国际版,xiaomi
+26103RP65I,pad,xiaomi,小米,Q82,"yupei, yupei_d, donghai",Xiaomi Pad 9,印度版,xiaomi
+2612CRPFFC,pad,xiaomi,小米,Q81,shuntian,Xiaomi Pad 9 Pro,国行版,xiaomi
+2612CRPFFG,pad,xiaomi,小米,Q81,shuntian,Xiaomi Pad 9 Pro,国际版,xiaomi
 M367FC,pad,xiaomi,小米,Q81A,yingtian,Xiaomi Pad 9 Pro Max,,xiaomi
 2013022,mob,xiaomi,小米,H2TD,"wt93007, HM2013022",红米手机,移动版,xiaomi
 2013023,mob,xiaomi,小米,H2W,"wt98007, HM2013023",红米手机,联通版,xiaomi
@@ -11111,7 +11149,7 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版,xiaomi
 2604ERP4DI,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 9.7 4G,印度版,xiaomi
 25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,,xiaomi
 26048RP6AC,pad,xiaomi,小米,P88,yili,REDMI K Pad 2,,xiaomi
-M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,,xiaomi
+M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,国际版,xiaomi
 M2004J11G,mob,xiaomi,小米,J11,lmi,POCO F2 Pro,国际版,xiaomi
 M2012K11AG,mob,xiaomi,小米,K11A,alioth,POCO F3,国际版,xiaomi
 M2104K10I,mob,xiaomi,小米,K10,"ares, aresin",POCO F3 GT,印度版,xiaomi
@@ -11400,6 +11438,8 @@ M2105K81C,pad,xiaomi,小米,K81,enuma,小米平板 5 Pro 5G,,xiaomi_cn
 25053RP5CC,pad,xiaomi,小米,O81A,violin,Xiaomi Pad 7S Pro 12.5,,xiaomi_cn
 25097RP43C,pad,xiaomi,小米,P82,yupei,Xiaomi Pad 8,,xiaomi_cn
 25091RP04C,pad,xiaomi,小米,P81,piano,Xiaomi Pad 8 Pro,,xiaomi_cn
+M656BA,pad,xiaomi,小米,Q82,"yupei, yupei_d, donghai",Xiaomi Pad 9,,xiaomi_cn
+2612CRPFFC,pad,xiaomi,小米,Q81,shuntian,Xiaomi Pad 9 Pro,,xiaomi_cn
 M367FC,pad,xiaomi,小米,Q81A,yingtian,Xiaomi Pad 9 Pro Max,,xiaomi_cn
 2013022,mob,xiaomi,小米,H2TD,"wt93007, HM2013022",红米手机,移动版,xiaomi_cn
 2013023,mob,xiaomi,小米,H2W,"wt98007, HM2013023",红米手机,联通版,xiaomi_cn
@@ -12408,7 +12448,7 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,India,xiaomi_en
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70 5G,China,xiaomi_en
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70m 5G,China,xiaomi_en
 26062RN92C,mob,xiaomi,Xiaomi,Q15,"steppe, leeds",REDMI M100,China,xiaomi_en
-M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,,xiaomi_en
+M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,Global,xiaomi_en
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,Global,xiaomi_en
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,Global,xiaomi_en
 M2104K10I,mob,xiaomi,Xiaomi,K10,"ares, aresin",POCO F3 GT,India,xiaomi_en
@@ -12557,6 +12597,11 @@ M2105K81C,pad,xiaomi,Xiaomi,K81,enuma,Xiaomi Pad 5 Pro 5G,China,xiaomi_en
 25097RP43I,pad,xiaomi,Xiaomi,P82,yupei,Xiaomi Pad 8,India,xiaomi_en
 25091RP04G,pad,xiaomi,Xiaomi,P81,piano,Xiaomi Pad 8 Pro,Global,xiaomi_en
 25091RP04C,pad,xiaomi,Xiaomi,P81,piano,Xiaomi Pad 8 Pro,China,xiaomi_en
+26103RP65G,pad,xiaomi,Xiaomi,Q82,"yupei, yupei_d, donghai",Xiaomi Pad 9,Global,xiaomi_en
+26103RP65I,pad,xiaomi,Xiaomi,Q82,"yupei, yupei_d, donghai",Xiaomi Pad 9,India,xiaomi_en
+M656BA,pad,xiaomi,Xiaomi,Q82,"yupei, yupei_d, donghai",Xiaomi Pad 9,China,xiaomi_en
+2612CRPFFG,pad,xiaomi,Xiaomi,Q81,shuntian,Xiaomi Pad 9 Pro,Global,xiaomi_en
+2612CRPFFC,pad,xiaomi,Xiaomi,Q81,shuntian,Xiaomi Pad 9 Pro,China,xiaomi_en
 M367FC,pad,xiaomi,Xiaomi,Q81A,yingtian,Xiaomi Pad 9 Pro Max,China,xiaomi_en
 22081283G,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,Global,xiaomi_en
 22081283C,pad,xiaomi,Xiaomi,L83,yunluo,Redmi Pad,China,xiaomi_en
