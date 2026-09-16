@@ -4055,6 +4055,9 @@ MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,米白色氟橡胶表带,huawei_cn
 LCA-B10,watch,huawei,华为,,Luca,HUAWEI WATCH D2,幻夜黑,huawei_cn
 LCA-B11,watch,huawei,华为,,Luca,HUAWEI WATCH D2,晨曦金,huawei_cn
 LCA-B29,watch,huawei,华为,,Luca,HUAWEI WATCH D2,星云蓝,huawei_cn
+RIV-B10,watch,huawei,华为,,,HUAWEI WATCH D3,曜石黑,huawei_cn
+RIV-B11,watch,huawei,华为,,,HUAWEI WATCH D3,羽砂金,huawei_cn
+RIV-B12,watch,huawei,华为,,,HUAWEI WATCH D3,摩卡金,huawei_cn
 SGA-B19,watch,huawei,华为,,Saga,HUAWEI WATCH Buds,,huawei_cn
 LBA-B19,watch,huawei,华为,,,HUAWEI WATCH Buds 2,,huawei_cn
 MIL-B29B,watch,huawei,华为,,Milo,HUAWEI WATCH B5,532,huawei_cn
@@ -5424,12 +5427,16 @@ L50RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,50 2025 节能版 (二�
 L55RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,55 2025 节能版 (二级能效),mitv_cn
 L65RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,65 2025 节能版 (二级能效),mitv_cn
 L75RB-APE,tv,mitv,小米,,,REDMI 智能电视 A Pro 2025,75 2025 节能版 (一级能效),mitv_cn
-L43RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,43 2026,mitv_cn
-L50RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,50 2026,mitv_cn
-L55RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,55 2026,mitv_cn
-L65RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,65 2026,mitv_cn
-L70RB-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2025,70 2026,mitv_cn
-L75RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2025,75 2026,mitv_cn
+L43RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,43 2026,mitv_cn
+L50RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,50 2026,mitv_cn
+L55RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,55 2026,mitv_cn
+L65RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,65 2026,mitv_cn
+L70RB-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2026,70 2026,mitv_cn
+L75RC-AP,tv,mitv,小米,,,REDMI 电视 A Pro 2026,75 2026,mitv_cn
+L55RD-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2027,55 2027 优选版,mitv_cn
+L65RD-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2027,65 2027 优选版,mitv_cn
+L75RD-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2027,75 2027 优选版,mitv_cn
+L85RD-APD,tv,mitv,小米,,,REDMI 电视 A Pro 2027,85 2027 优选版,mitv_cn
 L50M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,50 (2020),mitv_cn
 L55M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,55 (2020),mitv_cn
 L65M5-RK,tv,mitv,小米,,,Redmi 智能电视 X,65 (2020),mitv_cn
