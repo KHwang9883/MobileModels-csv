@@ -10236,6 +10236,8 @@ M2230W1,watch,xiaomi,小米,N60,,小米腕部心电血压记录仪,Xiaomi Watch 
 M2412W1,watch,xiaomi,小米,N60E,,小米腕部血压记录仪,Xiaomi Watch H1 E,xiaomi-wear
 M2530W1,watch,xiaomi,小米,P62,,Xiaomi Watch S5,蓝牙版,xiaomi-wear
 M2517W1,watch,xiaomi,小米,P62,,Xiaomi Watch S5,eSIM 版,xiaomi-wear
+M2606W1,watch,xiaomi,小米,Q63,,Xiaomi Watch S5 41mm,,xiaomi-wear
+M2607W1,watch,xiaomi,小米,Q63,,Xiaomi Watch S5 41mm,透明版,xiaomi-wear
 M2442G1,glass,xiaomi,小米,O95,,Xiaomi AI Glasses,,xiaomi-wear
 HMSH01GE,band,xiaomi,小米,,,Redmi 手环,,xiaomi-wear
 M2101B1,band,xiaomi,小米,K67,,Redmi Smart Band Pro,国际版,xiaomi-wear
@@ -10303,6 +10305,7 @@ M2420E1,pod,xiaomi,小米,N79B,,Redmi Buds 6 Play,国际版,xiaomi-wear
 M2411E1,pod,xiaomi,小米,N79B,,REDMI Buds SE,,xiaomi-wear
 M2455E1,pod,xiaomi,小米,O77S,,REDMI Buds 7S,,xiaomi-wear
 M2544E1,pod,xiaomi,小米,P77,,REDMI Buds 8,,xiaomi-wear
+M2545E1,pod,xiaomi,小米,Q77S,,REDMI Buds 8S,,xiaomi-wear
 M2535E1,pod,xiaomi,小米,P76,,REDMI Buds 8 Pro,,xiaomi-wear
 M2537E1,pod,xiaomi,小米,P79,,REDMI Buds 8 活力版,,xiaomi-wear
 M2537E1,pod,xiaomi,小米,P79,,REDMI Buds 8 Active,国际版,xiaomi-wear
@@ -10488,6 +10491,13 @@ M531DA,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,国行版,xiaomi
 M025EC,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,国行版,xiaomi
 2602EPTC0G,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,国际版,xiaomi
 2602EPTC0R,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,日本版 (无锁),xiaomi
+M610BB,mob,xiaomi,小米,Q5,hongkong,Xiaomi 18 Pro,国行版,xiaomi
+2609BPN61G,mob,xiaomi,小米,Q5,hongkong,Xiaomi 18 Pro,国际版,xiaomi
+2609BPN61I,mob,xiaomi,小米,Q5,hongkong,Xiaomi 18 Pro,印度版,xiaomi
+M154FF,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,国行版,xiaomi
+2611FPNFAG,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,国际版,xiaomi
+2611FPNFAI,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,印度版,xiaomi
+2611FPNFAR,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,日本版,xiaomi
 2608BPX34C,mob,xiaomi,小米,Q18,lhasa,Xiaomi 18 Fold,,xiaomi
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版,xiaomi
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版,xiaomi
@@ -11131,9 +11141,9 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版,xiaomi
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国行版,xiaomi
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国际版,xiaomi
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,国行版,xiaomi
+23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad M7,,xiaomi
 23073RPBFG,pad,xiaomi,小米,M84,xun,Redmi Pad SE,国际版,xiaomi
 23073RPBFL,pad,xiaomi,小米,M84,xun,Redmi Pad SE,拉美版,xiaomi
-23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad M7,,xiaomi
 2405CRPFDC,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,Wi-Fi 国行版,xiaomi
 2405CRPFDG,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,Wi-Fi 国际版,xiaomi
 2405CRPFDI,pad,xiaomi,小米,N83,dizi,Redmi Pad Pro,Wi-Fi 印度版,xiaomi
@@ -11143,7 +11153,7 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版,xiaomi
 24074RPD2I,pad,xiaomi,小米,N83U,ruan,Redmi Pad Pro 5G,印度版,xiaomi
 24075RP89G,pad,xiaomi,小米,N85,flare,Redmi Pad SE 8.7,Wi-Fi 国际版,xiaomi
 24076RP19G,pad,xiaomi,小米,N85X,spark,Redmi Pad SE 8.7 4G,国际版,xiaomi
-24076RP19I,pad,xiaomi,小米,N85X,spark,Redmi Pad SE 8.7 4G,4G 印度版,xiaomi
+24076RP19I,pad,xiaomi,小米,N85X,spark,Redmi Pad SE 4G,印度版,xiaomi
 25040RP0AC,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,国行版,xiaomi
 25040RP0AG,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,国际版,xiaomi
 25040RP0AI,pad,xiaomi,小米,O84,taiko,REDMI Pad 2,印度版,xiaomi
@@ -11162,7 +11172,6 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版,xiaomi
 2603ARP14G,pad,xiaomi,小米,P85,guitar,REDMI Pad 2 9.7,国际版,xiaomi
 2604ERP4DC,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 SE 4G,国行版,xiaomi
 2604ERP4DG,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 9.7 4G,国际版,xiaomi
-2604ERP4DI,pad,xiaomi,小米,P85X,erhu,REDMI Pad 2 9.7 4G,印度版,xiaomi
 25079RPDCC,pad,xiaomi,小米,O88,turner,REDMI K Pad,,xiaomi
 26048RP6AC,pad,xiaomi,小米,P88,yili,REDMI K Pad 2,,xiaomi
 M1805E10A,mob,xiaomi,小米,E10,beryllium,POCO F1,国际版,xiaomi
@@ -11384,6 +11393,8 @@ M2101K9C,mob,xiaomi,小米,K9,renoir,小米 11 青春版,,xiaomi_cn
 2605EPN8EC,mob,xiaomi,小米,P3S,byron,Xiaomi 17 Max,,xiaomi_cn
 M531DA,mob,xiaomi,小米,P12A,chagall,Xiaomi 17T,,xiaomi_cn
 M025EC,mob,xiaomi,小米,P12U,warhol,Xiaomi 17T Pro,,xiaomi_cn
+M610BB,mob,xiaomi,小米,Q5,hongkong,Xiaomi 18 Pro,,xiaomi_cn
+M154FF,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,,xiaomi_cn
 2608BPX34C,mob,xiaomi,小米,Q18,lhasa,Xiaomi 18 Fold,,xiaomi_cn
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版,xiaomi_cn
 2014619,mob,xiaomi,小米,X5,virgo,小米 Note,全网通版,xiaomi_cn
@@ -11857,6 +11868,13 @@ M531DA,mob,xiaomi,Xiaomi,P12A,chagall,Xiaomi 17T,China,xiaomi_en
 2602EPTC0G,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Global,xiaomi_en
 2602EPTC0R,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,Japan (SIM Free),xiaomi_en
 M025EC,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,China,xiaomi_en
+2609BPN61G,mob,xiaomi,Xiaomi,Q5,hongkong,Xiaomi 18 Pro,Global,xiaomi_en
+2609BPN61I,mob,xiaomi,Xiaomi,Q5,hongkong,Xiaomi 18 Pro,India,xiaomi_en
+M610BB,mob,xiaomi,Xiaomi,Q5,hongkong,Xiaomi 18 Pro,China,xiaomi_en
+2611FPNFAG,mob,xiaomi,Xiaomi,Q2,madrid,Xiaomi 18 Pro Max,Global,xiaomi_en
+2611FPNFAI,mob,xiaomi,Xiaomi,Q2,madrid,Xiaomi 18 Pro Max,India,xiaomi_en
+2611FPNFAR,mob,xiaomi,Xiaomi,Q2,madrid,Xiaomi 18 Pro Max,Japan,xiaomi_en
+M154FF,mob,xiaomi,Xiaomi,Q2,madrid,Xiaomi 18 Pro Max,China,xiaomi_en
 2608BPX34C,mob,xiaomi,Xiaomi,Q18,lhasa,Xiaomi 18 Fold,China,xiaomi_en
 2015011,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,Global,xiaomi_en
 2014616,mob,xiaomi,Xiaomi,X5,virgo,Mi Note,China (Dual-network),xiaomi_en
@@ -12634,7 +12652,7 @@ M367FC,pad,xiaomi,Xiaomi,Q81A,yingtian,Xiaomi Pad 9 Pro Max,China,xiaomi_en
 24074RPD2I,pad,xiaomi,Xiaomi,N83U,ruan,Redmi Pad Pro 5G,India,xiaomi_en
 24075RP89G,pad,xiaomi,Xiaomi,N85,flare,Redmi Pad SE 8.7,Wi-Fi Global,xiaomi_en
 24076RP19G,pad,xiaomi,Xiaomi,N85X,spark,Redmi Pad SE 8.7 4G,Global,xiaomi_en
-24076RP19I,pad,xiaomi,Xiaomi,N85X,spark,Redmi Pad SE 8.7 4G,4G India,xiaomi_en
+24076RP19I,pad,xiaomi,Xiaomi,N85X,spark,Redmi Pad SE 4G,India,xiaomi_en
 25040RP0AG,pad,xiaomi,Xiaomi,O84,taiko,REDMI Pad 2,Global,xiaomi_en
 25040RP0AI,pad,xiaomi,Xiaomi,O84,taiko,REDMI Pad 2,India,xiaomi_en
 25040RP0AE,pad,xiaomi,Xiaomi,O84,taiko,REDMI Pad 2,Europe,xiaomi_en
@@ -12652,7 +12670,6 @@ M367FC,pad,xiaomi,Xiaomi,Q81A,yingtian,Xiaomi Pad 9 Pro Max,China,xiaomi_en
 2603ARP14G,pad,xiaomi,Xiaomi,P85,guitar,REDMI Pad 2 9.7,Global,xiaomi_en
 2603ARP14C,pad,xiaomi,Xiaomi,P85,guitar,REDMI Pad 2 SE,China,xiaomi_en
 2604ERP4DG,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 9.7 4G,Global,xiaomi_en
-2604ERP4DI,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 9.7 4G,India,xiaomi_en
 2604ERP4DC,pad,xiaomi,Xiaomi,P85X,erhu,REDMI Pad 2 SE 4G,China,xiaomi_en
 25079RPDCC,pad,xiaomi,Xiaomi,O88,turner,REDMI K Pad,China,xiaomi_en
 26048RP6AC,pad,xiaomi,Xiaomi,P88,yili,REDMI K Pad 2,China,xiaomi_en
