@@ -9725,6 +9725,7 @@ PA2573,pad,vivo,vivo,,DPD2429,Pad5 Pro,,vivo_cn
 PA2535,pad,vivo,vivo,,DPD2345,Pad5e,,vivo_cn
 PA2535,pad,vivo,vivo,,DPD2345,Pad5c,,vivo_cn
 PA2511,pad,vivo,vivo,,DPD2424,Pad SE,,vivo_cn
+PA2511,pad,vivo,vivo,,DPD2424,Pad SE 2s,,vivo_cn
 PA2671,pad,vivo,vivo,,DPD2540,Pad6 Pro,,vivo_cn
 iPA2375,pad,vivo,vivo,,DPD2307,iQOO Pad,,vivo_cn
 iPA2451,pad,vivo,vivo,,DPD2305,iQOO Pad Air,,vivo_cn
@@ -12749,6 +12750,7 @@ MASC-32,computer,zhixuan,华为智选,,MarseilleC,Hi MateBook 14,酷睿 Ultra 2 
 MNCAA-16,computer,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (16GB 内存) (方形键盘),zhixuan
 MNCAA-32,computer,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (32GB 内存) (方形键盘),zhixuan
 MNCAC-32,computer,zhixuan,华为智选,,MunichA,Hi MateBook 14,锐龙 200 (32GB 内存) (圆形键盘),zhixuan
+MASJC-X,computer,zhixuan,华为智选,,MarseilleJ,Hi MateBook 14,酷睿版 (酷睿 Ultra 3),zhixuan
 LYOI-16,computer,zhixuan,华为智选,,LyonI,Hi MateBook D 14,16GB 内存,zhixuan
 LYOI-32,computer,zhixuan,华为智选,,LyonI,Hi MateBook D 14,32GB 内存,zhixuan
 NICG-16,computer,zhixuan,华为智选,,NiceG,Hi MateBook D 16,(13 代酷睿) (16GB 内存),zhixuan
