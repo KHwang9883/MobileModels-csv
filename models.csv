@@ -2405,41 +2405,13 @@ ROL-W10,pad,honor,荣耀,,Rowling,荣耀平板 V9,柔光版 11.5 英寸 Wi-Fi �
 GDI-W09,pad,honor,荣耀,,Gaudi,荣耀平板 MagicPad,13 英寸 Wi-Fi 版,honor_cn
 ROD2-W09,pad,honor,荣耀,,Rolland2,荣耀平板 MagicPad 2,12.3 英寸 Wi-Fi 版,honor_cn
 CGA-W00,pad,honor,荣耀,,Changan,荣耀平板 MagicPad 3,13.3 英寸 Wi-Fi 版,honor_cn
-CGL-W00,pad,honor,荣耀,,,荣耀 MagicPad 3 12.5,英寸 Wi-Fi 版,honor_cn
-YLP-W00,pad,honor,荣耀,,,荣耀 MagicPad 3 Pro 13.3,英寸 Wi-Fi 版,honor_cn
+CGL-W00,pad,honor,荣耀,,Changle,荣耀 MagicPad 3 12.5,英寸 Wi-Fi 版,honor_cn
+YLP-W00,pad,honor,荣耀,,YongleP,荣耀 MagicPad 3 Pro 13.3,英寸 Wi-Fi 版,honor_cn
 YLE-W09,pad,honor,荣耀,,Yongle,荣耀 MagicPad 3 Pro 12.3,英寸 Wi-Fi 版,honor_cn
 MLA-W09,pad,honor,荣耀,,Mulan,荣耀 MagicPad 4,12.1 英寸 Wi-Fi 版,honor_cn
 ROL-W60,pad,honor,荣耀,,Rowling,荣耀平板 GT,11.5 英寸 Wi-Fi 版,honor_cn
 ROD2-W69,pad,honor,荣耀,,Rolland2,荣耀平板 GT Pro,12.3 英寸 Wi-Fi 版,honor_cn
-CHG-W60,pad,honor,荣耀,,,荣耀平板 GT2 Pro,12.5 英寸 Wi-Fi 版,honor_cn
-AGR-W09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,9.7 英寸 Wi-Fi 版,honor_cn
-AGR-AL09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,9.7 英寸 LTE 版,honor_cn
-KOB2-W09HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,8 英寸 Wi-Fi 版,honor_cn
-KOB2-AL00HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,8 英寸 LTE 版,honor_cn
-AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 X8,10.1 英寸 Wi-Fi 版,honor_cn
-ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,11.5 英寸 Wi-Fi 版,honor_cn
-NDL-W09,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 Wi-Fi 版,honor_cn
-NDL-AL00,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 LTE 版,honor_cn
-ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版,honor_cn
-NDL2-W09,pad,honor,荣耀,,Nadal2,荣耀平板 X10,11 英寸 Wi-Fi 版,honor_cn
-ELE2-W00,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,11.5 英寸 Wi-Fi 版,honor_cn
-ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,柔光版 11.5 英寸 Wi-Fi 版,honor_cn
-YAG-W09,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,10 Pro Max 13 英寸 Wi-Fi 版,honor_cn
-YAG-W19,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,10 Pro Max 柔光版 13 英寸 Wi-Fi 版,honor_cn
-ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀护眼学习机 火火兔版,11.5 英寸 Wi-Fi 版,honor_cn
-AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版,honor_cn
-AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版,honor_cn
-AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 Wi-Fi 版,honor_cn
-AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 LTE 版,honor_cn
-NDL-W00,pad,honor,荣耀,,Nadal,荣耀平板 Z5a,11 英寸 Wi-Fi 版,honor_cn
-ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 Z6,11.5 英寸 Wi-Fi 版,honor_cn
-ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 Z6 第二代,11.5 英寸 Wi-Fi 版,honor_cn
-HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,12.1 英寸 5G 版,honor_cn
-HEY4-AN00,pad,honor,荣耀,,Hendry4,荣耀平板 Z7 第二代,12.1 英寸 5G 版,honor_cn
-HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 Wi-Fi 版,honor_cn
-HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 LTE 版,honor_cn
-HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,8 英寸 Wi-Fi 版,honor_cn
-HDL-AL09,pad,honor,荣耀,,Handel,荣耀 Waterplay,8 英寸 LTE 版,honor_cn
+CHG-W60,pad,honor,荣耀,,Changle,荣耀平板 GT2 Pro,12.5 英寸 Wi-Fi 版,honor_cn
 7D-501u,pad,honor,荣耀,,,荣耀 X1,3G 版,honor_cn
 7D-503L,pad,honor,荣耀,,,荣耀 X1,4G 版,honor_cn
 7D-503LT,pad,honor,荣耀,,,荣耀 X1,移动 4G 版,honor_cn
@@ -2455,6 +2427,34 @@ KOB-L09,pad,honor,荣耀,,Kobe,荣耀畅玩平板 2,8 英寸 LTE 版,honor_cn
 AGS-W09,pad,honor,荣耀,,Agassi,荣耀畅玩平板 2,9.6 英寸 Wi-Fi 版,honor_cn
 AGS-L09,pad,honor,荣耀,,Agassi,荣耀畅玩平板 2,9.6 英寸 LTE 版,honor_cn
 BG2-W09,pad,honor,荣耀,,Baggio2,荣耀畅玩平板 2,7 英寸 Wi-Fi 版,honor_cn
+AGR-W09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,9.7 英寸 Wi-Fi 版,honor_cn
+AGR-AL09HN,pad,honor,荣耀,,AgassiR,荣耀平板 X6,9.7 英寸 LTE 版,honor_cn
+KOB2-W09HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,8 英寸 Wi-Fi 版,honor_cn
+KOB2-AL00HN,pad,honor,荣耀,,Kobe2,荣耀平板 X7,8 英寸 LTE 版,honor_cn
+AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 X8,10.1 英寸 Wi-Fi 版,honor_cn
+ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 X8 Pro,11.5 英寸 Wi-Fi 版,honor_cn
+NDL-W09,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 Wi-Fi 版,honor_cn
+NDL-AL00,pad,honor,荣耀,,Nadal,荣耀平板 X9,11 英寸 LTE 版,honor_cn
+ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 X9 Pro,11.5 英寸 Wi-Fi 版,honor_cn
+NDL2-W09,pad,honor,荣耀,,Nadal2,荣耀平板 X10,11 英寸 Wi-Fi 版,honor_cn
+ELE2-W00,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,11.5 英寸 Wi-Fi 版,honor_cn
+ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,柔光版 11.5 英寸 Wi-Fi 版,honor_cn
+YAG-W09,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,10 Pro Max 13 英寸 Wi-Fi 版,honor_cn
+YAG-W19,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,10 Pro Max 柔光版 13 英寸 Wi-Fi 版,honor_cn
+ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀护眼学习机 火火兔版,11.5 英寸 Wi-Fi 版,honor_cn
+HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 Wi-Fi 版,honor_cn
+HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 LTE 版,honor_cn
+HDL-W09,pad,honor,荣耀,,Handel,荣耀 Waterplay,8 英寸 Wi-Fi 版,honor_cn
+HDL-AL09,pad,honor,荣耀,,Handel,荣耀 Waterplay,8 英寸 LTE 版,honor_cn
+AGM-W09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 Wi-Fi 版,honor_cn
+AGM-AL09HN,pad,honor,荣耀,,AgassiRM,荣耀平板 Z3,9.7 英寸 LTE 版,honor_cn
+AGM3-W09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 Wi-Fi 版,honor_cn
+AGM3-AL09HN,pad,honor,荣耀,,Agassi3M,荣耀平板 Z5,10.1 英寸 LTE 版,honor_cn
+NDL-W00,pad,honor,荣耀,,Nadal,荣耀平板 Z5a,11 英寸 Wi-Fi 版,honor_cn
+ELN-W09,pad,honor,荣耀,,Eileen,荣耀平板 Z6,11.5 英寸 Wi-Fi 版,honor_cn
+ELN2-W09,pad,honor,荣耀,,Eileen2,荣耀平板 Z6 第二代,11.5 英寸 Wi-Fi 版,honor_cn
+HEY2-AN00,pad,honor,荣耀,,Hendry2,荣耀平板 Z7,12.1 英寸 5G 版,honor_cn
+HEY4-AN00,pad,honor,荣耀,,Hendry4,荣耀平板 Z7 第二代,12.1 英寸 5G 版,honor_cn
 VLT-W50,computer,honor,荣耀,,Volta,荣耀 MagicBook,i5,honor_cn
 VLT-W60,computer,honor,荣耀,,Volta,荣耀 MagicBook,i7,honor_cn
 KPL-W00,computer,honor,荣耀,,,荣耀 MagicBook 锐龙版,,honor_cn
@@ -2686,8 +2686,10 @@ RHE-B19,band,honor,荣耀,,,荣耀手环 9,标准版,honor_cn
 RHE-B39,band,honor,荣耀,,,荣耀手环 9,NFC 版,honor_cn
 VNE-B19,band,honor,荣耀,,,荣耀手环 10,标准版,honor_cn
 VNE-B39,band,honor,荣耀,,,荣耀手环 10,NFC 版,honor_cn
-MLA-B19,band,honor,荣耀,,,荣耀手环 11,标准版,honor_cn
+MLA-B19,band,honor,荣耀,,,荣耀手环 11,,honor_cn
+MLA-B19,band,honor,荣耀,,,荣耀手环 11,Lite,honor_cn
 MLA-B39,band,honor,荣耀,,,荣耀手环 11,Pro,honor_cn
+MLA-B39,band,honor,荣耀,,,荣耀手环 11,Pro GPS 版,honor_cn
 CGN-A00,glass,honor,荣耀,,,荣耀观影眼镜,,honor_cn
 HUAWEI U8860,mob,honor,荣耀,,,荣耀 Honor,联通版,honor_cn
 HUAWEI C8860E,mob,honor,荣耀,,,荣耀 Honor,电信版,honor_cn
@@ -9736,7 +9738,7 @@ iPA2575,pad,vivo,vivo,,DPD2438,iQOO Pad5 Pro,,vivo_cn
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5e,,vivo_cn
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5c,,vivo_cn
 iPA2673,pad,vivo,vivo,,DPD2540,iQOO Pad6 Pro,,vivo_cn
-iPA2691,pad,vivo,vivo,,,iQOO Pad Ultra,,vivo_cn
+iPA2691,pad,vivo,vivo,,DPD2605,iQOO Pad Ultra,,vivo_cn
 WA2052,watch,vivo,vivo,,,WATCH,42mm,vivo_cn
 WA2056,watch,vivo,vivo,,,WATCH,46mm,vivo_cn
 WA2156A,watch,vivo,vivo,,,WATCH 2,eSIM 版,vivo_cn
@@ -9906,11 +9908,11 @@ V2509,mob,vivo,vivo,,PD2443F,T4 Lite 5G,,vivo_global_en
 V2518,mob,vivo,vivo,,PD2438F,T4R 5G,,vivo_global_en
 V2510,mob,vivo,vivo,,PD2503F,T4 Pro,,vivo_global_en
 V2504,mob,vivo,vivo,,PD2430F,T4 Ultra,,vivo_global_en
-V2583,mob,vivo,vivo,,,T5,,vivo_global_en
+V2583,mob,vivo,vivo,,PD2533F,T5,,vivo_global_en
 V2568,mob,vivo,vivo,,PD2553F,T5 Pro,,vivo_global_en
 V2602,mob,vivo,vivo,,PD2553F,T5 Pro,,vivo_global_en
 V2545,mob,vivo,vivo,,PD2532F,T5x 5G,,vivo_global_en
-V2628,mob,vivo,vivo,,,T5e,,vivo_global_en
+V2628,mob,vivo,vivo,,PD2577F,T5e,,vivo_global_en
 V2603,mob,vivo,vivo,,PD2542F,T5 Lite 5G,,vivo_global_en
 V2557,mob,vivo,vivo,,,T5 Lite 44W 5G,,vivo_global_en
 vivo 1929,mob,vivo,vivo,,PD2014F,Y1s,,vivo_global_en
@@ -9943,7 +9945,7 @@ V2532,mob,vivo,vivo,,PD2442F,Y04e,,vivo_global_en
 V2531,mob,vivo,vivo,,PD2442F,Y04s,,vivo_global_en
 V2556,mob,vivo,vivo,,PD2541F,Y05,,vivo_global_en
 V2565,mob,vivo,vivo,,PD2541F,Y05,,vivo_global_en
-V2606,mob,vivo,vivo,,,Y05e,,vivo_global_en
+V2606,mob,vivo,vivo,,PD2577F,Y05e,,vivo_global_en
 V2556,mob,vivo,vivo,,PD2541F,Y05i,,vivo_global_en
 V2650,mob,vivo,vivo,,PD2541F,Y05i,,vivo_global_en
 V2575,mob,vivo,vivo,,PD2542F,Y11 5G,,vivo_global_en
@@ -10112,6 +10114,7 @@ V2584,mob,vivo,vivo,,,Y500,,vivo_global_en
 V2627,mob,vivo,vivo,,,Y500,,vivo_global_en
 V2634,mob,vivo,vivo,,,Y500,,vivo_global_en
 V2635,mob,vivo,vivo,,,Y500,,vivo_global_en
+V2655,mob,vivo,vivo,,,Y600 5G,,vivo_global_en
 I1927,mob,vivo,vivo,,PD1964F,iQOO 3,4G,vivo_global_en
 I1928,mob,vivo,vivo,,PD1955F,iQOO 3 5G,,vivo_global_en
 I2009,mob,vivo,vivo,,PD2049F,iQOO 7,Global,vivo_global_en
@@ -10170,11 +10173,14 @@ J2502,mob,vivo,vivo,,,JOVI T1 5G,,vivo_global_en
 V2425,mob,vivo,vivo,,PD2420F,JOVI Y19s,,vivo_global_en
 V2454,mob,vivo,vivo,,PD2420F,JOVI Y19s,,vivo_global_en
 J2503,mob,vivo,vivo,,PD2510DF,JOVI Y21,,vivo_global_en
+J2609,mob,vivo,vivo,,PD2510DF,JOVI Y21,,vivo_global_en
 J2508,mob,vivo,vivo,,PD2542F,JOVI Y21 5G,,vivo_global_en
+J2601,mob,vivo,vivo,,,JOVI Y21e,,vivo_global_en
 V2445,mob,vivo,vivo,,PD2446F,JOVI Y29,,vivo_global_en
 V2459,mob,vivo,vivo,,PD2443F,JOVI Y29s 5G,,vivo_global_en
 J2506,mob,vivo,vivo,,PD2533HF,JOVI Y31,,vivo_global_en
 V2444,mob,vivo,vivo,,PD2444F,JOVI Y39 5G,,vivo_global_en
+J2608,mob,vivo,vivo,,,JOVI Y600 Pro 5G,V600 Pro 5G,vivo_global_en
 XMSH01HM,band,xiaomi,小米,,,小米手环,,xiaomi-wear
 XMSH02HM,band,xiaomi,小米,,,小米手环,光感版,xiaomi-wear
 XMSH03HM,band,xiaomi,小米,,,小米手环,光感版,xiaomi-wear
