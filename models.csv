@@ -7070,6 +7070,8 @@ CPH2763,mob,oppo,OPPO,,,OPPO F31 Pro,5G,oppo_global_en
 CPH2757,mob,oppo,OPPO,,,OPPO F31 Pro+,5G,oppo_global_en
 CPH2777,mob,oppo,OPPO,,,OPPO F33,5G,oppo_global_en
 CPH2835,mob,oppo,OPPO,,,OPPO F33 Pro,5G,oppo_global_en
+CPH2931,mob,oppo,OPPO,,,OPPO F35,5G,oppo_global_en
+CPH2829,mob,oppo,OPPO,,,OPPO F35 Pro,5G,oppo_global_en
 CPH1835,mob,oppo,OPPO,,,OPPO R15,,oppo_global_en
 CPH1831,mob,oppo,OPPO,,,OPPO R15 Pro,,oppo_global_en
 CPH1833,mob,oppo,OPPO,,,OPPO R15 Pro,,oppo_global_en
@@ -7134,6 +7136,8 @@ CPH1905,mob,oppo,OPPO,,,OPPO A7,,oppo_global_en
 CPH1903,mob,oppo,OPPO,,,OPPO AX7,,oppo_global_en
 CPH1893,mob,oppo,OPPO,,,OPPO AX7 Pro,,oppo_global_en
 CPH1893RU,mob,oppo,OPPO,,,OPPO AX7 Pro,,oppo_global_en
+CPH2931,mob,oppo,OPPO,,,OPPO A7 Pro,5G,oppo_global_en
+CPH2909,mob,oppo,OPPO,,,OPPO A7 Pro Max,5G,oppo_global_en
 CPH1938,mob,oppo,OPPO,,,OPPO A9,,oppo_global_en
 CPH1937,mob,oppo,OPPO,,,OPPO A9 2020,,oppo_global_en
 CPH1941,mob,oppo,OPPO,,,OPPO A9 2020,,oppo_global_en
@@ -7229,6 +7233,8 @@ CPH2761,mob,oppo,OPPO,,knight,OPPO K13 Turbo,5G,oppo_global_en
 CPH2731,mob,oppo,OPPO,,knight-h,OPPO K13 Turbo Pro,5G,oppo_global_en
 CPH2869,mob,oppo,OPPO,,,OPPO K14,5G,oppo_global_en
 CPH2871,mob,oppo,OPPO,,,OPPO K14x,5G,oppo_global_en
+CPH3007,mob,oppo,OPPO,,,OPPO K14 Lite,,oppo_global_en
+CPH3009,mob,oppo,OPPO,,,OPPO K14 Plus,,oppo_global_en
 OPD2102A,pad,oppo,OPPO,,,OPPO Pad Air,,oppo_global_en
 OPD2202,pad,oppo,OPPO,,aries,OPPO Pad 2,,oppo_global_en
 OPD2302,pad,oppo,OPPO,,bluey,OPPO Pad Neo,Wi-Fi,oppo_global_en
