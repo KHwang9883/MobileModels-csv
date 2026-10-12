@@ -3065,12 +3065,12 @@ SGT-AL00,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030 Pro,huawe
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,,huawei_cn
 SGT-AL10,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro Max,风驰版,huawei_cn
 SGU-AL10,mob,huawei,华为,,SagittariusU,HUAWEI Mate 80 RS 非凡大师,,huawei_cn
-HLS-AL00,mob,huawei,华为,,,HUAWEI Mate 90,,huawei_cn
-CMS-AL20,mob,huawei,华为,,,HUAWEI Mate 90 Pro,,huawei_cn
-CMM-AL00,mob,huawei,华为,,,HUAWEI Mate 90 Pro Max,麒麟 9050,huawei_cn
-CMM-AL10,mob,huawei,华为,,,HUAWEI Mate 90 Pro Max,麒麟 9050 Pro,huawei_cn
-CMM-AL10,mob,huawei,华为,,,HUAWEI Mate 90 Pro Max 典藏版,,huawei_cn
-CMU-AL10,mob,huawei,华为,,,HUAWEI Mate 90 RS 非凡大师,,huawei_cn
+HLS-AL00,mob,huawei,华为,,Halos,HUAWEI Mate 90,,huawei_cn
+CMS-AL20,mob,huawei,华为,,Cosmos,HUAWEI Mate 90 Pro,,huawei_cn
+CMM-AL00,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max,麒麟 9050,huawei_cn
+CMM-AL10,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max,麒麟 9050 Pro,huawei_cn
+CMM-AL10,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max 典藏版,,huawei_cn
+CMU-AL10,mob,huawei,华为,,CosmosU,HUAWEI Mate 90 RS 非凡大师,,huawei_cn
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,,huawei_cn
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,,huawei_cn
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,5G,huawei_cn
@@ -3087,7 +3087,7 @@ ICL-AL20,mob,huawei,华为,,Icelan,HUAWEI Mate X6,典藏版,huawei_cn
 GRL-AL20,mob,huawei,华为,,Greenlan,HUAWEI Mate XTs 非凡大师,,huawei_cn
 DEL-AL10,mob,huawei,华为,,Delphi,HUAWEI Mate X7,,huawei_cn
 DEL-AL20,mob,huawei,华为,,Delphi,HUAWEI Mate X7,典藏版,huawei_cn
-LAP-AL10,mob,huawei,华为,,,HUAWEI Mate XT 2 非凡大师,,huawei_cn
+LAP-AL10,mob,huawei,华为,,Laptua,HUAWEI Mate XT 2 非凡大师,,huawei_cn
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,,huawei_cn
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,XL,huawei_cn
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,S,huawei_cn
@@ -3170,7 +3170,7 @@ VDE-AL00,mob,huawei,华为,,Verde,HUAWEI Pura X,,huawei_cn
 VDE-AL10,mob,huawei,华为,,Verde,HUAWEI Pura X,典藏版,huawei_cn
 HOP-AL00,mob,huawei,华为,,Hope,HUAWEI Pura X Max,,huawei_cn
 HOP-AL10,mob,huawei,华为,,Hope,HUAWEI Pura X Max,典藏版,huawei_cn
-VOL-AL00,mob,huawei,华为,,,HUAWEI Pura X View,,huawei_cn
+VOL-AL00,mob,huawei,华为,,Volcano,HUAWEI Pura X View,,huawei_cn
 BAL-AL60,mob,huawei,华为,,Bali,HUAWEI Pocket S,,huawei_cn
 LEM-AL00,mob,huawei,华为,,Lem,HUAWEI Pocket 2,,huawei_cn
 LEM-AL50,mob,huawei,华为,,Lem,HUAWEI Pocket 2,优享版,huawei_cn
@@ -3603,11 +3603,11 @@ VGHH-16,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,16GB
 VGHH-32,computer,huawei,华为,,VanGoghH,HUAWEI MateBook X Pro 酷睿 Ultra,32GB 内存,huawei_cn
 HAD-W24,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,24GB 内存,huawei_cn
 HAD-W32,computer,huawei,华为,,Harden,HUAWEI MateBook Pro,32GB 内存,huawei_cn
-MOR-M1,computer,huawei,华为,,,HUAWEI MateBook Pro S,标准版 / 防窥版 / 柔光版,huawei_cn
-MOR-M2,computer,huawei,华为,,,HUAWEI MateBook Pro S,典藏版,huawei_cn
+MOR-M1,computer,huawei,华为,,Monroe,HUAWEI MateBook Pro S,标准版 / 防窥版 / 柔光版,huawei_cn
+MOR-M2,computer,huawei,华为,,Monroe,HUAWEI MateBook Pro S,典藏版,huawei_cn
 HPR-W72,computer,huawei,华为,,Hopper,HUAWEI MateBook Fold 非凡大师,(麒麟 X90) (32GB 内存),huawei_cn
-SLM-W24,computer,huawei,华为,,,HUAWEI MateBook Fold 非凡大师,(麒麟 X90 Plus) (24GB 内存),huawei_cn
-SLM-W32,computer,huawei,华为,,,HUAWEI MateBook Fold 非凡大师,(麒麟 X90 Plus) (32GB 内存),huawei_cn
+SLM-W24,computer,huawei,华为,,Solomon,HUAWEI MateBook Fold 非凡大师,(麒麟 X90 Plus) (24GB 内存),huawei_cn
+SLM-W32,computer,huawei,华为,,Solomon,HUAWEI MateBook Fold 非凡大师,(麒麟 X90 Plus) (32GB 内存),huawei_cn
 WRT-W19,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5,huawei_cn
 WRT-W19L,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i5 Linux 版,huawei_cn
 WRT-W29,computer,huawei,华为,,Wright,HUAWEI MateBook 13,i7,huawei_cn
