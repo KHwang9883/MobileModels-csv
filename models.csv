@@ -3836,6 +3836,9 @@ HDC0ARIA,tv,huawei,华为,,,华为智慧屏 V5 Max,110,huawei_cn
 HD75ARIC,tv,huawei,华为,,,华为智慧屏 V6,75,huawei_cn
 HD85ARIC,tv,huawei,华为,,,华为智慧屏 V6,85,huawei_cn
 HD98ARIC,tv,huawei,华为,,,华为智慧屏 V6,98,huawei_cn
+HD75ARIA,tv,huawei,华为,,,华为智慧屏 V7,教育版 75,huawei_cn
+HD85ARIA,tv,huawei,华为,,,华为智慧屏 V7,教育版 85,huawei_cn
+HD98ARIA,tv,huawei,华为,,,华为智慧屏 V7,教育版 98,huawei_cn
 PLAT-760,tv,huawei,华为,,Plato,华为智慧屏 X 系列,65,huawei_cn
 HD65EDIH,tv,huawei,华为,,,华为智慧屏 MateTV,65 英寸,huawei_cn
 HD75EDIH,tv,huawei,华为,,,华为智慧屏 MateTV,75 英寸,huawei_cn
@@ -3986,11 +3989,18 @@ HDB325A7,tv,huawei,华为,,,华为智慧屏 B 系列,3 55,huawei_cn
 HDB326A7,tv,huawei,华为,,,华为智慧屏 B 系列,3 65,huawei_cn
 HD55KANY,tv,huawei,华为,,,华为智慧屏 B 系列,5-510,huawei_cn
 HD65KANY,tv,huawei,华为,,,华为智慧屏 B 系列,5-610,huawei_cn
+HDB525A7,tv,huawei,华为,,,华为智慧屏 B 系列,5 55,huawei_cn
+HDB526A7,tv,huawei,华为,,,华为智慧屏 B 系列,5 65,huawei_cn
+HDB527A7,tv,huawei,华为,,,华为智慧屏 B 系列,5 75,huawei_cn
 HEGE-550AX,tv,huawei,华为,,,华为智慧屏 B 系列,7-500,huawei_cn
 HEGE-550X,tv,huawei,华为,,,华为智慧屏 B 系列,7-510,huawei_cn
 HD65FRUN,tv,huawei,华为,,,华为智慧屏 B 系列,7 65,huawei_cn
 HD75FRUN,tv,huawei,华为,,,华为智慧屏 B 系列,7 75,huawei_cn
 HD86FRUN,tv,huawei,华为,,,华为智慧屏 B 系列,7 86,huawei_cn
+HD1XARIN,tv,huawei,华为,,,华为智慧屏 B 系列,7 65A,huawei_cn
+HD77ARIN,tv,huawei,华为,,,华为智慧屏 B 系列,7 75A,huawei_cn
+HD85ARIN,tv,huawei,华为,,,华为智慧屏 B 系列,7 85A,huawei_cn
+HD98ARIN,tv,huawei,华为,,,华为智慧屏 B 系列,7 98A,huawei_cn
 HDB729A7,tv,huawei,华为,,,华为智慧屏 B 系列,9 98,huawei_cn
 BLM-00,pad,huawei,华为,,,华为小精灵学习智慧屏,,huawei_cn
 BLM-00,pad,huawei,华为,,,华为智慧屏便携版,,huawei_cn
