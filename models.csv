@@ -537,6 +537,7 @@ A1842,tv_hub,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,,apple_all
 A2169,tv_hub,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (第 2 代),,apple_all
 A2737,tv_hub,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网,apple_all
 A2843,tv_hub,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (第 3 代),无线局域网 + 以太网,apple_all
+A3593,tv_hub,apple,Apple,J265AP,"AppleTV18,1",Apple TV 4K (第 4 代),,apple_all
 A2117,glass,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,,apple_all
 A3416,glass,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),,apple_all
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch,,apple_all
@@ -653,6 +654,9 @@ A2937,accessory,apple,Apple,B589AP,,AirTag (第 2 代),,apple_all
 A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod,,apple_all
 A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,,apple_all
 A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (第 2 代),,apple_all
+A3374,pod,apple,Apple,B525AP,"AudioAccessory11,1",HomePod mini 2,,apple_all
+A3218,pod,apple,Apple,J490AP,"HomeAccessory17,1",Apple HomeView,,apple_all
+A3300,pod,apple,Apple,J491AP,"HomeAccessory17,2",Apple HomeView,壁挂式,apple_all
 A1203,mob,apple,Apple,M68AP,"iPhone1,1",iPhone,,apple_all_en
 A1241,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,,apple_all_en
 A1324,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,China mainland,apple_all_en
@@ -1153,6 +1157,7 @@ A1842,tv_hub,apple,Apple,J105aAP,"AppleTV6,2",Apple TV 4K,,apple_all_en
 A2169,tv_hub,apple,Apple,J305AP,"AppleTV11,1",Apple TV 4K (2nd generation),,apple_all_en
 A2737,tv_hub,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi,apple_all_en
 A2843,tv_hub,apple,Apple,J255AP,"AppleTV14,1",Apple TV 4K (3rd generation),Wi-Fi + Ethernet,apple_all_en
+A3593,tv_hub,apple,Apple,J265AP,"AppleTV18,1",Apple TV 4K (4th generation),,apple_all_en
 A2117,glass,apple,Apple,N301AP,"RealityDevice14,1",Apple Vision Pro,,apple_all_en
 A3416,glass,apple,Apple,N301aAP,"RealityDevice17,1,1",Apple Vision Pro (M5),,apple_all_en
 A1213,pod,apple,Apple,N45AP,"iPod1,1",iPod touch (1st generation),,apple_all_en
@@ -1269,6 +1274,9 @@ A2937,accessory,apple,Apple,B589AP,,AirTag (2nd generation),,apple_all_en
 A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod (1st generation),,apple_all_en
 A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,,apple_all_en
 A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (2nd generation),,apple_all_en
+A3374,pod,apple,Apple,B525AP,"AudioAccessory11,1",HomePod mini 2,,apple_all_en
+A3218,pod,apple,Apple,J490AP,"HomeAccessory17,1",Apple HomeView,,apple_all_en
+A3300,pod,apple,Apple,J491AP,"HomeAccessory17,2",Apple HomeView,Wall Mounted,apple_all_en
 A1324,mob,apple,Apple,N82AP,"iPhone1,2",iPhone 3G,,apple_cn
 A1303,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,,apple_cn
 A1325,mob,apple,Apple,N88AP,"iPhone2,1",iPhone 3GS,无 WLAN 功能,apple_cn
@@ -1633,6 +1641,7 @@ A2937,accessory,apple,Apple,B589AP,,AirTag (第 2 代),,apple_cn
 A1639,pod,apple,Apple,B238aAP,"AudioAccessory1,1",HomePod,,apple_cn
 A2374,pod,apple,Apple,B520AP,"AudioAccessory5,1",HomePod mini,,apple_cn
 A2825,pod,apple,Apple,B620AP,"AudioAccessory6,1",HomePod (第 2 代),,apple_cn
+A3374,pod,apple,Apple,B525AP,"AudioAccessory11,1",HomePod mini 2,,apple_cn
 ASUS_Z01QD,mob,asus,华硕,,ZS600KL,ROG 游戏手机,,asus_cn
 ASUS_I001DA,mob,asus,华硕,,ZS660KL,ROG 游戏手机 2,,asus_cn
 ASUS_I001DB,mob,asus,华硕,,ZS660KL,ROG 游戏手机 2,,asus_cn
