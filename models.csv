@@ -6373,6 +6373,8 @@ CPH2807,mob,oneplus,一加,,prado,一加 Nord CE 6,国际版,oneplus
 PYS110,mob,oneplus,一加,,kof,一加 Turbo 6X,国行版,oneplus
 PYR110,mob,oneplus,一加,,lol,一加 Turbo 6X Pro,国行版,oneplus
 PYB110,mob,oneplus,一加,,pokemon,一加 16,国行版,oneplus
+PYF110,mob,oneplus,一加,,,一加 Ace 7,国行版,oneplus
+PMS110,mob,oneplus,一加,,,一加 Ace 7 Pro,国行版,oneplus
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版,oneplus
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版,oneplus
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版,oneplus
@@ -6581,6 +6583,8 @@ CPH2807,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,Global,oneplus_en
 PYS110,mob,oneplus,OnePlus,,kof,OnePlus Turbo 6X,China,oneplus_en
 PYR110,mob,oneplus,OnePlus,,lol,OnePlus Turbo 6X Pro,China,oneplus_en
 PYB110,mob,oneplus,OnePlus,,pokemon,OnePlus 16,China,oneplus_en
+PYF110,mob,oneplus,OnePlus,,,OnePlus Ace 7,China,oneplus_en
+PMS110,mob,oneplus,OnePlus,,,OnePlus Ace 7 Pro,China,oneplus_en
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India,oneplus_en
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global,oneplus_en
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India,oneplus_en
@@ -6964,6 +6968,8 @@ OPG07,mob,oppo,OPPO,,zhujiang,OPPO Find X9,KDDI,oppo_global_en
 CPH2791,mob,oppo,OPPO,,changjiang,OPPO Find X9 Pro,,oppo_global_en
 CPH2873,mob,oppo,OPPO,,aurora,OPPO Find X9s,,oppo_global_en
 CPH2841,mob,oppo,OPPO,,lighthouse,OPPO Find X9 Ultra,,oppo_global_en
+CPH2911,mob,oppo,OPPO,,uranus,OPPO Find X10,,oppo_global_en
+CPH2913,mob,oppo,OPPO,,mars,OPPO Find X10 Pro Max,,oppo_global_en
 CPH2439,mob,oppo,OPPO,,whiteswan,OPPO Find N2,,oppo_global_en
 CPH2437,mob,oppo,OPPO,,dragonfly,OPPO Find N2 Flip,,oppo_global_en
 CPH2499,mob,oppo,OPPO,,hedwig,OPPO Find N3,,oppo_global_en
