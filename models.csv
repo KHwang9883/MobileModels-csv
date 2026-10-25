@@ -2044,12 +2044,12 @@ PTP-AN70,mob,honor,荣耀,,Patek,荣耀 Magic7 Pro,卫星通信版,honor_cn
 PTP-AN20,mob,honor,荣耀,,Patek,荣耀 Magic7 RSR 保时捷设计,,honor_cn
 MBH-AN10,mob,honor,荣耀,,Maybach,荣耀 Magic V5,,honor_cn
 CLE-AN00,mob,honor,荣耀,,Celine,荣耀 Magic V Flip2,,honor_cn
-BKQ-AN00,mob,honor,荣耀,,,荣耀 Magic8,,honor_cn
-BKQ-AN80,mob,honor,荣耀,,,荣耀 Magic8,16GB+1TB,honor_cn
-BKQ-AN10,mob,honor,荣耀,,,荣耀 Magic8 Pro,,honor_cn
-BKQ-AN90,mob,honor,荣耀,,,荣耀 Magic8 Pro,16GB+1TB,honor_cn
+BKQ-AN00,mob,honor,荣耀,,Birkin,荣耀 Magic8,,honor_cn
+BKQ-AN80,mob,honor,荣耀,,Birkin,荣耀 Magic8,16GB+1TB,honor_cn
+BKQ-AN10,mob,honor,荣耀,,Birkin,荣耀 Magic8 Pro,,honor_cn
+BKQ-AN90,mob,honor,荣耀,,Birkin,荣耀 Magic8 Pro,16GB+1TB,honor_cn
 LDY-AN00,mob,honor,荣耀,,Lindy,荣耀 Magic8 Pro Air,,honor_cn
-BKQ-AN20,mob,honor,荣耀,,,荣耀 Magic8 RSR 保时捷设计,,honor_cn
+BKQ-AN20,mob,honor,荣耀,,Birkin,荣耀 Magic8 RSR 保时捷设计,,honor_cn
 PNM-AN10,mob,honor,荣耀,,Phenom,荣耀 Magic V6,,honor_cn
 PNM-AN20,mob,honor,荣耀,,Phenom,荣耀 Magic V6,16GB+1TB,honor_cn
 MLY-AN00,mob,honor,荣耀,,Molly,荣耀 Magic9,,honor_cn
@@ -2861,7 +2861,7 @@ PTP-N59,mob,honor,HONOR,,Patek,PORSCHE DESIGN HONOR Magic7 RSR,,honor_global_en
 BRP-NX1M,mob,honor,HONOR,,BruceP,HONOR Magic7 Lite,,honor_global_en
 BRP-NX3,mob,honor,HONOR,,BruceP,HONOR Magic7 Lite,,honor_global_en
 MBH-N49,mob,honor,HONOR,,Maybach,HONOR Magic V5,,honor_global_en
-BKQ-N49,mob,honor,HONOR,,,HONOR Magic8 Pro,,honor_global_en
+BKQ-N49,mob,honor,HONOR,,Birkin,HONOR Magic8 Pro,,honor_global_en
 MTN-NX1M,mob,honor,HONOR,,,HONOR Magic8 Lite,,honor_global_en
 MTN-NX3,mob,honor,HONOR,,,HONOR Magic8 Lite,,honor_global_en
 BSN-NX1M,mob,honor,HONOR,,,HONOR Magic9 Lite+,,honor_global_en
@@ -2881,6 +2881,8 @@ NLA-LX1,mob,honor,HONOR,,Nala,HONOR X5c,Plus,honor_global_en
 NLA-LX2P,mob,honor,HONOR,,Nala,HONOR X5c,Plus,honor_global_en
 NAA-LX2,mob,honor,HONOR,,,HONOR X5d,,honor_global_en
 NAA-LX2P,mob,honor,HONOR,,,HONOR X5d,Plus,honor_global_en
+MEL-LX2,mob,honor,HONOR,,Melody,HONOR X5d s,,honor_global_en
+MLD-LX2,mob,honor,HONOR,,Melody,HONOR X5e s,,honor_global_en
 VNE-LX1,mob,honor,HONOR,,Vinnie,HONOR X6,,honor_global_en
 VNE-LX2,mob,honor,HONOR,,Vinnie,HONOR X6,,honor_global_en
 VNE-LX3,mob,honor,HONOR,,Vinnie,HONOR X6,,honor_global_en
@@ -2965,9 +2967,12 @@ GFY-LX3,mob,honor,HONOR,,Goofy,HONOR Play9A,,honor_global_en
 NIC-LX3P,mob,honor,HONOR,,Nick,HONOR Play9C,,honor_global_en
 ELA-LX2,mob,honor,HONOR,,Elsa,HONOR Play10,,honor_global_en
 ELA-LX3,mob,honor,HONOR,,Elsa,HONOR Play10,,honor_global_en
-MLD-LX1,mob,honor,HONOR,,,HONOR Play20A,,honor_global_en
-MLD-LX2,mob,honor,HONOR,,,HONOR Play20A,,honor_global_en
-MLD-LX3,mob,honor,HONOR,,,HONOR Play20A,,honor_global_en
+MOD-LX3,mob,honor,HONOR,,,HONOR Play20,,honor_global_en
+MLD-LX1,mob,honor,HONOR,,Melody,HONOR Play20A,,honor_global_en
+MLD-LX2,mob,honor,HONOR,,Melody,HONOR Play20A,,honor_global_en
+MLD-LX3,mob,honor,HONOR,,Melody,HONOR Play20A,,honor_global_en
+MEL-LX2,mob,honor,HONOR,,Melody,HONOR Play20C,,honor_global_en
+MEL-LX3,mob,honor,HONOR,,Melody,HONOR Play20C,,honor_global_en
 HEY-W09,pad,honor,HONOR,,Hendry,HONOR Pad 8,,honor_global_en
 HEY2-W09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,Wi-Fi,honor_global_en
 HEY2-N09,pad,honor,HONOR,,Hendry2,HONOR Pad 9,5G,honor_global_en
