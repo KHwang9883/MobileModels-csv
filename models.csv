@@ -3188,6 +3188,7 @@ LMR-AL10,mob,huawei,华为,,LamarrU,HUAWEI Pura 80 Ultra,,huawei_cn
 KEE-AL00,mob,huawei,华为,,Klee,HUAWEI Pura 90,,huawei_cn
 MLN-AL00,mob,huawei,华为,,Malena,HUAWEI Pura 90 Pro,,huawei_cn
 SCA-AL00,mob,huawei,华为,,Sicilia,HUAWEI Pura 90 Pro Max,,huawei_cn
+LCI-AL00,mob,huawei,华为,,Lucia,HUAWEI Pura 90 Plus,,huawei_cn
 VDE-AL00,mob,huawei,华为,,Verde,HUAWEI Pura X,,huawei_cn
 VDE-AL10,mob,huawei,华为,,Verde,HUAWEI Pura X,典藏版,huawei_cn
 HOP-AL00,mob,huawei,华为,,Hope,HUAWEI Pura X Max,,huawei_cn
@@ -3407,6 +3408,10 @@ JUY-AL80,mob,huawei,华为,,Judy,华为畅享 90,,huawei_cn
 JUY-AL50,mob,huawei,华为,,Judy,华为畅享 90 Plus,,huawei_cn
 JUY-AL50,mob,huawei,华为,,Judy,华为畅享 90m Plus,,huawei_cn
 CHZ-AL00,mob,huawei,华为,,Chenzhen,华为畅享 90 Pro Max,,huawei_cn
+JAL-AL90,mob,huawei,华为,,,华为畅享 100,,huawei_cn
+CHZ-AL60,mob,huawei,华为,,Chenzhen,华为畅享 100 Pro,,huawei_cn
+YEW-AL80,mob,huawei,华为,,Yewen,华为畅享 100 Pro Max,麒麟 8020A,huawei_cn
+YEW-AL90,mob,huawei,华为,,Yewen,华为畅享 100 Pro Max,麒麟 8020,huawei_cn
 S8-301W,pad,huawei,华为,,,华为 MediaPad M1,Wi-Fi 版,huawei_cn
 S8-301U,pad,huawei,华为,,,华为 MediaPad M1,3G 版,huawei_cn
 S8-303L,pad,huawei,华为,,,华为 MediaPad M1,LTE 版,huawei_cn
