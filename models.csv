@@ -6384,8 +6384,8 @@ CPH2807,mob,oneplus,一加,,prado,一加 Nord CE 6,国际版,oneplus
 PYS110,mob,oneplus,一加,,kof,一加 Turbo 6X,国行版,oneplus
 PYR110,mob,oneplus,一加,,lol,一加 Turbo 6X Pro,国行版,oneplus
 PYB110,mob,oneplus,一加,,pokemon,一加 16,国行版,oneplus
-PYF110,mob,oneplus,一加,,,一加 Ace 7,国行版,oneplus
-PMS110,mob,oneplus,一加,,,一加 Ace 7 Pro,国行版,oneplus
+PYF110,mob,oneplus,一加,,mario,一加 Ace 7,国行版,oneplus
+PMS110,mob,oneplus,一加,,redalert,一加 Ace 7 Pro,国行版,oneplus
 AC2001,mob,oneplus,一加,,avicii,一加 Nord,印度版,oneplus
 AC2003,mob,oneplus,一加,,avicii,一加 Nord,欧洲版 / 国际版,oneplus
 DN2101,mob,oneplus,一加,,denniz,一加 Nord 2,印度版,oneplus
@@ -6594,8 +6594,8 @@ CPH2807,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,Global,oneplus_en
 PYS110,mob,oneplus,OnePlus,,kof,OnePlus Turbo 6X,China,oneplus_en
 PYR110,mob,oneplus,OnePlus,,lol,OnePlus Turbo 6X Pro,China,oneplus_en
 PYB110,mob,oneplus,OnePlus,,pokemon,OnePlus 16,China,oneplus_en
-PYF110,mob,oneplus,OnePlus,,,OnePlus Ace 7,China,oneplus_en
-PMS110,mob,oneplus,OnePlus,,,OnePlus Ace 7 Pro,China,oneplus_en
+PYF110,mob,oneplus,OnePlus,,mario,OnePlus Ace 7,China,oneplus_en
+PMS110,mob,oneplus,OnePlus,,redalert,OnePlus Ace 7 Pro,China,oneplus_en
 AC2001,mob,oneplus,OnePlus,,avicii,OnePlus Nord,India,oneplus_en
 AC2003,mob,oneplus,OnePlus,,avicii,OnePlus Nord,Europe / Global,oneplus_en
 DN2101,mob,oneplus,OnePlus,,denniz,OnePlus Nord 2,India,oneplus_en
@@ -7943,6 +7943,7 @@ SM-W7024,mob,samsung,三星,,e5q,三星 W24 Flip,,samsung_cn
 SM-W9025,mob,samsung,三星,,q6aq,三星 W25,,samsung_cn
 SM-W7025,mob,samsung,三星,,b6q,三星 W25 Flip,,samsung_cn
 SM-W9026,mob,samsung,三星,,q7q,三星 W26,,samsung_cn
+SM-W9027,mob,samsung,三星,,q8q,三星 W27,,samsung_cn
 SM-G1600,mob,samsung,三星,,eliteltechn,Galaxy Folder,,samsung_cn
 SM-G1650,mob,samsung,三星,,elitexltechn,Galaxy Folder 2,,samsung_cn
 SM-G8508S,mob,samsung,三星,,sltechn,Galaxy Alpha,,samsung_cn
@@ -9807,7 +9808,7 @@ iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5e,,vivo_cn
 iPA2537,pad,vivo,vivo,,DPD2345,iQOO Pad5c,,vivo_cn
 iPA2673,pad,vivo,vivo,,DPD2540,iQOO Pad6 Pro,,vivo_cn
 iPA2691,pad,vivo,vivo,,DPD2605,iQOO Pad Ultra,,vivo_cn
-iPA2693,pad,vivo,vivo,,,iQOO Pad Pro 8.8,,vivo_cn
+iPA2693,pad,vivo,vivo,,DPD2653,iQOO Pad Pro 8.8,,vivo_cn
 WA2052,watch,vivo,vivo,,,WATCH,42mm,vivo_cn
 WA2056,watch,vivo,vivo,,,WATCH,46mm,vivo_cn
 WA2156A,watch,vivo,vivo,,,WATCH 2,eSIM 版,vivo_cn
