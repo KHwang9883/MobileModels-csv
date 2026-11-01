@@ -2454,7 +2454,7 @@ ELE2-W00,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,11.5 英寸 Wi-Fi 版,ho
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀平板 X10 Pro,柔光版 11.5 英寸 Wi-Fi 版,honor_cn
 YAG-W09,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,13 英寸 Wi-Fi 版,honor_cn
 YAG-W19,pad,honor,荣耀,,Yaoming,荣耀平板 X10 Pro Max,柔光版 13 英寸 Wi-Fi 版,honor_cn
-ONL-W09,pad,honor,荣耀,,,荣耀平板 X10 Mini,9.7 英寸 Wi-Fi 版,honor_cn
+ONL-W09,pad,honor,荣耀,,Oneal,荣耀平板 X10 Mini,9.7 英寸 Wi-Fi 版,honor_cn
 ELE2-W19,pad,honor,荣耀,,Eileen2,荣耀护眼学习机 火火兔版,11.5 英寸 Wi-Fi 版,honor_cn
 HDN-W09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 Wi-Fi 版,honor_cn
 HDN-L09,pad,honor,荣耀,,Haydn,荣耀 Waterplay,10.1 英寸 LTE 版,honor_cn
@@ -2986,7 +2986,7 @@ CGA-W00,pad,honor,HONOR,,Changan,HONOR MagicPad3,,honor_global_en
 YLE-W09,pad,honor,HONOR,,Yongle,HONOR MagicPad4,,honor_global_en
 JMS-W09,pad,honor,HONOR,,,HONOR Pad X7,Wi-Fi,honor_global_en
 JMS-L09,pad,honor,HONOR,,,HONOR Pad X7,LTE,honor_global_en
-ONL-W09,pad,honor,HONOR,,,HONOR Pad X7b,Wi-Fi,honor_global_en
+ONL-W09,pad,honor,HONOR,,Oneal,HONOR Pad X7b,Wi-Fi,honor_global_en
 AGM3-W09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,Wi-Fi,honor_global_en
 AGM3-AL09HN,pad,honor,HONOR,,Agassi3M,HONOR Pad X8,LTE,honor_global_en
 AGM-W09HN,pad,honor,HONOR,,AgassiRM,HONOR Pad X8 Lite,,honor_global_en
