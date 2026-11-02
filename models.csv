@@ -415,6 +415,9 @@ A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),(无线局域网 +
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),无线局域网,apple_all
 A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),无线局域网 + 蜂窝网络,apple_all
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),(无线局域网 + 蜂窝网络) (中国大陆),apple_all
+A3595,pad,apple,Apple,J510AP,"iPad19,1",iPad mini (A20 Pro),无线局域网,apple_all
+A3596,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),无线局域网 + 蜂窝网络,apple_all
+A3597,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),(无线局域网 + 蜂窝网络) (中国大陆),apple_all
 A1603,accessory,apple,Apple,B222AP,,Apple Pencil (第 1 代),,apple_all
 A2051,accessory,apple,Apple,B332AP,,Apple Pencil (第 2 代),,apple_all
 A3085,accessory,apple,Apple,B482AP,,Apple Pencil (USB-C),,apple_all
@@ -586,12 +589,19 @@ A3426,computer,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14 英寸, M5 Pro)",,
 A3427,computer,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14 英寸, M5 Max)",,apple_all
 A3428,computer,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16 英寸, M5 Pro)",,apple_all
 A3429,computer,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16 英寸, M5 Max)",,apple_all
+A3536,computer,apple,Apple,J804AP,"Mac18,1","MacBook Pro (14 英寸, M6)",,apple_all
+A3468,computer,apple,Apple,K114sAP,"Mac17,13","MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro)",,apple_all
+A3375,computer,apple,Apple,K114cAP,"Mac17,12","MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max)",,apple_all
+A3469,computer,apple,Apple,K116sAP,"Mac17,11","MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro)",,apple_all
+A3376,computer,apple,Apple,K116cAP,"Mac17,10","MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max)",,apple_all
 A2438,computer,apple,Apple,J456AP,"iMac21,1","iMac (24 英寸, M1)",2 个 USB-C 端口,apple_all
 A2439,computer,apple,Apple,J457AP,"iMac21,2","iMac (24 英寸, M1)",4 个 USB-C 端口,apple_all
 A2874,computer,apple,Apple,J433AP,"Mac15,4","iMac (24 英寸, M3)",2 个 USB-C 端口,apple_all
 A2873,computer,apple,Apple,J434AP,"Mac15,5","iMac (24 英寸, M3)",4 个 USB-C 端口,apple_all
 A3247,computer,apple,Apple,J623AP,"Mac16,2","iMac (24 英寸, M4)",2 个 USB-C 端口,apple_all
 A3137,computer,apple,Apple,J624AP,"Mac16,3","iMac (24 英寸, M4)",4 个 USB-C 端口,apple_all
+A3589,computer,apple,Apple,J833ctAP,"Mac18,2","iMac (24 英寸, M6)",2 个 USB-C 端口,apple_all
+A3590,computer,apple,Apple,J833ctAP,"Mac18,2","iMac (24 英寸, M6)",4 个 USB-C 端口,apple_all
 A2348,computer,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),,apple_all
 A2686,computer,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),,apple_all
 A2816,computer,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),,apple_all
@@ -1035,6 +1045,9 @@ A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (6th generation),Wi-Fi + Cellu
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),Wi-Fi,apple_all_en
 A2995,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular,apple_all_en
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),Wi-Fi + Cellular (China mainland),apple_all_en
+A3595,pad,apple,Apple,J510AP,"iPad19,1",iPad mini (A20 Pro),Wi-Fi,apple_all_en
+A3596,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),Wi-Fi + Cellular,apple_all_en
+A3597,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),Wi-Fi + Cellular (China mainland),apple_all_en
 A1603,accessory,apple,Apple,B222AP,,Apple Pencil (1st generation),,apple_all_en
 A2051,accessory,apple,Apple,B332AP,,Apple Pencil (2nd generation),,apple_all_en
 A3085,accessory,apple,Apple,B482AP,,Apple Pencil (USB-C),,apple_all_en
@@ -1206,12 +1219,19 @@ A3426,computer,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14-inch, M5 Pro)",,ap
 A3427,computer,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14-inch, M5 Max)",,apple_all_en
 A3428,computer,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16-inch, M5 Pro)",,apple_all_en
 A3429,computer,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16-inch, M5 Max)",,apple_all_en
+A3536,computer,apple,Apple,J804AP,"Mac18,1","MacBook Pro (14-inch, M6)",,apple_all_en
+A3468,computer,apple,Apple,K114sAP,"Mac17,13","MacBook Pro (14-inch PROLED XDR Display, M5 Pro)",,apple_all_en
+A3375,computer,apple,Apple,K114cAP,"Mac17,12","MacBook Pro (14-inch PROLED XDR Display, M5 Max)",,apple_all_en
+A3469,computer,apple,Apple,K116sAP,"Mac17,11","MacBook Pro (16-inch PROLED XDR Display, M5 Pro)",,apple_all_en
+A3376,computer,apple,Apple,K116cAP,"Mac17,10","MacBook Pro (16-inch PROLED XDR Display, M5 Max)",,apple_all_en
 A2438,computer,apple,Apple,J456AP,"iMac21,1","iMac (24-inch, M1)",2 USB-C ports,apple_all_en
 A2439,computer,apple,Apple,J457AP,"iMac21,2","iMac (24-inch, M1)",4 USB-C ports,apple_all_en
 A2874,computer,apple,Apple,J433AP,"Mac15,4","iMac (24-inch, M3)",2 USB-C ports,apple_all_en
 A2873,computer,apple,Apple,J434AP,"Mac15,5","iMac (24-inch, M3)",4 USB-C ports,apple_all_en
 A3247,computer,apple,Apple,J623AP,"Mac16,2","iMac (24-inch, M4)",2 USB-C ports,apple_all_en
 A3137,computer,apple,Apple,J624AP,"Mac16,3","iMac (24-inch, M4)",4 USB-C ports,apple_all_en
+A3589,computer,apple,Apple,J833ctAP,"Mac18,2","iMac (24-inch, M6)",2 USB-C ports,apple_all_en
+A3590,computer,apple,Apple,J833ctAP,"Mac18,2","iMac (24-inch, M6)",4 USB-C ports,apple_all_en
 A2348,computer,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),,apple_all_en
 A2686,computer,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),,apple_all_en
 A2816,computer,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),,apple_all_en
@@ -1458,6 +1478,8 @@ A2567,pad,apple,Apple,J310AP,"iPad14,1",iPad mini (第 6 代),无线局域网,ap
 A2569,pad,apple,Apple,J311AP,"iPad14,2",iPad mini (第 6 代),无线局域网 + 蜂窝网络,apple_cn
 A2993,pad,apple,Apple,J410AP,"iPad16,1",iPad mini (A17 Pro),无线局域网,apple_cn
 A2996,pad,apple,Apple,J411AP,"iPad16,2",iPad mini (A17 Pro),无线局域网 + 蜂窝网络,apple_cn
+A3595,pad,apple,Apple,J510AP,"iPad19,1",iPad mini (A20 Pro),无线局域网,apple_cn
+A3597,pad,apple,Apple,J511AP,"iPad19,2",iPad mini (A20 Pro),无线局域网 + 蜂窝网络,apple_cn
 A1603,accessory,apple,Apple,B222AP,,Apple Pencil (第 1 代),,apple_cn
 A2051,accessory,apple,Apple,B332AP,,Apple Pencil (第 2 代),,apple_cn
 A3085,accessory,apple,Apple,B482AP,,Apple Pencil (USB-C),,apple_cn
@@ -1573,12 +1595,19 @@ A3426,computer,apple,Apple,J714sAP,"Mac17,9","MacBook Pro (14 英寸, M5 Pro)",,
 A3427,computer,apple,Apple,J714cAP,"Mac17,7","MacBook Pro (14 英寸, M5 Max)",,apple_cn
 A3428,computer,apple,Apple,J716sAP,"Mac17,8","MacBook Pro (16 英寸, M5 Pro)",,apple_cn
 A3429,computer,apple,Apple,J716cAP,"Mac17,6","MacBook Pro (16 英寸, M5 Max)",,apple_cn
+A3536,computer,apple,Apple,J804AP,"Mac18,1","MacBook Pro (14 英寸, M6)",,apple_cn
+A3468,computer,apple,Apple,K114sAP,"Mac17,13","MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro)",,apple_cn
+A3375,computer,apple,Apple,K114cAP,"Mac17,12","MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max)",,apple_cn
+A3469,computer,apple,Apple,K116sAP,"Mac17,11","MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro)",,apple_cn
+A3376,computer,apple,Apple,K116cAP,"Mac17,10","MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max)",,apple_cn
 A2438,computer,apple,Apple,J456AP,"iMac21,1","iMac (24 英寸, M1)",2 个 USB-C 端口,apple_cn
 A2439,computer,apple,Apple,J457AP,"iMac21,2","iMac (24 英寸, M1)",4 个 USB-C 端口,apple_cn
 A2874,computer,apple,Apple,J433AP,"Mac15,4","iMac (24 英寸, M3)",2 个 USB-C 端口,apple_cn
 A2873,computer,apple,Apple,J434AP,"Mac15,5","iMac (24 英寸, M3)",4 个 USB-C 端口,apple_cn
 A3247,computer,apple,Apple,J623AP,"Mac16,2","iMac (24 英寸, M4)",2 个 USB-C 端口,apple_cn
 A3137,computer,apple,Apple,J624AP,"Mac16,3","iMac (24 英寸, M4)",4 个 USB-C 端口,apple_cn
+A3589,computer,apple,Apple,J833ctAP,"Mac18,2","iMac (24 英寸, M6)",2 个 USB-C 端口,apple_cn
+A3590,computer,apple,Apple,J833ctAP,"Mac18,2","iMac (24 英寸, M6)",4 个 USB-C 端口,apple_cn
 A2348,computer,apple,Apple,J274AP,"Macmini9,1",Mac mini (M1),,apple_cn
 A2686,computer,apple,Apple,J473AP,"Mac14,3",Mac mini (M2),,apple_cn
 A2816,computer,apple,Apple,J474sAP,"Mac14,12",Mac mini (M2 Pro),,apple_cn
@@ -2679,6 +2708,7 @@ WTS-B19,watch,honor,荣耀,,,荣耀手表 X5i,,honor_cn
 WSS-B19,watch,honor,荣耀,,,荣耀手表 X5s,,honor_cn
 ROM-B19,watch,honor,荣耀,,,荣耀手表 6 Plus,,honor_cn
 HLO-B19,watch,honor,荣耀,,,荣耀手表 6 Pro,,honor_cn
+RIO-B09,watch,honor,荣耀,,,荣耀手表 Fit 6,,honor_cn
 NYX-B10HN,band,honor,荣耀,,,荣耀手环 3,标准版,honor_cn
 NYX-B20HN,band,honor,荣耀,,,荣耀手环 3,NFC 版,honor_cn
 CRS-B19,band,honor,荣耀,,Crius,荣耀手环 4,标准版,honor_cn
@@ -3479,9 +3509,9 @@ WEB-AL10,pad,huawei,华为,,Weber,HUAWEI MatePad Pro 13.2 英寸,2025 SIM 卡版
 MRDI-W00,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 版,huawei_cn
 MRDI-W10,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版,huawei_cn
 MRDI-W20,pad,huawei,华为,,Morandi,HUAWEI MatePad Pro 12.2 英寸,2025 Wi-Fi 柔光版 (16GB+1TB),huawei_cn
-GEM-W00,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版,huawei_cn
-GEM-W10,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版 (20GB+1TB),huawei_cn
-GEM-W40,pad,huawei,华为,,Gellman,HUAWEI MatePad Pro Max,13.2 英寸 悦享款 Wi-Fi 版,huawei_cn
+GEM-W00,pad,huawei,华为,,Gellmann,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版,huawei_cn
+GEM-W10,pad,huawei,华为,,Gellmann,HUAWEI MatePad Pro Max,13.2 英寸 Wi-Fi 版 (20GB+1TB),huawei_cn
+GEM-W40,pad,huawei,华为,,Gellmann,HUAWEI MatePad Pro Max,13.2 英寸 悦享款 Wi-Fi 版,huawei_cn
 DAL-W00,pad,huawei,华为,,Dali,HUAWEI MatePad Pro 12 英寸,Wi-Fi 版,huawei_cn
 DAL-W20,pad,huawei,华为,,Dali,HUAWEI MatePad Pro 12 英寸,悦享款 Wi-Fi 版,huawei_cn
 QXS-W00,pad,huawei,华为,,Qianxuesen,HUAWEI MatePad Edge,,huawei_cn
@@ -3541,7 +3571,7 @@ AGS3K-AL20,pad,huawei,华为,,Agassi3K,HUAWEI MatePad SE,10.1 英寸 LTE 版,hua
 AGS5-W00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4 英寸,Wi-Fi 版,huawei_cn
 AGS5-AL00,pad,huawei,华为,,Agassi5,HUAWEI MatePad SE 10.4 英寸,LTE 版,huawei_cn
 AGS6-W00,pad,huawei,华为,,Agassi6,HUAWEI MatePad SE 11 英寸,Wi-Fi 版,huawei_cn
-AGS6-W10,pad,huawei,华为,,Agassi6,HUAWEI MatePad SE 11 英寸,活力版 11 英寸 Wi-Fi 版,huawei_cn
+AGS6-W10,pad,huawei,华为,,Agassi6R,HUAWEI MatePad SE 11 英寸,活力版 11 英寸 Wi-Fi 版,huawei_cn
 HMW-W09,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,10.3 英寸 Wi-Fi 版,huawei_cn
 HMW-AL10,pad,huawei,华为,,Hemingway,HUAWEI MatePad Paper,典藏版 10.3 英寸 LTE 版,huawei_cn
 BZK-W00,pad,huawei,华为,,Kobe,华为平板 C3,(华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版,huawei_cn
@@ -4564,7 +4594,7 @@ WEB-W09,pad,huawei,HUAWEI,,Weber,HUAWEI MatePad Pro 13.2 2025,Wi-Fi,huawei_globa
 MRO-W09,pad,huawei,HUAWEI,,Miro,HUAWEI MatePad Pro 12.2,Wi-Fi,huawei_global_en
 MRDI-W09,pad,huawei,HUAWEI,,Morandi,HUAWEI MatePad Pro 12.2 2025,Wi-Fi,huawei_global_en
 DAL-W09,pad,huawei,HUAWEI,,Dali,HUAWEI MatePad Pro 12,Wi-Fi,huawei_global_en
-GEM-W09,pad,huawei,HUAWEI,,,HUAWEI MatePad Pro Max,13.2 Wi-Fi,huawei_global_en
+GEM-W09,pad,huawei,HUAWEI,,Gellmann,HUAWEI MatePad Pro Max,13.2 Wi-Fi,huawei_global_en
 MLR-W09,pad,huawei,HUAWEI,,Mclaren,HUAWEI MatePad Mini,8.8 Wi-Fi,huawei_global_en
 HMW-W09,pad,huawei,HUAWEI,,Hemingway,HUAWEI MatePad Paper,Wi-Fi,huawei_global_en
 BGO-L03,pad,huawei,HUAWEI,,Baggio,HUAWEI MediaPad T2 7.0,LTE,huawei_global_en
@@ -4597,8 +4627,8 @@ AGS3-L09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,LTE,huawei_global_en
 AGS3K-L09,pad,huawei,HUAWEI,,Agassi3,HUAWEI MatePad T 10s,LTE,huawei_global_en
 AGS5-W09,pad,huawei,HUAWEI,,Agassi5,HUAWEI MatePad SE,10.4 Wi-Fi,huawei_global_en
 AGS5-L09,pad,huawei,HUAWEI,,Agassi5,HUAWEI MatePad SE,10.4 LTE,huawei_global_en
-AGS6-W09,pad,huawei,HUAWEI,,Agassi6,HUAWEI MatePad SE 11,Wi-Fi,huawei_global_en
-AGS6-L09,pad,huawei,HUAWEI,,Agassi6,HUAWEI MatePad SE 11,LTE,huawei_global_en
+AGS6-W09,pad,huawei,HUAWEI,,Agassi6R,HUAWEI MatePad SE 11,Wi-Fi,huawei_global_en
+AGS6-L09,pad,huawei,HUAWEI,,Agassi6R,HUAWEI MatePad SE 11,LTE,huawei_global_en
 KOB2K-W09,pad,huawei,HUAWEI,,Kobe2K,HUAWEI MatePad C3,8 Wi-Fi,huawei_global_en
 KOB2K-L09,pad,huawei,HUAWEI,,Kobe2K,HUAWEI MatePad C3,8 LTE,huawei_global_en
 AGRK-W09,pad,huawei,HUAWEI,,AgassiRK,HUAWEI MatePad C3,9.7 Wi-Fi,huawei_global_en
@@ -6379,6 +6409,7 @@ PLU110,mob,oneplus,一加,,volkswagen,一加 Turbo 6,国行版,oneplus
 CPH2793,mob,oneplus,一加,,volkswagen,一加 Nord 6,印度版,oneplus
 CPH2795,mob,oneplus,一加,,volkswagen,一加 Nord 6,国际版,oneplus
 PLY110,mob,oneplus,一加,,prado,一加 Turbo 6V,国行版,oneplus
+PLY110,mob,oneplus,一加,,prado,一加 Turbo 6Vs,国行版,oneplus
 CPH2805,mob,oneplus,一加,,prado,一加 Nord CE 6,印度版,oneplus
 CPH2807,mob,oneplus,一加,,prado,一加 Nord CE 6,国际版,oneplus
 PYS110,mob,oneplus,一加,,kof,一加 Turbo 6X,国行版,oneplus
@@ -6589,6 +6620,7 @@ PLU110,mob,oneplus,OnePlus,,volkswagen,OnePlus Turbo 6,China,oneplus_en
 CPH2793,mob,oneplus,OnePlus,,volkswagen,OnePlus Nord 6,India,oneplus_en
 CPH2795,mob,oneplus,OnePlus,,volkswagen,OnePlus Nord 6,Global,oneplus_en
 PLY110,mob,oneplus,OnePlus,,prado,OnePlus Turbo 6V,China,oneplus_en
+PLY110,mob,oneplus,OnePlus,,prado,OnePlus Turbo 6V,6Vs China,oneplus_en
 CPH2805,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,India,oneplus_en
 CPH2807,mob,oneplus,OnePlus,,prado,OnePlus Nord CE 6,Global,oneplus_en
 PYS110,mob,oneplus,OnePlus,,kof,OnePlus Turbo 6X,China,oneplus_en
@@ -11089,6 +11121,7 @@ XIG05,mob,xiaomi,小米,N16,garnet,Redmi Note 13 Pro,5G 日本版 (KDDI),xiaomi
 2502FRA65G,mob,xiaomi,小米,N6R,"emerald_r, emerald",Redmi Note 14S,国际版,xiaomi
 24116RACCG,mob,xiaomi,小米,O6,obsidian,Redmi Note 14 Pro,国际版,xiaomi
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,国行版,xiaomi
+24090RA29C,mob,xiaomi,小米,O16,malachite,REDMI M100 Pro,国行版,xiaomi
 24090RA29G,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,5G 国际版,xiaomi
 24090RA29I,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,5G 印度版,xiaomi
 24115RA8EC,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,国行版,xiaomi
@@ -11712,6 +11745,7 @@ M2104K10AC,mob,xiaomi,小米,K10A,chopin,Redmi Note 10 Pro,,xiaomi_cn
 24094RAD4C,mob,xiaomi,小米,O17,beryl,Redmi Note 14 5G,,xiaomi_cn
 24094RAD4C,mob,xiaomi,小米,O17,beryl,REDMI Note 15R Pro,,xiaomi_cn
 24090RA29C,mob,xiaomi,小米,O16,malachite,Redmi Note 14 Pro,,xiaomi_cn
+24090RA29C,mob,xiaomi,小米,O16,malachite,REDMI M100 Pro,,xiaomi_cn
 24115RA8EC,mob,xiaomi,小米,O16U,amethyst,Redmi Note 14 Pro+,,xiaomi_cn
 25098RA98C,mob,xiaomi,小米,P17,kunzite,REDMI Note 15,,xiaomi_cn
 25080RABDC,mob,xiaomi,小米,P16,lapis,REDMI Note 15 Pro,,xiaomi_cn
@@ -12440,6 +12474,7 @@ XIG05,mob,xiaomi,Xiaomi,N16,garnet,Redmi Note 13 Pro 5G,Japan (KDDI),xiaomi_en
 24090RA29G,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,Global,xiaomi_en
 24090RA29I,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,India,xiaomi_en
 24090RA29C,mob,xiaomi,Xiaomi,O16,malachite,Redmi Note 14 Pro 5G,China,xiaomi_en
+24090RA29C,mob,xiaomi,Xiaomi,O16,malachite,REDMI M100 Pro,China,xiaomi_en
 24115RA8EG,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,Global,xiaomi_en
 24115RA8EI,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,India,xiaomi_en
 24115RA8EC,mob,xiaomi,Xiaomi,O16U,amethyst,Redmi Note 14 Pro+ 5G,China,xiaomi_en
