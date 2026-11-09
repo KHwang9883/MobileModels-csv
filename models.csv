@@ -2187,6 +2187,9 @@ MEP-AN00,mob,honor,荣耀,,MerryP,荣耀 500 Pro,,honor_cn
 VKJ-AN00,mob,honor,荣耀,,Vicky,荣耀 600,超级版,honor_cn
 VKJ-AN90,mob,honor,荣耀,,Vicky,荣耀 600,元气版,honor_cn
 VKI-AN00,mob,honor,荣耀,,Vicky,荣耀 600 Pro,,honor_cn
+FAA-AN00,mob,honor,荣耀,,Flora,荣耀 700,,honor_cn
+FAS-AN00,mob,honor,荣耀,,FloraS,荣耀 700S,,honor_cn
+FAP-AN00,mob,honor,荣耀,,FloraP,荣耀 700 Pro,,honor_cn
 KNT-AL10,mob,honor,荣耀,,Knight,荣耀 V8,全网通版,honor_cn
 KNT-AL20,mob,honor,荣耀,,Knight,荣耀 V8,"全网通版 (麒麟 955, 2K 显示屏)",honor_cn
 KNT-TL10,mob,honor,荣耀,,Knight,荣耀 V8,移动版,honor_cn
@@ -6857,6 +6860,8 @@ PMD110,mob,oppo,OPPO,,whoopass-c3,OPPO Reno15c,,oppo_cn
 PMM110,mob,oppo,OPPO,,lychee-c2,OPPO Reno16,,oppo_cn
 PMM110,mob,oppo,OPPO,,lychee-c2,OPPO Reno16t,,oppo_cn
 PMK110,mob,oppo,OPPO,,lychee-c1,OPPO Reno16 Pro,,oppo_cn
+PYK110,mob,oppo,OPPO,,,OPPO Reno17,,oppo_cn
+PND110,mob,oppo,OPPO,,,OPPO Reno17 Pro,,oppo_cn
 PCLM10,mob,oppo,OPPO,,,OPPO Reno Ace,,oppo_cn
 PDHM00,mob,oppo,OPPO,,,OPPO Ace2,,oppo_cn
 PACM00,mob,oppo,OPPO,,,OPPO R15,全网通版,oppo_cn
@@ -7038,6 +7043,7 @@ OWW213,watch,oppo,OPPO,,oersted,OPPO Watch SE,,oppo_cn
 OWW212,watch,oppo,OPPO,,oersted,OPPO Watch 3,,oppo_cn
 OWW211,watch,oppo,OPPO,,oersted,OPPO Watch 3,Pro,oppo_cn
 OWW221,watch,oppo,OPPO,,"comet, huixing",OPPO Watch 4 Pro,,oppo_cn
+OWW266,watch,oppo,OPPO,,,OPPO Watch 5,,oppo_cn
 OWW231,watch,oppo,OPPO,,"star, hengxing",OPPO Watch X,,oppo_cn
 OWW235,watch,oppo,OPPO,,sport,OPPO Watch Sport,,oppo_cn
 OWW242,watch,oppo,OPPO,,xingchen,OPPO Watch X2 Mini,,oppo_cn
