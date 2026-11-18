@@ -10694,7 +10694,6 @@ M610BB,mob,xiaomi,小米,Q5,hongkong,Xiaomi 18 Pro,国行版,xiaomi
 2609BPN61I,mob,xiaomi,小米,Q5,hongkong,Xiaomi 18 Pro,印度版,xiaomi
 M154FF,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,国行版,xiaomi
 2611FPNFAG,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,国际版,xiaomi
-2611FPNFAI,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,印度版,xiaomi
 2611FPNFAR,mob,xiaomi,小米,Q2,madrid,Xiaomi 18 Pro Max,日本版,xiaomi
 2608BPX34C,mob,xiaomi,小米,Q18,lhasa,Xiaomi 18 Fold,,xiaomi
 2014616,mob,xiaomi,小米,X5,virgo,小米 Note,双网通版,xiaomi
@@ -10992,8 +10991,11 @@ A501XM,mob,xiaomi,小米,O19,spring,REDMI 15 5G,日本版 (SoftBank),xiaomi
 2508CRN2BI,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,印度版,xiaomi
 2508CRN2BR,mob,xiaomi,小米,P15,tornado,REDMI 15C 5G,日本版,xiaomi
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,,xiaomi
+25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI R80 5G,,xiaomi
+25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI R80m 5G,,xiaomi
 2602BRNA4I,mob,xiaomi,小米,P25X,somalia,REDMI 15A 5G,印度版,xiaomi
 2602BRNA4C,mob,xiaomi,小米,P25X,somalia,REDMI 17 5G,国行版,xiaomi
+26062RN92C,mob,xiaomi,小米,Q15,"steppe, leeds",REDMI M100,国行版,xiaomi
 26062RN92G,mob,xiaomi,小米,Q15,"steppe, leeds",REDMI 17 5G,国际版,xiaomi
 26062RN92I,mob,xiaomi,小米,Q15,"steppe, leeds",REDMI 17 5G,印度版,xiaomi
 2606FRN72Y,mob,xiaomi,小米,Q15A,leedsa,REDMI 17,国际版,xiaomi
@@ -11338,7 +11340,6 @@ M1903C3GI,mob,xiaomi,小米,C3G,tiare,Redmi Go,印度版,xiaomi
 26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70 5G,国行版,xiaomi
 26020RN1AC,mob,xiaomi,小米,P25,somalia,REDMI R70m 5G,国行版,xiaomi
 26020RN1AI,mob,xiaomi,小米,P25,somalia,REDMI A7 Pro 5G,印度版,xiaomi
-26062RN92C,mob,xiaomi,小米,Q15,"steppe, leeds",REDMI M100,,xiaomi
 22081283C,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国行版,xiaomi
 22081283G,pad,xiaomi,小米,L83,yunluo,Redmi Pad,国际版,xiaomi
 23073RPBFC,pad,xiaomi,小米,M84,xun,Redmi Pad SE,国行版,xiaomi
@@ -11737,6 +11738,8 @@ M2006C3LC,mob,xiaomi,小米,C3L,dandelion,Redmi 9A,,xiaomi_cn
 2409BRN2CC,mob,xiaomi,小米,C3N,"lake, pond",REDMI 17C,,xiaomi_cn
 2411DRN47C,mob,xiaomi,小米,C3F,flame,Redmi 14R 5G,,xiaomi_cn
 25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI 15R 5G,,xiaomi_cn
+25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI R80 5G,,xiaomi_cn
+25082RNC1C,mob,xiaomi,小米,P15X,tornado,REDMI R80m 5G,,xiaomi_cn
 2602BRNA4C,mob,xiaomi,小米,P25X,somalia,REDMI 17 5G,,xiaomi_cn
 2014018,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 标准版,xiaomi_cn
 2013121,mob,xiaomi,小米,H3W,lcsh92_wet_gb9,红米 Note,联通 3G 增强版,xiaomi_cn
@@ -12077,7 +12080,6 @@ M025EC,mob,xiaomi,Xiaomi,P12U,warhol,Xiaomi 17T Pro,China,xiaomi_en
 2609BPN61I,mob,xiaomi,Xiaomi,Q5,hongkong,Xiaomi 18 Pro,India,xiaomi_en
 M610BB,mob,xiaomi,Xiaomi,Q5,hongkong,Xiaomi 18 Pro,China,xiaomi_en
 2611FPNFAG,mob,xiaomi,Xiaomi,Q2,madrid,Xiaomi 18 Pro Max,Global,xiaomi_en
-2611FPNFAI,mob,xiaomi,Xiaomi,Q2,madrid,Xiaomi 18 Pro Max,India,xiaomi_en
 2611FPNFAR,mob,xiaomi,Xiaomi,Q2,madrid,Xiaomi 18 Pro Max,Japan,xiaomi_en
 M154FF,mob,xiaomi,Xiaomi,Q2,madrid,Xiaomi 18 Pro Max,China,xiaomi_en
 2608BPX34C,mob,xiaomi,Xiaomi,Q18,lhasa,Xiaomi 18 Fold,China,xiaomi_en
@@ -12342,10 +12344,13 @@ A501XM,mob,xiaomi,Xiaomi,O19,spring,REDMI 15 5G,Japan (SoftBank),xiaomi_en
 2508CRN2BI,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,India,xiaomi_en
 2508CRN2BR,mob,xiaomi,Xiaomi,P15,tornado,REDMI 15C 5G,Japan,xiaomi_en
 25082RNC1C,mob,xiaomi,Xiaomi,P15X,tornado,REDMI 15R 5G,China,xiaomi_en
+25082RNC1C,mob,xiaomi,Xiaomi,P15X,tornado,REDMI R80 5G,China,xiaomi_en
+25082RNC1C,mob,xiaomi,Xiaomi,P15X,tornado,REDMI R80m 5G,China,xiaomi_en
 2602BRNA4I,mob,xiaomi,Xiaomi,P25X,somalia,REDMI 15A 5G,India,xiaomi_en
 2602BRNA4C,mob,xiaomi,Xiaomi,P25X,somalia,REDMI 17 5G,China,xiaomi_en
 26062RN92G,mob,xiaomi,Xiaomi,Q15,"steppe, leeds",REDMI 17 5G,Global,xiaomi_en
 26062RN92I,mob,xiaomi,Xiaomi,Q15,"steppe, leeds",REDMI 17 5G,India,xiaomi_en
+26062RN92C,mob,xiaomi,Xiaomi,Q15,"steppe, leeds",REDMI M100,China,xiaomi_en
 2606FRN72Y,mob,xiaomi,Xiaomi,Q15A,leedsa,REDMI 17,Global,xiaomi_en
 2606FRN72L,mob,xiaomi,Xiaomi,Q15A,leedsa,REDMI 17,Latin America / Japan,xiaomi_en
 2607FRNEAG,mob,xiaomi,Xiaomi,P15R,tornado,REDMI 17C 5G,Global,xiaomi_en
@@ -12689,7 +12694,6 @@ M1903C3GI,mob,xiaomi,Xiaomi,C3G,tiare,Redmi Go,India,xiaomi_en
 26020RN1AI,mob,xiaomi,Xiaomi,P25,somalia,REDMI A7 Pro 5G,India,xiaomi_en
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70 5G,China,xiaomi_en
 26020RN1AC,mob,xiaomi,Xiaomi,P25,somalia,REDMI R70m 5G,China,xiaomi_en
-26062RN92C,mob,xiaomi,Xiaomi,Q15,"steppe, leeds",REDMI M100,China,xiaomi_en
 M1805E10A,mob,xiaomi,Xiaomi,E10,beryllium,POCO F1,Global,xiaomi_en
 M2004J11G,mob,xiaomi,Xiaomi,J11,lmi,POCO F2 Pro,Global,xiaomi_en
 M2012K11AG,mob,xiaomi,Xiaomi,K11A,alioth,POCO F3,Global,xiaomi_en
