@@ -3113,7 +3113,8 @@ PLR-AL30,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,,huawei_cn
 PLR-AL50,mob,huawei,华为,,Pillar,HUAWEI Mate 70 Pro,优享版,huawei_cn
 PLA-AL10,mob,huawei,华为,,Pillar+,HUAWEI Mate 70 Pro+,,huawei_cn
 PLU-AL10,mob,huawei,华为,,PillarU,HUAWEI Mate 70 RS 非凡大师,,huawei_cn
-SUP-AL90,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,,huawei_cn
+SUP-AL90,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,麒麟 9020B,huawei_cn
+SUP-AL90a,mob,huawei,华为,,Superman,HUAWEI Mate 70 Air,麒麟 9020A,huawei_cn
 VYG-AL00,mob,huawei,华为,,Voyager,HUAWEI Mate 80,,huawei_cn
 VYG-AL30,mob,huawei,华为,,Voyager,HUAWEI Mate 80,,huawei_cn
 SGT-AL50,mob,huawei,华为,,Sagittarius,HUAWEI Mate 80 Pro,麒麟 9030,huawei_cn
@@ -3127,6 +3128,7 @@ CMM-AL00,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max,麒麟 9050,huawei_cn
 CMM-AL10,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max,麒麟 9050 Pro,huawei_cn
 CMM-AL10,mob,huawei,华为,,CosmosM,HUAWEI Mate 90 Pro Max 典藏版,,huawei_cn
 CMU-AL10,mob,huawei,华为,,CosmosU,HUAWEI Mate 90 RS 非凡大师,,huawei_cn
+SUP-AL91,mob,huawei,华为,,Superman,HUAWEI Mate 90 Air,,huawei_cn
 TAH-AN00,mob,huawei,华为,,Tahiti,HUAWEI Mate X,,huawei_cn
 TAH-AN00m,mob,huawei,华为,,Tahiti,HUAWEI Mate Xs,,huawei_cn
 TET-AN00,mob,huawei,华为,,Teton,HUAWEI Mate X2,5G,huawei_cn
@@ -3144,6 +3146,7 @@ GRL-AL20,mob,huawei,华为,,Greenlan,HUAWEI Mate XTs 非凡大师,,huawei_cn
 DEL-AL10,mob,huawei,华为,,Delphi,HUAWEI Mate X7,,huawei_cn
 DEL-AL20,mob,huawei,华为,,Delphi,HUAWEI Mate X7,典藏版,huawei_cn
 LAP-AL10,mob,huawei,华为,,Laptua,HUAWEI Mate XT 2 非凡大师,,huawei_cn
+SKY-AL00,mob,huawei,华为,,,HUAWEI Mate X8,,huawei_cn
 HUAWEI U9200,mob,huawei,华为,,,华为 Ascend P1,,huawei_cn
 HUAWEI U9200E,mob,huawei,华为,,,华为 Ascend P1,XL,huawei_cn
 HUAWEI U9200S,mob,huawei,华为,,,华为 Ascend P1,S,huawei_cn
@@ -4135,6 +4138,7 @@ SYA-B19,watch,huawei,华为,,Seiya,HUAWEI WATCH FIT 4,,huawei_cn
 SYA-B29,watch,huawei,华为,,Seiya,HUAWEI WATCH FIT 4 Pro,,huawei_cn
 NKI-B19,watch,huawei,华为,,,HUAWEI WATCH FIT 5,,huawei_cn
 NKI-B29,watch,huawei,华为,,,HUAWEI WATCH FIT 5 Pro,,huawei_cn
+KTA-B19,watch,huawei,华为,,,HUAWEI WATCH Air,,huawei_cn
 MLY-B10,watch,huawei,华为,,,HUAWEI WATCH D,黑色氟橡胶表带,huawei_cn
 MLY-B11,watch,huawei,华为,,,HUAWEI WATCH D,米白色氟橡胶表带,huawei_cn
 LCA-B10,watch,huawei,华为,,Luca,HUAWEI WATCH D2,幻夜黑,huawei_cn
