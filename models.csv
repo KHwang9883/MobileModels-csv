@@ -5507,6 +5507,9 @@ L55RB-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,55 2025 节能版 (一级能�
 L65RB-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,65 2025 节能版 (一级能效),mitv_cn
 L70RB-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,70 2025 节能版 (一级能效),mitv_cn
 L75MA-RAE,tv,mitv,小米,O39,,REDMI 电视 A 2025,75 2025 节能版 (一级能效),mitv_cn
+L55RD-RAE,tv,mitv,小米,,,REDMI 电视 A 2027,55 2027 一级能效版,mitv_cn
+L65RD-RAE,tv,mitv,小米,,,REDMI 电视 A 2027,65 2027 一级能效版,mitv_cn
+L75RD-RAE,tv,mitv,小米,,,REDMI 电视 A 2027,75 2027 一级能效版,mitv_cn
 L43RB-AP,tv,mitv,小米,O39P,,Redmi 智能电视 A Pro,43,mitv_cn
 L50RB-AP,tv,mitv,小米,O39P,,Redmi 智能电视 A Pro,50 节能版 (二级能效),mitv_cn
 L55RB-AP,tv,mitv,小米,O39P,,Redmi 智能电视 A Pro,55 节能版 (二级能效),mitv_cn
@@ -10060,9 +10063,11 @@ V2615,mob,vivo,vivo,,PD2512F,V70 Lite 5G,,vivo_global_en
 V2637,mob,vivo,vivo,,PD2512F,V70 Lite 5G,,vivo_global_en
 V2648,mob,vivo,vivo,,PD2620F,V80,,vivo_global_en
 V2649,mob,vivo,vivo,,PD2620F,V80,,vivo_global_en
+V2624,mob,vivo,vivo,,,V80 FE,,vivo_global_en
 V2576,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
 V2643,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
 V2644,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
+V2675,mob,vivo,vivo,,PD2575F,V80 Lite 5G,,vivo_global_en
 V2626,mob,vivo,vivo,,PD2607F,V80 Lite 5G,,vivo_global_en
 V2655,mob,vivo,vivo,,PD2607F,V80 Lite 5G,,vivo_global_en
 vivo 1907,mob,vivo,vivo,,PD1913F,S1,,vivo_global_en
@@ -10100,6 +10105,7 @@ V2602,mob,vivo,vivo,,PD2553F,T5 Pro,,vivo_global_en
 V2545,mob,vivo,vivo,,PD2532F,T5x 5G,,vivo_global_en
 V2628,mob,vivo,vivo,,PD2577F,T5e,,vivo_global_en
 V2557,mob,vivo,vivo,,PD2542F,T5 Lite 44W 5G,,vivo_global_en
+V2667,mob,vivo,vivo,,PD2542F,T6 Lite 5G,,vivo_global_en
 vivo 1929,mob,vivo,vivo,,PD2014F,Y1s,,vivo_global_en
 vivo 2015,mob,vivo,vivo,,PD2014F,Y1s,,vivo_global_en
 vivo 2015_21,mob,vivo,vivo,,PD2014F,Y1s,,vivo_global_en
@@ -10134,6 +10140,7 @@ V2556,mob,vivo,vivo,,PD2541F,Y05i,,vivo_global_en
 V2650,mob,vivo,vivo,,PD2541F,Y05i,,vivo_global_en
 V2575,mob,vivo,vivo,,PD2542F,Y11 5G,,vivo_global_en
 V2028,mob,vivo,vivo,,PD2042F,Y11s,,vivo_global_en
+V2669,mob,vivo,vivo,,PD2542F,Y11s 5G,,vivo_global_en
 V2555,mob,vivo,vivo,,PD2541F,Y11d,,vivo_global_en
 V2578,mob,vivo,vivo,,PD2541F,Y11d,,vivo_global_en
 V2580,mob,vivo,vivo,,PD2541F,Y11d,,vivo_global_en
@@ -10205,6 +10212,7 @@ V2560,mob,vivo,vivo,,PD2510DF,Y21d,,vivo_global_en
 V2525,mob,vivo,vivo,,PD2510DF,Y21e (2025),,vivo_global_en
 V2553,mob,vivo,vivo,,PD2542F,Y21 5G,,vivo_global_en
 V2554,mob,vivo,vivo,,PD2542F,Y21 5G,,vivo_global_en
+V2670,mob,vivo,vivo,,PD2542F,Y21s 5G,,vivo_global_en
 V2207,mob,vivo,vivo,,PD2226F,Y22,,vivo_global_en
 V2238,mob,vivo,vivo,,PD2226F,Y22,,vivo_global_en
 V2206,mob,vivo,vivo,,PD2228F,Y22s,,vivo_global_en
@@ -11428,7 +11436,7 @@ M2102J20SI,mob,xiaomi,小米,J20S,"vayu, bhima",POCO X3 Pro,印度版,xiaomi
 2412DPC0AI,mob,xiaomi,小米,O10,rodin,POCO X7 Pro,印度版,xiaomi
 2607DPC18G,mob,xiaomi,小米,Q16,"iolite, moscow",POCO X8,国际版,xiaomi
 2607DPC18I,mob,xiaomi,小米,Q16,"iolite, moscow",POCO X8,印度版,xiaomi
-2609CPC5FG,mob,xiaomi,小米,,darwin,POCO X8s,国际版,xiaomi
+2609CPC5FG,mob,xiaomi,小米,Q16X,darwin,POCO X8s,国际版,xiaomi
 2609FPC74I,mob,xiaomi,小米,Q16U,brussels,POCO X8 Power,印度版,xiaomi
 2511FPC34G,mob,xiaomi,小米,P10,klee,POCO X8 Pro,国际版,xiaomi
 2511FPC34I,mob,xiaomi,小米,P10,klee,POCO X8 Pro,印度版,xiaomi
@@ -12746,7 +12754,7 @@ M2102J20SI,mob,xiaomi,Xiaomi,J20S,"vayu, bhima",POCO X3 Pro,India,xiaomi_en
 2412DPC0AI,mob,xiaomi,Xiaomi,O10,rodin,POCO X7 Pro,India,xiaomi_en
 2607DPC18G,mob,xiaomi,Xiaomi,Q16,"iolite, moscow",POCO X8,Global,xiaomi_en
 2607DPC18I,mob,xiaomi,Xiaomi,Q16,"iolite, moscow",POCO X8,India,xiaomi_en
-2609CPC5FG,mob,xiaomi,Xiaomi,,darwin,POCO X8s,Global,xiaomi_en
+2609CPC5FG,mob,xiaomi,Xiaomi,Q16X,darwin,POCO X8s,Global,xiaomi_en
 2609FPC74I,mob,xiaomi,Xiaomi,Q16U,brussels,POCO X8 Power,India,xiaomi_en
 2511FPC34G,mob,xiaomi,Xiaomi,P10,klee,POCO X8 Pro,Global,xiaomi_en
 2511FPC34I,mob,xiaomi,Xiaomi,P10,klee,POCO X8 Pro,India,xiaomi_en
